@@ -1,2 +1,146 @@
-(()=>{var e=new Array,t=new Array,n=new Array,a=new Array,s={},l={};function r(){n=document.getElementsByClassName("filterbar__btn");for(var t=function(t){n[t].addEventListener("click",(function(s){s.preventDefault(),function(e){if(n[e].classList.contains("button--lined"))n[e].classList.remove("button--lined"),n[e].classList.add("button--selected"),a.push(n[e].innerHTML);else if(n[e].classList.contains("button--selected")){n[e].classList.remove("button--selected"),n[e].classList.add("button--lined");var t=a.indexOf(n[e].innerHTML);t>-1&&a.splice(t,1)}}(t),function(){if(a.length<1){for(var t=0;t<l.length;t++)l[t].style.display="grid";for(var n=0;n<e.length;n++)e[n][0].style.display="block"}else{for(var s=0;s<l.length;s++)l[s].style.display="none";for(var r=0;r<e.length;r++){e[r][0].style.display="none";for(var i=0;i<a.length;i++)e[r][1].includes(a[i])&&(e[r][0].style.display="block",e[r][0].closest(".grid--month-wrap").style.display="grid")}}}()}))},s=0;s<n.length;s++)t(s)}function i(){t=document.getElementsByClassName("event-item");for(var n=0;n<t.length;n++){var a=t[n].dataset.tags;a=void 0!==a?t[n].dataset.tags.split(","):"",e[n]=[t[n],a,t[n].dataset.month,t[n].dataset.year]}for(var r=0;r<e.length;r++)null==s[e[r][3]]&&(s[e[r][3]]={}),null==s[e[r][3]][e[r][2]]&&(s[e[r][3]][e[r][2]]=0),s[e[r][3]][e[r][2]]++;!function(){for(var t,n,a=document.getElementById("event-list-wrapper"),s=document.getElementsByClassName("grid--month-wrap")[0],r=["Nuller Monat","Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"],i=0;i<e.length;i++)n!=e[i][2]&&(n=e[i][2],(t=s.cloneNode(!0)).getElementsByClassName("month-name")[0].innerHTML=r[n],a.appendChild(t),console.log("create new Month Tag: "+r[n])),t.getElementsByClassName("grid--events-list")[0].appendChild(e[i][0]);s.remove(),l=a.getElementsByClassName("grid--month-wrap")}()}document.addEventListener("readystatechange",(function(e){if("complete"===document.readyState)r(),i()}))})();
+/******/ (() => { // webpackBootstrap
+var __webpack_exports__ = {};
+/*!********************************!*\
+  !*** ./resources/js/events.js ***!
+  \********************************/
+var events = new Array();
+var events_dom = new Array();
+var filters = new Array();
+var active = new Array();
+var dates = {};
+var blocks = {};
+
+function initFilterbar() {
+  filters = document.getElementsByClassName("filterbar__btn");
+
+  var _loop = function _loop(i) {
+    filters[i].addEventListener("click", function (elem) {
+      elem.preventDefault();
+      btn_activator(i);
+      filter();
+    });
+  };
+
+  for (var i = 0; i < filters.length; i++) {
+    _loop(i);
+  }
+}
+
+function createMonths() {
+  var element = document.createElement("div");
+  element.appendChild(document.createTextNode('Das ist ein Monat'));
+  document.getElementById('lc').appendChild(element);
+}
+
+function filter() {
+  // if no filter selected show all
+  if (active.length < 1) {
+    for (var i = 0; i < blocks.length; i++) {
+      blocks[i].style.display = "grid";
+    }
+
+    for (var _i = 0; _i < events.length; _i++) {
+      events[_i][0].style.display = "block";
+    }
+  } else {
+    // hide all blocks
+    for (var _i2 = 0; _i2 < blocks.length; _i2++) {
+      blocks[_i2].style.display = "none";
+    } // hide all events
+
+
+    for (var _i3 = 0; _i3 < events.length; _i3++) {
+      events[_i3][0].style.display = "none"; // go through all active tags and compare
+
+      for (var h = 0; h < active.length; h++) {
+        // show only items with according tag
+        if (events[_i3][1].includes(active[h])) {
+          events[_i3][0].style.display = "block"; // show block containing this event
+
+          events[_i3][0].closest('.grid--month-wrap').style.display = "grid";
+        }
+      }
+    }
+  }
+}
+
+function initEvents() {
+  events_dom = document.getElementsByClassName("event-item");
+
+  for (var i = 0; i < events_dom.length; i++) {
+    // events[i][0] = element node / [1] = array of tags / [2] = month "4" / [3] = year "2022"
+    var temp = events_dom[i].dataset.tags;
+    if (temp !== undefined) temp = events_dom[i].dataset.tags.split(",");else temp = "";
+    events[i] = [events_dom[i], temp, events_dom[i].dataset.month, events_dom[i].dataset.year];
+  } // create object to know how many years and how many months there are within
+
+
+  for (var _i4 = 0; _i4 < events.length; _i4++) {
+    // add year if it does not exist
+    if (dates[events[_i4][3]] == undefined) dates[events[_i4][3]] = {}; // add month if it does not exist
+
+    if (dates[events[_i4][3]][events[_i4][2]] == undefined) dates[events[_i4][3]][events[_i4][2]] = 0;
+    dates[events[_i4][3]][events[_i4][2]]++;
+  }
+
+  createGroups();
+}
+
+function createGroups() {
+  var sw = document.getElementById("event-list-wrapper");
+  var block = document.getElementsByClassName("grid--month-wrap")[0];
+  var months = ["Nuller Monat", "Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"];
+  var month_block;
+  var cur_month; // get all events fitting current month and year and append it to duplicated node
+
+  for (var e = 0; e < events.length; e++) {
+    // if its the first time in this month create a block
+    if (cur_month != events[e][2]) {
+      // only one time execution
+      cur_month = events[e][2]; // create Month block
+
+      month_block = block.cloneNode(true);
+      month_block.getElementsByClassName("month-name")[0].innerHTML = months[cur_month];
+      sw.appendChild(month_block);
+      console.log("create new Month Tag: " + months[cur_month]);
+    } // append event to month block
+
+
+    month_block.getElementsByClassName("grid--events-list")[0].appendChild(events[e][0]);
+  } // delete template month block
+
+
+  block.remove(); // get all blocks in an array
+
+  blocks = sw.getElementsByClassName("grid--month-wrap");
+}
+
+function btn_activator(elem) {
+  // activate
+  if (filters[elem].classList.contains('button--lined')) {
+    filters[elem].classList.remove("button--lined");
+    filters[elem].classList.add("button--selected");
+    active.push(filters[elem].innerHTML);
+  } // deactivate
+  else if (filters[elem].classList.contains('button--selected')) {
+    filters[elem].classList.remove("button--selected");
+    filters[elem].classList.add("button--lined");
+    var index = active.indexOf(filters[elem].innerHTML);
+
+    if (index > -1) {
+      active.splice(index, 1); // 2nd parameter means remove one item only
+    }
+  }
+}
+
+document.addEventListener('readystatechange', function (event) {
+  switch (document.readyState) {
+    case "complete":
+      initFilterbar();
+      initEvents();
+      break;
+  }
+});
+/******/ })()
+;
 //# sourceMappingURL=events.js.map
