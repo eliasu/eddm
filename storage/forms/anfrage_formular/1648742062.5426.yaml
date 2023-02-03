@@ -1,0 +1,12 @@
+_token: taH8ZJDAg3VnTbPhDmw6DOvYlB7yGGWhfv5KU2fZ
+form_name: 'Elias Testet'
+form_email: test@test.de
+angebot:
+  - übernachten
+  - essen
+zeitraum: 'Oster 2025'
+personenanzahl: '75'
+deine_nachricht: 'Wir machen eine fette fette Party Leute!'
+newsletter:
+  - 'In den Newsletter eintragen'
+honeypot: null

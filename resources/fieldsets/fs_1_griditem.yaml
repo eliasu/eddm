@@ -1,0 +1,24 @@
+title: fs_1_griditem
+fields:
+  -
+    handle: link_link
+    field:
+      collections:
+        - pages
+        - events
+      display: Link
+      type: link
+      icon: link
+      width: 50
+      listable: hidden
+      instructions_position: above
+      validate:
+        - required
+  -
+    handle: images_img
+    field: fs_images.images_img
+    config:
+      width: 50
+      max_files: 1
+  -
+    import: fs_underline

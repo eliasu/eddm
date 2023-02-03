@@ -1,0 +1,13 @@
+form_name: 'Martin Kempe'
+adresse: '20144 Hamburg'
+form_email: markempe@t-online.de
+telefonnummer: '040/4107401 u. 0170-4508349'
+angebot:
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: 23.-25.06.2023
+personenanzahl: 'Ca. 30'
+deine_nachricht: 'Ich suche einen schönen Ort, um einen runden Geburtstag mit Freundinnen, Freunden und Verwandten, Erwachsenen und Kindern zu feiern.'
+newsletter:
+  - 'In den Newsletter eintragen'

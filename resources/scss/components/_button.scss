@@ -1,0 +1,116 @@
+.button {
+	background-color: $blue;
+	border-radius: 100px;
+	padding: $s2 $s5;
+	min-height: 7.2rem;
+	color: $white;
+
+	text-decoration: none;
+	pointer-events: auto;
+	cursor: pointer;
+	font-size: $fs-3;
+	line-height: 100%;
+	margin-bottom: $s1;
+	text-align: center;
+	white-space: nowrap;
+
+	border: none;
+
+	&:hover {
+		background-color: $black;
+		color: $white;
+	} 
+
+	&--black {
+		@extend .button;
+		background-color: $black;
+
+		&:hover {
+			background-color: $blue;
+		} 
+	}
+
+	&--lined {
+		@extend .button;
+		background-color: transparent;
+		border: 2px solid $black;
+		color: $black;
+
+		&:hover {
+			background-color: transparent;
+			border: 2px solid $blue;
+			color: $blue;
+		}
+	}
+	
+	&--whitelined {
+		@extend .button;
+		background-color: transparent;
+		border: 2px solid $white;
+		color: $white;
+
+		&:hover {
+			background-color: transparent;
+			border: 2px solid $black;
+			color: $black;
+		}
+	}
+
+	&--selected {
+		@extend .button;
+		background-color: $black;
+		border: 2px solid $black;
+
+		&:hover {
+			background-color: $blue;
+			border: 2px solid $blue;
+		} 
+	}
+
+	
+
+	&--white {
+		@extend .button;
+		background-color: $white;
+		color: $blue;
+
+		&:hover {
+			background-color: $black;
+			color: $white;
+		} 
+	}
+}
+
+
+a.button {
+	color: $white;
+
+	&:hover {
+		color: $white;
+	} 
+}
+
+a.button--white {
+	color: $blue;
+
+	&:hover {
+		color: $white;
+	} 
+}
+
+a.button--lined {
+	color: $black;
+
+	&:hover {
+		color: $blue;
+	}
+}
+
+a.button--whitelined {
+	color: $white;
+
+	&:hover {
+		color: $black;
+	}
+}
+

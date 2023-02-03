@@ -1,0 +1,9 @@
+form_name: 'Jörg Hahn'
+adresse: 'Koplinger Tor'
+form_email: jogihahn@web.de
+telefonnummer: '+4951722975'
+angebot:
+  - übernachten
+zeitraum: '26.5.23 - 29.5.23'
+personenanzahl: '2'
+deine_nachricht: "Hallo wir würden gerne ein Doppelzimmer mit Bad buchen für den o.g. Zeitraum.\r\nIst was frei ?"

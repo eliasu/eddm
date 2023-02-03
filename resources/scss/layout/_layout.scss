@@ -1,0 +1,109 @@
+.section-wrapper {
+	padding: $s10 $s5;
+	position: relative;
+	overflow: hidden;
+
+	&--footer {
+		@extend .section-wrapper;
+		background-color: $creme;
+		position: relative;
+		// z-index: 20;
+		border-top: 2px solid $black;
+		padding: $s5 $s5;
+	}
+
+	&--hero {
+		@extend .section-wrapper;
+		// 100vh - top-padding of main
+		min-height: calc(100vh - #{$s10} );
+
+		&-no-top {
+			@extend .section-wrapper--hero;
+			padding-top: 0;
+		}
+	}
+
+	&--header {
+		@extend .section-wrapper;
+		padding: 0;
+	}
+
+	&--full-width {
+		@extend .section-wrapper;
+		padding: 0;
+	}
+
+	&--white {
+		@extend .section-wrapper;
+		background-color: $white;
+		margin-bottom: 0;
+	}
+	
+	&--blue {
+		@extend .section-wrapper;
+		background-color: $blue;
+		margin-bottom: 0;
+	}
+}
+
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(12, 1fr);
+	@include respond(tab-port) { grid-template-columns: 100%; }
+
+	grid-row-gap: $s4;
+	grid-column-gap: $s4;
+	grid-auto-rows: auto;
+
+	// utility classes
+	&--sp6 {grid-column: span 6;}
+	&--sp8 {grid-column: span 8;}
+	&--sp10 {grid-column: span 10;}
+	&--sp12 {grid-column: 1/-1;}
+
+	&--sp6, &--sp8, &--sp10, &--sp12 {
+		@include respond(tab-port) { grid-column: span 1; }
+	}
+
+
+	&--footer {
+		@extend .grid;
+		grid-column-gap: $s12;
+		grid-template-columns: max-content min-content auto;
+
+		@include respond(tab-port) { grid-template-columns: 100%; justify-items: center; }
+	}
+
+	&--events-list {
+		@extend .grid;
+		grid-row-gap: $s12;
+	}
+	
+	&--month-wrap {
+		margin-bottom: $s6;
+	}
+}
+
+.flex {
+	&-left {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+	&-stretch {
+		position: relative;
+		display: flex;
+		flex-direction: column;
+		align-items: stretch;
+	}
+}
+
+.w100 {
+	width: 100%;
+}
+
+.z-front {
+	z-index: 10;
+}

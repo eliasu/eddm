@@ -1,0 +1,27 @@
+.link {
+	&__wrap {
+		display: flex;
+		align-items: center;
+		justify-content: flex-start;
+		white-space: nowrap;
+		margin-bottom: $s1;
+		position: relative;
+	}
+
+	&__icon-wrap {
+		margin-right: $s1;
+		position: relative;
+		
+		display: flex;
+		align-items: center;
+		line-height: 1;
+
+		margin-top: 0.09em;
+	}
+
+	&__icon{
+		height: .85em;
+		width: .85em;
+		display: inline-block;
+	}
+}

@@ -1,0 +1,9 @@
+form_name: 'Marcus von Oppen'
+adresse: 'Sebnitzer Straße 34, 01099 Dresden'
+form_email: marcus.vonoppen@gmx.de
+telefonnummer: '01742141897'
+angebot:
+  - übernachten
+zeitraum: 19.-20.05.2023
+personenanzahl: 6-7
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\nwir suchen eine Übernachtungsmöglichkeit für eine Radlergruppe, 6-7 Personen, vom 19. bis 20.05.2023. Ist im angegebenen Zeitraum in Ihrem Haus noch was frei?\r\nVielen Dank und herzliche Grüße"

@@ -1,0 +1,13 @@
+.logo-rotation {
+	position: absolute;
+	width: 35rem;
+	bottom: $s9;
+	right: $s9;
+
+	animation: rotating 25s linear infinite;
+}
+
+@keyframes rotating {
+	from { transform: rotate(0deg); }
+	to { transform: rotate(-360deg); }
+}

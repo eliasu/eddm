@@ -1,0 +1,6 @@
+title: set_eye_catcher
+fields:
+  -
+    import: fs_headline
+  -
+    import: fs_bard

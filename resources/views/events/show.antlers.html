@@ -1,0 +1,34 @@
+<section class="section-wrapper--header">
+	{{ partial:utility/picture :image="images_img" class="header__image" cover="true" }}
+</section>
+
+<section class="section-wrapper">
+
+	<h1 class="text-m bot-m">{{title}}</h1>
+	
+	{{if date_type == "single dates"}}
+		<h2 class="text-s bot-m">
+			{{dates sort="date_field:asc" }}
+				{{ date_field iso_format="D.M.YYYY" }} – {{ date_field iso_format="H:mm" }} Uhr {{last ? "" : "|"}}
+			{{/dates}}
+		</h2>
+	{{elseif date_type == "date range"}}
+		<h2 class="text-s bot-m">Von {{ date_range:start iso_format="DD.MM.YY"}} bis {{ date_range:end iso_format="DD.MM.YY"}}</h2>
+	{{/if}}
+
+	
+	<div class="grid">
+		<div class="grid--sp12 flex-left text-s">
+			{{text_bard}}
+				{{partial src="bardsets/{type}"}}
+			{{/text_bard}}	
+		</div>
+	</div>
+</section>
+
+{{# Repeater Area #}}
+{{components}}
+	{{ partial src="partials/components/_{type}" }}
+{{/components}}
+
+{{ partial src="partials/components/_next_events_component" headline_txt="Die nächsten Events" }}

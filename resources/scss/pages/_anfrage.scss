@@ -1,0 +1,10 @@
+.request {
+	&__content {
+		grid-column: span 4;
+		@include respond(tab-port) { grid-column: span 1; }
+	}
+	
+	&__headline {
+		margin-bottom: $s6;
+	}
+}

@@ -1,0 +1,81 @@
+title: set_eye_catcher_global
+fields:
+  -
+    handle: eye-catcher_component
+    field:
+      display: 'Eye-Catcher Component'
+      type: section
+      icon: section
+      listable: hidden
+      instructions_position: above
+  -
+    handle: disable_eye-catcher
+    field:
+      default: false
+      display: 'Disable Eye-Catcher'
+      type: toggle
+      icon: toggle
+      listable: hidden
+      instructions_position: above
+      instructions: 'Disable Eye-Catcher on this Page'
+      width: 50
+  -
+    handle: select_type
+    field:
+      options:
+        global: 'Globale Komponente'
+        new: 'Neuer Eye-Catcher'
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: global
+      display: 'Select Type'
+      type: select
+      icon: select
+      listable: hidden
+      instructions_position: above
+      width: 50
+      max_items: 1
+      if:
+        disable_eye-catcher: 'equals false'
+      instructions: 'Use single or global Eye-Catcher'
+  -
+    handle: gobal_component
+    field:
+      mode: default
+      create: false
+      collections:
+        - globals
+      display: 'Choose global Eye-Catcher'
+      type: entries
+      icon: entries
+      listable: hidden
+      instructions_position: above
+      width: 50
+      max_items: 1
+      if:
+        select_type: 'equals global'
+        disable_eye-catcher: 'equals false'
+  -
+    handle: headline_eye
+    field: fs_headline.headline_txt
+    config:
+      if:
+        select_type: 'equals new'
+        disable_eye-catcher: 'equals false'
+      validate:
+  -
+    handle: text_eye
+    field: fs_bard.text_bard
+    config:
+      buttons:
+        - underline
+        - strikethrough
+        - anchor
+      if:
+        select_type: 'equals new'
+        disable_eye-catcher: 'equals false'
+      validate:

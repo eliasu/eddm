@@ -1,0 +1,59 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: preferences_headline
+        field:
+          input_type: text
+          antlers: false
+          display: 'Preferences Headline'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: cookie_message
+        field: fs_bard.text_bard
+        config:
+          buttons:
+            - underline
+            - strikethrough
+            - anchor
+          display: 'Cookie Message'
+          validate:
+            - required
+      -
+        handle: button_allow
+        field:
+          input_type: text
+          antlers: false
+          display: 'Button Allow'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: button_reject
+        field:
+          input_type: text
+          antlers: false
+          display: 'Button Reject'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: button_submit
+        field:
+          input_type: text
+          antlers: false
+          display: 'Button Submit'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          read_only: false

@@ -1,0 +1,16 @@
+<header class="nav">
+	<a class="nav__link--logo" href="/">Ein Ding der Möglichkeit</a>
+	
+	<nav class="nav__links-wrap" id="nav_links">
+		{{ nav:main_navigation }}
+			<a class="{{is_current ? "nav__link--active" : "nav__link" }}" href="{{ url }}">{{ title }}</a>
+		{{ /nav:main_navigation }}
+		<button class="nav__close" id="nav_close">
+			{{ partial src="partials/icons/close" }}
+		</button>
+	</nav>
+
+	<button class="nav__burger" id="nav_burger">
+		{{ partial src="partials/icons/burger" }}
+	</button>
+</header>

@@ -1,0 +1,17 @@
+<a
+	{{ switch(
+		(link_type == 'entry') => 'href="{{ entry:url }}"',
+		(link_type == 'url') => 'href="{{ partial src="partials/utility/linkurl" }}"',
+		(link_type == 'email') => 'href="mailto:{{ email }}"',
+		(link_type == 'tel') => 'href="tel:{{ tel }}"',
+		(link_type == 'asset') => 'href="{{ asset }}" download',
+		() => void
+	)}}
+	{{ target_blank ?= 'rel="noopener" target="_blank"' }}
+	class="link__wrap{{if bg == "blue"}} text--white{{/if}}"
+	>
+	<span class="link__icon-wrap">
+		{{ partial src="partials/icons/arrow_right"}}
+	</span>
+	{{link_name_txt}}
+</a>

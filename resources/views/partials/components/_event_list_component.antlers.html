@@ -1,0 +1,40 @@
+{{if {collection:count from="events"} < 1}}
+	<section class="section-wrapper">
+		<h2 class="text-m grid--sp12">Derzeit keine Events …</h2>
+	</section>
+
+{{else}}
+	<section class="section-wrapper" id="event-list-wrapper">
+		<div class="filterbar__wrapper">
+			{{ filter_tags }}
+				{{ partial src="components/_staticbutton" modi="--lined" text="{{title}}" class="filterbar__btn"}}
+			{{ /filter_tags }}
+		</div>
+		
+		<div class="grid grid--month-wrap">
+			<h2 class="text-m grid--sp12 month-name">Monat</h2>
+			<div class="grid--events-list grid--sp12"></div>
+		</div>
+	</section>
+
+	{{upcoming_events}}
+		{{ get_content:id  }}
+			<div class="three-columns event-item" data-month="{{partial src="partials/utility/date-month"}}" data-year="{{partial src="partials/utility/date-year"}}" {{if tags}}data-tags="{{tags}}{{title}}{{ last ? "" : ","}}{{/tags}}"{{endif}}>
+				
+				<a href="{{url}}">
+					
+					{{# <div class="three-columns__img-wrap--eventthumb" style="background-image: url('{{ images_img }}'); background-size: cover; background-position: {{ images_img:focus_css }} "> #}}
+					
+						<div class="three-columns__img-wrap--eventthumb">
+						{{ partial:utility/picture :image="images_img" class="three-columns__image--eventthumb" cover="true" alt="{{title}}"}}
+					</div>
+				</a>
+				
+				{{ partial src="partials/utility/date"}}
+
+				<p class="text-s">{{title}}</p>
+				<a class="text-s" href="{{url}}">Mehr erfahren</a>
+			</div>
+		{{ /get_content:id }}
+	{{/upcoming_events}}
+{{/if}}

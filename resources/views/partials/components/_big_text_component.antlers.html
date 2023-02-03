@@ -1,0 +1,7 @@
+<section class="{{if background_color == "none"}}section-wrapper{{else}}section-wrapper--{{background_color}}{{/if}}{{if text_color != "black"}} text--{{text_color}}{{/if}} grid">
+	<div class="grid--sp8 flex-left text-m {{ class ?? ""}}">
+		{{text_bard}} 
+			{{partial src="bardsets/{type}" size="2"}}
+		{{/text_bard}} 
+	</div>
+</section>

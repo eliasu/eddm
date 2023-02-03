@@ -1,0 +1,48 @@
+{{ section:custom-js-page }}
+	<script src="{{ mix src='/js/request.js' }}"></script>
+{{ /section:custom-js-page }}
+
+<section class="section-wrapper grid">
+	<div class="request__content">
+		<h1 class="request__headline text-m">{{title}}</h1>
+		<h2 class="text-s">{{text_txt}}</h2>
+	</div>
+
+	<div class="form__wrap">
+		{{ form:anfrage_formular id="form-request"}}
+
+			{{ fields }}
+				{{if type == "checkboxes"}}
+					{{ if display }}<h2 class="f-check__headline">{{ display }}</h2>{{endif}}
+					<div class="f-check">
+						{{field}}
+					</div>
+				
+				{{elseif type == "textarea"}}
+					<div class="f-text__wrap">
+						<div class="f-text__field">
+							<textarea class="text-s" placeholder=" " name="{{handle}}" type="textarea" {{validate:0}}></textarea>
+							<label class="textarea--label text-s">{{display}}</label>
+						</div>
+					</div>
+
+				{{elseif type == "text"}}
+					<div class="f-text__wrap">
+						<div class="f-text__field">
+						<input class="text-s" type="{{input_type}}" name="{{handle}}" value placeholder=" " {{validate:0}}>
+						<label class="text-s">{{display}}</label>
+						</div>
+
+					</div>
+				{{else}}
+					Here is nothing
+				{{/if}}
+				
+			{{ /fields }}
+			<input type="text" class="honeypot" name="{{ honeypot ?? 'honeypot' }}">
+			<button class="button" id="form_submit" type="submit">Absenden</button>
+
+		{{ /form:anfrage_formular }}
+	</div>
+</section>
+

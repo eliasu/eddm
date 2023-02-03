@@ -1,0 +1,129 @@
+title: fs_link
+fields:
+  -
+    handle: link_name_txt
+    field:
+      input_type: text
+      type: text
+      localizable: true
+      listable: false
+      display: 'Link Name'
+      width: 33
+      replicator_preview: false
+      instructions_position: above
+      antlers: false
+      read_only: false
+  -
+    handle: url
+    field:
+      placeholder: 'https://site.com'
+      input_type: url
+      type: text
+      localizable: true
+      listable: false
+      display: URL
+      width: 33
+      validate:
+        - 'required_if:{this}.link_type,url'
+      if:
+        link_type: url
+  -
+    handle: entry
+    field:
+      max_items: 1
+      mode: select
+      type: entries
+      localizable: true
+      width: 33
+      listable: false
+      display: Entry
+      replicator_preview: false
+      validate:
+        - 'required_if:{this}.link_type,entry'
+      instructions_position: above
+      read_only: false
+      create: false
+      collections:
+        - events
+        - pages
+      if:
+        link_type: 'equals entry'
+  -
+    handle: email
+    field:
+      placeholder: info@site.com
+      input_type: email
+      type: text
+      localizable: true
+      listable: false
+      display: E-mail
+      width: 33
+      replicator_preview: false
+      validate:
+        - 'required_if:{this}.link_type,email'
+      if:
+        link_type: email
+  -
+    handle: tel
+    field:
+      placeholder: '+49 (0)12 345678'
+      input_type: tel
+      type: text
+      localizable: true
+      listable: false
+      display: Telephone
+      width: 33
+      replicator_preview: false
+      validate:
+        - 'required_if:{this}.link_type,tel'
+      instructions_position: above
+      read_only: false
+      antlers: false
+      if:
+        link_type: 'equals tel'
+  -
+    handle: asset
+    field:
+      mode: list
+      container: assets
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      max_files: 1
+      display: Asset
+      type: assets
+      icon: assets
+      width: 33
+      listable: hidden
+      instructions_position: above
+      read_only: false
+      validate:
+        - 'required_if:{this}.link_type,asset'
+      if:
+        link_type: asset
+  -
+    handle: target_blank
+    field:
+      type: toggle
+      localizable: true
+      width: 33
+      listable: false
+      display: 'Open in new window?'
+      replicator_preview: false
+  -
+    handle: link_type
+    field:
+      options:
+        url: URL
+        entry: Entry
+        email: E-mail
+        tel: Telephone
+        asset: Asset
+      type: button_group
+      localizable: true
+      default: url
+      listable: false
+      display: 'Link type'
+      replicator_preview: false
+      instructions_position: above
+      read_only: false

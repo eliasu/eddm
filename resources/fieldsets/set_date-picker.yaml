@@ -1,0 +1,78 @@
+title: set_date-picker
+fields:
+  -
+    handle: date_type
+    field:
+      options:
+        'single dates': 'single dates'
+        'date range': 'date range'
+      multiple: false
+      max_items: 1
+      clearable: false
+      searchable: false
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: 'single dates'
+      display: 'Date Type'
+      type: select
+      icon: select
+      listable: hidden
+      instructions_position: above
+  -
+    handle: dates
+    field:
+      collapse: true
+      sets:
+        single_date:
+          display: 'Date and Time'
+          fields:
+            -
+              handle: date_field
+              field:
+                mode: single
+                time_enabled: true
+                time_required: true
+                full_width: false
+                inline: false
+                columns: 1
+                rows: 1
+                display: 'Date Field'
+                type: date
+                icon: date
+                listable: hidden
+                instructions_position: above
+                read_only: false
+                time_seconds_enabled: false
+                validate:
+                  - required
+      display: Dates
+      type: replicator
+      icon: replicator
+      listable: hidden
+      instructions_position: above
+      validate:
+        - 'required_if:date_type,single dates'
+      instructions: 'Add at least one date'
+      read_only: false
+      if:
+        date_type: 'equals single dates'
+  -
+    handle: date_range
+    field:
+      mode: range
+      time_enabled: false
+      time_required: false
+      full_width: false
+      inline: false
+      columns: 1
+      rows: 1
+      display: 'Date Range'
+      type: date
+      icon: date
+      listable: hidden
+      instructions_position: above
+      validate:
+        - 'required_if:date_type,date range'
+      if:
+        date_type: 'equals date range'

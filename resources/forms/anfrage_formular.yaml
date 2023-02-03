@@ -1,0 +1,14 @@
+title: 'Anfrage Formular'
+email:
+  -
+    to: hallo@moeglichkeit.org
+    reply_to: '{{form_email}}'
+    subject: 'Buchungsanfrage von {{form_name}} | Zeitraum: {{zeitraum}} | Personen: {{personenanzahl}} | {{ angebot | ampersand_list }}'
+    from: 'Ein Ding der Moeglichkeit <noreply@eindingdermoeglichkeit.com>'
+  -
+    to: '{{form_email}}'
+    from: 'Ein Ding der Moeglichkeit <noreply@eindingdermoeglichkeit.com>'
+    subject: 'Danke für deine Buchungsanfrage.'
+    html: anfrage-autorespond-template
+    text: anfrage-autorespond-template
+    reply_to: hallo@moeglichkeit.org

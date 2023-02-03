@@ -1,0 +1,50 @@
+title: 'Component Page'
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        import: set_eye_catcher_global
+      -
+        import: set_header
+      -
+        import: set_components
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+          display: 'Site Title'
+          instructions_position: above
+          listable: hidden
+          placeholder: 'Site Name'
+          input_type: text
+          antlers: false
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: template
+        field:
+          default: component_page
+          display: template
+          type: hidden
+          icon: hidden
+          listable: hidden
+          instructions_position: above
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true

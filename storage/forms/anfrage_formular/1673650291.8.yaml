@@ -1,0 +1,10 @@
+form_name: 'kim King'
+adresse: 'Salderatzen im Winkel 234, 285969 Berlin'
+form_email: kim@moeglichkeit.org
+telefonnummer: '01709040512'
+angebot:
+  - übernachten
+  - arbeiten
+zeitraum: 12.5.23
+personenanzahl: '12'
+deine_nachricht: whatever

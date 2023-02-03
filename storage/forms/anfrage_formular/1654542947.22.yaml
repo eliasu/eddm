@@ -1,0 +1,9 @@
+form_name: 'Jessika Müller'
+form_email: m.jessika@gmx.de
+angebot:
+  - übernachten
+zeitraum: '04.08.22 bis 07.08.22'
+personenanzahl: '2'
+deine_nachricht: "Hallo liebes Team, \r\nGibt es im August noch freie Gästezimmer?\r\nViele Grüße \r\nJessika"
+newsletter:
+  - 'In den Newsletter eintragen'

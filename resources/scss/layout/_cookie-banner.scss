@@ -1,0 +1,75 @@
+.cookies {
+	&--banner {
+		position: fixed;
+		right: 0%;
+		bottom: 0%;
+		z-index: 60;
+		background-color: $white;
+		padding: $s5;
+		max-width: min-content;
+
+		@include respond(small) { 
+			max-width: none;
+			left: 0%;
+			align-items: stretch;
+		}
+
+		&__buttonwrap {
+			display: flex;
+			gap: $s2;
+			margin-top: $s5;
+
+			@include respond(small) { 
+				flex-direction: column;
+				align-items: stretch;
+			}
+		}
+	}
+
+	&--prefs {
+		position: fixed;
+		inset: 0;
+		z-index: 60;
+		display: grid;
+		justify-content: center;
+		align-items: center;
+		overflow: scroll;
+
+		@include respond(small) { 
+			align-items: flex-end;
+			justify-content: stretch;
+		}
+		
+		&__form {
+			background-color: $creme;
+			padding: $s8;
+			position: relative;
+			background-color: $white;
+			min-width: 70rem;
+			grid-row: 2;
+
+			@include respond(small) { 
+				width: 100%;
+				min-width: 32rem;
+			}
+		}
+		
+		&__close	 {
+			position: absolute;
+			right: $s4;
+			top: $s4;
+			cursor: pointer;
+
+			&:hover {
+				color: $blue;
+			}
+		}
+
+		&__bg {
+			position: fixed;
+			inset: 0;
+			z-index: -1;
+			@include bg-color($creme, .8);
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{{if date_type == "single dates"}}
+	{{ date = dates[{{date_index}}] }}
+	<h2 class="text-s">{{ date.date_field format="j.n.Y" }} – {{ date.date_field format="H:i" }}</h2>
+{{elseif date_type == "date range"}}
+	<h2 class="text-s">{{ date_range:start format="j.n.Y"}} – {{ date_range:end format="j.n.Y"}}</h2>
+{{/if}}

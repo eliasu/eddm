@@ -1,0 +1,14 @@
+.big-image {
+	grid-column: 2 / 12;
+	
+	@include respond(tab-port) { grid-column: span 1; }
+
+	&--wide{
+		grid-column: span 12;
+		@include respond(tab-port) { grid-column: span 1; }
+
+		& img {
+			height: 100%;
+		}
+	}
+}

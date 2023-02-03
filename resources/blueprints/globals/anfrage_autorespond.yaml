@@ -1,0 +1,14 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: text
+        field:
+          antlers: false
+          display: Text
+          type: textarea
+          icon: textarea
+          listable: hidden
+          instructions_position: above
+          read_only: false

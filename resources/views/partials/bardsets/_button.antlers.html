@@ -1,0 +1,14 @@
+<a
+	{{ switch(
+		(link_type == 'entry') => 'href="{{ entry:url }}"',
+		(link_type == 'url') => 'href="{{ partial src="partials/utility/linkurl" }}"',
+		(link_type == 'email') => 'href="mailto:{{ email }}"',
+		(link_type == 'tel') => 'href="tel:{{ tel }}"',
+		(link_type == 'asset') => 'href="{{ asset }}" download',
+		() => void
+	)}}
+	{{ target_blank ?= 'rel="noopener" target="_blank"' }}
+	class="{{if bg == "blue"}}button--white{{else}}button{{/if}}"
+	>
+	{{link_name_txt}}
+</a>

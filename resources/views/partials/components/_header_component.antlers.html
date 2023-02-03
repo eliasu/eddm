@@ -1,0 +1,22 @@
+{{ if disable_header == false }}
+	<section class="section-wrapper--header">
+		{{if header_media == "image"}}
+			{{ partial:utility/picture :image="images_img" class="header__image" cover="true" alt="{{title}}"}}
+		{{elseif header_media =="video"}}
+			<div class="header__image">
+				<video width="100%" height="100%" style="object-fit:cover;" muted autoplay loop>
+					<source src="{{video_vid}}" type="video/mp4">
+					Your browser does not support the video tag.
+				</video>
+			</div>
+			
+		{{/if}}
+		<div class="grid">
+			<div class="header__text-wrap grid--sp10">
+				{{ text_bard }}
+					{{ partial src="bardsets/{type}" size="2" }}
+				{{/text_bard }}
+			</div>
+		</div>
+	</section>
+{{ /if }}

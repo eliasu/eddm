@@ -1,0 +1,6 @@
+<div class="nav__sec">
+	{{ partial src="components/_staticbutton" to="{{instagram:instagram_url}}" text="" class="nav__link--insta" modi="--black"}}
+	{{if blueprint != "anfrage"}}
+		{{ partial src="components/_staticbutton" to="/anfrage" text="Anfragen" class="nav__link--request"}}
+	{{/if}}
+</div>

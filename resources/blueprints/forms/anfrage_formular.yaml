@@ -1,0 +1,117 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: form_name
+        field:
+          input_type: text
+          antlers: false
+          display: 'Vor-, Nachname'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          placeholder: 'Vor-, Nachname'
+          validate:
+            - required
+          read_only: false
+      -
+        handle: adresse
+        field:
+          placeholder: 'Straße Nr, PLZ Stadt'
+          input_type: text
+          antlers: false
+          display: 'Adresse (Strasse Nr, PLZ, Stadt)'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: form_email
+        field:
+          input_type: email
+          antlers: false
+          display: E-Mailadresse
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          placeholder: E-Mailadresse
+          validate:
+            - required
+          read_only: false
+      -
+        handle: telefonnummer
+        field:
+          input_type: text
+          antlers: false
+          display: Telefonnummer
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: angebot
+        field:
+          inline: false
+          options:
+            übernachten: übernachten
+            'Räume mieten': 'Räume mieten'
+            essen: essen
+          display: 'Ich möchte bei euch'
+          type: checkboxes
+          icon: checkboxes
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: zeitraum
+        field:
+          input_type: text
+          antlers: false
+          display: Zeitraum
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
+      -
+        handle: personenanzahl
+        field:
+          input_type: text
+          antlers: false
+          display: Personenanzahl
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
+          read_only: false
+      -
+        handle: deine_nachricht
+        field:
+          antlers: false
+          display: 'Deine Nachricht'
+          type: textarea
+          icon: textarea
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
+          read_only: false
+      -
+        handle: newsletter
+        field:
+          inline: false
+          type: checkboxes
+          icon: checkboxes
+          listable: hidden
+          instructions_position: above
+          options:
+            'In den Newsletter eintragen': 'In den Newsletter eintragen'
+          read_only: false

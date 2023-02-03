@@ -1,0 +1,16 @@
+title: set_event_list
+fields:
+  -
+    handle: filter_tags
+    field:
+      mode: default
+      create: false
+      taxonomies:
+        - tags
+      display: 'Filter Tags'
+      type: terms
+      icon: taxonomy
+      instructions: 'The selected tags will be shown to filter the event list.'
+      listable: hidden
+      instructions_position: above
+      read_only: false

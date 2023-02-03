@@ -1,0 +1,10 @@
+form_name: 'Lisa Hachenberg'
+form_email: hachenberg@web.de
+telefonnummer: '01778240136'
+angebot:
+  - übernachten
+zeitraum: '30:12-01.02'
+personenanzahl: '2'
+deine_nachricht: 'Wir würden gerne mit unserer Hündin Silvester bei euch verbringen. Habt ihr noch was frei? Am liebsten ein Doppelzimmer mit Bad :)'
+newsletter:
+  - 'In den Newsletter eintragen'

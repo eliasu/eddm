@@ -1,0 +1,10 @@
+title: fs_video
+fields:
+  -
+    handle: video_vid
+    field:
+      display: Video
+      type: video
+      icon: video
+      listable: hidden
+      instructions_position: above

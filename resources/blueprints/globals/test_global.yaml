@@ -1,0 +1,11 @@
+sections:
+  funky_grid:
+    display: 'Funky Grid'
+    fields:
+      -
+        import: funky_grid
+  image_and_text:
+    display: 'Image and Text'
+    fields:
+      -
+        import: image_and_text

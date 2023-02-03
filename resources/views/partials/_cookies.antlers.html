@@ -1,0 +1,39 @@
+<div fs-cc="banner" class="cookies--banner flex-left">
+	{{cookies:cookie_message}}
+		{{partial src="bardsets/{type}"}}
+	{{/cookies:cookie_message}} 
+	<div class="cookies--banner__buttonwrap">
+		{{ partial src="components/_staticbutton" text="Deny" add='fs-cc="deny"'}}
+		{{ partial src="components/_staticbutton" text="Accept" add='fs-cc="allow"'}}
+		{{ partial src="components/_staticbutton" modi="--lined" text="Preferences" add='fs-cc="open-preferences"'}}
+	</div>
+</div>
+
+ <div fs-cc="preferences" fs-cc-scroll="disable" fs-cc-display="grid" class="cookies--prefs">
+	<form name="Cookie-Preferences" data-name="Cookie Preferences" method="get" class="flex-stretch cookies--prefs__form">
+		
+		<div fs-cc="close" class="cookies--prefs__close">
+			{{ partial src="partials/icons/close" }}
+		</div>
+			
+		<h3 class="text-s bot-m">{{cookies:preferences_headline}}</h3>
+		
+		<div class="f-check flex-left">
+			<label class="no-click">
+				<input checked disabled class="no-click" type="checkbox" id="essential" name="essential" data-name="Essential">Essential Cookies
+			</label>
+
+			<label>
+				<input type="checkbox" id="analytics" name="analytics" data-name="Analytics" fs-cc-checkbox="analytics">Analytics Cookies
+			</label>
+		</div>
+
+		<div class="flex-stretch">
+			{{ partial src="components/_staticbutton" text="{{cookies:button_reject}}" add='fs-cc="deny"'}}
+			{{ partial src="components/_staticbutton" text="{{cookies:button_allow}}" add='fs-cc="allow"'}}
+			{{ partial src="components/_staticbutton" modi="--lined" text="{{cookies:button_submit}}" add='fs-cc="submit"'}}
+		</div>
+		
+	</form>
+	<div fs-cc="close" class="cookies--prefs__bg"></div>
+ </div>

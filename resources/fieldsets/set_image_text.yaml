@@ -1,0 +1,74 @@
+title: set_image_text
+fields:
+  -
+    import: fs_headline
+  -
+    handle: component_template
+    field:
+      options:
+        pano_slider: 'Panorama Slider'
+        pano_image: 'Panorama Image'
+        slider_left: 'Slider Left'
+        slider_right: 'Slider Right'
+        no_image: 'No Image'
+      multiple: false
+      clearable: false
+      searchable: false
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: pano_slider
+      display: 'Component Template'
+      type: select
+      icon: select
+      listable: hidden
+      instructions_position: above
+  -
+    handle: images_img
+    field: fs_images.images_img
+    config:
+      width: 100
+      unless:
+        component_template: 'equals no_image'
+  -
+    handle: background_color
+    field:
+      options:
+        none: None
+        white: White
+        blue: Blue
+      multiple: false
+      clearable: false
+      searchable: false
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: none
+      display: 'Background Color'
+      type: select
+      icon: select
+      width: 50
+      listable: hidden
+      instructions_position: above
+  -
+    handle: text_color
+    field:
+      options:
+        black: Black
+        blue: Blue
+        white: White
+      multiple: false
+      clearable: false
+      searchable: false
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: black
+      display: 'Text Color'
+      type: select
+      icon: select
+      width: 50
+      listable: hidden
+      instructions_position: above
+  -
+    import: fs_bard

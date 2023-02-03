@@ -1,0 +1,318 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+          display: Headline
+          instructions_position: above
+          listable: hidden
+          input_type: text
+          antlers: false
+      -
+        import: set_date-picker
+      -
+        import: fs_bard
+      -
+        import: set_components
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: show_in_eventlist
+        field:
+          default: true
+          display: 'Show in Eventlist'
+          type: toggle
+          icon: toggle
+          instructions: 'Is not shown in "program" but can be linked to.'
+          listable: hidden
+          instructions_position: above
+      -
+        handle: images_img
+        field: fs_images.images_img
+        config:
+          display: Image
+          width: 100
+          max_files: 1
+          validate:
+            - required
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: tags
+        field:
+          type: terms
+          taxonomies:
+            - tags
+          display: Tags
+          mode: select
+          create: true
+          icon: taxonomy
+          listable: hidden
+          instructions_position: above
+  SEO:
+    display: SEO
+    fields:
+      -
+        handle: seotamic_meta
+        field:
+          display: Meta
+          listable: hidden
+          type: section
+          localizable: true
+      -
+        handle: seotamic_title
+        field:
+          options:
+            title: Title
+            custom: Custom
+          clearable: false
+          multiple: false
+          searchable: true
+          taggable: false
+          push_tags: false
+          cast_booleans: false
+          type: select
+          localizable: true
+          listable: false
+          default: title
+          display: Title
+          instructions: 'It can be used to determine the title used on search engine results pages.'
+          instructions_position: above
+      -
+        handle: seotamic_custom_title
+        field:
+          input_type: text
+          character_limit: 100
+          type: text
+          localizable: true
+          listable: false
+          display: 'Custom Meta Title'
+          if:
+            seotamic_title: 'equals custom'
+          instructions_position: above
+          antlers: false
+      -
+        handle: seotamic_title_prepend
+        field:
+          type: toggle
+          instructions: 'Prepends to title the text set in General SEO settings'
+          localizable: true
+          default: true
+          width: 50
+          listable: false
+          display: 'Title prepend'
+          instructions_position: above
+      -
+        handle: seotamic_title_append
+        field:
+          type: toggle
+          localizable: true
+          instructions: 'Appends to title the text set in General SEO settings'
+          width: 50
+          listable: false
+          default: true
+          display: 'Title append'
+          instructions_position: above
+      -
+        handle: seotamic_meta_description
+        field:
+          options:
+            empty: Empty
+            general: General
+            custom: Custom
+          clearable: false
+          default: empty
+          multiple: false
+          searchable: true
+          taggable: false
+          push_tags: false
+          cast_booleans: false
+          type: select
+          instructions: 'It can be used to determine the text used under the title on search engine results pages. If empty, search engines will automatically generate this text.'
+          localizable: true
+          listable: false
+          display: 'Meta description'
+          instructions_position: above
+      -
+        handle: seotamic_custom_meta_description
+        field:
+          input_type: text
+          character_limit: 200
+          type: textarea
+          localizable: true
+          listable: false
+          display: 'Custom Meta description'
+          if:
+            seotamic_meta_description: 'equals custom'
+          instructions_position: above
+          antlers: false
+      -
+        handle: seotamic_canonical
+        field:
+          type: link
+          instructions: 'By default it will be set to the page url'
+          localizable: true
+          listable: false
+          display: Canonical
+          instructions_position: above
+      -
+        handle: seotamic_social
+        field:
+          type: section
+          localizable: true
+          listable: hidden
+          display: Social
+      -
+        handle: seotamic_open_graph_title
+        field:
+          options:
+            title: Title
+            general: General
+            custom: Custom
+          clearable: false
+          default: title
+          multiple: false
+          searchable: true
+          taggable: false
+          push_tags: false
+          cast_booleans: false
+          type: select
+          localizable: true
+          listable: false
+          display: 'Open Graph title'
+          instructions_position: above
+      -
+        handle: seotamic_custom_open_graph_title
+        field:
+          input_type: text
+          character_limit: 100
+          type: text
+          localizable: true
+          listable: false
+          display: 'Custom Open Graph title'
+          if:
+            seotamic_open_graph_title: 'equals custom'
+          instructions_position: above
+          antlers: false
+      -
+        handle: seotamic_open_graph_description
+        field:
+          options:
+            meta: 'Meta description'
+            general: 'General description'
+            custom: Custom
+          clearable: false
+          default: general
+          multiple: false
+          searchable: true
+          taggable: false
+          push_tags: false
+          cast_booleans: false
+          type: select
+          localizable: true
+          listable: false
+          display: 'Open Graph description'
+          instructions_position: above
+      -
+        handle: seotamic_custom_open_graph_description
+        field:
+          input_type: text
+          character_limit: 200
+          type: textarea
+          localizable: true
+          listable: false
+          display: 'Custom Open Graph description'
+          if:
+            seotamic_open_graph_description: 'equals custom'
+          instructions_position: above
+          antlers: false
+      -
+        handle: seotamic_twitter_title
+        field:
+          options:
+            title: Title
+            general: General
+            custom: Custom
+          clearable: false
+          default: title
+          multiple: false
+          searchable: true
+          taggable: false
+          push_tags: false
+          cast_booleans: false
+          type: select
+          localizable: true
+          listable: false
+          display: 'Twitter title'
+          instructions_position: above
+      -
+        handle: seotamic_custom_twitter_title
+        field:
+          input_type: text
+          character_limit: 100
+          type: text
+          localizable: true
+          listable: false
+          display: 'Custom Twitter title'
+          if:
+            seotamic_twitter_title: 'equals custom'
+          instructions_position: above
+          antlers: false
+      -
+        handle: seotamic_twitter_description
+        field:
+          options:
+            meta: 'Meta description'
+            general: 'General description'
+            custom: Custom
+          clearable: false
+          default: general
+          multiple: false
+          searchable: true
+          taggable: false
+          push_tags: false
+          cast_booleans: false
+          type: select
+          localizable: true
+          listable: false
+          display: 'Twitter description'
+          instructions_position: above
+      -
+        handle: seotamic_custom_twitter_description
+        field:
+          input_type: text
+          character_limit: 200
+          type: textarea
+          localizable: true
+          listable: false
+          display: 'Custom Twitter description'
+          if:
+            seotamic_twitter_description: 'equals custom'
+          instructions_position: above
+          antlers: false
+      -
+        handle: seotamic_image
+        field:
+          container: assets
+          mode: grid
+          restrict: false
+          allow_uploads: true
+          max_files: 1
+          type: assets
+          instructions: "If not set, the general image will be used. It's best to use an image with a 1.91:1 aspect ratio that is at least 1200px wide for universal support. The image will be resized to 1200 width."
+          localizable: true
+          listable: false
+          display: Image
+          instructions_position: above
+          show_filename: true
+title: Events

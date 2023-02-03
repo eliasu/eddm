@@ -1,0 +1,18 @@
+title: set_3_colums
+fields:
+  -
+    handle: columns
+    field:
+      mode: stacked
+      reorderable: true
+      display: Columns
+      type: grid
+      icon: grid
+      listable: hidden
+      instructions_position: above
+      fields:
+        -
+          import: fs_1_column
+      max_rows: 3
+      min_rows: 3
+      instructions: 'Drag''n''drop to rearrange'

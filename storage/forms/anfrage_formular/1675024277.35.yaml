@@ -1,0 +1,12 @@
+form_name: 'Richard Wellbrock'
+adresse: 'Buchenweg 10, 27616 Beverstedt'
+form_email: dieckwell.bokel@t-online.de
+telefonnummer: '0160 9798 1692'
+angebot:
+  - übernachten
+  - essen
+zeitraum: '18.05.2023 - 21.05.2023'
+personenanzahl: '3'
+deine_nachricht: 'Hallo, wir würden gern einige Tage die KLP erleben.'
+newsletter:
+  - 'In den Newsletter eintragen'

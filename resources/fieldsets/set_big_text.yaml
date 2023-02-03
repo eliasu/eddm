@@ -1,0 +1,44 @@
+title: set_big_text
+fields:
+  -
+    handle: text_color
+    field:
+      options:
+        black: Black
+        blue: Blue
+        white: White
+      multiple: false
+      clearable: false
+      searchable: false
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: black
+      display: 'Text Color'
+      type: select
+      icon: select
+      width: 50
+      listable: hidden
+      instructions_position: above
+  -
+    handle: background_color
+    field:
+      options:
+        none: None
+        blue: Blue
+        white: White
+      multiple: false
+      clearable: false
+      searchable: true
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: none
+      display: 'Background Color'
+      type: select
+      icon: select
+      width: 50
+      listable: hidden
+      instructions_position: above
+  -
+    import: fs_bard

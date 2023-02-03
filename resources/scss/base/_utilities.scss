@@ -1,0 +1,13 @@
+.object-cover {
+   object-fit: cover;
+   width: 100%;
+   height: 100%;
+}
+
+.blur {
+   pointer-events: none;
+}
+
+.no-click {
+   cursor: not-allowed !important;
+}

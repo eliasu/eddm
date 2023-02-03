@@ -1,0 +1,37 @@
+name: Elias
+super: true
+id: 83f8acb4-1aaa-4047-87ad-49aef2339080
+password_hash: $2y$10$JAXaSjrJ6dbkRhKVHlVyauk1bF56y8NoymubLlWUtLptTMRnCKOJa
+preferences:
+  forms:
+    newsletter:
+      columns:
+        - datestamp
+        - form_email
+      per_page: 500
+    anfrage_formular:
+      columns:
+        - datestamp
+        - form_name
+        - form_email
+        - angebot
+        - zeitraum
+        - personenanzahl
+  collections:
+    events:
+      columns:
+        - title
+        - tags
+        - dates
+        - date_type
+        - slug
+      after_save: continue_editing
+    globals:
+      columns:
+        - title
+        - headline_txt
+        - text_bard
+    pages:
+      after_save: continue_editing
+    asd:
+      after_save: continue_editing
