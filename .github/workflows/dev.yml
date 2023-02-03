@@ -59,4 +59,4 @@ jobs:
           php please queue:restart
           php please search:update --all
           php artisan up
-          echo "Dev Deployment finished!"
+          echo "Dev Deployment finished!!"
