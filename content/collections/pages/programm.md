@@ -20,7 +20,7 @@ text_bard:
         text: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
 template: events/index
 updated_by: 83f8acb4-1aaa-4047-87ad-49aef2339080
-updated_at: 1675383263
+updated_at: 1675178413
 event: 2e69fad1-2fe4-4fc7-91f3-d37849709d71
 text_field: 'Hier kommen noch die Settings.'
 big_text_bard:
@@ -42,7 +42,7 @@ big_text_top_bard:
     attrs:
       values:
         type: button
-        link_name_txt: "Let's go!"
+        link_name_txt: 'Let''s go!'
         link_type_url: googl.de
 ´text_color: black
 ´background_color: none
@@ -56,7 +56,6 @@ big_text_top_bard:
 disable_eye-catcher: true
 components:
   -
-    id: LSUqah6T
     text_color: blue
     background_color: white
     text_bard:
@@ -69,7 +68,6 @@ components:
       -
         type: set
         attrs:
-          id: 17o52nEa
           values:
             type: link
             link_name_txt: 'ne E-Mail'
@@ -78,10 +76,6 @@ components:
             target_blank: false
             link_type: email
     type: big_text_component
-    enabled: true
-  -
-    id: ldnrxp6a
-    type: big_event_component
     enabled: true
 seotamic_title: title
 seotamic_title_prepend: true

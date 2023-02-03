@@ -56,32 +56,27 @@ text_bard:
         text: ' genießen sowie in unserem Kreativ- und InnovationsLab arbeiten und gestalten.'
 grid_field:
   -
-    id: aafD2Lpv
     link_link: 'entry::7122e322-3b33-466c-b97c-f42a808f6b42'
-    images_img: 'image-2023-01-23-16:21:06.jpg'
+    images_img: 23_EDdMxWendlandleben_ExperimentLandleben_04_00.jpg
     underline_txt: '14-tägiges Workation Special'
   -
-    id: JC0TfGLh
     link_link: 'entry::85656048-9eb4-4a84-8b63-4f792696998f'
-    images_img: klp_22_fuchbauallstars.png
+    images_img: Unterkunft_Intro_IMG_6172.jpg
     underline_txt: 'Gemeinschaftlich zuhause fühlen ab 75€/Nacht'
   -
-    id: LVL8bYd3
     link_link: 'entry::2f1c364d-59df-4c82-8e25-0381462b2ac0'
-    images_img: test2.jpg
+    images_img: Home_Workation_TeamOffsite_zentralnorden_croped.jpg
     underline_txt: Teambuilding
   -
-    id: 5TGUj86z
     link_link: 'entry::1ec56431-8b60-4b5e-8fab-e56716c1f498'
-    images_img: Testbild.jpg
+    images_img: max-van-den-oetelaar-buymYm3RQ3U-unsplash.jpg
     underline_txt: 'Mantra Mantra'
   -
-    id: ggIulMMm
     link_link: 'entry::94bb3526-f123-4786-9902-ca74e30a706a'
-    images_img: bildschirmfoto-2023-02-03-um-00.49.26.png
+    images_img: Co-working_.jpg
     underline_txt: 'Workation What?'
 updated_by: 83f8acb4-1aaa-4047-87ad-49aef2339080
-updated_at: 1675381783
+updated_at: 1675251951
 big_text_txt:
   -
     type: paragraph
@@ -91,9 +86,13 @@ big_text_txt:
         text: 'Auf unserem Hof im Wendland könnt ihr in unserem Gästehaus übernachten, Seminare Workshops und Retreats ausrichten und buchen, Kunst- und Kulturangebote genießen sowie in unserem Kreativ- und InnovationsLab arbeiten und gestalten.'
 components:
   -
-    id: R73eJcdS
     headline_txt: 'Übernachten und Träumen'
     component_template: pano_slider
+    images_img:
+      - Traeumerei_DSC09422.jpg
+      - Unterkunft_Home_02_traumerei.jpg
+      - Unterkunft_Home_03_.jpg
+      - Traeumerei_DSC09805.jpg
     background_color: none
     text_color: black
     text_bard:
@@ -106,7 +105,6 @@ components:
       -
         type: set
         attrs:
-          id: 12fGEvff
           values:
             type: link
             link_name_txt: 'Mehr Details'
@@ -117,9 +115,15 @@ components:
     type: image_text_component
     enabled: true
   -
-    id: e3JfR1aJ
     headline_txt: 'Kunst und Kultur - Futter für´s Herz'
     component_template: pano_slider
+    images_img:
+      - US_20210907_122-2.jpg
+      - Kultur_5M7A7084.jpg
+      - Kultur_5M7A9129.jpg
+      - Kultur_5M7A6905_screen.jpg
+      - Kultur_5M7A6527.jpg
+      - Kultur_5M7A6797.jpg
     background_color: none
     text_color: black
     text_bard:
@@ -132,7 +136,6 @@ components:
       -
         type: set
         attrs:
-          id: iHVUDsFd
           values:
             type: link
             link_name_txt: 'Ab zum Programm'
@@ -143,7 +146,6 @@ components:
     type: image_text_component
     enabled: true
   -
-    id: jFP5A5e5
     headline_txt: 'Workation: Arbeiten und Erholen an einem Ort? Im Team oder alleine?'
     component_template: pano_slider
     background_color: none
@@ -157,10 +159,16 @@ components:
             text: 'Ihr habt Lust Reisen in einem neuen Kontext auszuprobieren und Urlaub und Arbeiten an einem Ort mitten in der Natur zu verbinden? Ihr arbeitet an eurer Vision oder wollt ein neues Projekt kick-starten? Dann seit ihr hier genau richtig.'
     type: image_text_component
     enabled: true
+    images_img:
+      - Home_Workation_5M7A8387.jpg
+      - Home_Workation_210509_MIII_0012.jpg
+      - Home_Workation_IMG_8163_1080x1080.jpg
+      - Home_Workation_5M7A6051.jpg
   -
-    id: XYYo0SUr
     headline_txt: 'Protopia Lab'
     component_template: pano_slider
+    images_img:
+      - susan-wilkinson-95VpQJOr2AE-unsplash.jpg
     background_color: none
     text_color: black
     text_bard:
@@ -173,9 +181,14 @@ components:
     type: image_text_component
     enabled: false
   -
-    id: p8baMAwS
     headline_txt: 'Essen und Trinken in der Kaoskantine'
     component_template: pano_slider
+    images_img:
+      - gastro_004.jpg
+      - gastro_001.jpg
+      - gastro_002.jpg
+      - gastro_003.jpg
+      - gastro_005.jpg
     background_color: none
     text_color: black
     text_bard:
@@ -188,7 +201,6 @@ components:
       -
         type: set
         attrs:
-          id: Kums1DiM
           values:
             type: link
             link_name_txt: 'Mehr Details'
@@ -226,4 +238,5 @@ seotamic_open_graph_title: general
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
+images_img: salderatzen_hero.jpg
 ---
