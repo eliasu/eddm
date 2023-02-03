@@ -1,7 +1,6 @@
 title: Events
 template: events/show
 layout: layout
-mount: 9a127640-9cfd-4e7b-b2ea-8f02e5b90fe5
 taxonomies:
   - tags
 revisions: false
@@ -10,7 +9,3 @@ sort_dir: asc
 date_behavior:
   past: public
   future: private
-preview_targets:
-  -
-    label: Entry
-    url: '{permalink}'
