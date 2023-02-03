@@ -24,7 +24,7 @@ jobs:
     
     - name: 🔨 Build
       run: |
-        npm run build
+        npm run production
     
     - name: 📦 Install Composer dependencies
       uses: php-actions/composer@v6
@@ -51,7 +51,7 @@ jobs:
           (php artisan down) || true
           composer install
           npm install
-          npm run build
+          npm run production
           php please cache:clear
           php please config:cache
           php please route:cache
