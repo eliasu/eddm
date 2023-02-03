@@ -100,6 +100,9 @@ return [
         resource_path('preferences.yaml'),
         storage_path('forms'),
         public_path('assets'),
+        public_path('favicons'),
+        public_path('social_images'),
+        public_path('images'),
     ],
 
     /*
@@ -126,6 +129,8 @@ return [
     */
 
     'commands' => [
+        'git add composer.json',
+        'git add composer.lock',
         'git add {{ paths }}',
         'git -c "user.name={{ name }}" -c "user.email={{ email }}" commit -m "{{ message }}"',
     ],
