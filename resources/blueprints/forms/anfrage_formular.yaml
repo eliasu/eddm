@@ -15,7 +15,6 @@ sections:
           placeholder: 'Vor-, Nachname'
           validate:
             - required
-          read_only: false
       -
         handle: adresse
         field:
@@ -27,7 +26,6 @@ sections:
           icon: text
           listable: hidden
           instructions_position: above
-          read_only: false
       -
         handle: form_email
         field:
@@ -41,7 +39,6 @@ sections:
           placeholder: E-Mailadresse
           validate:
             - required
-          read_only: false
       -
         handle: telefonnummer
         field:
@@ -52,9 +49,8 @@ sections:
           icon: text
           listable: hidden
           instructions_position: above
-          read_only: false
       -
-        handle: angebot
+        handle: angebote
         field:
           inline: false
           options:
@@ -66,7 +62,8 @@ sections:
           icon: checkboxes
           listable: hidden
           instructions_position: above
-          read_only: false
+          visibility: visible
+          always_save: false
       -
         handle: zeitraum
         field:
@@ -91,7 +88,6 @@ sections:
           instructions_position: above
           validate:
             - required
-          read_only: false
       -
         handle: deine_nachricht
         field:
@@ -103,7 +99,6 @@ sections:
           instructions_position: above
           validate:
             - required
-          read_only: false
       -
         handle: newsletter
         field:
@@ -114,4 +109,3 @@ sections:
           instructions_position: above
           options:
             'In den Newsletter eintragen': 'In den Newsletter eintragen'
-          read_only: false
