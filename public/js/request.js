@@ -2204,6 +2204,7 @@ function setFormError() {
   formSubmit.classList.add("fs_error");
   formSubmit.textContent = "Fehler. Bitte versuche es erneut.";
   console.log("Error with submitting …");
+  console.log(error);
 } // add all eventlisteners for buttons etc.
 
 
@@ -2224,7 +2225,7 @@ function addListeners() {
 document.addEventListener('readystatechange', function (event) {
   switch (document.readyState) {
     case "complete":
-      console.log("Hello Sir!");
+      console.log("Start Up Form Logic!");
       addListeners();
       break;
   }
