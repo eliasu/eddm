@@ -2224,6 +2224,7 @@ function addListeners() {
 document.addEventListener('readystatechange', function (event) {
   switch (document.readyState) {
     case "complete":
+      console.log("Hello Sir!");
       addListeners();
       break;
   }

@@ -3280,7 +3280,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _finsweet_cookie_consent__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @finsweet/cookie-consent */ "./node_modules/@finsweet/cookie-consent/fs-cc.js");
 
 
-var debug = false;
+var debug = true;
 
 function disableLogger() {
   window['console']['log'] = function () {};

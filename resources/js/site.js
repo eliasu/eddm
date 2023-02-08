@@ -1,7 +1,7 @@
 import 'lazysizes';
 import '@finsweet/cookie-consent';
 
-let debug = false;
+let debug = true;
 
 function disableLogger() {
 	window['console']['log'] = function() {};
