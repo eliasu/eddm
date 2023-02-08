@@ -1,0 +1,12 @@
+form_name: 'Peter Neuberger'
+adresse: 'Salderatzen 3'
+form_email: moos@moeglichkeit.org
+telefonnummer: '01724324666'
+angebot:
+  - null
+  - übernachten
+zeitraum: 12.5.23
+personenanzahl: '4'
+deine_nachricht: 'Hi gibts platz'
+newsletter:
+  - null

@@ -1,11 +1,14 @@
 title: 'Newsletter Formular'
 email:
   -
-    to: hallo@moeglichkeit.org
+    id: MSEe0jJE
+    to: elias@commandg.de
     reply_to: '{{form_email}}'
     subject: 'Neue Newsletter Anfrage: {{form_email}}'
     from: 'Ein Ding der Moeglichkeit <noreply@eindingdermoeglichkeit.com>'
   -
+    id: cW82YkW2
     to: '{{form_email}}'
     html: newsletter-autorespond-template
     text: newsletter-autorespond-template
+    subject: 'Ein Ding der Möglichkeit | Newsletter Anmeldung'
