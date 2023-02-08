@@ -2204,7 +2204,6 @@ function setFormError() {
   formSubmit.classList.add("fs_error");
   formSubmit.textContent = "Fehler. Bitte versuche es erneut.";
   console.log("Error with submitting …");
-  console.log(error);
 } // add all eventlisteners for buttons etc.
 
 
@@ -2217,6 +2216,7 @@ function addListeners() {
     axios2.post(form.action, formData).then(function (response) {
       setFormSuccess();
     })["catch"](function (error) {
+      console.log(error);
       setFormError();
     });
   });
