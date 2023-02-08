@@ -16,7 +16,7 @@ mix
 	.js("resources/js/events.js", "public/js")
 	.js(['resources/js/site.js', 
 		'resources/js/nav.js',
-		// 'resources/js/newsletter-footer.js',
+		'resources/js/newsletter-footer.js',
 		'resources/js/eye-catcher.js',
 	], 'public/js/app.js')
 	.sass("resources/scss/main.scss", "public/css")
