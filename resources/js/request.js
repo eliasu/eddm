@@ -1,9 +1,8 @@
 const axios2 = require('axios').default;
-
-let form = document.getElementById("form-request");
-let formSubmit = document.getElementById("form_submit");
-
 axios2.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
+
+let form; 
+let formSubmit; 
 
 function looseFocus() {
 	let el = document.querySelector( ':focus' );
@@ -43,6 +42,10 @@ function setFormError() {
 
 // add all eventlisteners for buttons etc.
 function addListeners() {
+	form = document.getElementById("form-request");
+	formSubmit = document.getElementById("form_submit");
+
+	
 	form.addEventListener("submit", function (e) {
 		setFormPending();
 

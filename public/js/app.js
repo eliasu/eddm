@@ -3377,7 +3377,6 @@ function setFormError() {
   looseFocus();
   hideForm();
   console.log("Error with submitting …");
-  console.log(error);
 } // add all eventlisteners for buttons etc.
 
 
@@ -3393,6 +3392,7 @@ function addListeners() {
     axios.post(form.action, formData).then(function (response) {
       setFormSuccess();
     })["catch"](function (error) {
+      console.log(error);
       setFormError();
     });
   });

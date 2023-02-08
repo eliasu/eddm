@@ -2172,9 +2172,9 @@ module.exports = {
 
 var axios2 = (__webpack_require__(/*! axios */ "./node_modules/axios/index.js")["default"]);
 
-var form = document.getElementById("form-request");
-var formSubmit = document.getElementById("form_submit");
 axios2.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
+var form;
+var formSubmit;
 
 function looseFocus() {
   var el = document.querySelector(':focus');
@@ -2208,6 +2208,8 @@ function setFormError() {
 
 
 function addListeners() {
+  form = document.getElementById("form-request");
+  formSubmit = document.getElementById("form_submit");
   form.addEventListener("submit", function (e) {
     setFormPending();
     var formData = new FormData(form);
