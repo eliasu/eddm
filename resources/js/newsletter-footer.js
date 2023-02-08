@@ -38,6 +38,7 @@ function setFormError() {
 	hideForm();
 
 	console.log("Error with submitting …");
+	console.log(error)
 }
 
 // add all eventlisteners for buttons etc.

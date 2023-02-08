@@ -39,7 +39,6 @@ function setFormError() {
 	formSubmit.textContent = "Fehler. Bitte versuche es erneut.";
 
 	console.log("Error with submitting …");
-	console.log(error)
 }
 
 // add all eventlisteners for buttons etc.
@@ -56,6 +55,7 @@ function addListeners() {
 				setFormSuccess();
 			})
 			.catch(error => {
+				console.log(error)
 				setFormError();
 			})
 	});
