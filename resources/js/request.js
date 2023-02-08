@@ -39,6 +39,7 @@ function setFormError() {
 	formSubmit.textContent = "Fehler. Bitte versuche es erneut.";
 
 	console.log("Error with submitting …");
+	console.log(error)
 }
 
 // add all eventlisteners for buttons etc.
@@ -63,7 +64,7 @@ function addListeners() {
 document.addEventListener('readystatechange', (event) => {
 	switch (document.readyState) {
 		case "complete":
-			console.log("Hello Sir!")
+			console.log("Start Up Form Logic!")
 			addListeners();
 			break;
 	}
