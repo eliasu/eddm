@@ -26,7 +26,7 @@
 			</div>
 		</div>
 
-		<div class="flex-left footer__newsletter-wrap">
+		{{# <div class="flex-left footer__newsletter-wrap">
 			<p>{{ footer_settings:headline_newsletter_txt }}</p>
 
 			{{ form:newsletter id="form-footer"}}
@@ -41,7 +41,7 @@
 					{{ /fields }}
 					<input type="text" class="honeypot" name="{{ honeypot ?? 'honeypot' }}">
 			{{ /form:newsletter }}
-		</div>
+		</div> #}}
 	</div>
 	<div class="footer__copyright">
 		© {{ now format="Y" }} — Ein Ding der Möglichkeit eG
