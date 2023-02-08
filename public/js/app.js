@@ -3280,9 +3280,13 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _finsweet_cookie_consent__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @finsweet/cookie-consent */ "./node_modules/@finsweet/cookie-consent/fs-cc.js");
 
 
-var debug = true;
+var debug = false;
 
 function disableLogger() {
+  console.log("#####");
+  console.log("JS Debug Off => See 'site.js' ");
+  console.log("#####");
+
   window['console']['log'] = function () {};
 }
 

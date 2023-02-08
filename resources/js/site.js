@@ -1,9 +1,12 @@
 import 'lazysizes';
 import '@finsweet/cookie-consent';
 
-let debug = true;
+let debug = false;
 
 function disableLogger() {
+	console.log("#####")
+	console.log("JS Debug Off => See 'site.js' ")
+	console.log("#####")
 	window['console']['log'] = function() {};
 }
 
