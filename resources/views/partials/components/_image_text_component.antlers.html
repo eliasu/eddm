@@ -1,7 +1,5 @@
 {{ section:custom-js-swiper }}
-	{{# <script src="{{ mix src='/js/swiper.js' }}"></script> #}}
 	{{ vite src='resources/js/swiper.js' }}
-	{{# <script type="module" src="/js/swiper.js"></script> #}}
 {{ /section:custom-js-swiper }}
 
 <section class="{{ if background_color == "none" }}section-wrapper{{else}}section-wrapper--{{ background_color }}{{ /if }}{{ if text_color != "black" }} text--{{ text_color }}{{ /if }} grid">
