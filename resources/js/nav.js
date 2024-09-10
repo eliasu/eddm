@@ -14,8 +14,6 @@ function initNav() {
 
    nav_burger.addEventListener("click", nav_action);
    nav_close.addEventListener("click", nav_action);
-
-   console.log("hello du");
 }
 
 
