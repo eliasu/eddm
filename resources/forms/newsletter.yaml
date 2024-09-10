@@ -6,16 +6,10 @@ mailchimp:
     audience_id: 5b78d3f1ec
     tag: null
     tag_field: null
-    disable_opt_in: false
-    check_consent: false
-    consent_field: null
+    disable_opt_in: true
+    check_consent: true
+    consent_field: form_consent
     marketing_permissions_field: null
     marketing_permissions_field_ids: {  }
     merge_fields: {  }
 title: 'Newsletter Formular'
-email:
-  -
-    id: m0vp47xr
-    to: elias@commandg.de
-    subject: 'Test checj'
-    html: test

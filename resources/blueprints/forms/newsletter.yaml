@@ -15,5 +15,11 @@ tabs:
           -
             handle: form_consent
             field:
-              type: toggle
-              display: 'form consent'
+              options:
+                -
+                  key: consent
+                  value: '<span>Ich habe die <a href="/dsgvo">Datenschutzerklärung</a> akzeptiert.<span>'
+              type: checkboxes
+              display: 'Form Consent'
+              validate:
+                - required
