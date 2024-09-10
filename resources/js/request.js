@@ -1,6 +1,5 @@
 // const axios2 = require('axios').default;
 import axios2 from 'axios';
-
 axios2.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 
 let form; 

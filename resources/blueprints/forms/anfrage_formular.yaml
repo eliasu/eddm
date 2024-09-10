@@ -1,129 +1,81 @@
-sections:
+tabs:
   main:
     display: Main
-    fields:
+    sections:
       -
-        handle: form_name
-        field:
-          input_type: text
-          antlers: false
-          display: 'Vor-, Nachname'
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          placeholder: 'Vor-, Nachname'
-          validate:
-            - required
-      -
-        handle: Straße_Nr
-        field:
-          placeholder: 'Straße Nr, PLZ Stadt'
-          input_type: text
-          antlers: false
-          display: 'Straße Nr.'
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-      -
-        handle: plz_stadt
-        field:
-          placeholder: 'PLZ Stadt'
-          input_type: text
-          antlers: false
-          display: 'PLZ Stadt'
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-      -
-        handle: form_email
-        field:
-          input_type: email
-          antlers: false
-          display: E-Mail
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          placeholder: E-Mail
-          validate:
-            - required
-          visibility: visible
-          always_save: false
-      -
-        handle: telefonnummer
-        field:
-          input_type: text
-          antlers: false
-          display: Telefonnummer
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-      -
-        handle: angebote
-        field:
-          inline: false
-          options:
-            übernachten: übernachten
-            'Spaces mieten': 'Spaces mieten'
-            essen: essen
-            'Workshop buchen': 'Workshop buchen'
-          display: 'Ich möchte bei euch'
-          type: checkboxes
-          icon: checkboxes
-          listable: hidden
-          instructions_position: above
-          visibility: visible
-          always_save: false
-      -
-        handle: zeitraum
-        field:
-          input_type: text
-          antlers: false
-          display: Zeitraum
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          validate:
-            - required
-      -
-        handle: personenanzahl
-        field:
-          input_type: text
-          antlers: false
-          display: Personenanzahl
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          validate:
-            - required
-      -
-        handle: deine_nachricht
-        field:
-          antlers: false
-          display: 'Deine Nachricht'
-          type: textarea
-          icon: textarea
-          listable: hidden
-          instructions_position: above
-          validate:
-            - required
-      -
-        handle: newsletter
-        field:
-          inline: false
-          type: checkboxes
-          icon: checkboxes
-          listable: hidden
-          instructions_position: above
-          options:
-            'In den Newsletter eintragen': 'In den Newsletter eintragen'
+        fields:
+          -
+            handle: form_name
+            field:
+              display: 'Vor-, Nachname'
+              type: text
+              placeholder: 'Vor-, Nachname'
+              validate:
+                - required
+          -
+            handle: Straße_Nr
+            field:
+              placeholder: 'Straße Nr, PLZ Stadt'
+              display: 'Straße Nr.'
+              type: text
+              always_save: false
+          -
+            handle: plz_stadt
+            field:
+              placeholder: 'PLZ Stadt'
+              display: 'PLZ Stadt'
+              type: text
+              always_save: false
+          -
+            handle: form_email
+            field:
+              input_type: email
+              display: E-Mail
+              type: text
+              placeholder: E-Mail
+              validate:
+                - required
+              always_save: false
+          -
+            handle: telefonnummer
+            field:
+              display: Telefonnummer
+              type: text
+          -
+            handle: angebote
+            field:
+              options:
+                übernachten: übernachten
+                'Spaces mieten': 'Spaces mieten'
+                essen: essen
+                'Workshop buchen': 'Workshop buchen'
+              display: 'Ich möchte bei euch'
+              type: checkboxes
+              always_save: false
+          -
+            handle: zeitraum
+            field:
+              display: Zeitraum
+              type: text
+              validate:
+                - required
+          -
+            handle: personenanzahl
+            field:
+              display: Personenanzahl
+              type: text
+              validate:
+                - required
+          -
+            handle: deine_nachricht
+            field:
+              display: 'Deine Nachricht'
+              type: textarea
+              validate:
+                - required
+          -
+            handle: newsletter_consent
+            field:
+              inline_label: 'In den Newsletter eintragen'
+              type: toggle
+              display: Newsletter

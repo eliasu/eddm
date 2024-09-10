@@ -1,0 +1,11 @@
+form_name: RTest
+Straße_Nr: asd
+form_email: internetanmeldungen@gmx.net
+telefonnummer: '1231'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '123'
+personenanzahl: '123'
+deine_nachricht: asd
+newsletter_consent: true

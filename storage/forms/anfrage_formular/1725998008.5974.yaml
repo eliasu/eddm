@@ -1,0 +1,11 @@
+form_name: asd
+Straße_Nr: asd
+plz_stadt: asd
+form_email: asd@asd.desa
+angebote:
+  - 'Spaces mieten'
+  - essen
+zeitraum: '123'
+personenanzahl: '123'
+deine_nachricht: asd
+newsletter_consent: false

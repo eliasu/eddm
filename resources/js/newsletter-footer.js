@@ -6,7 +6,13 @@ let form;
 let formSubmit;
 
 function hideForm() {
-	e = form.getElementsByClassName('text-s');
+	let e = form.getElementsByClassName('text-s');
+	
+	for (var i = 0; i < e.length; i++) {
+		e[i].style.display = 'none';
+  	}
+	
+	e = form.getElementsByClassName('f-check');
 	
 	for (var i = 0; i < e.length; i++) {
 		e[i].style.display = 'none';

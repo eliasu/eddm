@@ -13,13 +13,10 @@ tabs:
               validate:
                 - required
           -
-            handle: form_consent
+            handle: consent
             field:
-              options:
-                -
-                  key: consent
-                  value: '<span>Ich habe die <a href="/dsgvo">Datenschutzerklärung</a> akzeptiert.<span>'
-              type: checkboxes
-              display: 'Form Consent'
+              inline_label: '<span>Ich habe die <a href="/dsgvo">Datenschutzerklärung</a> akzeptiert.<span>'
+              type: toggle
+              display: Consent
               validate:
                 - required

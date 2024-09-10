@@ -1,0 +1,11 @@
+form_name: asd
+Straße_Nr: asd
+plz_stadt: asd
+form_email: asd@test.de
+angebote:
+  - 'Spaces mieten'
+  - 'Workshop buchen'
+zeitraum: asd
+personenanzahl: '123'
+deine_nachricht: asd
+newsletter_consent: true

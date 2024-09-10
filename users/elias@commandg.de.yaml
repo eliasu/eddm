@@ -12,3 +12,9 @@ preferences:
         - zeitraum
         - angebote
         - form_email
+        - newsletter_consent
+    newsletter:
+      columns:
+        - datestamp
+        - form_email
+        - consent
