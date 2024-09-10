@@ -39,3 +39,5 @@ preferences:
   assets:
     assets:
       per_page: 500
+  locale: de
+  favorites: {  }
