@@ -15,8 +15,11 @@ export default defineConfig({
             refresh: true,
             input: [
                 'resources/css/site.css',
-                'resources/js/site.js',
                 'resources/scss/main.scss',
+                'resources/js/site.js',
+                'resources/js/request.js',
+                'resources/js/swiper.js',
+                'resources/js/events.js',
 
                 // Control Panel assets.
                 // https://statamic.dev/extending/control-panel#adding-css-and-js-assets

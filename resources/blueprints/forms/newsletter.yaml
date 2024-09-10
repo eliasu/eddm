@@ -1,17 +1,19 @@
-sections:
+tabs:
   main:
     display: Main
-    fields:
+    sections:
       -
-        handle: form_email
-        field:
-          input_type: email
-          antlers: false
-          display: 'E-Mail Adresse'
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
-          validate:
-            - required
-          read_only: false
+        fields:
+          -
+            handle: form_email
+            field:
+              input_type: email
+              display: 'E-Mail Adresse'
+              type: text
+              validate:
+                - required
+          -
+            handle: form_consent
+            field:
+              type: toggle
+              display: 'form consent'

@@ -31,13 +31,21 @@
 
 			{{ form:newsletter id="form-footer"}}
 					{{ fields }}
-						<div>
+					<div>
+						{{ if type == "text" }}
 							<div class="f-text__field--newsletter">
 								<input class="text-s" placeholder=" " name="form_email" type="email" required>
 								<label class="text-s">{{display}}</label>
 								<button class="button" id="form-footer_submit" type="submit">Eintragen</button>
 							</div>
+							{{ else if type == "toggle" }}
+
+							<div class="f-check">
+								{{field}}
+							</div>
+							{{ /if }}
 						</div>
+						
 					{{ /fields }}
 					<input type="text" class="honeypot" name="{{ honeypot ?? 'honeypot' }}">
 			{{ /form:newsletter }}
