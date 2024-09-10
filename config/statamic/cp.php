@@ -53,8 +53,36 @@ return [
     */
 
     'widgets' => [
-        'getting_started',
+        [
+            'type' => 'collection',
+            'collection' => 'pages',
+            'width' => 50,
+            'limit' => 25,
+            'sort' => "title:asc",
+        ],
+        [
+            'type' => 'collection',
+            'collection' => 'events',
+            'width' => 50,
+            'limit' => 12,
+            'sort' => "date:desc",
+        ], 
+        [
+            'type' => 'form',
+            'form' => 'anfrage_formular',
+            'fields' => ['form_name','form_email','zeitraum'],
+            'width' => 100,
+            'limit' => 12,
+        ],
+        [
+            'type' => 'form',
+            'form' => 'newsletter',
+            'fields' => ['form_email'],
+            'width' => 100,
+            'limit' => 12,
+        ],
     ],
+
 
     /*
     |--------------------------------------------------------------------------

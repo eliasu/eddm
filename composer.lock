@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "dae87b3254871a17a0324ba6b5f596f8",
+    "content-hash": "e7dbf2bb79b7992b153319143ad55620",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -7743,6 +7743,51 @@
                 "source": "https://github.com/webmozarts/assert/tree/1.11.0"
             },
             "time": "2022-06-03T18:03:27+00:00"
+        },
+        {
+            "name": "webographen/statamic-admin-log",
+            "version": "v1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/stoffelio/statamic-admin-log.git",
+                "reference": "ead221219d814141154a8de5add46c19afd5d50f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/stoffelio/statamic-admin-log/zipball/ead221219d814141154a8de5add46c19afd5d50f",
+                "reference": "ead221219d814141154a8de5add46c19afd5d50f",
+                "shasum": ""
+            },
+            "require": {
+                "statamic/cms": "^3.0||^4.0||^5.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Statamic Admin Log",
+                    "description": "Logs all user actions in the control panel"
+                },
+                "laravel": {
+                    "providers": [
+                        "Webographen\\AdminLog\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Webographen\\AdminLog\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Logs all user actions in the control panel",
+            "support": {
+                "issues": "https://github.com/stoffelio/statamic-admin-log/issues",
+                "source": "https://github.com/stoffelio/statamic-admin-log/tree/v1.1.0"
+            },
+            "time": "2024-05-21T09:28:20+00:00"
         },
         {
             "name": "webonyx/graphql-php",
