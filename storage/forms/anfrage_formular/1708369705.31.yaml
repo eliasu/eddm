@@ -1,0 +1,14 @@
+form_name: 'Jan Endrik Niermann'
+Straße_Nr: 'Vogelhüttendeich 102'
+plz_stadt: '21107 Hamburg'
+form_email: jan.niermann@gmx.net
+telefonnummer: '015116726894'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 25.03.-29.03.24
+personenanzahl: '1'
+deine_nachricht: "Hallo,\r\nich würde gerne im genannten Zeitraum zu einer Workation kommen. Geht das :)?\r\nLiebe Grüße \r\nJan"
+newsletter:
+  - null

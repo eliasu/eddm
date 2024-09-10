@@ -1,0 +1,13 @@
+form_name: 'Gunther Lorch'
+Straße_Nr: 'Ludwig Jahnstrasse 9'
+plz_stadt: '38551 Vollbuettel'
+form_email: gunther.lorch@t-online.de
+telefonnummer: '015128956925'
+angebote:
+  - null
+  - übernachten
+zeitraum: 10-11.5
+personenanzahl: '4'
+deine_nachricht: "Grüsse\r\nG.Lorch"
+newsletter:
+  - null

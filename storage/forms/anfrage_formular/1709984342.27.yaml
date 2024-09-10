@@ -1,0 +1,13 @@
+form_name: 'Sia Korthaus'
+Straße_Nr: 'Moselstr 5'
+plz_stadt: '56294 Münstermaifeld'
+form_email: siakorthaus@gmx.de
+telefonnummer: '0174 9070202'
+angebote:
+  - null
+  - übernachten
+zeitraum: 13.-17.05.2024
+personenanzahl: '1'
+deine_nachricht: "Moin!\r\nAuf dem Belegungsplan steht \"teilweise belegt\". Was wäre denn noch zu haben in der Zeit?\r\nLiebe Grüße Sia Korthaus"
+newsletter:
+  - null

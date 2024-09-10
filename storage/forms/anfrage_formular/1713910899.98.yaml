@@ -1,0 +1,14 @@
+form_name: 'Ute Speckels'
+Straße_Nr: 'Am Esch 12b'
+plz_stadt: '26203 Wardenburg'
+form_email: ute.speckels@t-online.de
+telefonnummer: '0170 206 9260'
+angebote:
+  - null
+  - übernachten
+zeitraum: 15.5.-18.5.24
+personenanzahl: '2'
+deine_nachricht: 'Moin, wir haben heute Vormittag telefoniert. Wir möchten ab  15.5. in unserem Bulli bei euch übernachten und bitten um Reservierung eines Stellplätzen.'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

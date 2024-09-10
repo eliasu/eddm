@@ -1,0 +1,14 @@
+form_name: 'Nele Hüttermann'
+Straße_Nr: 'Gänseblümchenweg 1'
+plz_stadt: '30926 Seelze'
+form_email: nelehuettermann@gmail.com
+telefonnummer: '015254392009'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 13.10.23-15.10.23
+personenanzahl: '8 Erwachsene, 2 Kinder'
+deine_nachricht: "Guten Tag,\r\ngern würden wir als Familie eine schöne Zeit bei Ihnen verbringen. Gern mit der Möglichkeit ein gemeinsamen Aufenhaltsraum zu haben. \r\nLiebe Grüße \r\nNele Hüttermann"
+newsletter:
+  - null

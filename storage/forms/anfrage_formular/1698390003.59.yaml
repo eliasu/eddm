@@ -1,0 +1,14 @@
+form_name: 'Lisa Vogt'
+Straße_Nr: 'Schillerstraße 151'
+plz_stadt: '48155'
+form_email: lisavogt@posteo.de
+telefonnummer: '015226501300'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 29.10.-30.10.
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nWir würden gerne zu zweit (DZ) für eine Nacht auf eurem wunderbaren Hof übernachten. Habt ihr zu der o.g. Zeit noch etwas frei?:)\r\nFreue mich über Rückmeldung.\r\n\r\nBeste Grüße\r\nLisa Vogt"
+newsletter:
+  - null

@@ -1,0 +1,14 @@
+form_name: 'Lena Trumm'
+adresse: 'Wulf-Werum-Straße 3'
+form_email: lena.trumm@werum.de
+telefonnummer: '041318307740'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: 04.04.-05.04.2023
+personenanzahl: '3'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\nunser Vorstand möchte sich in dem o.g. Zeitraum aus dem laufenden Betrieb zurückziehen und benötigt einen verhältnismäßig kleinen Raum und keine besondere Tagungstechnik. Ebenfalls werden drei Zimmer für die eine Nacht inkl. Vollpension etc benötigt. Über ein Angebot von Ihnen freue ich mich. Mit vielen Grüßen aus Lüneburg, Lena Trumm"
+newsletter:
+  - null

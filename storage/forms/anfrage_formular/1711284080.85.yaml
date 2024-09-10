@@ -1,0 +1,13 @@
+form_name: 'Jörg bühler'
+Straße_Nr: 'Mendelssohnstr 53'
+plz_stadt: '22761 hamburg'
+form_email: joerg_buehler01@web.de
+telefonnummer: '01578 744 01 84'
+angebote:
+  - null
+  - übernachten
+zeitraum: 10.5.-12.5.
+personenanzahl: '2'
+deine_nachricht: 'Doppelzimmer mit Bad und Frühstück wenn noch möglich. Viele grüße'
+newsletter:
+  - null

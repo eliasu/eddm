@@ -1,0 +1,49 @@
+<footer class="section-wrapper--footer">
+	<div class="grid--footer">
+		<div class="flex-left footer__details-wrap">
+			<div class="footer__details-item">
+				{{ footer_settings:name_und_adresse_bard }}
+			</div>
+			<div class="footer__details-item">
+				<div class="text-s">{{ footer_settings:telefonnummer_txt }}</div>
+				<a class="text-s" href="mailto:{{ footer_settings:email_adresse_txt }}">{{ footer_settings:email_adresse_txt }}</a>
+			</div>
+			<div class="footer__details-item">
+				<a class="text-s" href="/anfahrt">Anfahrt</a>
+				<a class="text-s" href="{{ footer_settings:google_maps_link }}">Google Maps</a>
+			</div>
+		</div>
+
+		<div class="footer__details-wrap">
+			<div class="flex-left">
+				{{ nav:footer_navigation }}
+					<a class="text-s" href="{{ url }}">{{ title }}</a>
+				{{ /nav:footer_navigation }}
+
+				<div fs-cc="manager">
+					<a class="text-s" role="button" tabindex="0" title="Cookie Preferences" aria-label="Cookie Preferences" fs-cc="open-preferences" href="#">Cookie Settings</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="flex-left footer__newsletter-wrap">
+			<p>{{ footer_settings:headline_newsletter_txt }}</p>
+
+			{{ form:newsletter id="form-footer"}}
+					{{ fields }}
+						<div>
+							<div class="f-text__field--newsletter">
+								<input class="text-s" placeholder=" " name="form_email" type="email" required>
+								<label class="text-s">{{display}}</label>
+								<button class="button" id="form-footer_submit" type="submit">Eintragen</button>
+							</div>
+						</div>
+					{{ /fields }}
+					<input type="text" class="honeypot" name="{{ honeypot ?? 'honeypot' }}">
+			{{ /form:newsletter }}
+		</div>
+	</div>
+	<div class="footer__copyright">
+		© {{ now format="Y" }} — Ein Ding der Möglichkeit eG
+	</div>
+</footer>

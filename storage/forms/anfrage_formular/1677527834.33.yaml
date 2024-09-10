@@ -1,0 +1,15 @@
+form_name: 'Alexandra Dittko'
+Straße_Nr: 'Müdener Weg 6'
+plz_stadt: Hannover
+form_email: aldire@gmx.de
+telefonnummer: '015111800182'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 19.-21.05.2023
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir würden gerne zum obengenannten Zeitraum bei Euch übernachten und Euch und Euer Projekt näher kennenlernen.\r\nSehr gerne würden wir in einem der Bauwagen wohnen oder ein DZ mit Bad nutzen.\r\nBitte gebt uns Bescheid, ob Ihr noch eine Übernachtungsmöglichkeit für uns frei habt.\r\nWir freuen uns auf eine Nachricht von Euch.\r\nHerzliche Grüße aus Hannover\r\nAlexandra Dittko und Michael Henke"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

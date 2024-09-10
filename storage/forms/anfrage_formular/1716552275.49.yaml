@@ -1,0 +1,13 @@
+form_name: 'Siegfried Sacher'
+Straße_Nr: 'Am Pfaffenroth, 24'
+plz_stadt: '61389 Schmitten'
+form_email: info@siggi-sacher.de
+telefonnummer: '060843244'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.06.2024-19.06.2024
+personenanzahl: '1'
+deine_nachricht: 'Bitte EZ mit eigenem Bad'
+newsletter:
+  - null

@@ -1,0 +1,10 @@
+title: set_hero_text
+fields:
+  -
+    handle: headline_txt
+    field: fs_1_column.headline
+    config:
+      display: 'Hero Headline'
+      validate:
+        - required
+      width: 100

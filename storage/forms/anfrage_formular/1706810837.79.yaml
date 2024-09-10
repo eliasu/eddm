@@ -1,0 +1,16 @@
+form_name: 'Sarah Kästner'
+Straße_Nr: 'Wiesendamm 23'
+plz_stadt: '22305 Hamburg'
+form_email: post@sarah-kaestner.de
+telefonnummer: '01736537378'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: März
+personenanzahl: '1'
+deine_nachricht: "Moin!\r\nDas ist ja ein schönes Ding!\r\nGerade drüber gestolpert. Hätte große Lust, Zeit bei euch zu verbringen.\r\nEinfach ein bisschen raus aus der Stadt, bisschen arbeiten (nicht zu viel), Streifzüge, saunieren, bisschen malen und schreiben und nen bisschen nix. Gerne mit Frühstück. Und ne Badewanne!\r\nSo 10-14 Tage.\r\nWas ist da möglich?\r\n\r\nFreue mich riesig über Rückmeldung!\r\nAhoi aus Hamburg\r\nSarah"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,12 @@
+form_name: 'Katja Bechmann'
+Straße_Nr: 'Marienburger Str. 27'
+plz_stadt: '10405 Berlin'
+form_email: katbech@web.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 30.08.-31.08.
+personenanzahl: '2'
+deine_nachricht: 'Habt ihr noch was frei? Gern DZ mit geteiltem Bad. Danke!'
+newsletter:
+  - null

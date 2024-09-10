@@ -1,0 +1,15 @@
+form_name: 'Clarissa Groß'
+Straße_Nr: 'Bei St. Annen 1'
+plz_stadt: Hamburg
+form_email: gross@hhla.de
+telefonnummer: '017631409534'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: '21.08.2023 - 22.08.2023'
+personenanzahl: '10'
+deine_nachricht: "Hallo, \r\n\r\nwir waren schon im letzten Jahr zu unserem Team-Offsite bei euch und haben uns so wohl gefühlt, dass ich bei der Suche nach einer Unterkunft für dieses Jahr auch wieder auf euch gekommen bin. Hättet ihr vom 21.08. - 22.08. noch 10 Zimmer und einen Seminarraum verfügbar? \r\nWir würden morgens am 21.08. anreisen und dann am 22.08. nachmittags abreisen. \r\n\r\nViele Grüße\r\nClarissa"
+newsletter:
+  - null

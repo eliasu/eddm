@@ -1,0 +1,13 @@
+form_name: 'Anne Stroppe'
+Straße_Nr: 'Metzer Str. 30'
+plz_stadt: '50677 Köln'
+form_email: anne.stroppe@gmx.de
+telefonnummer: '015750405242'
+angebote:
+  - null
+  - übernachten
+zeitraum: 02.09.-06.09.
+personenanzahl: '1'
+deine_nachricht: "Liebes Team beim Ding der Möglichkeit,\r\nich wollte anfragen ob es ein der ersten Septemberwoche noch Kapazitäten für ein Workation Bundle verfügbar sind? Und auch in wie weit man 1 oder 2 Nächte noch dranhängen könnte.\r\nDanke euch und viele Grüße\r\nAnne"
+newsletter:
+  - null

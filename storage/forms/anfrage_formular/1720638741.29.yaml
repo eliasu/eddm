@@ -1,0 +1,14 @@
+form_name: 'Mia Kilian'
+Straße_Nr: 'Methfesselstr 24'
+plz_stadt: '20257 Hamburg'
+form_email: miakilian@gmail.com
+telefonnummer: '017660812644'
+angebote:
+  - null
+  - übernachten
+zeitraum: 03.10.-6.10.24
+personenanzahl: '6'
+deine_nachricht: 'Hallo, wir sind 3 Freundinnen mit jeweils 1 Kind (1/4/5 Jahre) und würden gerne ein paar Tage bei euch wohnen. Was hättet ihr da für Optionen? Viele Grüße Mia'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,13 @@
+form_name: 'Christine Keussen'
+Straße_Nr: 'Esmarchstraße 1'
+plz_stadt: '24105 Kiel'
+form_email: christine.keussen@t-online.de
+telefonnummer: '015140449360'
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.-18.6.2023
+personenanzahl: '2'
+deine_nachricht: 'Wir möchten mit VWbus und Hund kommen. Hättet ihr noch ein Plätzchen für uns frei?'
+newsletter:
+  - null

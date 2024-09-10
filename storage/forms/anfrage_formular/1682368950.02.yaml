@@ -1,0 +1,13 @@
+form_name: 'Franziska Fehre'
+Straße_Nr: 'Waldstraße, 45'
+plz_stadt: Leipzig
+form_email: Franziska_fehre@hotmail.com
+telefonnummer: '01729845696'
+angebote:
+  - null
+  - übernachten
+zeitraum: '24.5. - 28.5'
+personenanzahl: '3'
+deine_nachricht: "Wäre es noch möglich mit dem Zelt bei euch unter zu kommen.\r\n\r\nLiebe Grüße \r\nFranziska"
+newsletter:
+  - null

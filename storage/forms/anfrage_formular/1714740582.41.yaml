@@ -1,0 +1,14 @@
+form_name: 'Ute goedecke'
+Straße_Nr: 'Krümmelsdiek 18'
+plz_stadt: '22397 Hamburg'
+form_email: mail@ug-foto.de
+telefonnummer: '01795168105'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 25-27.10.24
+personenanzahl: '15 E.  6 K'
+deine_nachricht: 'Bitte um Rückruf. Dankeschön'
+newsletter:
+  - null

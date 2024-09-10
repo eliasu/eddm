@@ -1,0 +1,15 @@
+form_name: 'Christian Beck'
+Straße_Nr: 'Straßburger Str. 59'
+plz_stadt: '28211 Bremen'
+form_email: strabus@gmx.de
+telefonnummer: '01631642461'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 14.-16.6.2024
+personenanzahl: '2'
+deine_nachricht: 'Moin, wir möchten euer Projekt kennenlernen und das Kurzfilmfestival besuchen. Wir würden gerne mit Zelt anreisen und 2 Nächte dort verbringen. VG aus Bremen, Christian und Frauke'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

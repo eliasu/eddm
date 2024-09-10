@@ -1,0 +1,19 @@
+title: set_big_image
+fields:
+  -
+    handle: images_img
+    field: fs_images.images_img
+    config:
+      display: Image
+      max_files: 1
+      width: 75
+  -
+    handle: full_width
+    field:
+      default: false
+      display: 'Full Width'
+      type: toggle
+      icon: toggle
+      width: 25
+      listable: hidden
+      instructions_position: above

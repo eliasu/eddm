@@ -1,0 +1,12 @@
+form_name: 'Marc Brinkmann'
+Straße_Nr: 'Fössestrasse 36'
+plz_stadt: '30451 Hannover'
+form_email: marc.brinkmann95@web.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 06.10.-08.10.
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir haben Euren schönen Ort während der KLP erleben dürfen und würden gerne ein paar entspannte Tage im Wendland verbringen.\r\n\r\nWenn in Eurer Träumerei noch  ein Doppelzimmer frei ist, würden wir uns freuen.\r\n\r\nViele Grüsse \r\nVanessa und Marc"
+newsletter:
+  - null

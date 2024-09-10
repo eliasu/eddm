@@ -1,0 +1,14 @@
+form_name: 'Roman Raacke'
+Straße_Nr: 'Hans-Much-Weg 7'
+plz_stadt: '20249 Hamburg'
+form_email: roman.raacke@arcor.de
+telefonnummer: '015125220191'
+angebote:
+  - null
+  - übernachten
+zeitraum: 19.05.-20.05.2024
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\n\r\nhabt ihr noch einen freien Zeltplatz für zwei Erwachsene vom 19. auf den 20. Mai?\r\n\r\nHerzliche Grüsse\r\nRoman"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

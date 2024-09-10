@@ -1,0 +1,15 @@
+form_name: 'Leonor Babo'
+Straße_Nr: 'Erlangerstrasse 5'
+plz_stadt: '12053'
+form_email: lbabissima@gmail.com
+telefonnummer: '+351925338350'
+angebote:
+  - null
+  - 'Räume mieten'
+  - essen
+zeitraum: '31.07 to 03.08'
+personenanzahl: '1'
+deine_nachricht: "Hi, I would like to know if you have available the workation from Monday 31 to Thursday 03 or if it’s only possible to do the full week.\r\nI would be also interested in a kind of Workaway collaboration as I don’t have to work full time and would like to get involved in the community. I’ve been visiting different communities in the countryside and interested to study different models to eventually implement my own in the land my family owns in Portugal, where I’m from.\r\nLooking forward to hear from you\r\n\r\nLeonor"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

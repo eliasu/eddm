@@ -1,0 +1,14 @@
+form_name: 'Ute Timmermann'
+Straße_Nr: 'Saarbrückenerstr. 11'
+plz_stadt: '28211'
+form_email: ute.timmermann@gmx.de
+telefonnummer: '01632196011'
+angebote:
+  - null
+  - übernachten
+zeitraum: 09.-14.Mai
+personenanzahl: '2'
+deine_nachricht: 'Wir würden gerne mit Auto und Zelt auf der Wiese übernachten.'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

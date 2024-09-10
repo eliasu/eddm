@@ -1,0 +1,13 @@
+form_name: 'Anna Leo'
+Straße_Nr: 'Mainzer Strasse 39'
+plz_stadt: '50678 Köln'
+form_email: annaleo1@gmx.de
+telefonnummer: '00491635563631'
+angebote:
+  - null
+  - übernachten
+zeitraum: 06.-08.09.24
+personenanzahl: '2'
+deine_nachricht: "Hi, \r\nhabt Ihr am nächsten Wochenende zufällig noch ein Doppelzimmer oder Apartment frei? \r\nFreu mich wenn es klappt.\r\nViele Grüße \r\nAnna"
+newsletter:
+  - null

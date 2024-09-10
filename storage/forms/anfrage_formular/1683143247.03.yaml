@@ -1,0 +1,13 @@
+form_name: 'Henning Pagels'
+Straße_Nr: 'Geibelallee 15'
+plz_stadt: '24116'
+form_email: hpagels@gmx.de
+telefonnummer: '017657710720'
+angebote:
+  - null
+  - übernachten
+zeitraum: '20.05.23 - 22.05.23'
+personenanzahl: '2 Erw. und 2 Kinder'
+deine_nachricht: "Hallo, \r\nwir würden gerne auf der Zeltwiese bei euch mit unserem Familienzelt übernachten. Habt ihr noch ein Platz für uns frei? Falls Ja bitte gerne direkt resvieren, dass wäre richtig schön!\r\n\r\nViele liebe Grüße aus Kiel, \r\nFamilie Pagels - Jambor"
+newsletter:
+  - null

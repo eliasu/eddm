@@ -1,0 +1,14 @@
+form_name: 'Franziska Schillig'
+Straße_Nr: 'Falkenried 16'
+plz_stadt: '20251 Hamburg'
+form_email: franzi.schillig@gmail.com
+telefonnummer: '01788082824'
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.8.-20.8.
+personenanzahl: '2'
+deine_nachricht: 'Hi! Ich hatte vorhin kurz mit Julia telefoniert. Wir würden gern im eigenen Camper bei euch übernachten. Liebe Grüße!'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,12 @@
+form_name: 'Malin Feldt'
+Straße_Nr: 'Altonaer Straße 48'
+plz_stadt: '20357 Hamburg'
+form_email: malin.feldt@web.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 26.05.-29.05.
+personenanzahl: '2'
+deine_nachricht: "Moin, habt ihr am Pfingstwochenende eventuell noch ein Zimmer für zwei Personen frei? \r\nDanke euch und viele Grüße\r\nMalin"
+newsletter:
+  - null

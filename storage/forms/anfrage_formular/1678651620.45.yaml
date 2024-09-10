@@ -1,0 +1,13 @@
+form_name: 'Gabi Rüger'
+Straße_Nr: 'Sundgauer Str. 162'
+plz_stadt: '14167'
+form_email: gabi.rueger@posteo.de
+telefonnummer: '01607362447'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.-21.5.23
+personenanzahl: '3'
+deine_nachricht: "Hallo Zusammen,\r\n\r\nwir würden uns freuen wenn Sie noch Kapazitäten für 3 Erwachsene haben, Appartment o.ä.\r\n\r\nich freue mich auf eine Rückmeldung, \r\nherzliche Grüße \r\nGabi"
+newsletter:
+  - null

@@ -1,0 +1,15 @@
+form_name: 'Elisa Röhl'
+Straße_Nr: 'Merkurring 111'
+plz_stadt: Hamburg
+form_email: elisa.roehl@meyle.com
+telefonnummer: '01732565881'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 18.11.-20.11.24
+personenanzahl: '14'
+deine_nachricht: "Hallo,\r\n\r\nist der die Location in dem Zeitraum noch verfügbar. Ich benötige einen Location für einen Teamworkshop. Wir sind 14 Leute und jeder bräuchte ein eigenes Zimmer. Könnten Sie mir ein Angebot nur als Übernachtung und mit Verpflegungspaketen machen bitte. ggf. würden wir eine Mischung wählen. \r\n\r\nVG Elisa Röhl"
+newsletter:
+  - null

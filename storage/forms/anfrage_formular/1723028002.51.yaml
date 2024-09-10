@@ -1,0 +1,13 @@
+form_name: 'Elias Test'
+Straße_Nr: sfa
+plz_stadt: adf
+form_email: sdf@dsf.de
+telefonnummer: '1234'
+angebote:
+  - null
+  - 'Workshop buchen'
+zeitraum: '123'
+personenanzahl: '123'
+deine_nachricht: '123'
+newsletter:
+  - null

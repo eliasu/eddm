@@ -1,0 +1,13 @@
+form_name: 'Malte Weber'
+Straße_Nr: 'Oudenarder Str 29'
+plz_stadt: '13347 Berlin'
+form_email: weber.malte@posteo.de
+telefonnummer: '01788116873'
+angebote:
+  - null
+  - übernachten
+zeitraum: '09.05 - 12.05'
+personenanzahl: '4'
+deine_nachricht: "Hey ihr lieben, \r\nhätte ihr nächste Woche noch Platz für zwei Zelte? \r\nDas wäre traumhaft. \r\n\r\nLiebe Grüße \r\n\r\nMalte"
+newsletter:
+  - null

@@ -1,0 +1,13 @@
+form_name: 'Aron Johanson'
+Straße_Nr: 'Albert-Roßhaupter-Str. 129'
+plz_stadt: '81369 München'
+form_email: aron@r-joh.de
+telefonnummer: '017680090616'
+angebote:
+  - null
+  - übernachten
+zeitraum: 10.-12.9.23
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\n\r\ngerne würden wir zwei Nächte bei euch im Doppelzimmer übernachten (ob mit eigenem oder geteiltem Bad ist uns egal). \r\nIst das Frühstück beim Zimmer dabei?\r\n\r\nWir freuen uns auf eure Rückmeldung. \r\n\r\nLiebe Grüße\r\nAron"
+newsletter:
+  - null

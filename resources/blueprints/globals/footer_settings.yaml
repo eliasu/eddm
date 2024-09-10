@@ -1,0 +1,68 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: name_und_adresse_bard
+        field:
+          always_show_set_button: false
+          save_html: false
+          toolbar_mode: fixed
+          link_noopener: false
+          link_noreferrer: false
+          target_blank: false
+          reading_time: false
+          fullscreen: true
+          allow_source: true
+          enable_input_rules: true
+          enable_paste_rules: true
+          antlers: false
+          display: 'Name und Adresse'
+          type: bard
+          icon: bard
+          listable: hidden
+          instructions_position: above
+      -
+        handle: telefonnummer_txt
+        field:
+          input_type: text
+          antlers: false
+          default: '05849 / 97 10 18 (9–12h)'
+          display: Telefonnummer
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          placeholder: '05849 / 97 10 18 (9–12h)'
+      -
+        handle: email_adresse_txt
+        field:
+          input_type: email
+          antlers: false
+          display: 'eMail Adresse'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          placeholder: hallo@moeglichkeit.org
+          default: hallo@moeglichkeit.org
+      -
+        handle: google_maps_link
+        field:
+          display: 'Google Maps'
+          type: link
+          icon: link
+          listable: hidden
+          instructions_position: above
+      -
+        handle: headline_newsletter_txt
+        field:
+          placeholder: 'Bock auf Newsletter?'
+          input_type: text
+          antlers: false
+          default: 'Bock auf Newsletter?'
+          display: 'Headline Newsletter'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above

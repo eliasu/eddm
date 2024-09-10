@@ -1,0 +1,13 @@
+form_name: 'Laura Lutz'
+Straße_Nr: 'Nogatstraße 45'
+plz_stadt: '12051 berlin'
+form_email: laura_lutz@hotmail.de
+telefonnummer: '017697625247'
+angebote:
+  - null
+  - übernachten
+zeitraum: 12.5.-13.5
+personenanzahl: '2'
+deine_nachricht: 'Hallo! Habt ihr für heute Nacht noch ein Doppelzimmer frei? Vielen Dank für eure Rückmeldung!'
+newsletter:
+  - null

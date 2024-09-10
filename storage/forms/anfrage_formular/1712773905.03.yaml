@@ -1,0 +1,13 @@
+form_name: 'Maren Strobel'
+Straße_Nr: 'Weidenallee 54'
+plz_stadt: '20357 Hamburg'
+form_email: marenstrobel@icloud.com
+telefonnummer: '01605922038'
+angebote:
+  - null
+  - übernachten
+zeitraum: 11.-12.4.24
+personenanzahl: '2'
+deine_nachricht: 'Hallo, wir kommen morgen zum Konzert von Ljodahätt u nd würden gerne mit unserem Bus bei euch übernachten. Geht das? Liebe Grüße, Maren'
+newsletter:
+  - null

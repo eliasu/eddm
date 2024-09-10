@@ -1,0 +1,13 @@
+form_name: 'Margarita Bernhardt'
+Straße_Nr: 'Jungstraße, 3'
+plz_stadt: Berlin
+form_email: margarita.bernhardt@gmail.com
+telefonnummer: '01632604322'
+angebote:
+  - null
+  - übernachten
+zeitraum: 16.09.2024
+personenanzahl: '5'
+deine_nachricht: "Hallo!\r\n\r\nHätten Sie eine Übernachtungsmöglichkeit für 5 Personen am 16.09-17.09.? \r\nAm liebsten eines der Appartments + Aufbettung. Falls diese ausgebucht sind, sind wir auch offen für andere Möglichkeiten.\r\n\r\nFreue mich über ihre Rückmeldung. \r\nLiebe Grüße,\r\nMargarita"
+newsletter:
+  - null

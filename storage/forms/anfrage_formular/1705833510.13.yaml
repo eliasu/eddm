@@ -1,0 +1,14 @@
+form_name: 'Ariane Sievers'
+Straße_Nr: 'Emma-Poel-Str. 10'
+plz_stadt: '22765 Hamburg'
+form_email: ariane.sievers@gmx.de
+telefonnummer: '01708113239'
+angebote:
+  - null
+  - übernachten
+zeitraum: '9.5.-12.5. oder 17.5.-20.5. (KLP)'
+personenanzahl: '1'
+deine_nachricht: "Hi liebes Ding-der-Möglichkeit-Team,\r\nhabt ihr an einem der beiden KLP-Wochenenden noch ein Zimmer oder vielleicht sogar einen Zirkuswagen für eine Person frei?\r\nEs würde mich sehr freuen, wenn das klappt.\r\nLiebe Grüße\r\nAriane"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,14 @@
+form_name: 'Katarina Wicht'
+Straße_Nr: 'Mathildenstraße 15a'
+plz_stadt: Essen
+form_email: katarina@hej.build
+telefonnummer: '01713393412'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: '23. - 28.03.2025 oder 04. - 9.05.2025'
+personenanzahl: 12-13
+deine_nachricht: "Hej. \r\nDanke für das nette Gespräch. Wir freuen uns auf ein Angebot für 12 bis 13 Personen. Wie besprochen, bestenfalls Zimmer zur Einzelnutzung, Möglichkeiten der Selbstverpflegung und die Nutzung eines Workshopraums für den Zeitraum. \r\n\r\nVielen Dank und bis bald,\r\nKatarina"
+newsletter:
+  - null

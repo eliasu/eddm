@@ -1,0 +1,13 @@
+form_name: 'Thorsten Schmidtchen'
+Straße_Nr: 'Gerstenkamp 6a'
+plz_stadt: '22081 Hamburg'
+form_email: tschmidtchen@me.com
+telefonnummer: '01737278004'
+angebote:
+  - null
+  - übernachten
+zeitraum: 09.-10.06.2023
+personenanzahl: '2'
+deine_nachricht: "Was schönes romantisches mit eigenem Bad.\r\nHabt Ihr noch etwas?\r\nHabt Ihr auch Frühstück?"
+newsletter:
+  - null

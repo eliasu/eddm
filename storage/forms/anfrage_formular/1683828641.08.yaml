@@ -1,0 +1,13 @@
+form_name: 'Maike Erdmann'
+Straße_Nr: 'Helenenstr. 17'
+plz_stadt: '22765 Hamburg'
+form_email: maikeerdmann@web.de
+telefonnummer: '015126929727'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.05. - 21.05.2023'
+personenanzahl: '1'
+deine_nachricht: "Hallo,\r\nich würde gerne zelten, falls das noch möglich ist.\r\nAnsonsten wäre auch ein Zimmer okay\r\nViele Grüße, maike"
+newsletter:
+  - null

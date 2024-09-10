@@ -1,0 +1,12 @@
+form_name: 'Anna Hollensteiner'
+Straße_Nr: 'Persiusstr. 5'
+plz_stadt: '14469 Potsdam'
+form_email: anna.hollensteiner@gmail.com
+angebote:
+  - null
+  - übernachten
+zeitraum: '18. Mai - 21. Mai'
+personenanzahl: '12'
+deine_nachricht: "Hallo, wir sind drei Familien, die sich gerne treffen möchten. 6 Erwachsene und 6 Kinder + 2 Hunde. Wäre das möglich in dem Zeitraum? \r\nHerzliche Grüße \r\nAnna"
+newsletter:
+  - null

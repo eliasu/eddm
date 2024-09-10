@@ -1,0 +1,13 @@
+form_name: 'Eva wiege'
+Straße_Nr: 'Hindenburgstrße 76 b'
+plz_stadt: Lüneburg
+form_email: ewiege@web.de
+telefonnummer: '015255697620'
+angebote:
+  - null
+  - übernachten
+zeitraum: 8.5.2024-10.5.2024
+personenanzahl: '4'
+deine_nachricht: 'Wir würden gerne einen STellplatz mieten für einen VW Bus wenn möglich. Hätten ihr da was für uns frei? Viele Grüße Eva Wiege'
+newsletter:
+  - null

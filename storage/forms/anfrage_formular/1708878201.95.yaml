@@ -1,0 +1,14 @@
+form_name: 'Burkhard Schlüter'
+Straße_Nr: 'Matzdorfer Weg 4'
+plz_stadt: '30966 Hemmingen'
+form_email: buschl@web.de
+telefonnummer: '0511 889828'
+angebote:
+  - null
+  - übernachten
+zeitraum: '13. - 16.05 für 2 Tage'
+personenanzahl: '2'
+deine_nachricht: 'Wir würden gerne in der Woche v. 13.05. - 16.05. für 2 Nächte ein Doppelzimmer mieten.'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

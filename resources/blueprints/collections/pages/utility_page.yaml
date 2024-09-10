@@ -1,0 +1,51 @@
+title: 'Utility Page'
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+      -
+        handle: text_bard
+        field: fs_bard.text_bard
+        config:
+          buttons:
+            - h2
+            - h3
+            - underline
+            - strikethrough
+            - removeformat
+            - anchor
+          validate:
+            - required
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true
+      -
+        handle: template
+        field:
+          default: utility_page
+          display: template
+          type: hidden
+          icon: hidden
+          listable: hidden
+          instructions_position: above

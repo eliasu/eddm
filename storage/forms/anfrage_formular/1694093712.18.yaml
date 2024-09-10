@@ -1,0 +1,14 @@
+form_name: 'Hannah Becker'
+Straße_Nr: 'Molkereistr., 84'
+plz_stadt: Ottersberg
+form_email: hbloehm@hotmail.com
+telefonnummer: '01717888272'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 27.-29.10
+personenanzahl: '8 Erwachsene, 5Kinder'
+deine_nachricht: "Hallo Zusammen, \r\n\r\nwir würden gerne unser Familienwochenende bei euch verbringen. Habt ihr an dem Wochenende noch Übernachtungskapazitäten?\r\n\r\nMit besten Grüßen,\r\nHannah"
+newsletter:
+  - null

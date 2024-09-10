@@ -1,0 +1,14 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: instagram_url
+        field:
+          input_type: url
+          antlers: false
+          display: 'Instagram URL'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above

@@ -1,0 +1,14 @@
+form_name: 'Sophia Vogel'
+Straße_Nr: 'Weststraße 10'
+plz_stadt: '39104 Magdeburg'
+form_email: sophia-vogel@web.de
+telefonnummer: '015784922884'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 'vom 29.5. bis 30.5.'
+personenanzahl: '2 Erwachsene ein Kind (2 Jahre)'
+deine_nachricht: "Hallo,\r\n\r\nwir würden sehr gerne zu euch kommen für eine Nacht im Zirkuswagen. Ist das noch möglich? Ansonsten würden wir genre ein Kugelzelt bei euch aufbauen, falls das noch möglich ist.\r\nWir freuen uns von Euch zu hören!\r\nLiebe Grüße\r\nSophia, Robert und Anton"
+newsletter:
+  - null

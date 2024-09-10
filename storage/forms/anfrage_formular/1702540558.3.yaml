@@ -1,0 +1,14 @@
+form_name: 'Peter Schulz'
+Straße_Nr: 'Haroldstr 9'
+plz_stadt: '34128 Kassel'
+form_email: peterschulz1612@gmail.com
+telefonnummer: '017628336943'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 29.-31.3.24
+personenanzahl: '2'
+deine_nachricht: 'Hallo, mein Name ist Peter und ich würde gern meiner Freundin zu Weihnachten ein Wochenende bei euch schenken. Wenn frei dann gern in dem Bauwagen. Wäre das im o.g. Zeitraum möglich?? Vielen Dank schon mal!'
+newsletter:
+  - null

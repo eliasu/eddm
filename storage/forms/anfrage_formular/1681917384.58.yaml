@@ -1,0 +1,14 @@
+form_name: 'Frank Piesik'
+Straße_Nr: 'Brandstraße 98'
+plz_stadt: '28215 Bremen'
+form_email: f.piesik@gmail.com
+telefonnummer: '01741773177'
+angebote:
+  - null
+  - übernachten
+zeitraum: '26.05.23 - 28.05.23'
+personenanzahl: '4'
+deine_nachricht: 'Hallo, wir sind eine Familie mit zwei Kindern (3 und 7) und würden gerne ein Wochenende bei euch verbringen. Es wäre toll, wenn ihr noch einen Wagen, oder auch ein Zimmer in eurem Gästehaus frei hättet. Wir haben ein Zelt für zwei Personen, mit dem wir unseren Platzbedarf zur Not etwas reduzieren könnten:) Ich freue mich über eure Antwort, Viele Grüße!'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,125 @@
+.nav {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: $s3 $s5;
+	background: $creme;
+	
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	font-size: $fs-3;
+	line-height: 100%;
+	z-index: 50;
+
+	&__sec {
+		position: sticky;
+		height: 100vh;
+		pointer-events: none;
+		top: 0px;
+		z-index: 9;
+	}
+
+	&__burger {
+		display: none;
+
+		@include respond(tab-port) { 
+			display: block; 
+		}
+	}
+
+	&__close {
+		display: none;
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: $s3 $s5;
+
+		@include respond(tab-port) { 
+			display: block; 
+		}
+	}
+
+	& button {
+		color: $black;
+		border: none;
+		background-color: transparent;
+		cursor: pointer;
+		&:hover {
+			color: $blue;
+		}
+	}
+
+	&__links-wrap {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		pointer-events: auto;
+		
+		@include respond(tab-port) { 
+			display: none; 
+			position: fixed;
+			top:0;
+			bottom:0;
+			left:0;
+			right:0;
+			background-color: $creme;
+			z-index: 10;
+			justify-content: center;
+			pointer-events: auto;
+			align-items: center;
+			flex-direction: column;
+		}
+		
+	}
+
+	&__link {
+		margin: 0 $s1;
+		white-space: nowrap;
+
+		@include respond(tab-port) { 
+			font-size: $fs-2;
+			line-height: 130%;
+		}
+	}
+	
+	&__link--active {
+		margin: 0 $s1;
+		text-decoration: line-through;
+
+		@include respond(tab-port) { 
+			font-size: $fs-2;
+			line-height: 130%;
+		}
+	}
+
+	&__link--logo {
+		text-decoration: none;
+		white-space: nowrap;
+		margin-right: $s1;
+		pointer-events: auto;
+	}
+
+	&__link--insta {
+		position: absolute;
+		bottom: $s5;
+		left: $s5;
+		
+		background: url("../icons/Insta-Icon.svg") no-repeat center center;
+		width: $s9;
+		height: $s9;
+		padding: 0 !important;
+
+		background-size: 60%;
+		background-position:center center;
+	}
+
+	&__link--request {
+		position: absolute;
+		bottom: $s5;
+		right: $s5;
+		z-index: 10;
+	}
+}

@@ -1,0 +1,25 @@
+title: 'Footer Settings'
+data:
+  name_und_adresse_bard:
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          text: 'Ein Ding der Möglichkeit eG'
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          text: 'Salderatzen 3'
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          text: '29496 Waddeweitz'
+  telefonnummer_txt: '05849 / 97 10 18 (9–12h)'
+  email_adresse_txt: hallo@moeglichkeit.org
+  google_maps_link: 'https://goo.gl/maps/UrD7HFpMyK8FRdAf6'
+  headline_newsletter_txt: 'Bock auf Newsletter?'

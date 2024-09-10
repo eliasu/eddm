@@ -1,0 +1,13 @@
+form_name: 'Petra Schmitz'
+Straße_Nr: 'Kaiser-Friedrich-Ufer 25'
+plz_stadt: '20253 Hamburg'
+form_email: p.el.schmitz@web.de
+telefonnummer: '015254961669'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.05. - 21.05.'
+personenanzahl: '1'
+deine_nachricht: "Liebes Team, \r\ngäbe es in diesem Zeitraum die Möglichkeit einen Stellplatz für einen Berlingo bei Ihnen zu mieten? \r\nDanke und mit besten Grüßen, \r\nPetra"
+newsletter:
+  - null

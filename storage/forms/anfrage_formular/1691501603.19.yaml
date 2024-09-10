@@ -1,0 +1,13 @@
+form_name: 'Alix von Reibnitz'
+Straße_Nr: 'Salomon-Heine-Weg 48a'
+plz_stadt: '20251 Hamburg'
+form_email: areibnitz@t-online.de
+telefonnummer: 0172-6767471
+angebote:
+  - null
+  - übernachten
+zeitraum: 15.-18.8.
+personenanzahl: '2'
+deine_nachricht: 'Hallo, tut mir leid, meine Nachricht eben war nicht ganz korrekt: wir möchten gerne Dienstag anreisen und Freitag abreisen, also vom 15. bis zum 18.8., nicht bis zum 19.8. Danke!'
+newsletter:
+  - null

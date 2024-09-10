@@ -1,0 +1,13 @@
+form_name: 'Gabi Härich'
+Straße_Nr: 'Am Mühlenkamp 9'
+plz_stadt: '31139 Hildesheim'
+form_email: Gabi.Haerich@gmail.com
+telefonnummer: 01573-6418123
+angebote:
+  - null
+  - übernachten
+zeitraum: '19. - 21.5.'
+personenanzahl: '2'
+deine_nachricht: "Hallo habt ihr noch Kapazitäten \r\nzur KLP?\r\nEVTL. ALTERNATIVTERMIN!\r\nBeste Grüße \r\nGabi"
+newsletter:
+  - null

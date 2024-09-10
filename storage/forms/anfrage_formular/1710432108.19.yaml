@@ -1,0 +1,14 @@
+form_name: 'Thomas Friedrich'
+Straße_Nr: 'Poolstr. 9'
+plz_stadt: '20355 Hamburg'
+form_email: e.con@web.de
+telefonnummer: '+49 174 7623506'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.06. - 20,06.2024'
+personenanzahl: '1'
+deine_nachricht: "Ich komme zu einem Klassentreffen ins Wendland. Freunde von mir, die Familie Riegert, haben bereits gebucht.\r\nIch bin interessiert an einem DZ im OG mit Bad zur Alleinnutzung.\r\nIst das möglich?\r\nDanke\r\nThomas Friedrich"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

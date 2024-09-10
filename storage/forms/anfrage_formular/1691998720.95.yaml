@@ -1,0 +1,13 @@
+form_name: 'Andrea Falk'
+Straße_Nr: 'Gropperstraße, 33a'
+plz_stadt: '47807 Krefeld'
+form_email: aunda.falk@googlemail.com
+telefonnummer: '015755761605'
+angebote:
+  - null
+  - übernachten
+zeitraum: 25.-26.8.2023
+personenanzahl: '1'
+deine_nachricht: "Ich benötige ein Bett, eine Dusche und Porridge mit Blaubeeren zum Frühstück.\r\nKlappt das?"
+newsletter:
+  - null

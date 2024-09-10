@@ -1,0 +1,14 @@
+form_name: 'Sarah Sperber'
+Straße_Nr: 'Grunewaldstraße 56'
+plz_stadt: '10825 Berlín'
+form_email: sperber.sarah@gmail.com
+telefonnummer: '017724801658'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.07. - 21.07.'
+personenanzahl: '2 + 1'
+deine_nachricht: "Hallo! Wir würden gerne nächste Woche 3 Nächte bei euch übernachten. Wir sind 2 Erwachsene und 1 Kind (3 Jahre, kann mit im Bett schlafen oder auf Matratze auf dem Boden). Welche Übernachtungsmöglichkeiten habt ihr noch frei? \r\nViele Grüße Sarah"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

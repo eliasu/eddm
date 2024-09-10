@@ -1,0 +1,13 @@
+form_name: 'Wolfgang During'
+adresse: 'Dorfstraße 32b'
+form_email: during.office@t-online.de
+telefonnummer: '021638879786'
+angebote:
+  - null
+  - übernachten
+zeitraum: '21. März'
+personenanzahl: '1'
+deine_nachricht: "N’Abend, \r\n\r\nhaben Sie für eine Übernachtung ein Einzelzimmer mit Bad für mich?\r\nAnreise am 21. März, Weiterreise am nächsten Tag nach Berlin.\r\n\r\nVielen Dank und beste Grüße ins Wendland\r\n\r\nWolfgang During"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

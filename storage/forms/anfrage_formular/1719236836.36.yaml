@@ -1,0 +1,14 @@
+form_name: 'Julia Hagen und Klaus Kohlmeyer'
+Straße_Nr: 'Wildenbruchstr. 73'
+plz_stadt: '12045 Berlin'
+form_email: julyhagen@hotmail.com
+telefonnummer: '0173 2494752'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 15.-16.7.24
+personenanzahl: '2'
+deine_nachricht: "Hallo, hier sind Julia und Klaus.\r\nWir würden gern eine nacht im DZ vom 15.7 auf den 16.7 bei Euch gut übernachten und lecker frühstücken. Habt Ihr noch Platz für uns?\r\nVielen Dank für eine kurze Rückmeldung und viele Grüße!"
+newsletter:
+  - null

@@ -1,0 +1,12 @@
+form_name: 'Rosa Thormeyer'
+adresse: 'Himmlstraße 45'
+form_email: Rosa.thormeyer@yahoo.de
+telefonnummer: '01724020365'
+angebote:
+  - null
+  - übernachten
+zeitraum: '11.2.2023 - 12.2.2023'
+personenanzahl: '2'
+deine_nachricht: "Guten Tag,\r\n\r\nWäre es möglich bei euch eine Nacht zu übernachten? \r\nOb im tiny oder im Zimmer ist uns egal. Wir würden uns sehr freuen.\r\nLiebe Grüße, \r\nRosa"
+newsletter:
+  - null

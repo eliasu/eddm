@@ -1,0 +1,13 @@
+form_name: 'Lila Warszawski'
+Straße_Nr: 'Am Pumpwerk 4'
+plz_stadt: '12524 Berlin'
+form_email: lilalila@posteo.de
+telefonnummer: '017684629019'
+angebote:
+  - null
+  - übernachten
+zeitraum: '19-21 Juli'
+personenanzahl: '2 Er. 2 Kinder'
+deine_nachricht: 'Hallo, habt ihr zufällig Platz für uns für 2 Nächte? Viele Grüße aus Berlin, Lila.'
+newsletter:
+  - null

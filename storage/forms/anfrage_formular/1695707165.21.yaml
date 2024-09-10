@@ -1,0 +1,13 @@
+form_name: 'Marcel Zielke'
+Straße_Nr: 'Leibnizplatz 1'
+plz_stadt: '18055 Rostock'
+form_email: marcel.zielke@uka-gruppe.de
+telefonnummer: '0381 252740 273'
+angebote:
+  - null
+  - 'Räume mieten'
+zeitraum: 29.11.2023
+personenanzahl: 'max. 90'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\n\r\nfür eine Kundenpräsentation am 29.11.2023 würden wir gerne einen Ihrer Räume für den späten Nachmittag bei Ihnen buchen.\r\nDie Teilnehmerzahl beläuft sich auf max. 90 Personen.\r\n\r\nKönnten Sie mir bitte mitteilen, ob Sie einen verfügbaren Raum für uns haben?\r\n\r\nVielen lieben Dank.\r\n\r\nMit freundlichen Grüßen\r\nMarcel Zielke"
+newsletter:
+  - null

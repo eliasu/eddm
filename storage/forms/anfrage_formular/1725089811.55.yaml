@@ -1,0 +1,13 @@
+form_name: 'Noë Scheidegger'
+Straße_Nr: 'Eimsbütteler Chaussee 52b'
+plz_stadt: '20259 Hamburg'
+form_email: noelle.scheidegger@gmail.com
+telefonnummer: '01746644952'
+angebote:
+  - null
+  - übernachten
+zeitraum: '7.-8. September'
+personenanzahl: '2'
+deine_nachricht: 'Moin! Wir würden gerne nächstes Wochenende bei euch übernachten. Habt ihr spontan einen Platz für 2? Liebste Grüße aus Hamburg, Noë'
+newsletter:
+  - null

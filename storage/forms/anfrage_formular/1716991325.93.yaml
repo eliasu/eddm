@@ -1,0 +1,14 @@
+form_name: 'goran rakic'
+Straße_Nr: 'bauvereinsweg 10'
+plz_stadt: '21107 hamburg'
+form_email: egorant@gmail.com
+telefonnummer: '015773890403'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '1. bis 2. juni = 1 nacht'
+personenanzahl: '2'
+deine_nachricht: "hallo, hättet ihr ein doppelzimmer (oder zwei einzelzimmer) für zwei personen für den kommenden samstag auf sonntag frei? \r\ngern mit frühstück. wir sind mit rädern unterwegs und such noch eine übernachtungsmöglichkeit.\r\ndanke und liebe grüße,\r\ngoran"
+newsletter:
+  - null

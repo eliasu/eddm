@@ -1,0 +1,13 @@
+form_name: 'Frank Matscheko'
+Straße_Nr: 'Mönchehofer Str. 53'
+plz_stadt: '34314 Espenau'
+form_email: f.matscheko@t-online.de
+telefonnummer: '01703165670'
+angebote:
+  - null
+  - übernachten
+zeitraum: '11.08. - 13.08.2023'
+personenanzahl: '2'
+deine_nachricht: "Hallo\r\n\r\nWir hätten gern das DZ mit Balkon alternativ einen Zirkuswagen.\r\n\r\nLG\r\n\r\nF. Matscheko"
+newsletter:
+  - null

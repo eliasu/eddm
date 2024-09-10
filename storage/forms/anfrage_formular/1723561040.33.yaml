@@ -1,0 +1,13 @@
+form_name: 'Simon Berkler'
+Straße_Nr: 'Chodowieckistr. 22'
+plz_stadt: '10405 Berlin'
+form_email: berkler@thedive.com
+telefonnummer: '01622329300'
+angebote:
+  - null
+  - übernachten
+zeitraum: 28.8.-29.8.
+personenanzahl: '1'
+deine_nachricht: "Liebes Team der Möglichkeiten-Team,\r\n\r\nich wollte mir euren Space sowieso mal anschauen und habe am 29.8. einen Termin in eurer Nähe. Wäre es möglich, vom 28. auf den 29. eine Nacht bei euch zu verbringen?\r\n\r\nHerzliche Grüße,\r\nSimon"
+newsletter:
+  - null

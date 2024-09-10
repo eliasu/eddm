@@ -1,0 +1,14 @@
+<section class="section-wrapper--white grid">
+	{{columns}}
+		<div class="three-columns flex-left">
+			<div class="three-columns__img-wrap">
+				{{ partial:utility/picture :image="images_img" class="three-columns__image" cover="true" }}
+			</div>
+			<h2 class="text-m">{{headline}}</h2>
+			<p class="three-columns__text">{{textarea_txt}}</p>
+			
+			{{ partial:bardsets/button }}
+		</div>
+		
+	{{/columns}}
+</section>

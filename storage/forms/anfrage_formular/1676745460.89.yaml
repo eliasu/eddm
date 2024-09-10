@@ -1,0 +1,12 @@
+form_name: 'Nina Knauerhase'
+adresse: 'Geibelstraße 37d'
+form_email: nina.knauerhase@gmx.de
+telefonnummer: '+4917681258543'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.5.-21.5.23
+personenanzahl: '2'
+deine_nachricht: 'Wir würden gerne in der o.g. Zeit übernachten, mit einem kleinen Hund.'
+newsletter:
+  - null

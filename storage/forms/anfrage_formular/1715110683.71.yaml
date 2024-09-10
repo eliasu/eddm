@@ -1,0 +1,13 @@
+form_name: 'Gaby Wallbraun'
+Straße_Nr: 'Karl Marx Allee 67'
+plz_stadt: '10243 Berlin'
+form_email: gaby.wallbraun@gmail.com
+telefonnummer: '01637192799'
+angebote:
+  - null
+  - übernachten
+zeitraum: 11.-12.05.
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\n\r\nich wollte anfragen, ob ihr im Rahmen der KLP noch einen Stellplatz für einen Bulli habt für die Nacht vom 11. auf den 12.05..\r\n\r\nIch wünsche euch noch einen schönen Abend,\r\nLiebe Grüße,\r\nGaby"
+newsletter:
+  - null

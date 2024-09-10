@@ -1,0 +1,15 @@
+form_name: 'Jan Pastoors'
+Straße_Nr: 'Ottenser Hauptstrasse 40'
+plz_stadt: '22765 Hamburg'
+form_email: post@janpastoors.de
+telefonnummer: '01734288345'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: '01. - 03.09.2023'
+personenanzahl: '15'
+deine_nachricht: "Hallo Hausteam,\r\nvielen Dank für die Prüfung zur Verfügbarkeit zum angegebenen Zeitpkt.\r\n\r\nFreundliche Grüße\r\nJan Pastoors"
+newsletter:
+  - null

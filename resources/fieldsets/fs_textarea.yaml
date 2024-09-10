@@ -1,0 +1,13 @@
+title: fs_textarea
+fields:
+  -
+    handle: textarea_txt
+    field:
+      antlers: false
+      display: Text
+      type: textarea
+      icon: textarea
+      listable: hidden
+      instructions_position: above
+      validate:
+        - required

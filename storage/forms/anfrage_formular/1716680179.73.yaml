@@ -1,0 +1,13 @@
+form_name: 'Thorsten Schmidtchen'
+Straße_Nr: 'Gerstenkamp 6a'
+plz_stadt: '22081'
+form_email: tschmidtchen@me.com
+telefonnummer: '01737278004'
+angebote:
+  - null
+  - übernachten
+zeitraum: 08.-09.06.2024
+personenanzahl: '2'
+deine_nachricht: "Moin\r\nWir würden gerne über das Wochenende die Gärten im Wendland besuchen.\r\nWürde mich freuen. Thorsten 🍀⚓️"
+newsletter:
+  - null

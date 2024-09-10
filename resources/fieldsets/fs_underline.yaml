@@ -1,0 +1,14 @@
+title: fs_underline
+fields:
+  -
+    handle: underline_txt
+    field:
+      input_type: text
+      antlers: false
+      display: Underline
+      type: text
+      icon: text
+      listable: hidden
+      instructions_position: above
+      validate:
+        - required

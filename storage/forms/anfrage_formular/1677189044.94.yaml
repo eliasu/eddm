@@ -1,0 +1,13 @@
+form_name: 'Frank Dollmann'
+Straße_Nr: 'Bunsenstr. 2'
+plz_stadt: '30163 Hannover'
+form_email: frank.dollmann@gmail.com
+telefonnummer: 0163-8184144
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Pfingsten, 26-29.05.'
+personenanzahl: '2'
+deine_nachricht: "Hallo, habt ihr noch eine UNterkunft für 2 Personen mit einem Hund für die KLP?\r\nLiebe Grüße\r\nFrank"
+newsletter:
+  - null

@@ -1,0 +1,13 @@
+form_name: 'Bettina Rambow'
+Straße_Nr: 'Heisenbergstraße 4'
+plz_stadt: '10587'
+form_email: bettina.rambow@gmx.de
+telefonnummer: '0172 3101777'
+angebote:
+  - null
+  - übernachten
+zeitraum: '19.4.24 bis 21.4.24'
+personenanzahl: '2'
+deine_nachricht: "Hättet ihr noch ein DZ an dem Wochenende für uns?\r\nViele Grüße \r\nBettina Rambow"
+newsletter:
+  - null

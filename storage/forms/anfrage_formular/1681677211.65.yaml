@@ -1,0 +1,14 @@
+form_name: 'Juliane May'
+Straße_Nr: 'Am Hasenberge 37'
+plz_stadt: '22335 Hamburg'
+form_email: juliane.weiss123@googlemail.com
+telefonnummer: '01737174976'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 31.7.-3.8.23
+personenanzahl: '4'
+deine_nachricht: "Hallo liebes Team,\r\n\r\n\r\nhabt Ihr in oa Zeitraum noch Appartements für 2 Erw und 2 Kinder verfügbar?\r\n\r\nLiebe Grüße\r\nJuliane May"
+newsletter:
+  - null

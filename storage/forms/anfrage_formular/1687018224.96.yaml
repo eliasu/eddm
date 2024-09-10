@@ -1,0 +1,14 @@
+form_name: 'Nora Kitzing'
+Straße_Nr: 'Herzberg 9'
+plz_stadt: '31249 Hohenhameln'
+form_email: nora-kitzing@web.de
+telefonnummer: '051284095735'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 21.7.-23.7.
+personenanzahl: 'Mutter und Tochter (12 Jahre)'
+deine_nachricht: "Was wäre der Preis für ein Zimmer mit Doppelbett für 2 Nächte + Frühstück?\r\nLiebe Grüße"
+newsletter:
+  - null

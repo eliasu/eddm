@@ -1,0 +1,24 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: anfrage_text
+        field:
+          antlers: false
+          display: 'Anfrage Text'
+          type: textarea
+          icon: textarea
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: newsletter_text
+        field:
+          antlers: false
+          display: 'Newsletter Text'
+          type: textarea
+          icon: textarea
+          listable: hidden
+          instructions_position: above
+          read_only: false

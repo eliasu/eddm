@@ -1,0 +1,48 @@
+<section class="grid section-wrapper--white">
+	
+	{{if featured_event}}
+		{{featured_event}}
+			<a href="{{ url }}" class="big-event__image-wrap">
+				{{images_img}}
+						{{ partial:utility/picture :image="images_img" cover="true" alt="{{title}}"}}
+				{{/images_img}}
+			</a>
+
+			<div class="big-event__content-wrap">
+				
+				<div class="big-event__date">{{ partial src="partials/utility/date-direct"}}</div>
+				<p>{{title}}</p>
+				<p class="big-event__texttruncate">{{ text_bard | raw | bard_text }}</p>
+
+				<a href="{{url}}" class="text-s">
+					Mehr erfahren
+				</a>
+
+			</div>
+		{{/featured_event}}
+	
+	{{else}}
+
+		{{upcoming_events}}
+			{{if index < 1}}
+				{{ get_content:id }}
+					
+					<a href="{{ url }}" class="big-event__image-wrap">
+						{{ partial:utility/picture :image="images_img" cover="true" alt="{{title}}"}}
+					</a>
+
+					<div class="big-event__content-wrap">
+						
+						<div class="big-event__date">{{ partial src="partials/utility/date"}}</div>
+						<p>{{title}}</p>
+						<p class="big-event__texttruncate">{{ text_bard | raw | bard_text }}	</p>
+						<a href="{{url}}" class="text-s">Mehr erfahren</a>
+
+					</div>
+
+				{{ /get_content:id }}
+			{{/if}}
+		{{/upcoming_events}}
+		
+	{{endif}}
+</section>

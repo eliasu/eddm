@@ -1,0 +1,14 @@
+form_name: 'Lars Hohenstein'
+Straße_Nr: 'Im Westerfelde 14'
+plz_stadt: '21391 Reppenstedt'
+form_email: lars.hendrik@gmx.de
+telefonnummer: '016090546915'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 'Iwann kommende Woche'
+personenanzahl: '2E, 2K, 1H'
+deine_nachricht: "Moin moin, wir würden gerne bei euch ab frühestens Sonntag ein paar Tage zum Entspannen vorbeikommen... was habt ihr denn für uns noch frei?\r\nGruß Lars"
+newsletter:
+  - null

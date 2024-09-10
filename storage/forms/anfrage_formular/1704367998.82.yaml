@@ -1,0 +1,14 @@
+form_name: 'Steffi Unter einem Dach'
+Straße_Nr: Voltmerstr.41
+plz_stadt: '30165 Hannover'
+form_email: ste.schuenemann@posteo.de
+telefonnummer: 0151-40372058
+angebote:
+  - null
+  - übernachten
+zeitraum: 16.5.2024-20.5.2024
+personenanzahl: '4'
+deine_nachricht: "Hallo, sehr gerne würden wir mit unserem Team bei euch zur kulturellen Landpartie übernachten. Lieben Gruß\r\nSteffi für Unter einem Dach"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,14 @@
+form_name: 'Felix Fröhlich'
+Straße_Nr: 'Am Berge 5'
+plz_stadt: '21354 Bleckede'
+form_email: felix.froehlich1@gmx.net
+telefonnummer: '01638978541'
+angebote:
+  - null
+  - übernachten
+zeitraum: '23.08 bis 25.08 (zwei Nächte)'
+personenanzahl: '1'
+deine_nachricht: "Hallo :)\r\nIch bin beim Tiny-Living-Festival und würde gerne auf eurem Zeltplatz übernachten.\r\nLiebe Grüße,\r\nFelix"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

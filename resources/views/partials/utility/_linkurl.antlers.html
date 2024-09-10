@@ -1,0 +1,5 @@
+{{ if url | starts_with:"http://" }}
+	{{ url replace="http://|https://"}}
+{{ else }}
+	{{ url ensure_left="https://"}}
+{{ endif }}

@@ -1,0 +1,14 @@
+form_name: 'Esther Meyer'
+Straße_Nr: 'Schlüterstraße 56'
+plz_stadt: '20146'
+form_email: Esther.Meyer@posteo.de
+telefonnummer: '01624272799'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 22.9.-24.9.
+personenanzahl: '3'
+deine_nachricht: "Hallo Julia,\r\n\r\nwir hatten eine so schöne Zeit bei euch am Wochenende und möchten wiederkommen. Gerne wieder ein Appartment für 3. Freu mich auf deine Rückmeldung. Liebe Grüße Esther"
+newsletter:
+  - null

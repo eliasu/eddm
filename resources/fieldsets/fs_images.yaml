@@ -1,0 +1,14 @@
+title: fs_images
+fields:
+  -
+    handle: images_img
+    field:
+      mode: list
+      restrict: false
+      allow_uploads: true
+      show_filename: true
+      display: Images
+      type: assets
+      icon: assets
+      listable: hidden
+      instructions_position: above

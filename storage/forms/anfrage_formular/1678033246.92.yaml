@@ -1,0 +1,15 @@
+form_name: 'Markus Wernet'
+Straße_Nr: Eythstr.11
+plz_stadt: '51103 Köln'
+form_email: markuswernet@gmx.de
+telefonnummer: '+491786203513'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 'Do 10. -  So 13.08.2023'
+personenanzahl: zwei
+deine_nachricht: "Hallo Ding!\r\nSteffi und ich machen eine Fahrradrundreise im Wendland und würden gerne drei Tage unser Zelt bei euch aufschlagen. An Frühstück und an dem Bistro sind wir auch interessiert, allerdings wollen wir das gerne flexibler handhaben. Beispielsweise glaube ich nicht, dass wir am Tag der Abreise das Frühstücksbuffet nutzen werden. VLG Markus und Steffi Wernet"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

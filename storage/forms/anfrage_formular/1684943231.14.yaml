@@ -1,0 +1,14 @@
+form_name: 'Ulrike Heimes'
+Straße_Nr: 'Himmelstr. 8'
+plz_stadt: '22299'
+form_email: ulrikeheimes@gmail.com
+telefonnummer: '01777884077'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Eine Nacht vom 02.-03.06.23'
+personenanzahl: '2'
+deine_nachricht: "Hallo Ihr Lieben,\r\n\r\nich werde das Wochenende mit einer Freundin eine Radtour durchs Wendland machen und unsere erste Etappe soll uns zu Euch führen.\r\nHabt Ihr eine Unterkunft für uns? Gerne Ein großes Doppelzimmer, am allerbesten mit Balkon oder Wintergarten. Aber auch alles andere ausser einem Zeltplatz?\r\nDas wäre Großartig!\r\n\r\nLG!\r\nUlrike"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,13 @@
+form_name: 'Laura Schillo'
+Straße_Nr: 'Ungerstr. 17'
+plz_stadt: Hannover
+form_email: lschillo@web.de
+telefonnummer: '01786526046'
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.05.2024-19.05.2024
+personenanzahl: '2'
+deine_nachricht: 'Hallo, über eine Rückmeldung freue ich mich. Grüße'
+newsletter:
+  - null

@@ -1,0 +1,13 @@
+form_name: 'Bettina Rambow'
+Straße_Nr: 'Heisenbergstraße 4'
+plz_stadt: Berlin
+form_email: bettina.rambow@gmx.de
+telefonnummer: '01723101777'
+angebote:
+  - null
+  - übernachten
+zeitraum: 19.-21.4.2024
+personenanzahl: '2'
+deine_nachricht: "Hallo, wir hätten gerne ein Doppelzimmer.\r\nViele Grüße \r\nBettina Rambow"
+newsletter:
+  - null

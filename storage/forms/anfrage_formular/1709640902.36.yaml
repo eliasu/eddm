@@ -1,0 +1,14 @@
+form_name: 'Manuel Döllefeld'
+Straße_Nr: 'Naugarder Straße 12'
+plz_stadt: '10409 Berlin'
+form_email: doellefeld@berlin.de
+telefonnummer: '015787211099'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '31.07'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nmeiner Tochter (6 Jahre) und Ich planen im Sommer eine Radtour und wir würden gerne eine Nacht (vom 31.07 auf 01.08) bei euch übernachten (vorzugsweise im Clownswagen) und nach einem Frühstück wieder weiterfahren.\r\nViele Grüße\r\nManuel"
+newsletter:
+  - null

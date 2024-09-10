@@ -1,0 +1,12 @@
+form_name: 'Lies Buchtmann'
+Straße_Nr: 'Kaltenkircher Platz 10'
+plz_stadt: Hamburg
+form_email: liesbuchtmann@yahoo.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 31.3.-2.4.
+personenanzahl: '2'
+deine_nachricht: "Guten Tag, \r\ngerne würden wir euch für ein Wochenende besuchen kommen. Habt ihr noch Verfügbarkeiten? \r\nMit besten Grüßen\r\nLies"
+newsletter:
+  - null

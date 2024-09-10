@@ -1,0 +1,14 @@
+form_name: 'Peer Feldhahn'
+Straße_Nr: 'Bleickenallee 8'
+plz_stadt: '22763 Hamburg'
+form_email: peer@feldhahn.de
+telefonnummer: '015128007716'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 22.06.2024
+personenanzahl: '4'
+deine_nachricht: "Ich freue mich auf eure Rückmeldung.\r\nLG Peer"
+newsletter:
+  - null

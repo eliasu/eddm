@@ -1,0 +1,12 @@
+form_name: 'Stephan Koziner'
+Straße_Nr: 'Schiller str 30'
+plz_stadt: '10627 Berlin'
+form_email: stephankoziner@hotmail.com
+telefonnummer: '01785567054'
+angebote:
+  - null
+zeitraum: 13.-15.07.2024
+personenanzahl: '1'
+deine_nachricht: "Hallo,\r\nich habe vom 13.-15.07.2024 im Zimmer 113 geschlafen. \r\nBisher habe ich die versprochene Rechnung noch nicht erhalten.\r\nLieben Dank im Voraus für die Übersendung.\r\nGruß \r\nStephan"
+newsletter:
+  - null

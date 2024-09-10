@@ -1,0 +1,12 @@
+form_name: 'Leonard Wanner'
+Straße_Nr: 'Goppeltstr. 21'
+plz_stadt: '70191 Stuttgart'
+form_email: leo.wanner@web.de
+angebote:
+  - null
+  - übernachten
+zeitraum: '20/21.-25. Mai'
+personenanzahl: '1'
+deine_nachricht: "Hey, das klingt ja wirklich nach einem tollen Projekt was ihr macht! Am liebsten würde ich, falls das noch frei ist, im Zirkuswagen übernachten! (Gibt es die Möglichkeit sich selbst etwas zu kochen? Frühstück nehme ich gerne von euch!)\r\nHerzlicher Gruß,\r\nLeo"
+newsletter:
+  - null

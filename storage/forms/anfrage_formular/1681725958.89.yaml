@@ -1,0 +1,13 @@
+form_name: 'Regine Drewniak'
+Straße_Nr: 'Schildweg 12a'
+plz_stadt: '37085 Göttingen'
+form_email: drewniak@posteo.de
+telefonnummer: '0551 7976538'
+angebote:
+  - null
+  - übernachten
+zeitraum: '23.5. bis 26.5.2023'
+personenanzahl: '2'
+deine_nachricht: "Wir freuen uns sehr über einen Stellplatz für unseren VW-Bus & uns...\r\nherzliche Grüße aus Göttingen,\r\nRegine & Martin"
+newsletter:
+  - null

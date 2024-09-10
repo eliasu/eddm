@@ -1,0 +1,13 @@
+form_name: 'Fee Krämer'
+Straße_Nr: 'Paul-Lincke-Ufer 2'
+plz_stadt: '10999 Berlin'
+form_email: Fee-kraemer@gmx.de
+telefonnummer: '017662901737'
+angebote:
+  - null
+  - übernachten
+zeitraum: '25.12. - 01./02.01.'
+personenanzahl: '11'
+deine_nachricht: "Hallo liebe Möglichkeiten!\r\n\r\nAuf der Suche nach einem Ort , wo wir drei kunst- und kulturverhafteten Familien uns über Silvester treffen können, bin ich auf euern schönen Ort gestoßen.\r\n\r\nWir sind 6 Erwachsene und 5 Kinder.\r\nHabt ihr zufällig noch Platz bei euch?\r\n\r\nLiebe Grüße\r\nFee"
+newsletter:
+  - null

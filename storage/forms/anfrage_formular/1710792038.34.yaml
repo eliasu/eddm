@@ -1,0 +1,13 @@
+form_name: 'Ulrich Grützner'
+Straße_Nr: 'Brüsseler Straße 90'
+plz_stadt: '50672'
+form_email: ulrichgruetzner@gmx.dde
+telefonnummer: '015118427612'
+angebote:
+  - null
+  - übernachten
+zeitraum: 09.-12.05.2024
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nbesteht noch die Möglichkeit, im o.a. Zeitraum zu zweit bei Euch zu übernachten - im Doppelzimmer (mit oder ohne Bad) oder im Tinylife?"
+newsletter:
+  - null

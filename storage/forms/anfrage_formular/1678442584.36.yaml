@@ -1,0 +1,15 @@
+form_name: 'Conrad Kürzdörfer'
+Straße_Nr: 'Emser Str. 27'
+plz_stadt: '12051 Berlin'
+form_email: conrad.kurzdorfer@gmail.com
+telefonnummer: '0176 70107780'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '7.-10.04.23 (alternativ: 11.-16.04.23)'
+personenanzahl: '2'
+deine_nachricht: "Liebes Team,\r\nwir sind zu zweit und suchen entweder für eine Auszeit über Ostern oder in der Woche danach ein Apartment oder ein Zimmer und ein Tiny Haus. Gibt es bei Euch noch Buchungsoptionen?\r\nLiebe Grüße Conrad"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

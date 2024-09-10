@@ -1,0 +1,14 @@
+form_name: 'Ivo Hanke'
+Straße_Nr: 'Köpenicker Str. 174'
+plz_stadt: '10997 Ballin'
+form_email: mail@ivohanke.de
+telefonnummer: '01786377874'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '14. - 17.09.'
+personenanzahl: '2'
+deine_nachricht: 'Hello meine Lieben. Habe Ju auch schon geschrieben. Habt ihr vielleicht was frei für einen Freund und mich am Wochenende!? Liebe Grüße Ivo'
+newsletter:
+  - null

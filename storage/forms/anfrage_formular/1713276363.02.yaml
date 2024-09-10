@@ -1,0 +1,16 @@
+form_name: 'Karl Michaelis'
+Straße_Nr: 'Rosenstraße 19'
+plz_stadt: '29439 Lüchow'
+form_email: michaelis@eb-luechow.de
+telefonnummer: '01712213353'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 22.5.-23.5.2024
+personenanzahl: '1'
+deine_nachricht: "Hallo zusammen,\r\n\r\nwir möchten wieder einen Workshop mit Tara Hawk bei Euch durchführen. Tara bräuchte ein Zimmer vom 22.5. auf den 23.5. und wir bräuchten den Wiesenwinkel plus Tagesverpflegung (6Personen) für den 23.5. Ich hoffe, trotz der Kurzfristigkeit ist das noch möglich?\r\n\r\nViele Grüße\r\nKarl"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,13 @@
+form_name: 'Magdalena Oppermann'
+Straße_Nr: 'Fährstraße 51'
+plz_stadt: '21107'
+form_email: mag.oppermann@posteo.de
+telefonnummer: '01632337659'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Heute Nachmittag bis morgen früh'
+personenanzahl: '2'
+deine_nachricht: "Hey ihr :)\r\nWollten fragen ob wir heute Nacht bei euch unser kleines Zelt aufschlagen dürften. Ruft mich gerne zurück, sind mit dem Farrad unterwegs. Ansonsten werden wir es spontan heute Abend versuchen. \r\nLG Meggi"
+newsletter:
+  - null

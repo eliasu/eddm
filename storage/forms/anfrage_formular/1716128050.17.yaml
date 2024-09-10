@@ -1,0 +1,15 @@
+form_name: 'Irmela Schmidt'
+Straße_Nr: 'Wroostweg 30'
+plz_stadt: Hamburg
+form_email: irmela.schmidt@online.de
+telefonnummer: '017681167606'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '19.5. Bis 20.5.'
+personenanzahl: '2'
+deine_nachricht: 'Wir würden gern mit einem Camper bei Euch stehen. Ginge das noch für heute Nacht?'
+newsletter:
+  - null

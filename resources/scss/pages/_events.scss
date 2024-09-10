@@ -1,0 +1,10 @@
+.filterbar {
+	&__wrapper {
+		width: 100%;
+		padding:	$s4 0px;
+
+		display: flex;
+		flex-wrap: wrap;
+		gap: $s2;
+	}
+}

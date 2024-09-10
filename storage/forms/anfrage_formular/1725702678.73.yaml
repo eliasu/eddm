@@ -1,0 +1,13 @@
+form_name: 'Dagmar Missun'
+Straße_Nr: 'Pellwormweg 7'
+plz_stadt: '22149 Hamburg'
+form_email: dagmar.missun@freenet.de
+telefonnummer: '0406731477'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'KLP 2025, z.B.30.5.-1.6.25, 2 Nächte, DZ mit Bad'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir möchten unserer Kollegin ein Wochenende mit ihrem Partner während der kulturellen Landpartie schenken. Gibt es da noch freie Zimmer an den Wochenenden?\r\nLiebe Grüße\r\nDagmar"
+newsletter:
+  - null

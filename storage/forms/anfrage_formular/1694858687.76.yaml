@@ -1,0 +1,13 @@
+form_name: 'Lara Blackwood'
+Straße_Nr: 'Beim Schlump 30'
+plz_stadt: '20144 Hamburg'
+form_email: lara.webmix@gmx.de
+telefonnummer: '015771565272'
+angebote:
+  - null
+  - übernachten
+zeitraum: 1.-7.10.23
+personenanzahl: '3'
+deine_nachricht: "Guten Tag,\r\nmein Mann, unsere Tochter (3 J.) und ich möchten gerne bei Ihnen Urlaub machen.\r\nHaben sie noch Kapazitäten. \r\nEin Doppelzimmer wäre evtl auch okay, da die Kleine auch mal mit im Bett schläft."
+newsletter:
+  - null

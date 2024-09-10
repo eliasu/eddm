@@ -1,0 +1,14 @@
+form_name: 'Johannes Zimmer'
+Straße_Nr: 'Beetsweg 21'
+plz_stadt: Hamburg
+form_email: johannes@neverfinal.com
+telefonnummer: '+4916090623365'
+angebote:
+  - null
+  - übernachten
+zeitraum: '21.08 - 25.06'
+personenanzahl: '5 Personen'
+deine_nachricht: "Liebes Team der \"ein Ding der Möglichkeit\", \r\nwir von der kleinen Agentur \"never final\" würden gerne eine Workation bei euch machen und haben bisher nur gutes über euren wundervollen Ort gehört. \r\nHabt ihr noch ein Plätzchen für uns frei? \r\nWir interessieren uns für das Workation Angebot.\r\nWir brauchen ein Doppelzimmer, zwei Einzelzimmer und einen Stellplatz für einen Camper (Optional kann diese Person auch mit in ein Zimmer gehen).\r\n\r\n\r\nViele Grüße und ein herzliches Ahoi\r\nJohannes"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

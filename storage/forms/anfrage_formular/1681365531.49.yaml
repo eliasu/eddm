@@ -1,0 +1,13 @@
+form_name: 'Friederike Stockmann'
+Straße_Nr: 'Rathenauplatz 21'
+plz_stadt: '06114 Halle'
+form_email: f.stockmann@stockmann-beratung.de
+telefonnummer: '01725972351'
+angebote:
+  - null
+  - übernachten
+zeitraum: 27.-30.5.23
+personenanzahl: '1'
+deine_nachricht: 'Ich suche ein Quartier zur kulturellen Landpartie, komme mit dem Fahrrad. Ich habe den Tipp von Ben bekommen, mit dem bin ich im LiF engagiert.'
+newsletter:
+  - null

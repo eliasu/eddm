@@ -1,0 +1,42 @@
+name: Hannes
+super: true
+id: 440d777d-27d0-48e6-bc51-23842547dc4c
+password_hash: $2y$10$rEyQYxVj3VP.2ssBmMkxwOwmDkw9I1FYlEp.gzBJTYOZv92SJJSV2
+preferences:
+  collections:
+    pages:
+      columns:
+        - title
+        - slug
+      after_save: continue_editing
+    events:
+      columns:
+        - title
+        - slug
+        - tags
+        - date_type
+        - dates
+        - date_range
+      after_save: continue_editing
+      per_page: 500
+    globals:
+      columns:
+        - title
+  forms:
+    newsletter:
+      columns:
+        - datestamp
+        - form_email
+    anfrage_formular:
+      columns:
+        - datestamp
+        - form_name
+        - form_email
+        - angebot
+        - zeitraum
+        - personenanzahl
+        - newsletter
+        - deine_nachricht
+  assets:
+    assets:
+      per_page: 500

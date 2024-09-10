@@ -1,0 +1,13 @@
+form_name: 'Kerstin Reich'
+Straße_Nr: 'Glashüttenstrasse 10'
+plz_stadt: Hamburg
+form_email: k.reich@doppelplusultra.de
+telefonnummer: '01725436700'
+angebote:
+  - null
+  - übernachten
+zeitraum: 12.-13.5.24
+personenanzahl: '2'
+deine_nachricht: 'Hallo, hatte heute mit euch telefoniert und erfahren, dass ab 12.5. noch ein Zimmer frei ist. Wir würden 1 Nacht bleiben aber ev. optional noch eine weitere Nacht bis 14.5 verlängern (wenn es bei uns jobtechnisch hinhaut)'
+newsletter:
+  - null

@@ -1,0 +1,13 @@
+form_name: 'Ralf Lorenz'
+Straße_Nr: 'Im Grünen Winkel 8a'
+plz_stadt: '59505 Bad Sassendorf'
+form_email: ralflgd@lfgd.de
+telefonnummer: '0151 20441593'
+angebote:
+  - null
+  - übernachten
+zeitraum: '23.5. - 25.5.23'
+personenanzahl: '2'
+deine_nachricht: 'Wir suchen ein gemütliches, bequemes Zimmer mit Duschbad, möglichst keine Treppen, inkl. Frühstück.'
+newsletter:
+  - null

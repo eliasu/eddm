@@ -1,0 +1,13 @@
+form_name: 'Louise Engel'
+Straße_Nr: 'Doormannsweg, 22'
+plz_stadt: Hamburg
+form_email: louisengel@hotmail.de
+telefonnummer: '015783793187'
+angebote:
+  - null
+  - übernachten
+zeitraum: 27.05.-28.05.
+personenanzahl: 2-4
+deine_nachricht: "Hallo,\r\n\r\nwir würden gerne zur KLP am 27.05. kommen. Gäbe es doch noch irgendwie Schlafplätze für 2-4 Personen? Wir sind ganz brav und brauchen wirklich nicht viel Platz, nur das Nötigste. Ich war auch in den ersten Jahren Teil der Detect Crew und kann gerne anpacken, wenn nötig :)\r\nLiebe Grüße"
+newsletter:
+  - null

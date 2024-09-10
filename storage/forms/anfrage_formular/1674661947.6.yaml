@@ -1,0 +1,13 @@
+form_name: 'Burcu Gürbüz'
+adresse: 'Wienerstr 16, 10999 Berlin'
+form_email: gurbuzburcu90@yahoo.de
+telefonnummer: '015751025712'
+angebot:
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: '05.05 bis 07.05'
+personenanzahl: 56-80
+deine_nachricht: "Liebes-Team,\r\n\r\nich war im Rahmen der kulturellen Landpartie bei euch und fand es richtig super.\r\nJetzt hatten wir, also mein Freund und ich, überlegt ein Geburtstagswochenende mit Familie und FreundInnen bei euch zu feiern.\r\nEs handelt sich um das Wochenende vom 5. bis 7. Mai. Wäre dieser Zeitraum noch zur Verfügung? Wenn ja was sind die Konditionen und die Preise pro Nacht? \r\n\r\n\r\nHerzliche Grüße \r\nBosse und Burcu"
+newsletter:
+  - 'In den Newsletter eintragen'

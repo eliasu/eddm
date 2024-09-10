@@ -1,0 +1,14 @@
+form_name: 'Dr. Manfred Deutschmann'
+Straße_Nr: 'Carsten-Meyn Weg 22'
+plz_stadt: '22399 Hamburg'
+form_email: deutschmann.pop@gmx.net
+telefonnummer: '0406029027'
+angebote:
+  - null
+  - übernachten
+zeitraum: '15.5. bis 17.5.'
+personenanzahl: '2'
+deine_nachricht: "Wir waren schon oefter Gaeste bei euch. Meine Frau braucht 1 Zimmer mit Dusche. Ich zelte im 2 Personen Zelt.\r\nDanke und\r\nherzliche Gruesse\r\n\r\nM.Deutschmann"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,16 @@
+form_name: 'Linda Einhoff'
+Straße_Nr: 'Solmsstraße 41'
+plz_stadt: '10961 Berlin'
+form_email: lidnaeinhoff@gmail.com
+telefonnummer: '017662101125'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: '21-25 August'
+personenanzahl: '2'
+deine_nachricht: 'Ich würde gern mit einer Freundin und Kollegen zum Arbeiten bei euch sein für ein paar Tage. Wir teilen uns gerne eine Unterkunft und bräuchten Arbeitsplätze. Habt ihr externe Monitore?'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

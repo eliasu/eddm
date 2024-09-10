@@ -1,0 +1,14 @@
+form_name: 'Mayra Grützemacher'
+Straße_Nr: 'Bergmannstraße 16'
+plz_stadt: '30974 wennigsen'
+form_email: mayra.gr@web.de
+telefonnummer: '15751079047'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18. bis 20.05.'
+personenanzahl: '2'
+deine_nachricht: "Hej, ich würde gerne mit meiner Schwester zwei Nächte bei euch mit dem Zelt übernachten. Habt ihr da noch Plätze frei? \r\nLiebe Grüße, mayra"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

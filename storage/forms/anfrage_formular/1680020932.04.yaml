@@ -1,0 +1,13 @@
+form_name: 'Kerstin Kerber'
+Straße_Nr: 'Asternstrasse 40'
+plz_stadt: '30167'
+form_email: kerstin-kerber@web.de
+telefonnummer: '01751679146'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.-20.5.2023
+personenanzahl: '2'
+deine_nachricht: 'Hey, wir würden gerne mit einen Camper auf Eure Zeltwiese zur KLP einen Platz mieten.'
+newsletter:
+  - null

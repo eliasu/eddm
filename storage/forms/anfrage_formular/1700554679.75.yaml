@@ -1,0 +1,13 @@
+form_name: 'Anna Zaplatnikova'
+Straße_Nr: 'Grindelhof 35'
+plz_stadt: '2046 Hamburg'
+form_email: anna.zplt@gmx.net
+telefonnummer: '01634413036'
+angebote:
+  - null
+  - übernachten
+zeitraum: 02.02.24-04.02.24
+personenanzahl: '2'
+deine_nachricht: 'Gerne würden wir bei euch übernachten für das genannte Wochenende, wenn ihr Unterkünfte mit zusätzlicher Sauna habt, wären wir interessiert. Liebe Grüße, Anna'
+newsletter:
+  - null

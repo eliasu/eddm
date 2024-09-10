@@ -1,0 +1,14 @@
+form_name: 'Frederek Dreyer'
+Straße_Nr: 'Viereck 13'
+plz_stadt: '22607'
+form_email: frederek.dreyer@gmx.de
+telefonnummer: '01773403310'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '27.10. - 28.10.23'
+personenanzahl: '2'
+deine_nachricht: 'Ein Traum wäre die 103 mit Hund'
+newsletter:
+  - null

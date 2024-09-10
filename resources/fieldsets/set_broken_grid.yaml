@@ -1,0 +1,18 @@
+title: set_broken_grid
+fields:
+  -
+    handle: grid_field
+    field:
+      fields:
+        -
+          import: fs_1_griditem
+      mode: stacked
+      max_rows: 5
+      min_rows: 3
+      reorderable: true
+      display: 'Broken Grid'
+      type: grid
+      icon: grid
+      instructions: 'Use 3 to 5 items in your broken grid.'
+      listable: hidden
+      instructions_position: above

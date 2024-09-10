@@ -1,0 +1,13 @@
+form_name: 'Jörg Hahn'
+Straße_Nr: 'Koplinger Tor'
+plz_stadt: Ilsede
+form_email: famgallus@gmx.de
+telefonnummer: '+4951722975'
+angebote:
+  - null
+  - übernachten
+zeitraum: '17.5.24 - 20.5.24'
+personenanzahl: '2'
+deine_nachricht: "Hallo, habt ihr für den o.g. Zeitraum noch ein Doppelzimmer frei ?\r\nGrüsse\r\nJörg"
+newsletter:
+  - null

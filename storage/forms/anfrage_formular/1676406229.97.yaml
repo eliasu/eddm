@@ -1,0 +1,13 @@
+form_name: 'Brigitte Schüller'
+adresse: Schwalbenstraße
+form_email: brigitte.schueller@web.de
+telefonnummer: '0202502376'
+angebote:
+  - null
+  - übernachten
+zeitraum: 27.05.-31005.
+personenanzahl: '2'
+deine_nachricht: 'Wir sind sehr interessiert an dem Kulturprogramm Wunderpunkte und sind selber Musiker'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,15 @@
+form_name: 'Doris Hubert'
+Straße_Nr: 'Schimmelmannallee 14'
+plz_stadt: '22043 Hamburg'
+form_email: dorishubert@web.de
+telefonnummer: '015116548456'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '26. bis 28. Mai 2023'
+personenanzahl: '2'
+deine_nachricht: 'Hallo, wir sind zu zweit und würden gerne wieder bei euch über Pfingsten während der KLP zelten. Habt Ihr noch für ein kleines Zelt Platz und darf ein Hund mitgebracht werden? Herzliche Grüße, Doris'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

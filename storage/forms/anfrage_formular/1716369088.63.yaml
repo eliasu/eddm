@@ -1,0 +1,13 @@
+form_name: 'Michael Pleitgen'
+Straße_Nr: 'Buriger Weg 10'
+plz_stadt: Berlin
+form_email: mpleitgen@web.de
+telefonnummer: '03065076265'
+angebote:
+  - null
+  - übernachten
+zeitraum: '1./2./3 Juli 1 oder 2 Nächte'
+personenanzahl: '2 / 2 getrennte Schlafzimmer'
+deine_nachricht: 'Wir möchten unsere Schwester in Stütensen besuchen - wissen aber den Tag noch nicht genau'
+newsletter:
+  - null

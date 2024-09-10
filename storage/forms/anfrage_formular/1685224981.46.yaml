@@ -1,0 +1,13 @@
+form_name: 'Jade Comfort'
+Straße_Nr: 'Hollaendische Reihe 22'
+plz_stadt: '22765 Hamburg'
+form_email: jade.comfort@gmail.com
+telefonnummer: '01702228275'
+angebote:
+  - null
+  - übernachten
+zeitraum: 28.5-29.5
+personenanzahl: '2'
+deine_nachricht: 'Ist da irgendeine Zimmer noch frei?'
+newsletter:
+  - null

@@ -1,0 +1,14 @@
+form_name: 'Roswitha Schulz'
+Straße_Nr: Fritz-Reuter-Allee12
+plz_stadt: '12359 Berlin'
+form_email: roswitha_schulz@t-online.de
+telefonnummer: '+491702432969'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 26.-29.05.2023
+personenanzahl: '2'
+deine_nachricht: "Hallo, gern möchte ich bei euch auf dem schönen Hof einmal wohnen und suche ein DZ. Habe ich das Glück?\r\nLieben Gruß :)"
+newsletter:
+  - null

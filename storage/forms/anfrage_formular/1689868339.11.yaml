@@ -1,0 +1,12 @@
+form_name: 'Aicha Bischert'
+Straße_Nr: 'Klaus-Groth-Str. 60'
+plz_stadt: '20535 Hamburg'
+form_email: aichabischert@web.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Sonntag auf Montag'
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\n\r\nwir würden gerne zu 2. bei Ihnen in dem hintersten Wagen übernachten (der direkt neben der Schaukel). Gerne von Sonntag auf Montag.\r\n\r\nLiebe Grüße\r\n\r\nAicha"
+newsletter:
+  - null

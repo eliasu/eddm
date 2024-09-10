@@ -1,0 +1,44 @@
+title: fs_bard
+fields:
+  -
+    handle: text_bard
+    field:
+      always_show_set_button: true
+      buttons:
+        - underline
+        - strikethrough
+        - anchor
+      save_html: false
+      toolbar_mode: fixed
+      link_noopener: false
+      link_noreferrer: false
+      target_blank: false
+      reading_time: false
+      fullscreen: true
+      allow_source: false
+      enable_input_rules: false
+      enable_paste_rules: false
+      antlers: false
+      display: Text
+      type: bard
+      icon: bard
+      listable: hidden
+      instructions_position: above
+      instructions: 'You can add links or buttons via the plus sign'
+      sets:
+        link:
+          display: Link
+          fields:
+            -
+              import: fs_link
+        button:
+          display: Button
+          fields:
+            -
+              import: fs_link
+      link_collections:
+        - pages
+        - events
+      validate:
+        - required
+      container: assets

@@ -1,0 +1,13 @@
+title: Cookies
+data:
+  preferences_headline: 'Wir schätzen deine Privatsphäre'
+  cookie_message:
+    -
+      type: paragraph
+      content:
+        -
+          type: text
+          text: "Wir verwenden Cookies, um\_diese Website zu verbessern, personalisierte Anzeigen oder Inhalte einzusetzen und unseren Datenverkehr zu analysieren. Wenn du auf „Alle akzeptieren\" klickst, stimmst du der Anwendung von Cookies zu."
+  button_allow: 'Alle akzeptieren'
+  button_reject: 'Alle ablehnen'
+  button_submit: 'Voreinstellungen speichern'

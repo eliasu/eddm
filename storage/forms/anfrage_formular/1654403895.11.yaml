@@ -1,0 +1,8 @@
+form_name: 'Jane Piltz'
+form_email: dr.janepiltz@web.de
+angebot:
+  - übernachten
+  - essen
+zeitraum: Wochenende
+personenanzahl: '13'
+deine_nachricht: 'Wir möchten als Familie ein Wochenende bei euch verbringen. Gibt es Möglichkeiten ab August ?'

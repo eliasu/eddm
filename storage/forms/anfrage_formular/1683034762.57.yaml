@@ -1,0 +1,14 @@
+form_name: 'Sina Wendt'
+Straße_Nr: 'Bunsenstraße 5'
+plz_stadt: '22765'
+form_email: sina.wendt@googlemail.com
+telefonnummer: '015115778886'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 11.-12.05.2023
+personenanzahl: '1'
+deine_nachricht: 'Hallo, ich würde gern nächste Woche von Donnerstag auf Freitag bei euch im Zirkuswagen übernachten und Abendessen sowie Frühstück dazu buchen. Wäre da noch etwas frei? Liebe Grüße, Sina'
+newsletter:
+  - null

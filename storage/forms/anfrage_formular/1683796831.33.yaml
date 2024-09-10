@@ -1,0 +1,13 @@
+form_name: 'Tom Schimmeck'
+Straße_Nr: 'Hellgrund, 115'
+plz_stadt: Wedel
+form_email: tom@schimmeck.de
+telefonnummer: '041039030531'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.-19.5.
+personenanzahl: '2'
+deine_nachricht: 'Das wäre schön.'
+newsletter:
+  - null

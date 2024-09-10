@@ -1,0 +1,14 @@
+form_name: 'Karolin Hollnagel'
+Straße_Nr: 'Wielandstraßen 25'
+plz_stadt: Berlin
+form_email: holl.k@gmx.de
+telefonnummer: '01729066841'
+angebote:
+  - null
+  - übernachten
+zeitraum: '30.07. - 07.08.2023'
+personenanzahl: '1'
+deine_nachricht: "Hallo, \r\nich würde gern wissen ob in dem angegebenen Zeitraum ein Tiny House (Bungalow) oder ein Einzelzimmer für 3-5 Tage frei ist. \r\n\r\nVielen Dank und viele Grüße\r\nKarolin"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

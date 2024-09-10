@@ -1,0 +1,14 @@
+form_name: 'Jutta Alisch'
+Straße_Nr: 'Eichhörnchenweg 18'
+plz_stadt: '26131 Oldenburg'
+form_email: jurobrade@gmail.com
+telefonnummer: '04416841448'
+angebote:
+  - null
+  - übernachten
+zeitraum: '25.05. - 27.05.'
+personenanzahl: '1'
+deine_nachricht: 'Hallo, ich würde am liebsten im Bauwagen übernachten, sofern noch frei. Ansonsten egal. Herzliche Grüße von Jutta'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

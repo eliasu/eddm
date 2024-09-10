@@ -1,0 +1,15 @@
+form_name: 'Heike Lovelock'
+Straße_Nr: 'Lange Laube 32'
+plz_stadt: '30165 Hannover'
+form_email: heike.lovelock@lcss.uni-hannover.de
+telefonnummer: '0511 762 14735 Mo und Di'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 22.04.-23.04.2024
+personenanzahl: '9'
+deine_nachricht: "Liebes Team,\r\n\r\nwir würden gern bei Ihnen ein Retreat veranstalten. Hätten Sie in dem Zeitraum noch Kapazitäten?\r\nVielen Dank und herzliche Grüße!\r\nHeike Lovelock"
+newsletter:
+  - null

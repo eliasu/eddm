@@ -1,0 +1,14 @@
+form_name: 'Kamila Pasko'
+Straße_Nr: Wohlwillstr.12
+plz_stadt: '20359 Hamburg'
+form_email: mila@woodenvalley.de
+telefonnummer: '017621206966'
+angebote:
+  - null
+  - übernachten
+zeitraum: 16.-17.09.23
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\nwir haben die wunderbare Empfehlung von Lennert bekommen und möchten wissen, wären an dem Tag 2 EZ oder das DZ mit Flurbad verfügbar? Vielen Dank, liebe Grüße, Mila"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

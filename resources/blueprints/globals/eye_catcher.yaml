@@ -1,0 +1,36 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: disable_eye_catcher
+        field:
+          default: false
+          display: 'Disable Eye Catcher'
+          type: toggle
+          icon: toggle
+          listable: hidden
+          instructions_position: above
+      -
+        handle: title
+        field:
+          input_type: text
+          antlers: false
+          display: Title
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          if:
+            disable_eye_catcher: 'equals false'
+      -
+        handle: text_bard_eye_catcher
+        field: fs_bard.text_bard
+        config:
+          buttons:
+            - underline
+            - strikethrough
+          validate:
+            - 'required_unless:disable_eye_catcher,true'
+          if:
+            disable_eye_catcher: 'equals false'

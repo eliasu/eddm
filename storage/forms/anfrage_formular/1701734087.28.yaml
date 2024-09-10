@@ -1,0 +1,13 @@
+form_name: 'Jonas Götzinger'
+Straße_Nr: 'Fidicinstrasse 8'
+plz_stadt: '10965 Berlin'
+form_email: jgoetzinger@mailbox.org
+telefonnummer: '01748966564'
+angebote:
+  - null
+  - übernachten
+zeitraum: '9.12.23 - 10.12.23'
+personenanzahl: '2'
+deine_nachricht: "Hi!\r\nWir möchten gerne am nächsten Wochenende für eine Nacht aus der Stadt flüchten und wollten fragen, ob vom 9.12. - 10.12 noch ein DZ mit Bad frei ist?\r\nLiebe Grüße\r\nJonas"
+newsletter:
+  - null

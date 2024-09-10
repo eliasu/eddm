@@ -1,0 +1,13 @@
+form_name: 'Andrea Campos'
+Straße_Nr: 'Sigismundstr. 5'
+plz_stadt: '10785'
+form_email: ancampos93@gmail.com
+telefonnummer: '017642738339'
+angebote:
+  - null
+  - übernachten
+zeitraum: 30.07.2023-31.07.2023
+personenanzahl: '2'
+deine_nachricht: 'Hello, i would like to book a room just to spend the night with my boyfriend as it is his birthday on the 31st of July :)'
+newsletter:
+  - null

@@ -1,0 +1,42 @@
+{{ if image }}
+	<picture>
+		{{ asset :url="image" }}
+			{{ if extension == 'svg' || extension == 'gif' }}
+					<img class="lazyload {{ class }}" src="{{ glide:url preset='3xl' }}" alt="{{ alt }}" />
+			{{ else }}
+				<source
+					data-srcset="
+						{{ glide:image preset='sm-webp' }} 480w,
+						{{ glide:image preset='lg-webp' }} 1280w,
+						{{ glide:image preset='xl-webp' }} 1440w,
+					type="image/webp"
+				>
+				<source
+					data-srcset="
+						{{ glide:image preset='sm' }} 480w,
+						{{ glide:image preset='lg' }} 1280w,
+						{{ glide:image preset='xl' }} 1440w,
+					type="{{ image.mime_type }}"
+				>
+				<img
+					{{ if cover }}
+						class="lazyload object-cover {{ class }}"
+						style="object-position: {{ focus_css }}"
+					{{ else }}
+						class="lazyload {{ class }}"
+					{{ endif }}
+					
+					src="{{ glide:image preset='ph' }}"
+					
+					data-src="{{ glide:image preset='lg' }}"
+					{{# data-sizes="auto" #}}
+					
+					alt="{{alt ? alt : image.title}}"
+					width="{{ w ?? image.width }}"
+					height="{{ h ?? image.height }}"
+				>
+			{{ /if }}
+		{{ /asset }}
+	</picture>
+{{ /if }}
+

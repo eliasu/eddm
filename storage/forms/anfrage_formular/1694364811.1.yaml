@@ -1,0 +1,14 @@
+form_name: 'uta maxin'
+Straße_Nr: 'Övelgönne 63'
+plz_stadt: '22605 Hamburg'
+form_email: utamaxin@me.com
+telefonnummer: 0176/20437761
+angebote:
+  - null
+  - übernachten
+zeitraum: 14.-17.09.
+personenanzahl: '2'
+deine_nachricht: "Hallo ihr Lieben,\r\nHabt ihr in dem genannten Zeitraum noch ein DZ im OG mit Balkon oder Wintergarten frei?\r\nWir würden uns sehr freuen.\r\n\r\nLiebe Grüße,\r\nUta"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

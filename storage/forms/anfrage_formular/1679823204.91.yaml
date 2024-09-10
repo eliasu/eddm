@@ -1,0 +1,13 @@
+form_name: 'Endres Michael Schmitz'
+Straße_Nr: 'Busestr. 4b'
+plz_stadt: '28213 Bremen'
+form_email: endres.schmitz@web.de
+telefonnummer: '01772738559'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18. - 20.05.2023'
+personenanzahl: '2'
+deine_nachricht: "Liebes Team, \r\nwas für Pbernachtungsmöglichkeiten habt ihr noch über Himmelfahrt?\r\nViele Grüße aus Bremen\r\nEndres"
+newsletter:
+  - null

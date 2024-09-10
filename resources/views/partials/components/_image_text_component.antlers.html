@@ -1,0 +1,348 @@
+{{ section:custom-js-swiper }}
+	{{# <script src="{{ mix src='/js/swiper.js' }}"></script> #}}
+	{{ vite src='resources/js/swiper.js' }}
+	{{# <script type="module" src="/js/swiper.js"></script> #}}
+{{ /section:custom-js-swiper }}
+
+<section class="{{ if background_color == "none" }}section-wrapper{{else}}section-wrapper--{{ background_color }}{{ /if }}{{ if text_color != "black" }} text--{{ text_color }}{{ /if }} grid">
+
+	
+	{{# Pano Slider Template #}}
+	{{ if component_template == "pano_slider" }}	
+							
+		<div class="c-block--pano__wrap">
+			<div class="swiper" data-swtype="swiper-pano">
+				<!-- Additional required wrapper -->
+				<ul class="swiper-wrapper my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+					<!-- Slides -->
+					{{ images_img }}
+						<li id="{{index}}" class="swiper-slide swiper__slide--pano" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+							<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url preset='3xl' }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
+								{{ partial:utility/picture :image="url" class="swiper__image--pano" alt="{title}" w="{width}" h="{height}" }}
+							</a>
+						</li>
+					{{ /images_img }}
+				</ul>
+			
+				<div title="Prev" class="swiper-button-prev"></div>
+				<div title="Next" class="swiper-button-next swiper-button-util"></div>
+			</div>
+
+			<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+			
+				<!-- Background of PhotoSwipe. 
+						It's a separate element, as animating opacity is faster than rgba(). -->
+				<div class="pswp__bg"></div>
+			
+				<!-- Slides wrapper with overflow:hidden. -->
+				<div class="pswp__scroll-wrap">
+			
+				<!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+				<!-- don't modify these 3 pswp__item elements, data is added later on. -->
+				<div class="pswp__container">
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+					<div class="pswp__item"></div>
+				</div>
+			
+				<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+				<div class="pswp__ui pswp__ui--hidden">
+			
+					<div class="pswp__top-bar">
+			
+						<!--  Controls are self-explanatory. Order can be changed. -->
+			
+						<div class="pswp__counter"></div>
+			
+						<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+			
+						<button class="pswp__button pswp__button--share" title="Share"></button>
+			
+						<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+			
+						<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+			
+						<!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+						<!-- element will get class pswp__preloader--active when preloader is running -->
+						<div class="pswp__preloader">
+						<div class="pswp__preloader__icn">
+							<div class="pswp__preloader__cut">
+								<div class="pswp__preloader__donut"></div>
+							</div>
+						</div>
+						</div>
+					</div>
+			
+					<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+						<div class="pswp__share-tooltip"></div>
+					</div>
+			
+					<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+					</button>
+			
+					<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+					</button>
+			
+					<div class="pswp__caption">
+						<div class="pswp__caption__center"></div>
+					</div>
+			
+				</div>
+			
+				</div>
+			
+			</div>
+		</div>
+
+		<h2 class="c-block--pano__headline text-m c-block__headline">{{ headline_txt }}</h2>
+
+		<div class="c-block--pano__content flex-left text-s">
+			{{ text_bard }}
+				{{ partial src="bardsets/{type}" bg="{{background_color}}" }}
+			{{/text_bard}}
+		</div>
+
+
+
+
+	{{# Pano Image Template #}}
+	{{elseif component_template == "pano_image"}}
+		<div class="c-block--pano__wrap--single">
+			{{ images_img limit="1" }}
+				{{ partial:utility/picture :image="url" class="c-block--pano__image" alt="{{title}}" w="{width}" h="{height}" cover="true"}}
+			{{/images_img}}
+		</div>
+
+		<h2 class="c-block--pano__headline text-m c-block__headline">{{ headline_txt }}</h2>
+
+		<div class="c-block--pano__content flex-left text-s">
+			{{ text_bard }}
+				{{ partial src="bardsets/{type}" bg="{{background_color}}" }}
+			{{/text_bard}}
+		</div>
+
+
+
+
+	{{# Slider Left Template #}}
+	{{elseif component_template == "slider_left"}}
+		<div class="c-block--alt__square">
+			<div class="c-block--alt__content">
+				{{ if images_img | count < 2 }}
+					{{ images_img limit="1"}}
+						{{ partial:utility/picture :image="url" class="swiper__image--single" alt="{title}" w="{width}" h="{height}" }}
+					{{ /images_img }}
+
+				{{ else }}
+					<div class="swiper swiper__square" data-swtype="swiper-single">
+						<!-- Additional required wrapper -->
+						<ul class="swiper-wrapper my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+							<!-- Slides -->
+							{{ images_img }}
+								<li id="{{index}}" class="swiper-slide swiper__slide--single" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+									<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url preset='3xl' }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
+										{{ partial:utility/picture :image="url" class="swiper__image--single" alt="{title}" w="{width}" h="{height}" }}
+									</a>
+								</li>
+							{{ /images_img }}
+						</ul>
+					
+						<div title="Prev" class="swiper-button-prev"></div>
+						<div title="Next" class="swiper-button-next"></div>
+					</div>
+
+					<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+					
+						<!-- Background of PhotoSwipe. 
+								It's a separate element, as animating opacity is faster than rgba(). -->
+						<div class="pswp__bg"></div>
+					
+						<!-- Slides wrapper with overflow:hidden. -->
+						<div class="pswp__scroll-wrap">
+					
+						<!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+						<!-- don't modify these 3 pswp__item elements, data is added later on. -->
+						<div class="pswp__container">
+							<div class="pswp__item"></div>
+							<div class="pswp__item"></div>
+							<div class="pswp__item"></div>
+						</div>
+					
+						<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+						<div class="pswp__ui pswp__ui--hidden">
+					
+							<div class="pswp__top-bar">
+					
+								<!--  Controls are self-explanatory. Order can be changed. -->
+					
+								<div class="pswp__counter"></div>
+					
+								<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+					
+								<button class="pswp__button pswp__button--share" title="Share"></button>
+					
+								<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+					
+								<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+					
+								<!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+								<!-- element will get class pswp__preloader--active when preloader is running -->
+								<div class="pswp__preloader">
+								<div class="pswp__preloader__icn">
+									<div class="pswp__preloader__cut">
+										<div class="pswp__preloader__donut"></div>
+									</div>
+								</div>
+								</div>
+							</div>
+					
+							<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+								<div class="pswp__share-tooltip"></div>
+							</div>
+					
+							<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+							</button>
+					
+							<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+							</button>
+					
+							<div class="pswp__caption">
+								<div class="pswp__caption__center"></div>
+							</div>
+					
+						</div>
+					
+					</div>
+				</div>
+				{{ /if }}
+			</div>
+		</div>
+
+		<div class="c-block--alt__wrap c-block--alt__first flex-left text-s">
+			<h2 class="text-m c-block__headline">{{ headline_txt }}</h2>
+
+			{{ text_bard }}
+				{{ partial src="bardsets/{type}" bg="{{background_color}}" }}
+			{{/text_bard}}
+		</div>
+
+
+
+
+	
+	{{# Slider Right Template #}}
+	{{elseif component_template == "slider_right"}}
+		<div class="c-block--alt__wrap c-block--alt__first flex-left text-s">
+			<h2 class="text-m c-block__headline">{{ headline_txt }}</h2>
+
+			{{ text_bard }}
+				{{ partial src="bardsets/{type}" bg="{{background_color}}" }}
+			{{/text_bard}}
+		</div>
+
+		<div class="c-block--alt__square">
+			<div class="c-block--alt__content">
+				{{ if images_img | count < 2 }}
+					{{ images_img limit="1"}}
+						{{ partial:utility/picture :image="url" class="swiper__image--single" alt="{{title}}" w="{width}" h="{height}" }}
+					{{ /images_img }}
+
+				{{ else }}
+				
+					<div class="swiper swiper__square" data-swtype="swiper-single">
+						<!-- Additional required wrapper -->
+						<ul class="swiper-wrapper my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+							<!-- Slides -->
+							{{ images_img }}
+								<li id="{{index}}" class="swiper-slide swiper__slide--single" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+									<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url preset='3xl' }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
+										{{ partial:utility/picture :image="url" class="swiper__image--single" alt="{title}" w="{width}" h="{height}" }}
+									</a>
+								</li>
+							{{ /images_img }}
+						</ul>
+					
+						<div title="Prev" class="swiper-button-prev"></div>
+						<div title="Next" class="swiper-button-next"></div>
+					</div>
+
+					<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+					
+						<!-- Background of PhotoSwipe. 
+								It's a separate element, as animating opacity is faster than rgba(). -->
+						<div class="pswp__bg"></div>
+					
+						<!-- Slides wrapper with overflow:hidden. -->
+						<div class="pswp__scroll-wrap">
+					
+						<!-- Container that holds slides. PhotoSwipe keeps only 3 slides in DOM to save memory. -->
+						<!-- don't modify these 3 pswp__item elements, data is added later on. -->
+						<div class="pswp__container">
+							<div class="pswp__item"></div>
+							<div class="pswp__item"></div>
+							<div class="pswp__item"></div>
+						</div>
+					
+						<!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+						<div class="pswp__ui pswp__ui--hidden">
+					
+							<div class="pswp__top-bar">
+					
+								<!--  Controls are self-explanatory. Order can be changed. -->
+					
+								<div class="pswp__counter"></div>
+					
+								<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+					
+								<button class="pswp__button pswp__button--share" title="Share"></button>
+					
+								<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+					
+								<button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+					
+								<!-- Preloader demo https://codepen.io/dimsemenov/pen/yyBWoR -->
+								<!-- element will get class pswp__preloader--active when preloader is running -->
+								<div class="pswp__preloader">
+								<div class="pswp__preloader__icn">
+									<div class="pswp__preloader__cut">
+										<div class="pswp__preloader__donut"></div>
+									</div>
+								</div>
+								</div>
+							</div>
+					
+							<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+								<div class="pswp__share-tooltip"></div>
+							</div>
+					
+							<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+							</button>
+					
+							<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+							</button>
+					
+							<div class="pswp__caption">
+								<div class="pswp__caption__center"></div>
+							</div>
+					
+						</div>
+					
+						</div>
+					
+					</div>
+
+				{{ /if }}
+			</div>
+		</div>
+
+	{{# No Image Template #}}
+	{{elseif component_template == "no_image"}}
+		<h2 class="c-block--noimg__headline text-m c-block__headline">{{ headline_txt }}</h2>
+
+		<div class="c-block--noimg__content flex-left text-s">
+			{{ text_bard }}
+				{{ partial src="bardsets/{type}" bg="{{background_color}}" }}
+			{{/text_bard}}
+		</div>
+	{{ /if }}
+</section>

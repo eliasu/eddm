@@ -1,0 +1,13 @@
+form_name: 'Clara Wenzel'
+Straße_Nr: 'Adalbert-Stifter-Str. 5'
+plz_stadt: '30655 Hannover'
+form_email: clarawenzel@icloud.com
+telefonnummer: '01772385927'
+angebote:
+  - null
+  - übernachten
+zeitraum: 09.05.24-12.05.24
+personenanzahl: '4'
+deine_nachricht: "Hallo, habt ihr in dem oben genannten Zeitraum noch freie Zimmer? \r\nLiebe Grüße\r\nClara"
+newsletter:
+  - null

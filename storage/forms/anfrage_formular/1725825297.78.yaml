@@ -1,0 +1,13 @@
+form_name: 'Rico Neumann'
+Straße_Nr: 'Pattscheider Str 40'
+plz_stadt: '40519 Düsseldorf'
+form_email: rico.neumann@gmail.com
+telefonnummer: '15114270243'
+angebote:
+  - null
+  - übernachten
+zeitraum: 27.12.-03.01
+personenanzahl: '15'
+deine_nachricht: "Hallo,\r\nwir sind 5 Familien mit 5 Kindern und suchen für Silvester noch eine Fluchtmöglichkeit aus unseren Großstädten. Wie sieht’s da bei euch aus, habt ihr noch freie Zimmer für die Zeit?\r\nLiebe Grüße \r\nRico"
+newsletter:
+  - null

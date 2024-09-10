@@ -1,0 +1,14 @@
+form_name: 'Susanne Nimbach'
+Straße_Nr: 'Im Fischgrund 7a'
+plz_stadt: '13465'
+form_email: SPNimbach@web.de
+telefonnummer: '0178 918 29 68'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '18. - 20.10.24'
+personenanzahl: '2'
+deine_nachricht: "Hallo, ich wollte mal anfragen, ob bei euch im o.g. Zeitraum (evtl. auch einen Tag länger) 2 Einzelzimmer (gerne auch ein Appartement mit 2 Schlafzimmern oder 2 Doppelzimmer mit jeweils Einzelbelegung) verfügbar sind?\r\nLiebe Grüße"
+newsletter:
+  - null

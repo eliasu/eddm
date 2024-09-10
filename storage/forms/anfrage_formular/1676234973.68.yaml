@@ -1,0 +1,12 @@
+form_name: 'Lina Schreiber'
+adresse: 'Nordhäuser Weg 6'
+form_email: lina.schreiber@web.de
+telefonnummer: '+4915785088092'
+angebote:
+  - null
+  - übernachten
+zeitraum: 26.-28./29.05
+personenanzahl: '4'
+deine_nachricht: "Guten Abend,\r\nwir sind 2 Erwachsene, ein 6-jähriges Kind und ein 6 Monate altes Baby. Für unser Baby würden wir ein Reisebett mitbringen. Liebe Grüße, Lina"
+newsletter:
+  - null

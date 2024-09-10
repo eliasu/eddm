@@ -1,0 +1,15 @@
+form_name: 'Kim Köster'
+Straße_Nr: 'Salderatzen 3'
+plz_stadt: Waddeweitz
+form_email: kim@moeglichkeit.org
+telefonnummer: '01709040512'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: 12.5.23
+personenanzahl: '7'
+deine_nachricht: sdthsdthsd
+newsletter:
+  - null

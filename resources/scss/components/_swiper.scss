@@ -1,0 +1,82 @@
+/* zero custom styles for photoswipe */
+
+/*==================================
+SWIPER - minimal styling
+===================================*/
+/* semantic HTML - remove bullet and space from the list */
+ul.swiper-wrapper {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+ }
+
+/* Swiper container */
+.swiper {
+	max-width: 100%;
+	height: 100%;
+
+&:hover {
+	.swiper-button-next, .swiper-button-prev {
+		opacity: 1;
+	}
+}
+
+&__square {
+	height: 100%;
+}
+
+&__image--pano {
+	width: auto;
+	height: 100%;
+
+	@include respond(tab-port) { 
+		width: 100%;
+		height: 100%;
+		object-fit: contain;
+	}
+}
+
+&__slide--pano {
+	width: auto !important;
+
+	@include respond(tab-port) { 
+		width: 100% !important;
+	}
+}
+
+
+&__image--single {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+}
+
+&__slide--single {
+	width: 100%;
+	max-height: 100vh;
+}
+
+}
+
+.swiper-button-next, .swiper-button-prev {
+	color: $blue;
+	opacity: 0;
+	padding: $s5;
+}
+
+.swiper-button-next {
+	right: $s2 !important;
+	cursor: e-resize !important;
+}
+
+.swiper-button-prev {
+	left: $s2 !important;
+	cursor: w-resize !important;
+}
+
+.swiper-button-util {
+	right: $s6 !important;
+}
+ 
+
+ 

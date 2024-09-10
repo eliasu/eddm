@@ -1,0 +1,14 @@
+form_name: 'Tanja Prien'
+Straße_Nr: 'Friedrich-Humbert-Straße 137'
+plz_stadt: '28759 Bremen'
+form_email: tanjaprien@gmx.de
+telefonnummer: '015110152169'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 27.4.24-28.4.24
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\nIch würde gerne ein Doppelzimmer mit Bad und Frühstück bei euch reservieren. Liebe Grüße, Tanja"
+newsletter:
+  - null

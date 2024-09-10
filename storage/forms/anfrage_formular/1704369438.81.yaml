@@ -1,0 +1,13 @@
+form_name: 'Angela Brünjes & Wolfgang Günther'
+Straße_Nr: 'Soodener Str. 2'
+plz_stadt: '28215 Bremen'
+form_email: Angela.u.Woll@samba-bremen.de
+telefonnummer: 0421-3798216
+angebote:
+  - null
+  - übernachten
+zeitraum: '08.05. - 13.05.2024'
+personenanzahl: '2'
+deine_nachricht: "Hallo, wäre bei Euch in dem Zeitraum noch ein Bauwagen frei? Ansonsten ein Doppelzimmer?\r\nMit besten Grüßen\r\nAngela und Woll"
+newsletter:
+  - null

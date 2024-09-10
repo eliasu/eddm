@@ -1,0 +1,74 @@
+title: set_components
+fields:
+  -
+    handle: components_section
+    field:
+      display: 'Components Section'
+      type: section
+      icon: section
+      instructions: 'Arrange your Components via drag''n''drop'
+      listable: hidden
+      instructions_position: below
+  -
+    handle: components
+    field:
+      collapse: true
+      sets:
+        image_text_component:
+          display: 'Image / Text Component'
+          fields:
+            -
+              import: set_image_text
+        big_text_component:
+          display: 'Big Text Component'
+          fields:
+            -
+              import: set_big_text
+        big_image_component:
+          display: 'Big Image Component'
+          fields:
+            -
+              import: set_big_image
+        3_columns_component:
+          display: '3 Columns Component'
+          fields:
+            -
+              import: set_3_colums
+        big_event_component:
+          display: 'Big Event Component'
+          fields:
+            -
+              import: set_big_event
+        next_events_component:
+          display: 'Next Events Component'
+          fields:
+            -
+              import: set_next_events
+        broken_grid_component:
+          display: 'Broken Grid Component'
+          fields:
+            -
+              import: set_broken_grid
+        global_component:
+          display: 'Global Component'
+          fields:
+            -
+              handle: global_component
+              field:
+                max_items: 1
+                mode: default
+                create: false
+                collections:
+                  - globals
+                display: 'Global Component'
+                type: entries
+                icon: entries
+                listable: hidden
+                instructions_position: above
+                read_only: false
+      display: Components
+      type: replicator
+      icon: replicator
+      listable: false
+      instructions_position: above
+      read_only: false

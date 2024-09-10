@@ -1,0 +1,13 @@
+form_name: 'Chiara Petronio'
+Straße_Nr: 'Goebenstraße 4'
+plz_stadt: Hamburg
+form_email: c.petronio@gmx.de
+telefonnummer: '01629304323'
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.05.24-20.05.24
+personenanzahl: '2'
+deine_nachricht: "Moin moin, gibt es noch einen Platz für unseren Bulli bei euch? :)\r\nGrüße, Chiara"
+newsletter:
+  - null

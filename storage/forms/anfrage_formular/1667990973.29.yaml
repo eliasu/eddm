@@ -1,0 +1,10 @@
+form_name: 'Lena Kraus'
+form_email: ma-kraus@gmx.de
+telefonnummer: '017661082177'
+angebot:
+  - übernachten
+zeitraum: '18.05.2023 - 22.05.2023'
+personenanzahl: '4'
+deine_nachricht: "wir möchten 2 Doppelzimmer mit Frühstück buchen. Falls dies nicht möglich sein sollte, würden wir auch ein Appartament mieten oder im Zirkuswagen übernachten.\r\nBitte bestätigt die Buchung per email.\r\n\r\nBeste Lena Kraus"
+newsletter:
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,11 @@
+form_name: 'Frank Schmitz'
+adresse: 'Stephanusstr. 34, 30449 Hannover'
+form_email: herr.schmitz@posteo.de
+telefonnummer: 0176-80526518
+angebot:
+  - übernachten
+zeitraum: 18.-21.06.2023
+personenanzahl: 'ca. 8'
+deine_nachricht: "Liebes Team, \r\nwir waren letztes Jahr bereits zur KLP bei Euch und haben mit 4 Zelten bei Euch ein tolles Wochenende gehabt. Das wollen wir dieses Jahr auch wieder. Habt Ihr noch Platz in Euren Zimmern? Und auch auf dem Zeltplatz? \r\nWir hätten Interesse an 2 Doppelzimmern und Platz für drei Zelte. \r\nBesten Dank für eine Rückmeldung. \r\nFrank"
+newsletter:
+  - 'In den Newsletter eintragen'

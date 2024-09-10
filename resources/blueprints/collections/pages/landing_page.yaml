@@ -1,0 +1,59 @@
+hide: true
+title: 'Landing Page'
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        import: set_eye_catcher_global
+      -
+        handle: hero_section
+        field:
+          display: 'Hero Section'
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+      -
+        import: set_hero_text
+      -
+        import: set_big_image
+      -
+        import: set_big_text
+      -
+        import: set_broken_grid
+      -
+        import: set_components
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true
+      -
+        handle: template
+        field:
+          default: home
+          display: Template
+          type: hidden
+          icon: hidden
+          listable: hidden
+          instructions_position: above

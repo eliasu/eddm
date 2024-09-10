@@ -1,0 +1,13 @@
+form_name: 'Ingo Schock'
+Straße_Nr: 'Zum Kornfeld 4'
+plz_stadt: '32130 Enger'
+form_email: artischocken@me.com
+telefonnummer: '+49 172 688 79 14'
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.-21.05.2023
+personenanzahl: '2'
+deine_nachricht: "Hallo Ihr alle zusammen,\r\n\r\nwir würden gerne ein paar Tage im Wendland verbringen und möchten uns inspirieren lassen. Es wäre schön, wenn ihr ein DZ mit Dusche für uns frei habt.\r\nHerzliche Grüße von Ingo & Emine"
+newsletter:
+  - null

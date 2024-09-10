@@ -1,0 +1,13 @@
+form_name: 'Sascha Meyer'
+Straße_Nr: 'Ottersbekallee 6'
+plz_stadt: '20255 Hamburg'
+form_email: Sascha.meyerhh@gmail.com
+telefonnummer: '015142244338'
+angebote:
+  - null
+  - übernachten
+zeitraum: '7.4. bis 10.4.'
+personenanzahl: '4 (2 Erwachsene + 2 Kinder)'
+deine_nachricht: 'Hallo zusammen, wir sind auf der Suche nach einer schönen Umgebung über Ostern und würden gerne eins eurer Apartments anfragen.'
+newsletter:
+  - null

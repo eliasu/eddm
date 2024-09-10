@@ -1,0 +1,13 @@
+form_name: 'Anne Brandt'
+Straße_Nr: 'Hebbelstr. 52'
+plz_stadt: Potsdam
+form_email: anne.brandt@posteo.de
+telefonnummer: '+4917657631663'
+angebote:
+  - null
+  - übernachten
+zeitraum: '17. bis 18.10.23'
+personenanzahl: '2'
+deine_nachricht: 'Wir, Anne und Till, sind beruflich im Wendland unterwegs und suchen noch nach einer Möglichkeit zur Übernachtung. Auch würden wir gerne ein paar Stunden bei euch in Ruhe an einem Konzept arbeiten. Habt ihr ein Zimmer für uns? LG Anne'
+newsletter:
+  - null

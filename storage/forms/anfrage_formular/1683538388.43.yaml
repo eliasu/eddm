@@ -1,0 +1,16 @@
+form_name: 'Christian Topf'
+Straße_Nr: 'Stahltwiete 13 i'
+plz_stadt: '22761 Hamburg'
+form_email: christiantopf@gmail.com
+telefonnummer: '01707936538'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: 'Sommer 2024'
+personenanzahl: '100'
+deine_nachricht: "Hallo Julia, \r\n\r\nwir haben grade telefoniert :) Wir würden gerne bei euch heiraten und würden uns total freuen, wenn das möglich wäre im nächsten Jahr. Sollten euch noch Infos fehlen, schreibt mir einfach. \r\n\r\nLiebe Grüße \r\nChristian"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

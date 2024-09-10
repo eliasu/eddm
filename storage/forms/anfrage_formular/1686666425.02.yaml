@@ -1,0 +1,13 @@
+form_name: 'Werner Oehlert'
+Straße_Nr: Mittelstr.19
+plz_stadt: '12167 Berlin'
+form_email: W.Oehlert@gmx.de
+telefonnummer: '01792077009'
+angebote:
+  - null
+  - übernachten
+zeitraum: 14.-21.5.24
+personenanzahl: '2'
+deine_nachricht: 'Wir suchen ein Doppelzimmer mit Bad zur o.g. KLP-Zeit. Habt ihr noch was frei?'
+newsletter:
+  - null

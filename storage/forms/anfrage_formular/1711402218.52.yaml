@@ -1,0 +1,15 @@
+form_name: 'Martha Stiehler'
+Straße_Nr: 'Keplerstraße 7'
+plz_stadt: '22765 Hamburg'
+form_email: mkstiehler@gmail.com
+telefonnummer: '015770465471'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 4-7.06.24
+personenanzahl: '2'
+deine_nachricht: "Hallo ihr Lieben, meine Freundin Merle war letztens bei euch und hat mir euch als Tipp gegeben. Ich möchte ein paar besondere Tage bei euch verbringen und würde mich freuen, wenn noch ein schönes Doppelzimmer mit Balkon oder Wintergarten frei wäre. \r\n\r\nGanz liebe GrÜße, \r\n\r\nMartha"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

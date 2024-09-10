@@ -1,0 +1,12 @@
+form_name: 'Daniel Hofer'
+plz_stadt: Berlin
+form_email: daniel@danielhofer.com
+telefonnummer: '01799775948'
+angebote:
+  - null
+  - übernachten
+zeitraum: 07.07-08.07
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir suchen eine Unterkunft für nur eine Nacht - habt ihr Freitag evtl noch was frei?\r\nGrüße, Daniel und Schore"
+newsletter:
+  - null

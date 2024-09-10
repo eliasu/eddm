@@ -1,0 +1,69 @@
+title: set_header
+fields:
+  -
+    handle: header_section
+    field:
+      display: 'Header Section'
+      type: section
+      icon: section
+      listable: hidden
+      instructions_position: above
+  -
+    handle: disable_header
+    field:
+      default: false
+      display: 'Disable Header'
+      type: toggle
+      icon: toggle
+      width: 25
+      listable: hidden
+      instructions_position: above
+  -
+    handle: header_media
+    field:
+      options:
+        image: Image
+        video: Video
+      multiple: false
+      clearable: false
+      searchable: false
+      taggable: false
+      push_tags: false
+      cast_booleans: false
+      default: image
+      display: 'Header Media'
+      type: select
+      icon: select
+      width: 25
+      listable: hidden
+      instructions_position: above
+      unless:
+        disable_header: 'equals true'
+      read_only: false
+  -
+    handle: images_img
+    field: fs_images.images_img
+    config:
+      display: Image
+      width: 50
+      max_files: 1
+      if:
+        header_media: 'equals image'
+        disable_header: 'equals false'
+  -
+    handle: video_vid
+    field: fs_video.video_vid
+    config:
+      width: 50
+      if:
+        header_media: 'equals video'
+        disable_header: 'equals false'
+      instructions: 'URL like this: "/assets/videos/test.mp4"'
+  -
+    handle: text_bard
+    field: fs_bard.text_bard
+    config:
+      validate:
+        - 'required_unless:disable_header,true'
+      unless:
+        disable_header: 'equals true'

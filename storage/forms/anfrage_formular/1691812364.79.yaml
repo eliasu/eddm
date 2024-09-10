@@ -1,0 +1,13 @@
+form_name: 'Lara Krüger'
+Straße_Nr: 'Zeißstraße 51'
+plz_stadt: Hamburg
+form_email: Lara.krueger@gmx.de
+telefonnummer: '01786593464'
+angebote:
+  - null
+  - übernachten
+zeitraum: 20.-22.10.23
+personenanzahl: '12 (7 Zimmer nötig)'
+deine_nachricht: "Hallo, \r\nfür ein Treffen mit alten Freunden suchen wir einen Hof bzw. eine Unterkunft. Euer Konzept sieht toll aus. Könnten wir in diesem Zeitraum bei euch übernachten? \r\nDanke und viele liebe Grüße, Lara"
+newsletter:
+  - null

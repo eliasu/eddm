@@ -1,0 +1,12 @@
+form_name: 'Michaela Weber'
+Straße_Nr: 'Flurstr. 9'
+plz_stadt: '84337 Schönau'
+form_email: michaela.weber@mailbox.org
+angebote:
+  - null
+  - übernachten
+zeitraum: '10.07 bis 14.07'
+personenanzahl: '1'
+deine_nachricht: "Hallo ihr Lieben,\r\n\r\nIch möchte gerne das Angebot \"Workation\" buchen. \r\n\r\nIch freue mich auf Eure Antwort.\r\n\r\nLiebe Grüße\r\nMichaela"
+newsletter:
+  - null

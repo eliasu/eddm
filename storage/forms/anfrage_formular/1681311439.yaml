@@ -1,0 +1,11 @@
+form_name: Bert
+Straße_Nr: 'Zebelin 12'
+plz_stadt: '29496 Waddeweitz'
+form_email: grigo7@web.de
+angebote:
+  - null
+zeitraum: '14.04. - 16.04'
+personenanzahl: '1'
+deine_nachricht: "Hallo, ich hatte bei Julia telefonisch ein Einzelzimmer für das WE 14.04. bis 16.04.23 für Marie-Sofie Rohner unverbindlich reserviert. Leider hat Frau Rohner abgesagt.\r\nViele Grüße \r\nBert"
+newsletter:
+  - null

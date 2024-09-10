@@ -1,0 +1,15 @@
+form_name: 'Thomas Kliemt'
+Straße_Nr: 'Elbstr 13'
+plz_stadt: '29456'
+form_email: thomas@kliemt.email
+telefonnummer: '15778824334'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: '4.-8.5. oder 11.-15.5.'
+personenanzahl: '10'
+deine_nachricht: 'Wir hatten eben telefoniert'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

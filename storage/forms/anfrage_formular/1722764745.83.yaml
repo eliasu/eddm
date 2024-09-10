@@ -1,0 +1,13 @@
+form_name: 'Janine Oswald'
+Straße_Nr: 'Alte Dorfstraße 17'
+plz_stadt: '29575'
+form_email: janine.oswald@gmx.de
+telefonnummer: '017697746078'
+angebote:
+  - null
+  - essen
+zeitraum: '18. august 2024'
+personenanzahl: '9'
+deine_nachricht: "Hallo, gern würden wir bei euch in unserer kleinen Frauenrunde frühstücken. Wir sind 9 Personen und wären ab 9 Uhr bereit. Wie viel würde es pro Person kosten? \r\n\r\nDanke für eure Rückmeldung und liebe Grüße,\r\nJanine Oswald"
+newsletter:
+  - null

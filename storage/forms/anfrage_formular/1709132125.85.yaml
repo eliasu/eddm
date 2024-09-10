@@ -1,0 +1,13 @@
+form_name: 'Merle Seemann'
+Straße_Nr: 'Rellinger Straße 50'
+plz_stadt: '20257 Hamburg'
+form_email: merle_seemann@yahoo.com
+telefonnummer: '017661629141'
+angebote:
+  - null
+  - übernachten
+zeitraum: 02.03.24-03.03.24
+personenanzahl: '2'
+deine_nachricht: "Hallo liebes Team,\r\n\r\nWir, Timpe und Merle, suchen für eine Nacht eine schöne Übernachtungsmöglichkeit und wollten anfragen, ob ihr noch Platz für uns habt.\r\n\r\nLiebe Grüße,\r\nMerle"
+newsletter:
+  - null

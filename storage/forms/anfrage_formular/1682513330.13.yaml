@@ -1,0 +1,13 @@
+form_name: 'Gesima von Bogen'
+Straße_Nr: 'Langt Dörp 16'
+plz_stadt: '24247'
+form_email: gesima.v.bogen@web.de
+telefonnummer: '01725139729'
+angebote:
+  - null
+  - übernachten
+zeitraum: '19.5. bis 29.5,'
+personenanzahl: '2'
+deine_nachricht: 'Bevorzugt tinyhouse, für 3 Nächte egal wann'
+newsletter:
+  - null

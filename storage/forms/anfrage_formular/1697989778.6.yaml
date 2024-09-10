@@ -1,0 +1,14 @@
+form_name: 'Mark Rolf'
+Straße_Nr: 'Holzmindener Straße 16'
+plz_stadt: '28215 Bremen'
+form_email: mark.rolf@web.de
+telefonnummer: '01621069983'
+angebote:
+  - null
+  - übernachten
+zeitraum: '17.05.2024 bis 20.05.2024'
+personenanzahl: '2'
+deine_nachricht: "Gerne ein Doppelzimmer und mit Frühstück.\r\n\r\nUnd: Ich weiß, es ist KLP. Aber versuchen, bei euch unterzukommen kann ich ja mal - wäre auf jeden Fall toll, wenn es klappt."
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

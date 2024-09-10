@@ -1,0 +1,13 @@
+form_name: 'Falko Schümann'
+Straße_Nr: 'Seestraße 2'
+plz_stadt: '23829 Wittenborn'
+form_email: f83@gmx.net
+telefonnummer: '01511265098'
+angebote:
+  - null
+  - übernachten
+zeitraum: 19.10.-21.10.23
+personenanzahl: '5'
+deine_nachricht: 'Hallo, wir (zwei Erwachsene, drei Kinder 6,10 und 12) besuchen Freunde in der Gegend und benötigen eine Unterkunft für zwei Nächte.'
+newsletter:
+  - null

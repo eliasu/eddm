@@ -1,0 +1,13 @@
+form_name: 'Eckart Wagner'
+Straße_Nr: 'Pralleweg 9'
+plz_stadt: '22359 Hamburg'
+form_email: eckart.wagner@gmx.de
+telefonnummer: '01739994529'
+angebote:
+  - null
+  - übernachten
+zeitraum: '10.-11. Juni'
+personenanzahl: '2'
+deine_nachricht: 'Ich würde gerne in einem Bauwagen übernachten.'
+newsletter:
+  - null

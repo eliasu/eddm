@@ -1,0 +1,13 @@
+form_name: 'Barbara Kolodziej'
+Straße_Nr: 'Margaretenstr. 33a'
+plz_stadt: '12203 Berlin'
+form_email: b.m.kolodziej@outlook.de
+telefonnummer: '0172 3812627'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.06.2024 - 20.06.2024'
+personenanzahl: '1'
+deine_nachricht: 'Ich benötige ein Zimmer mit eigenem Bad.'
+newsletter:
+  - null

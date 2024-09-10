@@ -1,0 +1,14 @@
+form_name: 'Sabine Mosler'
+Straße_Nr: 'Wiesenstraße 32'
+plz_stadt: '30880 Laatzen'
+form_email: sabinemosler@web.de
+telefonnummer: '004915123380210'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '26.08. - 30.08.2023'
+personenanzahl: '1'
+deine_nachricht: "Hallo, ich hoffe, dass Ihr noch ein freies Appartement/Zimmer in der angegebenen Zeit habt. \r\nViele Grüße \r\nSabine Mosler"
+newsletter:
+  - null

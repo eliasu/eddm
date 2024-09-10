@@ -1,0 +1,1 @@
+{{if date_type == "single dates"}}{{ date = dates[{{date_index}}] }}{{ date.date_field format="n" }}{{elseif date_type == "date range"}}{{ sorting_date format="n"}}{{/if}}

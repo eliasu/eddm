@@ -1,0 +1,41 @@
+name: 'Ein Ding Der Möglichkeit'
+roles:
+  - editor_role
+id: c5c3cda0-a87c-4527-b49b-ef338041cae9
+password_hash: $2y$10$W1J/wNN.czlK.ZkoXawvDOHC1p3NugcQAAEc7Y58cUbR2VrnCKeBS
+preferences:
+  collections:
+    pages:
+      columns:
+        - title
+        - slug
+      after_save: continue_editing
+    events:
+      columns:
+        - title
+        - slug
+        - tags
+        - date_type
+        - dates
+        - date_range
+    globals:
+      columns:
+        - title
+  forms:
+    newsletter:
+      columns:
+        - datestamp
+        - form_email
+    anfrage_formular:
+      columns:
+        - datestamp
+        - form_name
+        - form_email
+        - angebot
+        - zeitraum
+        - personenanzahl
+        - newsletter
+        - deine_nachricht
+  assets:
+    assets:
+      per_page: 500

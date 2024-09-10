@@ -1,0 +1,13 @@
+form_name: 'Evelyn Felten'
+Straße_Nr: 'Göttingstr 7'
+plz_stadt: '38106 Braunschweig'
+form_email: evefelten@gmail.com
+telefonnummer: '01786702898'
+angebote:
+  - null
+  - übernachten
+zeitraum: 01.07-05.07
+personenanzahl: '1'
+deine_nachricht: "Liebes Team,\r\nSehr spontan wollte ich fragen, ob es möglich wäre noch eine Person zu beherbergen.Ich würde mich für ein EZ oder einen Zirkuswagen interessieren. \r\nvielen Dank für ihre Antwort.\r\nMit besten Grüßen \r\nEvelyn Felten"
+newsletter:
+  - null

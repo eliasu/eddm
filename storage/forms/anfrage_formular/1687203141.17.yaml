@@ -1,0 +1,13 @@
+form_name: 'Denise Klink'
+Straße_Nr: 'Bachstr 135'
+plz_stadt: '22083 Hamburg'
+form_email: denise.klink@hotmail.de
+telefonnummer: '01715206365'
+angebote:
+  - null
+  - übernachten
+zeitraum: Sa-So
+personenanzahl: '2'
+deine_nachricht: 'Was habt Ihr frei und wie teuer?'
+newsletter:
+  - null

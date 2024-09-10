@@ -1,0 +1,58 @@
+hide: true
+title: 'Program Page'
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        import: set_eye_catcher_global
+      -
+        handle: page_content
+        field:
+          display: 'Page Content'
+          type: section
+          icon: section
+          listable: hidden
+          instructions_position: above
+          read_only: false
+      -
+        handle: title
+        field:
+          type: text
+          required: true
+          validate:
+            - required
+      -
+        import: set_big_text
+      -
+        import: set_big_event
+      -
+        import: set_event_list
+      -
+        import: set_components
+  sidebar:
+    display: Sidebar
+    fields:
+      -
+        handle: slug
+        field:
+          type: slug
+          localizable: true
+      -
+        handle: parent
+        field:
+          type: entries
+          collections:
+            - pages
+          max_items: 1
+          listable: false
+          localizable: true
+      -
+        handle: template
+        field:
+          default: events/index
+          display: Template
+          type: hidden
+          icon: hidden
+          listable: hidden
+          instructions_position: above

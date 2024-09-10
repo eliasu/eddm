@@ -1,0 +1,14 @@
+form_name: 'Uta Bensemann'
+Straße_Nr: 'Kunkelberg 5c'
+plz_stadt: '21335 Lüneburg'
+form_email: uta.bensemann@web.de
+telefonnummer: '01794862629'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+zeitraum: 17.05.-20.05.2024
+personenanzahl: 24-26
+deine_nachricht: 'Ich bitte um Zusendung eines Angebotes für den genannten Zeitraums. Wir sind auf der Suche nach einer Unterkunft für ein Familientreffen und benötigen einen großen Raum, in dem wir die Mahlzeiten einnehmen können.'
+newsletter:
+  - null

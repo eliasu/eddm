@@ -1,0 +1,14 @@
+form_name: 'Isis Haberer'
+Straße_Nr: 'Palmerstr. 11'
+plz_stadt: '20535 Hamburg'
+form_email: isishaberer@gmx.de
+telefonnummer: 0175-1723031
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 20.-22-05.23
+personenanzahl: '2 Erwachsene, 1 Kind'
+deine_nachricht: 'Hallo, habt ihr zufällig noch eine Unterkunft (egal ob Zimmer oder Zirkuswagen) für 2 Erwachsene und 1 Kind (8 Jahre?). Bitte gern alles vorschlagen.'
+newsletter:
+  - null

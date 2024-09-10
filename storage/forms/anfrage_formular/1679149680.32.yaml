@@ -1,0 +1,13 @@
+form_name: 'Birgit Rinke'
+Straße_Nr: 'Bergstr. 8'
+plz_stadt: '21218 Seevetal'
+form_email: birgit.rinke@t-online.de
+telefonnummer: '01520 2069377'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18. - 23.5.23'
+personenanzahl: '2'
+deine_nachricht: "Wir suchen ein Doppelzimmer, möglichst mit integriertem Bad.\r\nFalls nur etwas bis 21.5. frei ist, wäre das auch ok..\r\nHerzliche Grüße\r\nBirgit"
+newsletter:
+  - null

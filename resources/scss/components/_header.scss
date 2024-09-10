@@ -1,0 +1,15 @@
+.header {
+	&__image {
+		height: 40vh;
+		width: 100%;
+		object-fit: cover;
+	}
+
+	&__text-wrap {
+		@extend .text-m;
+		padding: $s5;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}

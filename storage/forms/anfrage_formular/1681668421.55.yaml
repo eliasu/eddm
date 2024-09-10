@@ -1,0 +1,14 @@
+form_name: 'Eve Raatschen'
+Straße_Nr: 'Hansaplatz 2'
+plz_stadt: '20099 Hamburg'
+form_email: eve.raatschen@hamburg.de
+telefonnummer: '0160 8571403'
+angebote:
+  - null
+  - übernachten
+zeitraum: '24./25. Mai 2023'
+personenanzahl: '2'
+deine_nachricht: "Moin,\r\n\r\nwir möchten gerne in der Nacht vom Mittwoch, 24. auf den Donnerstag 25. Mai 2023 ein Doppelzimmer buchen, wenn das nicht geht, gerne auch einen Bauwagen oder ein Apartment. Ist das noch etwas frei? Ich freue mich über eine Nachricht.\r\n\r\nHerzliche Grüße\r\nEve Raatschen"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

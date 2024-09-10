@@ -1,0 +1,13 @@
+form_name: 'Martina Eggert'
+Straße_Nr: 'Leo-Leistikow-Allee 91'
+plz_stadt: '22081 Hamburg'
+form_email: eggert.martina@web.de
+telefonnummer: '01577 7811755'
+angebote:
+  - null
+  - übernachten
+zeitraum: '13. -17.5.2024'
+personenanzahl: '2'
+deine_nachricht: "Guten Tag, gerne wollen wir von Mo 13. bis Fr. 17.5.2024 wieder bei Ihnen und gerne auch wieder in einem Apartement mit 2 Betten übernachten.\r\nHerzliche Grüße, Martina Eggert"
+newsletter:
+  - null

@@ -1,0 +1,15 @@
+form_name: 'Niklas Krüger'
+Straße_Nr: 'Wilhelm Bluhm Straße 25'
+plz_stadt: '30451 Hannover'
+form_email: niklaskrueger@posteo.de
+telefonnummer: '015782656031'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 30.-31.08.2023
+personenanzahl: '1'
+deine_nachricht: "Liebes Team,\r\nich nehme an der Veranstaltung der Bundesstiftung Baukultur teil und würde gerne bei euch übernachten, sofern noch Betten frei sind. Am liebsten würde ich in einem der Zirkuswagen schlafen.\r\nIch freue mich auf eure Rückmeldung!\r\nLiebe Grüße\r\nNiklas Krüger"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

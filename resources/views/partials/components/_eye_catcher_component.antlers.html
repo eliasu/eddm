@@ -1,0 +1,32 @@
+{{if !disable_eye-catcher}}
+	{{if select_type == "new"}}
+		<section class="section-wrapper--blue text--white grid">
+			<div id="eyecatcher-close" class="c-block--noimg__close">
+				{{ partial src="partials/icons/close" }}
+			</div>
+			
+			<h2 class="c-block--noimg__headline text-m slider__headline">{{headline_eye}}</h2>
+			<div class="c-block--noimg__content flex-left text-s">
+				{{text_eye}}	
+					{{partial src="bardsets/{type}" bg="blue"}}
+				{{/text_eye}}	
+			</div>
+		</section>
+
+	{{elseif select_type == "global"}}
+		<section class="section-wrapper--blue text--white grid">
+			{{gobal_component}}
+				<div id="eyecatcher-close" class="c-block--noimg__close">
+					{{ partial src="partials/icons/close" }}
+				</div>
+			
+				<h2 class="c-block--noimg__headline text-m slider__headline">{{headline_txt}}</h2>
+				<div class="c-block--noimg__content flex-left text-s">
+					{{text_bard}}	
+						{{partial src="bardsets/{type}" bg="blue"}}
+					{{/text_bard}}	
+				</div>
+			{{/gobal_component}}
+		</section>
+	{{/if}}
+{{/if}}

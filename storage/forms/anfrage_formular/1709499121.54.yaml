@@ -1,0 +1,13 @@
+form_name: 'Katrin Kuntz'
+Straße_Nr: 'Fischers Allee 62'
+plz_stadt: Hamburg
+form_email: kuntz.katrin@gmail.com
+telefonnummer: '01785440332'
+angebote:
+  - null
+  - übernachten
+zeitraum: 10.-12.5.
+personenanzahl: 1-2
+deine_nachricht: 'Hallo zusammen, habt ihr am ersten Wochenende der KLP noch ein Doppelzimmer frei? Wenn nicht, würde ich gern einen Zeltplatz für zwei kleine Zelte reservieren. Vielen Dank und liebe Grüße, Katrin'
+newsletter:
+  - null

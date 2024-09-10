@@ -1,0 +1,13 @@
+form_name: 'Anna Beyer'
+Straße_Nr: 'Max-Brauer-Allee 22'
+plz_stadt: '22765 Hamburg'
+form_email: abeyer@cc.systems
+telefonnummer: '040 210914300'
+angebote:
+  - null
+  - übernachten
+zeitraum: 05.08-08.05.2024
+personenanzahl: '8'
+deine_nachricht: "Hallo, \r\n\r\nWir hatten eventuell schon mal Kontakt bzgl. unseres Team Offsites. Wir würden gerne von 05.08-09. oder 10.08 zu euch kommen und wären 8 Personen + 1 Hund. \r\n\r\nIch freue mich über ein Angebot.\r\n\r\nHerzliche Grüße,\r\n\r\nAnna"
+newsletter:
+  - null

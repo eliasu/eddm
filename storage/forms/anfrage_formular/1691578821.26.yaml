@@ -1,0 +1,14 @@
+form_name: 'Constanze Buch'
+Straße_Nr: 'Frielinger Str. 12'
+plz_stadt: '30826 Garbsen'
+form_email: mail@homeyers-hof.de
+telefonnummer: 05131-465107
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.-20.05.2024
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\n\r\nich hätte gern ein Doppelzimmer,\r\nHerzliche Grüße Constanze Buch"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

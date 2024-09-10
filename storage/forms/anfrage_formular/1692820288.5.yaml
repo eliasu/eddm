@@ -1,0 +1,14 @@
+form_name: 'Matthias Schütz'
+Straße_Nr: 'Monumentenstr 32A'
+plz_stadt: '10829 Berlin'
+form_email: matthias.schuetz@pbschuetz.de
+telefonnummer: '01632702479'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 30.12.-02.01.
+personenanzahl: 8-16
+deine_nachricht: 'Hallo, wir sind mehrere Berliner Familien und würden gerne über Silvester zu Eurem wunderschönen Hof kommen. Apartment oder Zimmer, egal.'
+newsletter:
+  - null

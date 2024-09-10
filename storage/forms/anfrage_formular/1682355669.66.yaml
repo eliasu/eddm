@@ -1,0 +1,13 @@
+form_name: 'Birgit Hüser'
+Straße_Nr: 'Birkenweg 5'
+plz_stadt: '38547 Calberlah'
+form_email: birgit.hueser@gmx.de
+telefonnummer: '016093040739'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.5.2023-20.5.2023
+personenanzahl: '3'
+deine_nachricht: 'Wir würden gerne einen Stellplatz für einen Campingbus plus 1 Zelt reservieren'
+newsletter:
+  - null

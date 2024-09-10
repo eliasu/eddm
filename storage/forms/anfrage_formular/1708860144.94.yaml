@@ -1,0 +1,13 @@
+form_name: 'Daniel Schlumm'
+Straße_Nr: 'Ludolfstraße 46B'
+plz_stadt: Hamburg
+form_email: daniel.podzun@gmail.com
+telefonnummer: '01772763977'
+angebote:
+  - null
+  - übernachten
+zeitraum: '09.05 - 12.05'
+personenanzahl: 4-6
+deine_nachricht: "Hallo liebe Leute,\r\nwie letztes Jahr würden wir wieder gern bei euch während der KLP übernachten.\r\nSind in diesem Zeitraum noch zufällig Zimmer frei?\r\nLiebe Grüße\r\nDaniel"
+newsletter:
+  - null

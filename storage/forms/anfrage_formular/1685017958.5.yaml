@@ -1,0 +1,13 @@
+form_name: 'Thomas Kellmann'
+Straße_Nr: 'Holzer Straße 15'
+plz_stadt: '31061 Alfeld'
+form_email: thomas.kellmann@nld.niedersachsen.de
+telefonnummer: '0511 9255316'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Mittwoch 30.08. - Donnerstag 31.08.2023'
+personenanzahl: '1'
+deine_nachricht: 'Referent der Tagung der Bundestiftung Baukultur'
+newsletter:
+  - null

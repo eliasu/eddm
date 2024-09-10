@@ -1,0 +1,14 @@
+form_name: 'Julia Bildau'
+Straße_Nr: 'Nagelsweg 22f'
+plz_stadt: '20097 Hamburg'
+form_email: juliabildau@me.com
+telefonnummer: '015789623672'
+angebote:
+  - null
+  - 'Workshop buchen'
+zeitraum: 21.11-24.11
+personenanzahl: '1'
+deine_nachricht: "Hallo :)\r\nIch wollte mal fragen ob es noch einen Platz für das Retreat im November gibt? \r\nHerzliche Grüße,\r\nJulia"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

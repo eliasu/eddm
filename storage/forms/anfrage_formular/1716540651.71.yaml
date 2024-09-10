@@ -1,0 +1,15 @@
+form_name: 'Sophia Metzler'
+Straße_Nr: 'Wentzingerstraße 42'
+plz_stadt: '79106 Freiburg'
+form_email: hallo@sophiametzler.de
+telefonnummer: '017660802480'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 3.6.-5.6.
+personenanzahl: '1'
+deine_nachricht: "Hallo, \r\nich würde euch gern kennenlernen und wollte fragen, ob ihr noch ein nettes Zimmer für den obengenannten Zeitraum habt. Ggf. interessiert mich auch nur eine der beiden Nächte. \r\nHabt ihr immer Space, wo man arbeiten kann, ggf. auch ein digitales Coaching machen kann? Da bin ich mir nicht ganz sicher gerade von der Webseite her. \r\n\r\nVielen Dank und viele Grüße \r\nSophia"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

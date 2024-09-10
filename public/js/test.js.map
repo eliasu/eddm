@@ -1,0 +1,1 @@
+{"version":3,"file":"/js/test.js","mappings":";;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,eAAZ,E","sources":["webpack:///./resources/js/test.js"],"sourcesContent":["console.log(\"Here wo gooo!\");"],"names":["console","log"],"sourceRoot":""}

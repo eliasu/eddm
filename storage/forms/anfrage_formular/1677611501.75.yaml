@@ -1,0 +1,14 @@
+form_name: 'Felix Wolff'
+Straße_Nr: Osterbergweg1
+plz_stadt: '38173 Sickte'
+form_email: flip-flow@web.de
+telefonnummer: '053338074'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 27.05.-29.05.2023
+personenanzahl: '2'
+deine_nachricht: "1 Zeltplatz, 2 Personen\r\nmit Frühstück, wenn mgl."
+newsletter:
+  - null

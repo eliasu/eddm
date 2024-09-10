@@ -1,0 +1,13 @@
+form_name: 'Eva Fischer'
+Straße_Nr: 'Brückenstraße, 27'
+plz_stadt: Berlin
+form_email: eva-f.fischer@gmx.de
+telefonnummer: '015165147869'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Irgendwann im Januar'
+personenanzahl: '1'
+deine_nachricht: "Hi,\r\n\r\nich würde gerne im Januar ein bisschen raus in der Großstadt und wollte mal fragen, ob ihr da noch Kapazitäten (circa 1 Woche, kann auch ein bisschen länger oder kürzer sein) in einem Bauwagen hättet?\r\n\r\nGanz liebe Grüße"
+newsletter:
+  - null

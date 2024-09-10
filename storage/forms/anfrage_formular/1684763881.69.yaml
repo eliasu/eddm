@@ -1,0 +1,14 @@
+form_name: 'Florian Welzel'
+Straße_Nr: 'Kiefen 3'
+plz_stadt: '29496 Waddeweitz'
+form_email: florian.welzel@posteo.de
+telefonnummer: '01721606354'
+angebote:
+  - null
+  - essen
+zeitraum: 24.05.2023
+personenanzahl: '1'
+deine_nachricht: "Hallo Ihr Lieben,\r\n\r\nIch möchte gerne noch ein Platz buchen für das Essen am 24.05. bei Euch.\r\n\r\nIst noch was frei?\r\n\r\nLG Florian"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

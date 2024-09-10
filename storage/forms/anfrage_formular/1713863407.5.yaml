@@ -1,0 +1,14 @@
+form_name: 'Laura Mundt'
+Straße_Nr: 'Schäferstraße 14'
+plz_stadt: '20347'
+form_email: lauramundt@mail.de
+telefonnummer: '017683040804'
+angebote:
+  - null
+  - übernachten
+zeitraum: 9.-12.
+personenanzahl: '2'
+deine_nachricht: 'Hallo, ich wollte einmal nachfragen, ob ihr zufällig über Himmelfahrt noch Kapazitäten habt. Ich gehe aber davon aus, dass ihr bei der KLP eher voll seid. Falls zufällig doch was frei sein sollte, freuen wir uns! Liebe Grüße Laura'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,14 @@
+form_name: 'Andreas Kellner'
+Straße_Nr: 'Bei Mönchsgarten 7'
+plz_stadt: '21339 Lüneburg'
+form_email: Andreas.Kellner@Freenet.de
+telefonnummer: '01792035060'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 13./144.07.2024
+personenanzahl: '7'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\nwir wären zu dem genannten Datum an 4 Zimmern incl. Abendessen und Frühstücksbuffet interessiert.\r\nBitte informieren Sie uns über Verfügbarkeit und Preise. Fotos der Zimmer und eine beispielhafte Speisekarte wären wünschenswert.\r\n\r\nMit freundlichen Grüßen \r\nAndreas Kellner"
+newsletter:
+  - null

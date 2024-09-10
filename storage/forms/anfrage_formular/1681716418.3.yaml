@@ -1,0 +1,14 @@
+form_name: 'Annika Heinrichs'
+Straße_Nr: Grädenerstr.
+plz_stadt: Hamburg
+form_email: annika_heinrichs@hotmail.com
+telefonnummer: '015266771146'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: irgendwann
+personenanzahl: '12'
+deine_nachricht: TEST
+newsletter:
+  - null

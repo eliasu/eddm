@@ -1,0 +1,13 @@
+form_name: Niels
+Straße_Nr: Teststrasse
+plz_stadt: '30000'
+form_email: niels@moeglichkeit.org
+telefonnummer: '01732022797'
+angebote:
+  - null
+  - investieren
+zeitraum: 1.1.24
+personenanzahl: '1'
+deine_nachricht: 'Hallo, ich bin sehr interessiert am investieren. Könnt Ihr mir mehr informationen geben?'
+newsletter:
+  - null

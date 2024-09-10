@@ -1,0 +1,13 @@
+form_name: 'Ariane Sievers'
+Straße_Nr: 'Emma-Poel-Str. 10'
+plz_stadt: '22765 Hamburg'
+form_email: ariane.sievers@gmx.de
+telefonnummer: '01708113239'
+angebote:
+  - null
+  - übernachten
+zeitraum: 30.8.-1.9.
+personenanzahl: '1'
+deine_nachricht: "Moin aus Hamburg!\r\nHabt ihr eventuell am nächsten Wochenende (30.8.-1.9.) noch eine Übernachtungsmöglichkeit für eine Person?\r\nDanke und liebe Grüße\r\nAriane"
+newsletter:
+  - null

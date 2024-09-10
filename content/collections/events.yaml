@@ -1,0 +1,11 @@
+title: Events
+template: events/show
+layout: layout
+taxonomies:
+  - tags
+revisions: false
+route: '/programm/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private

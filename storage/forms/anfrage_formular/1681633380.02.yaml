@@ -1,0 +1,13 @@
+form_name: 'Antje Borgmann'
+Straße_Nr: 'Uelzener Straße 60'
+plz_stadt: '21335 Lüneburg'
+form_email: antjeborgmann@gmx.net
+telefonnummer: '01636307471'
+angebote:
+  - null
+  - übernachten
+zeitraum: 19.-21.5.
+personenanzahl: '2 + Kleinkind (1.5)'
+deine_nachricht: "Hallo! Ist während der KLP vom 19.-21.5. noch Platz für ein kleines Zelt auf der Zeltwiese? Könnten wir das Frühstücksbuffet dazu buchen? Gibt es Sanitäranlagen?\r\nViele Grüße\r\nAntje"
+newsletter:
+  - null

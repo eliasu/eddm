@@ -1,0 +1,6 @@
+add_new_users: true
+users:
+  id: 2enwOEjE
+  audience_id: 5b78d3f1ec
+  disable_opt_in: true
+  check_consent: false

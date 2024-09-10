@@ -1,0 +1,14 @@
+form_name: 'Wiebke Schultz'
+Straße_Nr: 'Lutterothstraße, 22'
+plz_stadt: '20255 Hamburg'
+form_email: Ws@humanempire.com
+telefonnummer: '01773243803'
+angebote:
+  - null
+  - übernachten
+zeitraum: '?'
+personenanzahl: '4'
+deine_nachricht: "Hallo, \r\n\r\nwir würden gerne mal 1-2 Tage bei euch verbringen. Wir sind zwei Erwachsene und 2 Kinder (9.14).\r\n\r\nHabt ihr da Zimmer, in denen das zusammen funktiniert oder müssten wir zwei DZ buchen?\r\n\r\nViele Grüße\r\nWiebke"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,13 @@
+form_name: 'Julia Mieger'
+Straße_Nr: 'Dreieck 8'
+plz_stadt: '21107 Hamburg'
+form_email: julia.mieger@web.de
+telefonnummer: '017631387330'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Freitag bis Sonntag'
+personenanzahl: '4'
+deine_nachricht: 'Hey, wir würden gerne mit zwei Campern anreisen. Ist das möglich? Viele Grüße Julia'
+newsletter:
+  - null

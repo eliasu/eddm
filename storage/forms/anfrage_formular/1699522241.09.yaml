@@ -1,0 +1,14 @@
+form_name: 'Vivian Rossau'
+Straße_Nr: 'Bachstrasse 121'
+plz_stadt: Hamburg
+form_email: vivian@rossau.de
+telefonnummer: '01794173026'
+angebote:
+  - null
+  - übernachten
+zeitraum: '1. bis 3. Dezember'
+personenanzahl: '1'
+deine_nachricht: "Hello zusammen, ich würde gern am 1. Dezemberwochenende im Wendland sein und käme mit Hund. Hättet Ihr Platz für mich?\r\nBeste Grüße, \r\nVivian"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,13 @@
+form_name: 'Susanne Hylla'
+Straße_Nr: 'Braunschweiger Str. 33'
+plz_stadt: '28205 Bremen'
+form_email: suhylla@web.de
+telefonnummer: '0163- 6865565'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.05. -22.5.23'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir würden gern wieder bei euch übernachten....\r\n\r\nLiebe Grüße Susanne"
+newsletter:
+  - null

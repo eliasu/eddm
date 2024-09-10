@@ -1,0 +1,21 @@
+sections:
+  sitemap:
+    display: Sitemap
+    fields:
+      -
+        handle: section_sitemap
+        field:
+          type: section
+          instructions: 'Configure the sitemap.xml'
+          display: Sitemap
+      -
+        handle: sitemap_collections
+        field:
+          mode: select
+          type: collections
+          instructions: 'Select which collections to include in the sitemap.xml.'
+          listable: hidden
+          default: pages
+          display: Collections
+          instructions_position: above
+          read_only: false

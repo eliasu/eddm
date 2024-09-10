@@ -1,0 +1,13 @@
+form_name: 'Julia Strauß'
+Straße_Nr: 'Hardenbergstrasse 54'
+plz_stadt: '04275 Leipzig'
+form_email: j.strauss@posteo.de
+telefonnummer: '01637723922'
+angebote:
+  - null
+  - übernachten
+zeitraum: 9.-12.5.24
+personenanzahl: '7'
+deine_nachricht: "Hallo, wir (2 Familien mit jeweils einem Bus) würden gerne bei Euch campen. Wäre für den Zeitraum auf eurer Wiese noch was frei? Viele Grüße\r\nJulia und Christoph"
+newsletter:
+  - null

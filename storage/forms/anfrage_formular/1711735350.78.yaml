@@ -1,0 +1,13 @@
+form_name: 'Julia Gajewski'
+Straße_Nr: 'Wildenbruchplatz 9'
+plz_stadt: Berlin
+form_email: julia.gajewski@web.de
+telefonnummer: '+491635933105'
+angebote:
+  - null
+  - übernachten
+zeitraum: 10.-13.5.
+personenanzahl: '3'
+deine_nachricht: "Hallo ihr lieben! unwahrscheinlich, aber vielleicht doch..?\r\nHabt ihr am Himmelfahrtswochenende noch Unterkünfte? Liebste Grüße! Julia"
+newsletter:
+  - null

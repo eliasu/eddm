@@ -1,0 +1,14 @@
+form_name: 'claudia biner'
+Straße_Nr: Vereinsstr.22
+plz_stadt: '60389 Frankfurt'
+form_email: claudia@biner.de
+telefonnummer: '015223052556'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'ab dem 10.08. möglich, 2-3 Tage'
+personenanzahl: '2'
+deine_nachricht: 'ich wollte schon immer mal in einem Zirkuswagen schlafen.'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,16 @@
+form_name: 'Charleen Meyer'
+Straße_Nr: 'Crellestraße 35'
+plz_stadt: '10827 Berlin'
+form_email: charleen.meyer@workforward.de
+telefonnummer: '01739119441'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 02.-04.12.2024
+personenanzahl: '3'
+deine_nachricht: "Hey liebes Team,\r\nwir sind Susanne, Kassandra und Charleen von work forward und würden gerne ein 3-tägiges Retreat bei euch planen. Bietet ihr Unterkunft, Essen & work spaces auch für so kleine Unternehmen an? \r\nWir freuen uns über eure Rückmeldung.\r\nViele Grüße,\r\nCharleen"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

@@ -1,0 +1,15 @@
+form_name: 'Carsten Müller'
+Straße_Nr: 'Baumstr 33'
+plz_stadt: '47198 Duisburg'
+form_email: mueller@praxisfs.de
+telefonnummer: '01774222171'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: '02.08. - 03.08.2023'
+personenanzahl: 2-3
+deine_nachricht: 'Wir wollen am 03.08 zu dritt arbeiten  und am 02.08 zu zweit Übernachten. Für den 03.08 brauchen wir einen Raum mit der üblichen Seminar Ausstattung'
+newsletter:
+  - null

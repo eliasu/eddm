@@ -1,0 +1,14 @@
+form_name: 'Rosa Thormeyer'
+Straße_Nr: 'Himmelstraße 45'
+plz_stadt: Hamburg
+form_email: Rosa.thormeyer@yahoo.de
+telefonnummer: '01724020365'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 24.7-25.7.23
+personenanzahl: '2'
+deine_nachricht: "Guten Tag,\r\n\r\nWir sind Lukas und Rosa und überlegen eine Nacht zu euch auf euren wunderschönen Hof zu kommen. Ginge das überhaupt für eine Nacht + Frühstück? Und wäre das Tiny house buchbar?\r\nWir würden uns sehr über eine Rückmeldung freuen!\r\nLiebe Grüße, \r\n\r\nRosa und Lukas"
+newsletter:
+  - null

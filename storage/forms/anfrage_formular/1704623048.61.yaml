@@ -1,0 +1,13 @@
+form_name: 'Johanna Rost'
+Straße_Nr: 'Spittastraße 18'
+plz_stadt: Berlin
+form_email: hess-jo@web.de
+telefonnummer: '015731901801'
+angebote:
+  - null
+  - übernachten
+zeitraum: 16.05.2024-20.05.2024
+personenanzahl: '3'
+deine_nachricht: "Hallo, habt ihr ein DZ und ein EZ im gennanten Zeitraum zur Verfügung? Dann freue ich ich über ein Angebot. Essen würden wir auch gern vor Ort.\r\nLiebe Grüße\r\nJohanna"
+newsletter:
+  - null

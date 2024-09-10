@@ -1,0 +1,13 @@
+form_name: 'Anna Kuhn'
+Straße_Nr: 'Arnoldstraße 72'
+plz_stadt: '22763 Hamburg'
+form_email: anna@zurkleineneuphorie.de
+telefonnummer: '015168163681'
+angebote:
+  - null
+  - übernachten
+zeitraum: 19.-20.10.
+personenanzahl: '3'
+deine_nachricht: "Hallo, \r\nich bin auf der Suche nach einer Übernachtungsmöglichkeit für mich und meine beiden Söhne (3 und 6) und wollte fragen, ob es bei Euch noch ein Zimmer gibt.\r\nBesten Dank und Gruß\r\nAnna"
+newsletter:
+  - null

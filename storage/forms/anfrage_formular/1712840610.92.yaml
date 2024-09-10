@@ -1,0 +1,15 @@
+form_name: 'Kerstin Walter'
+Straße_Nr: 'Schlesische Straße 26'
+plz_stadt: '10997 Berlin'
+form_email: kerstin.walter@betterplace-lab.org
+telefonnummer: '017647103343'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '8.-12. Juli'
+personenanzahl: '12'
+deine_nachricht: 'Hallo zusammen, wir suchen gerade nach einem Ort für unsere Team-Offsite. Gibt es bei euch Platz? Könntet ihr mir ein Angebot zukommen lassen? (Unser Maximum ist 4k). Herzliche Grüße, Kerstin'
+newsletter:
+  - null

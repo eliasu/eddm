@@ -1,0 +1,13 @@
+form_name: 'Rainer Lütkebohle'
+Straße_Nr: 'Kanzowstr. 6'
+plz_stadt: '10439 Berlin'
+form_email: luetkebohler@aol.com
+telefonnummer: '015116020774'
+angebote:
+  - null
+  - übernachten
+zeitraum: '29-06 - 30.06'
+personenanzahl: '6 Personen 3 DZ'
+deine_nachricht: "Hallo,\r\n\r\nvor einiger Zeit waren wir schon einmal Gast auf eurem Hof. Wir würden uns sehr freuen, wenn es zu der angegebenen Zeit wieder klappt.\r\n\r\nViele Grüße!"
+newsletter:
+  - null

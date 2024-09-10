@@ -1,0 +1,240 @@
+.honeypot { display: none; }
+
+.form {
+	&__wrap {
+		grid-column: 6 / 13;	
+		@include respond(tab-port) { grid-column: span 1; }
+	}
+
+	&__wrap > form {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}
+
+.f-text {
+	&__wrap {
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		margin-bottom: $s4;
+
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		align-items: center;
+	}
+
+	&__field {
+		position: relative;
+		width: 100%;
+	
+		& > label {
+			position: absolute;
+			left: 0;
+			top: 50%;
+			transform: translateY(-50%);
+			color: $blue;
+			padding: 0 $s1 ;
+			margin-left: $s6;
+			transition: .1s ease-out;
+			transform-origin: left top;
+			pointer-events: none; 
+			background-color: $creme;
+		}
+
+		& > .textarea--label {
+			top: 15%;
+			transform: translateY(-15%);
+		}
+
+		& > input, textarea{
+			width: 80%;
+			outline: none;
+			border: 4px solid $blue;
+			border-radius: $s7; 
+			padding: $s3 $s6;
+			color: $blue;
+			transition: 0.1s ease-out;
+			background: none;
+		}
+		& > textarea{
+			min-height: $s10 * 3;
+			width: 100%;
+		}
+		
+		// Textfield
+
+		& > input:focus {
+			border-color: $black;
+			color: $black;
+		}
+		& > input:focus + label {
+			color: $black;
+			top: 0;
+			transform: translateY(-23%) scale(0.5);
+			opacity: 1 !important;
+		}
+		& > input:not(:placeholder-shown) + label {
+			top: 0;
+			transform: translateY(-23%) scale(0.5);
+			opacity: 1 !important;
+		}
+		
+		// Textarea
+
+		& > textarea:focus {
+			border-color: $black;
+			color: $black;
+		}
+		& > textarea:focus + label {
+			color: $black;
+			top: 0;
+			transform: translateY(-23%) scale(0.5);
+			opacity: 1 !important;
+		}
+		& > textarea:not(:placeholder-shown) + label {
+			top: 0;
+			transform: translateY(-23%) scale(0.5);
+			opacity: 1 !important;
+		}
+	}
+
+	&__field--newsletter {
+		position: relative;
+		width: 100%;
+
+		display: flex;
+		// margin-right: 20.5rem;
+	
+		& > label {
+			position: absolute;
+			left: 0;
+			top: 50%;
+			transform: translateY(-50%);
+			color: $blue;
+			padding: 0 $s1 ;
+			margin-left: $s4;
+			transition: .1s ease-out;
+			transform-origin: left top;
+			pointer-events: none; 
+			background-color: $creme;
+		}
+
+		& > input {
+			width: 100%;
+			outline: none;
+			border: 2px solid $blue;
+			border-radius: $s7; 
+			padding: 0 $s4;
+			color: $blue;
+			transition: 0.1s ease-out;
+			background: none;
+
+			padding-right: 20.5rem;
+			margin-right: -20.5rem;
+
+			&:focus ~ button {
+				background-color: $black;
+
+				&:hover {
+					background-color: $blue;
+					color: $black;
+				}
+			}
+		}
+
+		& button {
+			margin-bottom: 0;
+			border: none;
+			z-index: 1;
+		}
+
+		// Textfield
+
+		& > input:focus {
+			border-color: $black;
+			color: $black;
+		}
+		& > input:focus + label {
+			color: $black;
+			top: 0;
+			transform: translateY(-23%) scale(0.5);
+			opacity: 1 !important;
+		}
+		& > input:not(:placeholder-shown) + label {
+			top: 0;
+			transform: translateY(-23%) scale(0.5);
+			opacity: 1 !important;
+		}
+	}
+}
+
+.f-check {
+	margin-bottom: $s5;
+
+	& > label > input {
+		width: $s12;
+		height: $s12;
+		// border-radius: $s12;
+		background-color: none;
+		border-radius: 50%;
+		vertical-align: middle;
+		border: 4px solid $blue;
+		appearance: none;
+		margin-bottom: $s2;
+		margin-right: $s2;
+		cursor: pointer;
+	}
+
+	& > label > input:checked {
+		background-color: $blue;
+	}
+
+	& > label {
+		@extend .text-s;
+		margin-bottom: $s2;
+	}
+
+	&__headline {
+		@extend .text-s;
+		margin-top: $s5;
+		margin-bottom: $s3;
+	}
+}
+
+//styling classes for errors and submit
+.fs_fade {
+	& .f-text__wrap, .f-check__headline, .f-check, input  {
+		opacity: .3;
+	}
+
+	& .button {
+		opacity: 1;
+		pointer-events: auto;
+	}
+}
+
+.fs_block {
+	pointer-events: none !important;
+}
+
+.fs_error {
+	background-color: $col_error;
+}
+
+.fs_success {
+	background-color: $col_success;
+	pointer-events: none !important;
+}
+
+.fs_pending {
+	background-color: $col_warning;
+	pointer-events: none !important;
+}
+
+.fs_visible {
+	display: block;
+}

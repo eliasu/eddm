@@ -1,0 +1,15 @@
+form_name: HIGW
+Straße_Nr: 'Budapester Str. 28'
+plz_stadt: '20359 Hamburg'
+form_email: info@higw.de
+telefonnummer: '040-768 64 42'
+angebote:
+  - null
+  - übernachten
+  - 'Räume mieten'
+  - essen
+zeitraum: '04.12. - 08.12.2024'
+personenanzahl: '14'
+deine_nachricht: "Hallo, wir sind ein Weiterbildungsinstitut für Gestalttherapie und suchen einen Seminarort für Dezember 2024.\r\nBenötigt werden 1 Seminarraum plus 2 Nebenräume für Kleingruppenarbeit, 14 Einzelzimmer, Frühstück, Mittagessen, Kaffee & Kuchen & Abendbrot.\r\nDas Seminar beginnt am Mittwoch, 04.12. um 18:00 Uhr mit gemeinsamen Essen und endet Sonntag um ca. 12:30 Uhr.\r\nWir freuen uns über ein Angebot.\r\nViele Grüße aus Hamburg,\r\nHIGW\r\nAnke Baars"
+newsletter:
+  - null

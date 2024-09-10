@@ -1,0 +1,13 @@
+form_name: 'Janek Horeis'
+Straße_Nr: 'Rademachergang 14'
+plz_stadt: '20355 Hamburg'
+form_email: janekfeg@gmx.de
+telefonnummer: '01722133501'
+angebote:
+  - null
+  - übernachten
+zeitraum: 20.05-21.05.2023
+personenanzahl: '2'
+deine_nachricht: "Hallo Liebes Team,\r\ngerne würden wir in der Nacht von Samstag auf Sonntag bei euch Campen. Wir bräuchten dafür einen Camperplatz (1 normaler PKW) + 1 Zelt. Hättet ihr noch Platz dafür? Vielen Dank für eure Rückmeldung.\r\nLiebe Grüße \r\nJanek und Julian"
+newsletter:
+  - null

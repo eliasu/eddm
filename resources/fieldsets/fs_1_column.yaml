@@ -1,0 +1,21 @@
+title: fs_1_column
+fields:
+  -
+    handle: headline
+    field: fs_headline.headline_txt
+    config:
+      validate:
+        - required
+      width: 50
+  -
+    handle: images_img
+    field: fs_images.images_img
+    config:
+      width: 50
+      max_files: 1
+      validate:
+        - required
+  -
+    import: fs_textarea
+  -
+    import: fs_link

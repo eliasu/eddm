@@ -1,0 +1,14 @@
+form_name: 'Katarina Mioc'
+Straße_Nr: 'Bernstorffstraße 71'
+plz_stadt: '22767'
+form_email: mioc@treibhaus.land
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '12.04.24 - 14.04.24'
+personenanzahl: '20'
+deine_nachricht: 'Hallo! wir würden gerne als Team von TREIBHAUS Landschaftsarchitektur zu euch kommen, freue mich auf eine Rückmeldung!'
+newsletter:
+  - null

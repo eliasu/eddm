@@ -1,0 +1,14 @@
+form_name: 'Julia Romeiß'
+Straße_Nr: 'Krebsbachstr 2'
+plz_stadt: '85221 Dachau'
+form_email: jr@julia-romeiss.de
+telefonnummer: '01799726988'
+angebote:
+  - null
+  - übernachten
+zeitraum: 29.-31.8.2023
+personenanzahl: '4'
+deine_nachricht: "Wir sind eine Familie mit 2 Kindern.\r\nJustus, 7 Jahre und Ella, 4 Jahre :)"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

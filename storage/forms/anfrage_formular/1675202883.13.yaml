@@ -1,0 +1,12 @@
+form_name: 'Lucy Weinreich'
+adresse: 'Alte Bockradener Straße 196, 49479, Ibbenbüren'
+form_email: lucyweinreich@web.de
+telefonnummer: '015204586983'
+angebot:
+  - übernachten
+  - essen
+zeitraum: 25.05.2023-28.05.2023
+personenanzahl: '2'
+deine_nachricht: 'Hallo, ich würde gerne ein Doppelzimmer, gerne mit Balkon, für den angegebenen Zeitraum bei Euch buchen. Gerne würden wir auch am Frühstücksbuffet teilnehmen. Wäre super, wenn das klappt. Danke für eine kurze Rückmeldung. Viele Grüße, Lucy'
+newsletter:
+  - 'In den Newsletter eintragen'

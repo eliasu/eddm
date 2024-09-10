@@ -1,0 +1,7 @@
+{{if size == 1}} 
+	{{ text replace="<p>|<p class='text-l'>"}}
+{{elseif size == 2}}
+	{{ text replace="<p>|<p class='text-m'>"}}
+{{else}}
+	{{ text }}
+{{endif}}

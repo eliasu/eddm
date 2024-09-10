@@ -1,0 +1,13 @@
+form_name: 'Gesima von Bogen'
+Straße_Nr: 'Langt Dörp 16'
+plz_stadt: '24247'
+form_email: gesima.v.bogen@web.de
+telefonnummer: '01725139729'
+angebote:
+  - null
+  - übernachten
+zeitraum: 13.05.-16.05.
+personenanzahl: '1'
+deine_nachricht: "Im Belegungsplan sehe ich nur diese teilweise freien Plätze.\r\nGibt es noch ein Bett für mich?"
+newsletter:
+  - null

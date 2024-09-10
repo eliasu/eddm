@@ -1,0 +1,13 @@
+form_name: 'Anneke Bargmann'
+Straße_Nr: 'Westring 329'
+plz_stadt: '24118 kiel'
+form_email: annekebargmann@gmail.com
+telefonnummer: '01783094277'
+angebote:
+  - null
+  - übernachten
+zeitraum: 9-12.5
+personenanzahl: '4'
+deine_nachricht: "Wir sind zwei Erwachsene und 2 Kleinkinder und haben ein kleines Wohnmobil. \r\nIst in der angegebenen Zeit noch ein Stellplatz verfügbar?"
+newsletter:
+  - null

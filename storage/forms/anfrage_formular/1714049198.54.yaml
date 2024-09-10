@@ -1,0 +1,13 @@
+form_name: 'Lara Krüger'
+Straße_Nr: 'Jaksteinweg 22'
+plz_stadt: Hamburg
+form_email: Lara.krueger@gmx.de
+telefonnummer: '01786593464'
+angebote:
+  - null
+  - übernachten
+zeitraum: 07.-09.06.24
+personenanzahl: '14 Erwachsene, 12 Kinder'
+deine_nachricht: "Hallo!\r\nWir suchen für ein Treppen mit Kommilitonen noch eine Unterkunft! Wäre an diesem Wochenende bei euch noch Platz für uns? \r\nDanke und viele liebe Grüße,\r\nLara"
+newsletter:
+  - null

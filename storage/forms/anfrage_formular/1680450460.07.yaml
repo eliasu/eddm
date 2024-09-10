@@ -1,0 +1,13 @@
+form_name: 'Lucy Weinreich'
+Straße_Nr: 'Alte Bockradener Straße'
+plz_stadt: '49479'
+form_email: lucyweinreich@web.de
+telefonnummer: '015204586983'
+angebote:
+  - null
+  - übernachten
+zeitraum: '01.09.2023 bis 03.09.2023'
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\nich würde gerne zwei Übernachtungen bei Euch buchen in dem angegeben Zeitraum. Gerne würden wir im OG in der Träumerei nächtigen und gerne hätten wir einen Balkon oder Wintergarten, wenn möglich. Ich freue mich auf Rückmeldung. Viele Grüße\r\nLucy"
+newsletter:
+  - null

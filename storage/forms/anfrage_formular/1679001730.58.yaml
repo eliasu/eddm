@@ -1,0 +1,12 @@
+form_name: lea
+Straße_Nr: 'Gutsmuthsstr 46'
+plz_stadt: Leipzig
+form_email: lea.rabold@outlook.com
+angebote:
+  - null
+  - übernachten
+zeitraum: 185.-21.5.
+personenanzahl: '4'
+deine_nachricht: 'Guten Tag, wir interessieren uns für ein/zwei Zimmer im angegeben Zeitraum. VG Lea'
+newsletter:
+  - null

@@ -1,0 +1,14 @@
+form_name: Christian
+Straße_Nr: 'Straßburger Str., 59'
+plz_stadt: Bremen
+form_email: strabus@gmx.de
+telefonnummer: '042175331'
+angebote:
+  - null
+  - übernachten
+zeitraum: 14.-16.6.2024
+personenanzahl: '2'
+deine_nachricht: "Hallo, wir würden gerne zu eurem Kurzfilmfestival kommen und natürlich auch dort übernachten. Vielleicht geht es auch im Zelt (falls die Betten schon ausgebucht sind)?\r\nLG Christian und Frauke"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

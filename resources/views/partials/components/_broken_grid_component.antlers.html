@@ -1,0 +1,8 @@
+<section class="section-wrapper broken-grid">
+	{{grid_field}}
+		<a href="{{link_link}}" class="broken-grid__item broken-grid__item-{{index}}">
+			{{ partial:utility/picture :image="images_img" class="broken-grid__image-{{index}}" }}
+			<p>{{underline_txt}}</p>
+		</a>
+	{{/grid_field}}
+</section>

@@ -1,0 +1,15 @@
+form_name: 'Helen Unsinn'
+Straße_Nr: 'Hospitalstrasse 106'
+plz_stadt: '22767 Hamburg'
+form_email: helen@lenika.shop
+telefonnummer: '015164962445'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 'Ein Wochenende im Mai oder Juni!'
+personenanzahl: '5'
+deine_nachricht: '2 Erwachsene und 3 Kinder! Wäre ein Traum wenn ihr Platz habt.'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

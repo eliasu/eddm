@@ -1,0 +1,23 @@
+<section class="section-wrapper--white grid">
+	<div class="grid grid--sp12">
+		<h2 class="text-m grid--sp8">{{headline_txt}}</h2>
+	</div>
+		{{upcoming_events}}
+			{{if index < 3}}
+				{{ get_content:id }}
+					<div class="three-columns">
+						<div class="three-columns__img-wrap--eventthumb">
+							<a href="{{url}}">
+								{{ partial:utility/picture :image="images_img" class="three-columns__image--eventthumb" cover="true" }}
+							</a>
+						</div>
+						
+						{{ partial src="partials/utility/date"}}
+			
+						<p class="text-s">{{title}}</p>
+						<a class="text-s" href="{{url}}">Mehr erfahren</a>
+					</div>
+				{{ /get_content:id  }}
+			{{/if}}
+		{{/upcoming_events}}
+</section>

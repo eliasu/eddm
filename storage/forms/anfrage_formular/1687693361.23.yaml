@@ -1,0 +1,13 @@
+form_name: 'Lisa Meister'
+Straße_Nr: 'Simrockstraße 61'
+plz_stadt: '50823 Köln'
+form_email: lisa.meister.online@web.de
+telefonnummer: '01575 3554914'
+angebote:
+  - null
+  - übernachten
+zeitraum: 11.-13.08.2023
+personenanzahl: '2'
+deine_nachricht: "Hallo an das Team,\r\nich würde gerne mit einer Freundin ein Wochenende (11.-13.08.2023) bei euch verbringen. Die Unterkunft ist uns egal, wir hätten nur gerne kein Camping. \r\n\r\nIst das noch möglich? Habt ihr noch etwas frei?\r\n\r\nIch freue mich über eine Rückmeldung. \r\n\r\n\r\nViele Grüße, Lisa Meister"
+newsletter:
+  - null

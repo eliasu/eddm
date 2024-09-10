@@ -1,0 +1,93 @@
+.text-l {
+	font-size: $fs-1;
+	font-weight: 500;
+	line-height: 100%;
+	word-wrap: break-word;
+	hyphens: auto;
+	margin-bottom: $s2;
+}
+
+.text-m {
+	font-size: $fs-2;
+	font-weight: 500;
+	line-height: 100%;
+	margin-bottom: $s1;
+	hyphens: auto;
+}
+
+.bot-m {
+	margin-bottom: $s8;
+}
+
+.text-s {
+	font-size: $fs-3;
+	font-weight: 500;
+	line-height: 100%;
+}
+
+.text--white {
+	color: $white;
+	
+	& a {
+		color: $white;
+
+		&:hover {
+			color: $black;
+		}
+	}
+}
+
+.text--blue {
+	color: $blue;
+
+	& a {
+		color: $blue;
+
+		&:hover {
+			color: $black;
+		}
+	}
+}
+
+p {
+	font-size: $fs-3;
+	min-height: $fs-3;
+	
+	font-weight: 500;
+	line-height: 130%;
+	margin-bottom: $s2;
+
+	&.text-m, &.text-l {
+		margin-bottom: $s2;
+	}
+}
+
+p, h1, h2 {
+	& > a {
+		color: $black;
+
+		&:hover {
+			color: $blue;
+		}
+	}
+}
+
+a {
+	color: $blue;
+
+	&:hover {
+		color: $black;
+	}
+}
+
+.bard-textfield {
+	& > h2 {
+		@extend .text-m;
+		margin: $s8 0;
+	}
+	& > h3 {
+		@extend .text-s;
+		color: $blue;
+		margin: $s3 0;
+	}
+}

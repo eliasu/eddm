@@ -1,0 +1,13 @@
+form_name: 'Jens Kögler'
+Straße_Nr: 'Peter-Vischer-Str. 12'
+plz_stadt: '12157 Berlin'
+form_email: jens.koegler@t-online.de
+telefonnummer: '0178 7763577'
+angebote:
+  - null
+  - übernachten
+zeitraum: '08.08. - 11.08.'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nvielleicht ist es zu spät, aber Freunde, die in der Gegend wohnen, haben euren Hof empfohlen...gibt es noch Optionen in dieser Zeit .. von Zirkuswagen bis Zimmer für 2 Personen?\r\nViele Grüße\r\nJens"
+newsletter:
+  - null

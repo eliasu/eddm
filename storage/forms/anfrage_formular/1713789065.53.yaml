@@ -1,0 +1,14 @@
+form_name: 'Norbert Körschgen'
+Straße_Nr: 'Fridtjof-Nansen-Str. 8'
+plz_stadt: '53127 Bonn'
+form_email: info@koerschgen.de
+telefonnummer: 0172-2622999
+angebote:
+  - null
+  - übernachten
+zeitraum: '13.-15. Juli'
+personenanzahl: '2'
+deine_nachricht: "hi, wäre echt schön, wenn das klappen würde - ein Freund (Dirk Roggan) feiert seinen 70. Geburtstag.\r\nWir sind auch nicht sehr anspruchsvoll... Wenn es also nur ne kleine Kammer noch gibt, ist das auch ok."
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

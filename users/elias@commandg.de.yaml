@@ -1,0 +1,14 @@
+name: Elias
+super: true
+id: 72efacfa-26c2-4f49-a82a-57f634f64ecb
+password_hash: $2y$12$cYyTj03omr3vxccsPhPNru/6JSiTawJ7yjt5Cmg2w9zT/SsYqb6ni
+preferences:
+  forms:
+    anfrage_formular:
+      columns:
+        - datestamp
+        - form_name
+        - telefonnummer
+        - zeitraum
+        - angebote
+        - form_email

@@ -1,0 +1,13 @@
+form_name: 'Sarah Pint'
+Straße_Nr: 'Kobellstraße 24'
+plz_stadt: '68167 Mannheim'
+form_email: sarah_pint@posteo.de
+telefonnummer: '017656749561'
+angebote:
+  - null
+  - übernachten
+zeitraum: '10. bis 13.06. (oder im Juli nach Verfügbarkeit)'
+personenanzahl: '1'
+deine_nachricht: "Hallo zusammen, \r\n\r\nich würde gerne für ein paar Tage aufs Land und mich dem Schreiben widmen. Da ich schon lange Fan eures Projektes bin, dachte ich, ich versuche mal eine Spontane-Anfrage bei euch. Am liebsten wäre mir eine Unterbringung in den Tiny-Wägen, aber ich bin auch für alles andere offen. Liebe Grüße, Sarah"
+newsletter:
+  - null

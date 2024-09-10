@@ -1,0 +1,14 @@
+form_name: 'Heidrun Mitschke'
+Straße_Nr: 'Hugoweg 20'
+plz_stadt: '29221 Celle'
+form_email: heidi_mitschke@yahoo.de
+telefonnummer: '05141709637'
+angebote:
+  - null
+  - essen
+zeitraum: 20.05.2023
+personenanzahl: '8'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\nbieten Sie im Rahmen der kulturellen Landpartie auch ein Frühstück an, wenn ja, würden wir gern  um 10:15 Uhr erscheinen, und wenn es geht reservieren. Vielen Dank im Voraus für Ihre Nachricht."
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

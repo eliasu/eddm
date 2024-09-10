@@ -1,0 +1,13 @@
+form_name: 'Elena Beck'
+Straße_Nr: 'Bussestraße 5'
+plz_stadt: '22299'
+form_email: lenabulochnikova@gmail.com
+telefonnummer: '017665776354'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.05-19.05
+personenanzahl: '1'
+deine_nachricht: 'Hallo :) mein Name ist Elena. Ich suche für mich alleine die Übernachtingsmöglichkeit von Samstag  18.05 auf Sonntag 19.05. Ist bei euch eventuell noch spontan was frei? Danke und liebe Grüße. Elena'
+newsletter:
+  - null

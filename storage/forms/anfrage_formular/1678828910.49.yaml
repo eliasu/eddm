@@ -1,0 +1,13 @@
+form_name: 'Maja Ifland'
+Straße_Nr: 'Lehmbruckstrasse 16'
+plz_stadt: '10245 Berlin'
+form_email: maja.ifland@gmail.com
+telefonnummer: '01797769986'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.-21. Mai'
+personenanzahl: '1 Erwachsene, 1 Kind (4 Jahre)'
+deine_nachricht: 'Doppelzimmer oder Einzelzimmer mit kleiner Matratze für das Kind, beides wäre super'
+newsletter:
+  - null

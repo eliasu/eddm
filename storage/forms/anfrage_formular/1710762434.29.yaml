@@ -1,0 +1,14 @@
+form_name: Twst
+Straße_Nr: Twst
+plz_stadt: '7363'
+form_email: kim@moeglichkeit.org
+telefonnummer: '4903069568432'
+angebote:
+  - null
+  - übernachten
+  - 'Workshop buchen'
+zeitraum: 15-15
+personenanzahl: Test
+deine_nachricht: Twst
+newsletter:
+  - null

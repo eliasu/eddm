@@ -1,0 +1,13 @@
+form_name: 'Richard Buck'
+Straße_Nr: 'Am Bergedorfer Schiffgraben 10'
+plz_stadt: '27726 Worpswede'
+form_email: buck.richard@yahoo.com
+telefonnummer: '0176 42259716'
+angebote:
+  - null
+  - übernachten
+zeitraum: '06.0625 bis 08.25'
+personenanzahl: '4'
+deine_nachricht: '2 Doppelzimmer wären optimal'
+newsletter:
+  - null

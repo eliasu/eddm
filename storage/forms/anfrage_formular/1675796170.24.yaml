@@ -1,0 +1,13 @@
+form_name: 'Conny Schönwälder'
+adresse: 'An der Kuhtrift 2'
+form_email: concept-style@posteo.de
+telefonnummer: '01742032253'
+angebot:
+  - null
+  - essen
+zeitraum: 13.2.23
+personenanzahl: '2'
+deine_nachricht: 'Hallo, wir suchen am 13.2. gegen 19:45 etwas, wo wir essen können. Geht das bei euch? Viele Grüße, conny'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

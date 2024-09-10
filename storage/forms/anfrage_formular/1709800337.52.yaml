@@ -1,0 +1,13 @@
+form_name: 'Friedrich Hachenberg'
+Straße_Nr: 'Mühlenstraße 7'
+plz_stadt: '56154 Boppard'
+form_email: friedrich.hachenberg@t-online.de
+telefonnummer: '0177 7300015'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Anreise 28.3.24 Abreise 01.04.24'
+personenanzahl: '3'
+deine_nachricht: "Lieber Kim,\r\nWir nehmen dann das Doppelzimmer und das Einzelzimmer wie besprochen. \r\nHerzlich \r\nFriedrich"
+newsletter:
+  - null

@@ -1,0 +1,13 @@
+form_name: 'Anne Kruse'
+Straße_Nr: 'Rigaer Straße 22c'
+plz_stadt: '10247 Berlin'
+form_email: anne_kruse@posteo.de
+telefonnummer: '⁨0160 92914610⁩'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.05.-20.05.
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\ngibt es auch die Möglichkeit, über Pfingsten für einen kürzeren Zeitraum zu kommen und weniger zu zahlen? \r\nViele Grüße\r\nAnne"
+newsletter:
+  - null

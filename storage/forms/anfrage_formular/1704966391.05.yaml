@@ -1,0 +1,13 @@
+form_name: 'Levke Heed'
+Straße_Nr: Bergstr.
+plz_stadt: Müssen
+form_email: levkeh@hotmail.com
+telefonnummer: '+491795092529'
+angebote:
+  - null
+  - übernachten
+zeitraum: 10.5-12-5.24
+personenanzahl: '2'
+deine_nachricht: 'Soory, habe zu spät gesehen, dass schon alles ausgebucht ist. Die vorherige Anfrage kann ignoriert werden :-)'
+newsletter:
+  - null

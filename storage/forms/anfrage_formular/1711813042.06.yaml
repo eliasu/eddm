@@ -1,0 +1,14 @@
+form_name: 'Julian Bootz'
+Straße_Nr: 'Oranienstraße 169'
+plz_stadt: '10999'
+form_email: herrbootz@gmail.com
+telefonnummer: '015757910287'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 10.-12.05.
+personenanzahl: '5'
+deine_nachricht: "Hallo,\r\nwir würden gerne zur KLP wieder bei Euch zelten und frühstücken. Hättet ihr für das erste Wochenende noch Kapazitäten und Platz für zwei Zelte?\r\nLG\r\nJulian"
+newsletter:
+  - null

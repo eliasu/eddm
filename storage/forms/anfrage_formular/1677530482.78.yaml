@@ -1,0 +1,13 @@
+form_name: 'Kata Böger'
+Straße_Nr: 'Oranjelaan 30'
+plz_stadt: '6571AS Berg en Dal'
+form_email: kata.boeger@gmail.com
+telefonnummer: '0031248442545'
+angebote:
+  - null
+  - übernachten
+zeitraum: 26/5-29/5/2023
+personenanzahl: '2'
+deine_nachricht: 'Hallo, wir würden gern 2 oder 3 Nächte bei Euch übernachten, ist noch etwas frei?'
+newsletter:
+  - null

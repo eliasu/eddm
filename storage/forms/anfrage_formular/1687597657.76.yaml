@@ -1,0 +1,15 @@
+form_name: 'Stefanie Reichart'
+Straße_Nr: 'Klausstr. 12'
+plz_stadt: Essen
+form_email: s.reichart@posteo.de
+telefonnummer: '015252480187'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '12. bis 16.07.2023'
+personenanzahl: '1'
+deine_nachricht: 'Gerne in einem Apartment, falls möglich'
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

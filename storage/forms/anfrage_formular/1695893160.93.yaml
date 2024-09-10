@@ -1,0 +1,14 @@
+form_name: 'Godje Loof'
+Straße_Nr: 'Fährstraße 72'
+plz_stadt: '21107 Hamburg'
+form_email: godjeloof@gmail.com
+telefonnummer: '015112470079'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 4.10.-6.10
+personenanzahl: '2'
+deine_nachricht: "Hej ihr Lieben, \r\nwir wollen (sehr spontan) ins Wendland für ein paar Tage. Vielleicht ist bei euch noch was frei?\r\nLiebe Grüße :) \r\nGodje und Jannik"
+newsletter:
+  - null

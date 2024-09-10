@@ -1,0 +1,14 @@
+form_name: 'Anna Berwanger'
+Straße_Nr: 'Zenettistraße 42'
+plz_stadt: München
+form_email: anna.berwanger@yahoo.de
+telefonnummer: '017661427605'
+angebote:
+  - null
+  - übernachten
+zeitraum: '3. - 6.3.23'
+personenanzahl: '2'
+deine_nachricht: "Liebes Team d. EinDingderUnmöglichkeit \r\n\r\nHabt ihr noch ein Plätzchen frei für kommendes Wochenende?\r\nLiebe Grüße\r\nAnna"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

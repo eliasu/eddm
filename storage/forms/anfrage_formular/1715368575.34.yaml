@@ -1,0 +1,13 @@
+form_name: 'Denise Moldehn'
+Straße_Nr: 'Dahlenburger Landstraße 20e'
+plz_stadt: '21337 Lüneburg'
+form_email: denisemoldehn@live.de
+telefonnummer: '01704341312'
+angebote:
+  - null
+  - übernachten
+zeitraum: '11.05'
+personenanzahl: '2'
+deine_nachricht: "Guten Abend, \r\nhätten Sie evtl. noch ein Plätzchen für einen Bulli frei?\r\nLiebe Grüße\r\nDenise"
+newsletter:
+  - null

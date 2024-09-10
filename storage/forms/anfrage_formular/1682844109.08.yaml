@@ -1,0 +1,13 @@
+form_name: 'Narne Jordan'
+Straße_Nr: 'Wrangelstraße 24'
+plz_stadt: '20253 Hamburg'
+form_email: narne@gmx.de
+telefonnummer: '01705922251'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18.5.-21.5.
+personenanzahl: '6'
+deine_nachricht: "Moin, gerade euren tollen Hof entdeckt und gesehen, dass ihr auch Zeltplätze anbietet :-)\r\nWie sieht das zur KLP aus? Habt ihr über Himmelfahrt noch Platz für 2 Zelte und 1 Camper? Oder sind wir schon viel zu spät? :-D\r\nLiebe Grüße\r\nNarne"
+newsletter:
+  - null

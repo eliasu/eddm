@@ -1,0 +1,14 @@
+form_name: 'Jane Mentz'
+Straße_Nr: 'Zum Pastorat 2'
+plz_stadt: '24897 Ulsnis'
+form_email: jane.mentz@gmx.de
+telefonnummer: '016093178756'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 'Donnerstag, den 20.7.23- Donnersta, den 27.7.23'
+personenanzahl: '2'
+deine_nachricht: 'Wir hätten gern das Ostzimmer über der Veranda - ist das möglich? Und noch mal vielen Dank für die Führung. Wir waren sehr beeindruckt. Es grüßen freundlich Jane und Burkhard Mentz'
+newsletter:
+  - null

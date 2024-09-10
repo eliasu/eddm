@@ -1,0 +1,13 @@
+form_name: 'Alma Gröning'
+Straße_Nr: 'Jahnallee 1'
+plz_stadt: '04109 Leipzig'
+form_email: groeningmail@web.de
+telefonnummer: '01724411137'
+angebote:
+  - null
+  - übernachten
+zeitraum: 25.07.-26.07.23
+personenanzahl: '3'
+deine_nachricht: "Guten Tag,\r\n\r\nwir sind ein Trio aus zwei Geigen und einem Kontrabass auf Straßenmusiktour richtung Norden und brauchen noch einen Schlafplatz vom 25. auf den 26. Juli. Wir haben einen Bus und ein Zelt. Würden wir spontan noch ein Plätzchen auf Eurer Wiese bekommen? Das würde uns sehr freuen :) \r\nLiebe Grüße,\r\nAlma Gröning"
+newsletter:
+  - null

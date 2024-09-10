@@ -1,0 +1,15 @@
+form_name: 'Ulla Brauns'
+Straße_Nr: 'Ossenkuhle 31'
+plz_stadt: '44866 Bochum'
+form_email: ulla_brauns@web.de
+telefonnummer: '0232720934'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 16.10.-18.10.23
+personenanzahl: '2'
+deine_nachricht: "Wir würden gerne endlich mal ein Ding der Möglichkeit kennenlernen und zwei Tage mit ganz viel Entspannung erleben, die sonst in unserem Alltag oft eher wie ein Ding der Unmöglichkeit erscheint.\r\nUns würde ganz besonders das Doppelzimmer mit Bad und Wintergarten zusagen."
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

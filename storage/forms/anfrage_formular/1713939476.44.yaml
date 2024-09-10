@@ -1,0 +1,12 @@
+form_name: 'Nora Schmitz'
+Straße_Nr: 'Oldentruper Str.1'
+plz_stadt: '33604 Bielefeld'
+form_email: norobert@posteo.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.-20.5.
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\ngerne möchte ich mich erkundigen ob‘s in diesem Zeitraum noch freie Zimmer gibt.\r\n\r\nViele Grüße,\r\nNora"
+newsletter:
+  - null

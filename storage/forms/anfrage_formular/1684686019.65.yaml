@@ -1,0 +1,13 @@
+form_name: 'Karin Flaake'
+Straße_Nr: 'Guiollettstr 31'
+plz_stadt: Frankfurt
+form_email: karin.flaake@t-online.de
+telefonnummer: '069724893'
+angebote:
+  - null
+  - übernachten
+zeitraum: '3.8.23- 10.8.23'
+personenanzahl: '2'
+deine_nachricht: 'Bitte zwei Einzelzimmer, bitte die Zimmer zum Garten raus.'
+newsletter:
+  - null

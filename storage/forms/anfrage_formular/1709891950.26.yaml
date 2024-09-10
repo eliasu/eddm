@@ -1,0 +1,13 @@
+form_name: 'Michael Eulenstein'
+Straße_Nr: 'Katharinenstr. 44'
+plz_stadt: '31135 Hildesheim'
+form_email: michael.eulenstein@yahoo.com
+telefonnummer: '01725220019'
+angebote:
+  - null
+  - übernachten
+zeitraum: '17.-19. Mai'
+personenanzahl: '2'
+deine_nachricht: "Guten Tag,\r\nWie eben telefonisch besprochen schicke ich hier meine Anfrage für die Übernachtung am 2. KLP-Wochenende. Kannst du mir bitte nochmal bestätigen, dass alles klappt?\r\nLiebe Grüße,\r\nMichael Eulenstein"
+newsletter:
+  - null

@@ -1,0 +1,13 @@
+form_name: 'Richard Isemann'
+Straße_Nr: 'Plattenberger Weg 30'
+plz_stadt: '32549 Bad Oeynhausen'
+form_email: richard.isemann@gmail.com
+telefonnummer: '01723130840'
+angebote:
+  - null
+  - übernachten
+zeitraum: '18.05. - 21.05.2023'
+personenanzahl: '2'
+deine_nachricht: "Hallo ein Ding der Möglichkeit,\r\n\r\nwir (meine Freundin und ich) würde gerne bei euch, während des oben angegebenen Zeitraum,\r\nbei euch übernachten wollen. Ist das überhaupt noch möglich?\r\n\r\nVielen Dank und mit freundlichen Grüßen,\r\nRichard Isemann."
+newsletter:
+  - null

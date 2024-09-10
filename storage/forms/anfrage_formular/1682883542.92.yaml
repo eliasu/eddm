@@ -1,0 +1,12 @@
+form_name: 'Uta Sommer'
+Straße_Nr: 'Jungbornstr 42a'
+plz_stadt: '13129 Berlin'
+form_email: info@utasommer.de
+angebote:
+  - null
+  - übernachten
+zeitraum: 17.5.-19.5.2023
+personenanzahl: '2'
+deine_nachricht: "Hallo, ich würde gerne wissen, ob noch ein DZ frei ist.\r\nLiebe Grüße\r\nUta Sommer"
+newsletter:
+  - null

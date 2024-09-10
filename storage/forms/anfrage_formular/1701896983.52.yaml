@@ -1,0 +1,14 @@
+form_name: 'Vera Rührup'
+Straße_Nr: 'Korseifener Straße 23'
+plz_stadt: Morsbach
+form_email: vera.ruehrup@gmx.de
+telefonnummer: '0152 225 17542'
+angebote:
+  - null
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: '08.05. - 12.05.'
+personenanzahl: '15'
+deine_nachricht: "Hallo,\r\nIch bin auf der Suche nach einer Unterkunft mit Vollpension für einen Workshop. Außerdem bräuchten wir einen Raum mit mindestens 50 qm, gerne mit Sitzkissen und Matten.\r\nAlternativer Termin ist der 29.05. - 02.06.24.\r\nWäre das bei Euch möglich  ?\r\n\r\nHerzliche Grüße,\r\nVera"
+newsletter:
+  - null

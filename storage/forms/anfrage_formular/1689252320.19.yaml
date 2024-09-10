@@ -1,0 +1,13 @@
+form_name: 'Anke Bramesfeld'
+Straße_Nr: 'Sedanstrasse 46'
+plz_stadt: '30161 Hannover'
+form_email: bramesfeld.anke@mh-hannover.de
+telefonnummer: '01629046775'
+angebote:
+  - null
+  - übernachten
+zeitraum: 15-16.7.22
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\n\r\nVielleicht gibt es für den kommenden Samstag/Sonntag noch ein freies Gästezimmer bei Euch? Sind auf Familienbesuch in der Nähe. Gruss Anke"
+newsletter:
+  - null

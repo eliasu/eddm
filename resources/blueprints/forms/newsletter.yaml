@@ -1,0 +1,17 @@
+sections:
+  main:
+    display: Main
+    fields:
+      -
+        handle: form_email
+        field:
+          input_type: email
+          antlers: false
+          display: 'E-Mail Adresse'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+          validate:
+            - required
+          read_only: false

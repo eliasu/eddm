@@ -1,0 +1,119 @@
+.c-block {
+	// Pano Slider
+	&--pano {
+		&__wrap {
+			grid-column: 1/-1;
+			height: 60vh;
+			display: flex;
+			margin-right: -$s5;
+
+			@include respond(tab-port) { margin-right: 0; }
+		}
+
+		&__wrap--single {
+			grid-column: 1/-1;
+			height: 60vh;
+			// display: flex;
+		}
+
+		&__headline {
+			grid-column: span 5;
+			@include respond(tab-port) { grid-column: span 1; }
+		}
+		
+		&__content {
+			grid-column: -7/-1;
+			@include respond(tab-port) { grid-column: span 1; }
+		}
+
+		&__image {
+			height: 100%;
+			width: 100%;
+			object-fit: cover;
+		}
+	}
+
+
+	// Slider Alternate (Left/Right)
+	&--alt {
+		&__wrap {
+			grid-column: span 6;
+			@include respond(tab-port) { grid-column: span 1; }
+
+			overflow: hidden;
+			width: 100%;
+		}
+
+		&__square {
+			@extend .c-block--alt__wrap;
+			
+			height: 0;
+			padding-bottom: 100%;
+			position: relative;
+		}
+
+		&__content {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+		}
+
+		&__first {
+			@include respond(tab-port) { grid-row: 2; }
+		}
+		
+		&__image-wrap {
+			width: 100%;
+			position: relative;
+
+			@include respond(tab-port) { max-height: 60vh; }
+			
+			&:after {
+				content: "";
+				display: block;
+				padding-bottom: 100%;
+			}
+		}
+
+		&__image {
+			position: absolute;
+			width: 100%;
+			height: 100%;
+			object-fit: contain;
+
+			@include respond(tab-port) { width: auto; }
+		}
+	}
+
+
+	// No Image Component
+	&--noimg__headline {
+		grid-column: span 5;
+		@include respond(tab-port) { grid-column: span 1; }
+	}
+	
+	&--noimg__content {
+		grid-column: 7/13;
+
+		@include respond(tab-port) { grid-column: span 1; }
+	}
+	
+	&--noimg__close {
+		position: absolute;
+		right: $s4;
+		top: $s4;
+		cursor: pointer;
+
+		&:hover {
+			color: $black;
+		}
+	}
+
+	&__headline{
+		margin-bottom: $s12;
+
+		@include respond(tab-port) {
+			margin-bottom: $s4;
+		}
+	}
+}

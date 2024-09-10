@@ -1,0 +1,12 @@
+form_name: 'Martin und Carol van Baal'
+Straße_Nr: 'Rölsdorfstr. 17'
+plz_stadt: '53225 Bonn'
+form_email: C.vanBaal@web.de
+angebote:
+  - null
+  - übernachten
+zeitraum: '17.05.2024 - 19.05.2024'
+personenanzahl: '2'
+deine_nachricht: 'Wir würden gerne an Pfingsten zelten oder ein Doppelzimmer mieten.'
+newsletter:
+  - null

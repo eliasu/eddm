@@ -1,0 +1,14 @@
+form_name: 'Jan Schulz'
+Straße_Nr: 'Heiligenbreite 3'
+plz_stadt: '37176 Angerstein'
+form_email: janschulz@posteo.de
+telefonnummer: '01739669896'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 7.6.-9.6.2024
+personenanzahl: '14 Erwachsene, 13 Kinder'
+deine_nachricht: "Hallo, \r\nwie eben telefonisch besprochen, hier meine Buchungsanfrage für ein Treffen mit Freund:innen."
+newsletter:
+  - null

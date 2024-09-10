@@ -1,0 +1,14 @@
+form_name: 'Lara Oberle'
+Straße_Nr: 'Wendenschlossstr 312'
+plz_stadt: '12557'
+form_email: lara.oberle@gmx.net
+telefonnummer: '015784691515'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 21.07.23-23.07.23
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nich und meine Freund würden gerne unser Geburtstagswochenende bei euch verbringen. Ist noch etwas im angegebenen Zeitraum verfügbar?\r\nLiebe Grüße \r\nLara"
+newsletter:
+  - null

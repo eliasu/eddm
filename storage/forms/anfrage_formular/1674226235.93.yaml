@@ -1,0 +1,9 @@
+form_name: 'Barbara Niklas'
+adresse: 'Wendenstrasse 45, Hamburg'
+form_email: barbaraniklas@posteo.de
+telefonnummer: '01701534662'
+angebot:
+  - übernachten
+zeitraum: 18-21.05.2023
+personenanzahl: '4'
+deine_nachricht: 'Habt ihr zu dem Zeitraum zufällig noch ne Fereienwohnung frei?'

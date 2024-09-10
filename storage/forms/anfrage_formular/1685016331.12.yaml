@@ -1,0 +1,13 @@
+form_name: 'Katerina Pavlou'
+Straße_Nr: 'Kielmannseggstraße 56'
+plz_stadt: '22043 Hamburg'
+form_email: kater-paul@gmx.net
+telefonnummer: '01792109338'
+angebote:
+  - null
+  - übernachten
+zeitraum: 'Sa 27. Mai - So 28. Mai'
+personenanzahl: '1'
+deine_nachricht: "Falls bei euch doch noch ein Einzelzimmer für Sa auf \r\nSo frei wird, meldet euch gern. Danke und LG"
+newsletter:
+  - null

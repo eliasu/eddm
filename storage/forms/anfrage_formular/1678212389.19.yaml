@@ -1,0 +1,13 @@
+form_name: 'Thomas Kober'
+Straße_Nr: 'Schierker str. 9'
+plz_stadt: '28205 Bremen'
+form_email: tom@dr-kober.de
+telefonnummer: '0162 1043379'
+angebote:
+  - null
+  - übernachten
+zeitraum: 18-21.5
+personenanzahl: '3'
+deine_nachricht: 'Hallo, wir möchten die kulturelle Landpartie besuchen und würden gerne bei Ihnen übernachten. Freunde sind mit Wohnmobil auch bei Ihnen, mit freundlichen Grüssen, T. Kober'
+newsletter:
+  - null

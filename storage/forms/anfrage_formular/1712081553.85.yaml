@@ -1,0 +1,13 @@
+form_name: 'Roman Sizov'
+Straße_Nr: 'Lückstr. 54'
+plz_stadt: '10317'
+form_email: roman.sizov@tuta.io
+telefonnummer: '017677129365'
+angebote:
+  - null
+  - übernachten
+zeitraum: '2.-3. Mai'
+personenanzahl: '1'
+deine_nachricht: "Guten Tag,\r\n\r\nIch würde gerne ein Zimmer für mich für eine Nacht (2-3 Mai) bei Ihnen reservieren. Haben Sie noch verfügbare Zimmer?\r\n\r\nMit freundlichen Grüßen\r\nRoman Sizov"
+newsletter:
+  - null

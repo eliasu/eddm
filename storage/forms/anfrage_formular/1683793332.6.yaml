@@ -1,0 +1,14 @@
+form_name: 'Marie-Theres Stein'
+Straße_Nr: 'Talstraße 25'
+plz_stadt: '20359 Hamburg'
+form_email: marie-theres.stein@gmx.net
+telefonnummer: '017655408375'
+angebote:
+  - null
+  - übernachten
+zeitraum: '19.05. - 20.05.'
+personenanzahl: '2'
+deine_nachricht: "Hallo, hättet ihr noch Platz für eine Nacht?\r\n\r\nLiebe Grüße\r\nMarie"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'

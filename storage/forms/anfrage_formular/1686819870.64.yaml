@@ -1,0 +1,14 @@
+form_name: 'Prof. Hans Lamb'
+Straße_Nr: 'Renatastrasse 11'
+plz_stadt: '31134 Hildesheim'
+form_email: hans-juergen.lamb@hawk.de
+telefonnummer: 0175-4463971
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: '06. bis 13. august 2023'
+personenanzahl: '13'
+deine_nachricht: "Hallo Kim\r\n\r\nwir haben gestern kurz telefoniert. Wir von der HAWK Hildesheim, Fakultät Gestaltung suchen kurzfristig einen geeigneten Ort für eine Stein-Bildhauer-Exkursion.\r\n\r\nDafür brauchen wir Übernachtungsmöglichkeiten für ca. 13 Teilnehmer und einen Ort wo wir draussen im Freien arbeiten können. Auch Zelten mit Nutzung der sanitären Infrastruktur kommt für uns in Frage.\r\n\r\nDazu bitte ich möglichst umgehend um Rückmeldung.\r\n\r\nVielen Dank und liebe Grüße, Hans Lamb"
+newsletter:
+  - null

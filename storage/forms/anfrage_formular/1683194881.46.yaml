@@ -1,0 +1,14 @@
+form_name: 'karin kellner'
+Straße_Nr: 'lothringer straße 2b'
+plz_stadt: '30559 hannover'
+form_email: karin.kellner@htp-tel.de
+telefonnummer: '01637783550'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 'im sommer'
+personenanzahl: '4'
+deine_nachricht: "hallo,\r\nkönnt ihr mir die wochenenden im juni und juli sagen, in denen die tiny-wägen noch frei sind?\r\nalternativ ginge ein tinywagen und ein zimmer mit bad, jeweils von freitag bis sonntag.\r\ndas wäre super.\r\n\r\nbeste grüße\r\nkarin kellner"
+newsletter:
+  - null

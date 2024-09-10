@@ -1,0 +1,13 @@
+form_name: 'Helmut Bross'
+Straße_Nr: 'Schulstraße 24'
+plz_stadt: '72285 Pfalzgrafenweiler'
+form_email: helmutbross@t-online.de
+telefonnummer: '01637556204'
+angebote:
+  - null
+  - übernachten
+zeitraum: '06.08. bis 07.08.2024'
+personenanzahl: '1'
+deine_nachricht: "Bin mit Fahrrad unterwegs \r\n1 Einzelzimmer mit Frühstück. \r\nEvtl wäre auch 07.08. Bis 08.08 okay"
+newsletter:
+  - null

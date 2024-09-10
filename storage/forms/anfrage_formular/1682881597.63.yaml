@@ -1,0 +1,14 @@
+form_name: 'Anna Leo'
+Straße_Nr: 'Engelbertstrasse 21'
+plz_stadt: '50674 Köln'
+form_email: annaleo1@gmx.de
+telefonnummer: 0163-5563631
+angebote:
+  - null
+  - übernachten
+zeitraum: '26.-29. Mai'
+personenanzahl: '4'
+deine_nachricht: "Hallo,\r\nhättet Ihr über Pfingsten noch ein Apartment für uns (2 Erwachsene, 2 Kinder) frei? Und gäbe es außerdem noch einen Bulli Stellplatz für Freunde von uns? \r\nFreu mich von Euch zu hören.\r\nViele Grüße \r\nAnna"
+newsletter:
+  - null
+  - 'In den Newsletter eintragen'
