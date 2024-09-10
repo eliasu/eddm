@@ -1,0 +1,15 @@
+default_collection_priorities:
+  -
+    id: m0wluoe7
+    collection: pages
+    priority: 1.0
+    type: collection_priority
+    enabled: true
+  -
+    id: m0wluxf8
+    collection: events
+    priority: 0.5
+    type: collection_priority
+    enabled: true
+exclude_collections_from_sitemap:
+  - globals

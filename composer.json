@@ -10,7 +10,8 @@
     ],
     "require": {
         "php": "^8.2",
-        "cnj/seotamic": "^5.0",
+        "alt-design/alt-seo": "^1.2",
+        "alt-design/alt-sitemap": "^1.2",
         "laravel/framework": "^11",
         "laravel/tinker": "^2.9",
         "statamic-rad-pack/mailchimp": "^5.2",

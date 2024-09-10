@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e8d07601838bf3d7a0c0e93df7cac30b",
+    "content-hash": "dae87b3254871a17a0324ba6b5f596f8",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -68,6 +68,98 @@
                 "source": "https://github.com/ajthinking/archetype/tree/v2.0.0"
             },
             "time": "2024-05-11T08:05:58+00:00"
+        },
+        {
+            "name": "alt-design/alt-seo",
+            "version": "v1.2.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/alt-design/Alt-SEO-Addon.git",
+                "reference": "f02c8507e06ab280fa89998537d0077a6032c0d3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alt-design/Alt-SEO-Addon/zipball/f02c8507e06ab280fa89998537d0077a6032c0d3",
+                "reference": "f02c8507e06ab280fa89998537d0077a6032c0d3",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.1",
+                "statamic/cms": "^4.0|^5.0"
+            },
+            "type": "library",
+            "extra": {
+                "statamic": {
+                    "name": "Alt Seo",
+                    "description": "Alt Seo addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "AltDesign\\AltSeo\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AltDesign\\AltSeo\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Alt SEO addon, add SEO tags to your site",
+            "support": {
+                "issues": "https://github.com/alt-design/Alt-SEO-Addon/issues",
+                "source": "https://github.com/alt-design/Alt-SEO-Addon/tree/v1.2.1"
+            },
+            "time": "2024-09-06T14:37:12+00:00"
+        },
+        {
+            "name": "alt-design/alt-sitemap",
+            "version": "v1.2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/alt-design/Alt-Sitemap-Addon.git",
+                "reference": "94b6df5c1491cedc131f6f2981bc9b23f32f17d4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/alt-design/Alt-Sitemap-Addon/zipball/94b6df5c1491cedc131f6f2981bc9b23f32f17d4",
+                "reference": "94b6df5c1491cedc131f6f2981bc9b23f32f17d4",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^8.1",
+                "statamic/cms": "^4.0|^5.0"
+            },
+            "type": "library",
+            "extra": {
+                "statamic": {
+                    "name": "Alt Sitemap",
+                    "description": "Alt Sitemap addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "AltDesign\\AltSitemap\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AltDesign\\AltSitemap\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Alt Sitemap addon, create a sitemap from Statamic entries",
+            "support": {
+                "issues": "https://github.com/alt-design/Alt-Sitemap-Addon/issues",
+                "source": "https://github.com/alt-design/Alt-Sitemap-Addon/tree/v1.2.2"
+            },
+            "time": "2024-09-10T14:31:57+00:00"
         },
         {
             "name": "brick/math",
@@ -197,65 +289,6 @@
                 }
             ],
             "time": "2024-02-09T16:56:22+00:00"
-        },
-        {
-            "name": "cnj/seotamic",
-            "version": "v5.0.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/cnj-digital/seotamic.git",
-                "reference": "6edf99c542a3081a8247ca95f7e43db56928f9f4"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/cnj-digital/seotamic/zipball/6edf99c542a3081a8247ca95f7e43db56928f9f4",
-                "reference": "6edf99c542a3081a8247ca95f7e43db56928f9f4",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^8.2",
-                "statamic/cms": "^5.0.0"
-            },
-            "require-dev": {
-                "orchestra/testbench": "^9.0"
-            },
-            "type": "statamic-addon",
-            "extra": {
-                "statamic": {
-                    "name": "Seotamic",
-                    "description": "Simple SEO addon for Statamic",
-                    "editions": [
-                        "lite",
-                        "pro"
-                    ]
-                },
-                "laravel": {
-                    "providers": [
-                        "Cnj\\Seotamic\\ServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Cnj\\Seotamic\\": "src"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "proprietary"
-            ],
-            "authors": [
-                {
-                    "name": "Martin Koterle",
-                    "email": "martin@cnj.si"
-                }
-            ],
-            "description": "Simple SEO addon for Statamic",
-            "support": {
-                "issues": "https://github.com/cnj-digital/seotamic/issues",
-                "source": "https://github.com/cnj-digital/seotamic/tree/v5.0.0"
-            },
-            "time": "2024-08-09T12:11:51+00:00"
         },
         {
             "name": "composer/semver",
