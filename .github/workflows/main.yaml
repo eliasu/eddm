@@ -17,14 +17,14 @@ jobs:
     - name: 📦 Setup Node
       uses: actions/setup-node@v3
       with:
-        node-version: 18
+        node-version: 20
     
     - name: 📦 Install Packages
       run: npm install
     
     - name: 🔨 Build
       run: |
-        npm run production
+        npm run build
     
     - name: 📦 Install Composer dependencies
       uses: php-actions/composer@v6
@@ -51,7 +51,7 @@ jobs:
           (php artisan down) || true
           composer install
           npm install
-          npm run production
+          npm run build
           php please cache:clear
           php please config:cache
           php please route:cache
