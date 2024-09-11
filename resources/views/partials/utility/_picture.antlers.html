@@ -3,6 +3,8 @@
 		class='lazyload {{ class }} {{ cover ? "object-cover" : "" }}'
 		style='object-position:{{ cover ? image:focus_css : "unset" }}' 
 		alt="{{image:alt ?? alt ?? image.title}}"
+		:width="w"
+		:height="h"
 	}}
 {{ /if }}
 

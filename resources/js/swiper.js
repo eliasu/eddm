@@ -1,4 +1,4 @@
-import Swiper, { Navigation, Autoplay } from 'swiper';
+import Swiper, { Navigation, Autoplay, Lazy } from 'swiper';
 import 'swiper/css';
 
 import PhotoSwipeUI_Default from 'photoswipe/dist/photoswipe-ui-default.min.js';
@@ -357,6 +357,12 @@ function initAll() {
 // run functions if the DOM is ready
 function ready() {
 	initAll();
+	
+	// setTimeout(() => {
+	// 	for (let i = 0; i < all_swipers_DOM.length; i++) {
+	// 		all_swipers_DOM[i].swiper.update();
+	// 	}
+	// }, 1200);
 }
 
 if (document.readyState === "complete") {
