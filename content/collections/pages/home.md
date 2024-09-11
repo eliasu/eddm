@@ -80,8 +80,8 @@ grid_field:
     link_link: 'entry::a777de19-6a91-47cd-8764-70c2c7360bbe'
     underline_txt: 'Offsites & Seminare'
     images_img: teamoffsite_img_2418.jpg
-updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1718637751
+updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
+updated_at: 1726054557
 big_text_txt:
   -
     type: paragraph
@@ -260,5 +260,8 @@ seotamic_open_graph_title: general
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 images_img: 231016_eddm_hero_rundling.jpg
 ---

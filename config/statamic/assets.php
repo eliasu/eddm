@@ -98,15 +98,7 @@ return [
         */
 
         'presets' => [
-            'sm-webp' => ['w' => 480, 'h' => 480, 'q' => 85, 'fit' => 'contain', 'fm' => 'webp'],
-            'lg-webp' => ['w' => 1280, 'h' => 1280, 'q' => 85, 'fit' => 'contain', 'fm' => 'webp'],
-            'xl-webp' => ['w' => 1440, 'h' => 1440, 'q' => 95, 'fit' => 'contain', 'fm' => 'webp'],
-            
-            'ph' => ['w' => 16, 'h' => 16, 'q' => 1, 'fit' => 'contain'],
-
-            'sm' => ['w' => 480, 'h' => 480, 'q' => 85, 'fit' => 'contain'],
-            'lg' => ['w' => 1280, 'h' => 1280, 'q' => 85, 'fit' => 'contain'],
-            'xl' => ['w' => 1440, 'h' => 1440, 'q' => 95, 'fit' => 'contain'],
+            // 'small' => ['w' => 200, 'h' => 200, 'q' => 75, 'fit' => 'crop'],
         ],
 
         /*
@@ -149,8 +141,8 @@ return [
     */
 
     'thumbnails' => [
-        'max_width' => 2000,
-        'max_height' => 2000,
+        'max_width' => 10000,
+        'max_height' => 10000,
     ],
 
     /*

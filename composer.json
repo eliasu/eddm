@@ -14,6 +14,7 @@
         "alt-design/alt-sitemap": "^1.2",
         "laravel/framework": "^11",
         "laravel/tinker": "^2.9",
+        "spatie/statamic-responsive-images": "^5.0",
         "statamic-rad-pack/mailchimp": "^5.2",
         "statamic/cms": "^5.0",
         "webographen/statamic-admin-log": "^1.1"

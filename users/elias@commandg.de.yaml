@@ -18,3 +18,14 @@ preferences:
         - datestamp
         - form_email
         - consent
+  collections:
+    pages:
+      after_save: continue_editing
+    events:
+      columns:
+        - status
+        - title
+        - show_in_eventlist
+        - text_bard
+        - slug
+  favorites: {  }
