@@ -16,38 +16,9 @@
 					{{ images_img }}
 						<li id="{{index}}" class="swiper-slide swiper__slide--pano" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
 								<a {{ first ? "id=first" : "" }} title="click to zoom-in" href="{{ glide:url width="1680" }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
-									{{# cant use responsive images, because the photoswipe gets the wrong dimensions ()width) on init and swiper behaves weird #}}
+									{{# i guess problem with responsive images, because the photoswipe gets the wrong dimensions ()width) on init and swiper behaves weird #}}
 									{{# only solution is to resize the window, whicht reinits the swiper. #}}
-									{{# {{ partial:utility/picture :image="url" class="swiper__image--pano" alt="{title}" w="{width}" h="{height}" }} #}}
-
-									{{# instead use a hardcoded glide/picture module #}}
-									<picture>
-										{{ asset :url="url" }}
-	
-												<source
-													data-srcset="
-														{{ glide:url width="480" }} 480w,
-														{{ glide:url width="960" }} 960w,
-														{{ glide:url width="1680" }} 1680w,
-													type="image/webp"
-												>
-												<source
-													data-srcset="
-													{{ glide:url width="480" }} 480w,
-													{{ glide:url width="960" }} 960w,
-													{{ glide:url width="1680" }} 1680w,
-													type="{{ url.mime_type }}"
-												>
-												<img
-													class="lazyload swiper__image--pano"
-													src="{{ glide:url width="960" }}"
-													alt="{{ alt ? alt : url.title}}"
-													width="{{ width }}"
-													height="{{ height }}"
-												>
-		
-										{{ /asset }}
-									</picture>
+									{{ partial:utility/picture :image="url" class="swiper__image--pano" alt="{title}" w="{width}" h="{height}" }}
 								</a>
 						</li>
 					{{ /images_img }}

@@ -6,7 +6,7 @@ import PhotoSwipe from 'photoswipe/dist/photoswipe.min.js';
 import 'photoswipe/dist/photoswipe.css';
 import 'photoswipe/dist/default-skin/default-skin.css';
 
-let all_swipers_DOM = new Array();
+window.all_swipers_DOM = new Array();
 let all_swipers = new Array();
 let all_galleries_DOM = new Array();
 let all_galleries = new Array();
@@ -358,11 +358,11 @@ function initAll() {
 function ready() {
 	initAll();
 	
-	// setTimeout(() => {
-	// 	for (let i = 0; i < all_swipers_DOM.length; i++) {
-	// 		all_swipers_DOM[i].swiper.update();
-	// 	}
-	// }, 1200);
+	setTimeout(() => {
+		for (let i = 0; i < all_swipers_DOM.length; i++) {
+			all_swipers_DOM[i].swiper.update();
+		}
+	}, 2000);
 }
 
 if (document.readyState === "complete") {
