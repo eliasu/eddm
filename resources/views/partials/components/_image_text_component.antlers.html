@@ -140,7 +140,7 @@
 							<!-- Slides -->
 							{{ images_img }}
 								<li id="{{index}}" class="swiper-slide swiper__slide--single" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-									<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url preset='3xl' }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
+									<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url width="1680" }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
 										{{ partial:utility/picture :image="url" class="swiper__image--single" alt="{title}" w="{width}" h="{height}" }}
 									</a>
 								</li>
@@ -255,7 +255,7 @@
 							<!-- Slides -->
 							{{ images_img }}
 								<li id="{{index}}" class="swiper-slide swiper__slide--single" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-									<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url preset='3xl' }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
+									<a {{ first ? "id=first" : "" }}  title="click to zoom-in" href="{{ glide:url width="1680" }}" itemprop="contentUrl" data-size="{{width}}x{{height}}">
 										{{ partial:utility/picture :image="url" class="swiper__image--single" alt="{title}" w="{width}" h="{height}" }}
 									</a>
 								</li>
