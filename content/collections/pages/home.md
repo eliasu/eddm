@@ -81,7 +81,7 @@ grid_field:
     underline_txt: 'Offsites & Seminare'
     images_img: teamoffsite_img_2418.jpg
 updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726059389
+updated_at: 1726071263
 big_text_txt:
   -
     type: paragraph
@@ -90,26 +90,6 @@ big_text_txt:
         type: text
         text: 'Auf unserem Hof im Wendland könnt ihr in unserem Gästehaus übernachten, Seminare Workshops und Retreats ausrichten und buchen, Kunst- und Kulturangebote genießen sowie in unserem Kreativ- und InnovationsLab arbeiten und gestalten.'
 components:
-  -
-    id: m0xv5bq3
-    headline_txt: tester
-    component_template: pano_slider
-    images_img:
-      - 2024_malworkshop_sandy.jpeg
-      - 2024_malerei_fur_frauen_sandy.jpeg
-      - 00BF377C-E1B0-4470-B787-88CFAB2A6DC3_1_105_c.jpeg
-      - 2024_malerei_fur_frauen_sandy_2.png
-    background_color: none
-    text_color: black
-    text_bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: dfgh
-    type: image_text_component
-    enabled: true
   -
     id: q3SdSydG
     headline_txt: 'Übernachten und Träumen'
