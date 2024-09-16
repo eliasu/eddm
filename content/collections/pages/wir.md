@@ -61,7 +61,7 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
     type: image_text_component
     enabled: true
   -
@@ -319,7 +319,7 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'In Zusammenarbeit mit unseren Partner*innen entstehen Kooperationen für kreative und nachhaltige Projekte, Workshops, Veranstaltungen sowie Produktinnovationen. Derzeit suchen wir weitere Kooperationspartner*innen und Supporter für die inhaltliche Ausrichtung, sowie den Ausbau und die Einrichtung unseres Labs (Seminarraum, Coworking Area, Yoga Raum).'
@@ -328,8 +328,8 @@ components:
 title: Wir
 hide_specials_modal: false
 template: component_page
-updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1726404823
+updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
+updated_at: 1726514530
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title
@@ -341,4 +341,8 @@ seotamic_open_graph_description: meta
 seotamic_twitter_title: title
 seotamic_twitter_description: meta
 seotamic_custom_meta_description: 'Wir sind derzeit 8 Erwachsene und 5 Kinder, die im Januar 2021 aus Berlin und Hamburg hier ins Wendland gezogen sind.'
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

@@ -16,7 +16,7 @@ title: 'Anfrage Formular'
 email:
   -
     id: lBIod0Qd
-    to: elias2@gmx.at
+    to: hallo@moeglichkeit.org
     reply_to: '{{form_email}}'
     subject: 'Buchungsanfrage von {{form_name}} | Zeitraum: {{zeitraum}} | Personen: {{personenanzahl}} | {{ angebot | ampersand_list }}'
     from: 'Ein Ding der Moeglichkeit <noreply@eindingdermoeglichkeit.com>'
