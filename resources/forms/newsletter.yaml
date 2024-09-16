@@ -1,1 +1,15 @@
+mailchimp:
+  enabled: true
+  settings:
+    primary_email_field: form_email
+    interests_field: null
+    audience_id: 51986030d5
+    tag: null
+    tag_field: null
+    disable_opt_in: false
+    check_consent: true
+    consent_field: consent
+    marketing_permissions_field: null
+    marketing_permissions_field_ids: {  }
+    merge_fields: {  }
 title: 'Newsletter Formular'

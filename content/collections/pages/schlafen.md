@@ -62,27 +62,27 @@ components:
             type: text
             text: "8 DZ\_mit Bad"
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: '1 DZ (teilt sich Bad auf dem Flur mit EZ)'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: '1 EZ (teilt sich Bad auf dem Flur mit DZ)'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: '1 Apartment (2 Doppelbetten, Pantry)'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: '1 Apartment (2 Doppelbetten, Pantry)'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: '1 Apartment (1 Doppelbett, Pantry)'
@@ -153,7 +153,7 @@ components:
             type: text
             text: 'Draußen ist geiler als drinnen. Sollte die Träumerei ausgebucht, oder euch ein Platz im Freien lieber sein, könnt ihr auf unserem Zeltfeld euer Camp aufschlagen.'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 'Ein paar Bulli Stellplätze gibts auch!'
@@ -223,7 +223,7 @@ components:
             type: text
             text: 7€/Person
           -
-            type: hardBreak
+            type: hard_break
       -
         type: paragraph
       -
@@ -239,7 +239,7 @@ components:
             type: text
             text: 15€/Person
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: '7,5€/Kinder (3-12 Jahre)'
@@ -341,7 +341,7 @@ components:
                 type: underline
             text: 'Ab wann ist Check In?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 15h
@@ -355,7 +355,7 @@ components:
                 type: underline
             text: 'Bis wann ist Check Out?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 11h
@@ -369,7 +369,7 @@ components:
                 type: underline
             text: 'Kann ich auch nur für eine Nacht buchen?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 'In der Woche ja. Der Mindestaufenthalt am Wochenende sind zwei Übernachtungen.'
@@ -383,7 +383,7 @@ components:
                 type: underline
             text: 'Darf ich meinen Hund mitbringen?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 'Ja, es gibt ein Zimmer (103) und ein Apartment (102) in denen euch Hunde begleiten dürfen. '
@@ -397,7 +397,7 @@ components:
                 type: underline
             text: 'Muss ich Handtücher und Bettwäsche mitbringen?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 'Betten sind bezogen und Handtücher gibt es auch. Im Sinne der Nachhaltigkeit ist es natürlich toll, wenn du dein eigenes Handtuch mitbringst und nutzt.'
@@ -411,7 +411,7 @@ components:
                 type: underline
             text: 'Wie verpflege ich mich bei euch selbst?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: "Es gibt fußläufig einen kleinen Bioladen.\_"
@@ -439,7 +439,7 @@ components:
         type: paragraph
         content:
           -
-            type: hardBreak
+            type: hard_break
             marks:
               -
                 type: underline
@@ -450,7 +450,7 @@ components:
                 type: underline
             text: 'Ab wann entstehen Kosten, wenn ich absage?'
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 'Unsere Stornierungsregelungen findet ihr unter Punkt 4 in unseren '
@@ -469,7 +469,7 @@ components:
             type: text
             text: .
           -
-            type: hardBreak
+            type: hard_break
           -
             type: text
             text: 'Wenn ihr auf Nummer sicher gehen wollt schliesst ihr eine '
@@ -497,8 +497,8 @@ components:
 title: Schlafen
 hide_specials_modal: false
 template: component_page
-updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726051737
+updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
+updated_at: 1720629074
 disable_header: false
 text:
   -
@@ -518,8 +518,4 @@ seotamic_twitter_title: title
 seotamic_twitter_description: meta
 images_img: Traeumerei_MG_6026_01.jpg
 seotamic_custom_meta_description: 'Unser Hof bietet verschiedene Unterkünfte mit gemütlicher Atmosphäre. Wir laden Euch zum zeitlosen Verweilen ein - egal ob ein Wochenende oder gleich einen ganzen Monat.'
-parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
-alt_seo_noindex: false
-alt_seo_nofollow: false
-exclude_from_sitemap: false
 ---

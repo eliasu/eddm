@@ -7,13 +7,13 @@ components:
     headline_txt: 'Das Wir'
     component_template: pano_slider
     images_img:
-      - Wir_Peter.png
-      - Wir_Eva_Portrait.jpg
-      - wir_kim_24_klp_dsc_4345_(c)mel-bollag.jpg
-      - Wir_Annika_Garten.png
       - Wir_niels.jpg
       - Wir_Julia_03.jpg
+      - Wir_Eva_Portrait.jpg
       - wir_peggy.jpeg
+      - Wir_Peter.png
+      - Wir_Annika_Garten.png
+      - wir_kim_24_klp_dsc_4345_(c)mel-bollag.jpg
     background_color: none
     text_color: black
     text_bard:
@@ -51,14 +51,6 @@ components:
     background_color: none
     text_color: black
     text_bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '"Wir bauen einen Prototyp von der Welt in der wir leben wollen."'
-      -
-        type: paragraph
       -
         type: paragraph
         content:
@@ -337,7 +329,7 @@ title: Wir
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1721253387
+updated_at: 1726404823
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title

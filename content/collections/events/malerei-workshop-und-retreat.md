@@ -1,7 +1,7 @@
 ---
 id: df5cf7b5-04a8-4c45-82b3-2d31ba4b4ecd
 blueprint: events
-title: 'Malerei - Workshop & Retreat'
+title: 'Malerei - Workshop & Retreat für Frauen'
 date_type: 'date range'
 date_range:
   start: '2024-10-04'
@@ -12,7 +12,7 @@ text_bard:
     content:
       -
         type: text
-        text: 'Für Frauen'
+        text: '2,5 Tage Malworkshop mit Acrylfarben, Staffelei und Leinwand'
 components:
   -
     id: lxwztv12
@@ -21,6 +21,7 @@ components:
     images_img:
       - 2024_malerei_fur_frauen_sandy.jpeg
       - 2024_malworkshop_sandy.jpeg
+      - 2024_malerei_sandy.jpeg
     background_color: none
     text_color: black
     text_bard:
@@ -29,13 +30,7 @@ components:
         content:
           -
             type: text
-            text: '- 2,5 Tage Malworkshop mit Acrylfarben, Staffelei und Leinwand'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '- Frauenkreis und zeremoniellen Kakao trinken'
+            text: '- Frauenkreis und zeremonielles Kakaotrinken'
       -
         type: paragraph
         content:
@@ -77,7 +72,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: 2024_malerei_fur_frauen_sandy_2.png
+images_img: 2024_malerei_sandy-1722958711.jpeg
 tags:
   - workshop
 seotamic_title: title
@@ -89,5 +84,5 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1721219891
+updated_at: 1726092272
 ---

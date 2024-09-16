@@ -1,0 +1,14 @@
+form_name: 'Daniel Marquardt'
+Straße_Nr: 'Mühlenstrasse, 24'
+plz_stadt: Bielefeld
+form_email: daniel.ma81@web.de
+telefonnummer: '01732596548'
+angebote:
+  - null
+  - übernachten
+  - essen
+zeitraum: 11.-12.10.2024
+personenanzahl: '2'
+deine_nachricht: "Hallo ihr Lieben,\r\n\r\nwir sind an oben genanntem Datum auf der Durchreise und wären interessiert eine Nacht bei euch zu verbringen (DZ + eigenes Bad + Frühstück).\r\nWir würden uns über eine kurze Rückmeldung freuen!\r\nLiebe Grüsse, Carolin & Daniel"
+newsletter:
+  - null

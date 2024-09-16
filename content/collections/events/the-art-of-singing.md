@@ -49,7 +49,7 @@ components:
           values:
             type: button
             link_name_txt: 'Instagram Käthe'
-            url: 'https://www.instagram.com/kaethekunst/'
+            url: 'https://www.instagram.com/kaetheskunst/'
             target_blank: true
             link_type: url
       -
@@ -83,5 +83,5 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1714759456
+updated_at: 1725975904
 ---

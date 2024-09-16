@@ -10,9 +10,8 @@ preferences:
         - form_name
         - telefonnummer
         - zeitraum
-        - angebote
         - form_email
-        - newsletter_consent
+        - personenanzahl
     newsletter:
       columns:
         - datestamp

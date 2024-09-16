@@ -61,15 +61,15 @@ grid_field:
     images_img: Unterkunft_Intro_IMG_6172.jpg
     underline_txt: 'Gemeinschaftlich zuhause fühlen ab 75€/Nacht'
   -
-    id: llMEVlDy
-    link_link: 'entry::fcf1a172-32e8-4a69-864d-27910cde6d7b'
-    images_img: tlf24__home_teaser_visual_square.jpg
-    underline_txt: 'Tiny Living Festival, 23.-25.08.24'
-  -
     id: Mz1jAEpY
     link_link: 'entry::e8deda61-a12f-426e-afa5-431092b51832'
     images_img: workshop_teaser_dsc05236_s.jpg
     underline_txt: 'Workshops & Beratung'
+  -
+    id: llMEVlDy
+    link_link: 'entry::d3c4da88-d57c-4c2a-a724-2c490f7309cc'
+    images_img: eddm_spaces_seminarraum_100_23_yoga_1.jpg
+    underline_txt: 'Yoga Spaces'
   -
     id: 5VhG7igc
     link_link: 'entry::2f1c364d-59df-4c82-8e25-0381462b2ac0'
@@ -80,8 +80,8 @@ grid_field:
     link_link: 'entry::a777de19-6a91-47cd-8764-70c2c7360bbe'
     underline_txt: 'Offsites & Seminare'
     images_img: teamoffsite_img_2418.jpg
-updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726071263
+updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
+updated_at: 1726038811
 big_text_txt:
   -
     type: paragraph
@@ -260,8 +260,5 @@ seotamic_open_graph_title: general
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
-alt_seo_noindex: false
-alt_seo_nofollow: false
-exclude_from_sitemap: false
 images_img: 231016_eddm_hero_rundling.jpg
 ---

@@ -179,7 +179,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: retreat-yoga-wendland-ohohom-lauretta-eindingdermoeglichkeit.jpg
+images_img: retreat-yoga-wendland-ohohom-lauretta-eindingdermoeglichkeit.jpg.jpg
 tags:
   - seminar
 seotamic_title: title

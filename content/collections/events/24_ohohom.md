@@ -54,10 +54,10 @@ components:
               -
                 type: link
                 attrs:
-                  href: 'https://www.instagram.com/laura.reimers__/?hl=de'
+                  href: 'https://laurettacreations.com/retreatswendland'
                   rel: null
                   target: _blank
-                  title: null
+                  title: 'Lauretta Creations'
               -
                 type: underline
             text: 'Lauretta Events'
@@ -164,7 +164,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: retreat-yoga-wendland-ohohom-lauretta-eindingdermoeglichkeit.jpg
+images_img: retreat-yoga-wendland-ohohom-lauretta-eindingdermoeglichkeit.jpg.jpg
 tags:
   - seminar
   - workshop
@@ -177,6 +177,6 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1706266253
+updated_at: 1725975834
 duplicated_from: 62960a2a-0d04-4c4f-ad9d-0b4cfa259798
 ---
