@@ -84,7 +84,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726678038
+updated_at: 1726680865
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false

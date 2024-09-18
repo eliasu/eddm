@@ -40,7 +40,7 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
     type: image_text_component
     enabled: true
   -
@@ -87,5 +87,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1676306334
+updated_at: 1726681082
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

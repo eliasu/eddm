@@ -1,2 +1,16 @@
 favorites: {  }
 locale: en
+nav:
+  content:
+    reorder: true
+    items:
+      'content::seiten':
+        action: '@create'
+        display: Seiten
+        url: collections/pages
+        icon: book-pages
+      'content::events':
+        action: '@create'
+        display: Events
+        url: collections/events
+        icon: calendar

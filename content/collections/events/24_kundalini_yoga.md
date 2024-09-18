@@ -47,7 +47,7 @@ text_bard:
         type: text
         text: Workshop
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Im LAB, 1.OG, Weitblick / Freiraum'
@@ -74,7 +74,7 @@ components:
             type: text
             text: 'Bitte anmelden:'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "0176 / 213 67 688\_"
@@ -85,7 +85,7 @@ components:
           values:
             type: link
             link_name_txt: E-Mail
-            email: "meyer_annegret@icloud.com\_"
+            email: meyer_annegret@icloud.com
             target_blank: true
             link_type: email
       -
@@ -105,6 +105,9 @@ seotamic_open_graph_title: title
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
-updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1725975515
+updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
+updated_at: 1726681457
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---
