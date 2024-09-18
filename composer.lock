@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7d59e52f70b640dd50a1ec205e9a349c",
+    "content-hash": "1cc1d68a966d77f7e3d90659fbba0bfc",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -160,6 +160,73 @@
                 "source": "https://github.com/alt-design/Alt-Sitemap-Addon/tree/v1.2.2"
             },
             "time": "2024-09-10T14:31:57+00:00"
+        },
+        {
+            "name": "aryehraber/statamic-logbook",
+            "version": "v3.3.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aryehraber/statamic-logbook.git",
+                "reference": "ebf78cb19dffdcf24b0dca864b8189e8a0647a6d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aryehraber/statamic-logbook/zipball/ebf78cb19dffdcf24b0dca864b8189e8a0647a6d",
+                "reference": "ebf78cb19dffdcf24b0dca864b8189e8a0647a6d",
+                "shasum": ""
+            },
+            "require": {
+                "rap2hpoutre/laravel-log-viewer": "^2.3.0",
+                "statamic/cms": "^4.0 || ^5.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Logbook",
+                    "description": "Manage and view log files in the CP.",
+                    "version": "3.2.0"
+                },
+                "laravel": {
+                    "providers": [
+                        "AryehRaber\\Logbook\\LogbookServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "AryehRaber\\Logbook\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Aryeh Raber",
+                    "email": "aryeh.raber@gmail.com",
+                    "homepage": "https://aryeh.dev",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Manage and view log files in the CP.",
+            "homepage": "https://github.com/aryehraber/statamic-logbook",
+            "keywords": [
+                "logbook",
+                "logs",
+                "statamic"
+            ],
+            "support": {
+                "issues": "https://github.com/aryehraber/statamic-logbook/issues",
+                "source": "https://github.com/aryehraber/statamic-logbook/tree/v3.3.0"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/aryehraber",
+                    "type": "github"
+                }
+            ],
+            "time": "2024-05-07T06:59:41+00:00"
         },
         {
             "name": "brick/math",
@@ -3940,6 +4007,69 @@
                 }
             ],
             "time": "2024-04-27T21:32:50+00:00"
+        },
+        {
+            "name": "rap2hpoutre/laravel-log-viewer",
+            "version": "v2.4.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/rap2hpoutre/laravel-log-viewer.git",
+                "reference": "49c52ae197b3d4f7f9e43d328628edc4bc529afa"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/rap2hpoutre/laravel-log-viewer/zipball/49c52ae197b3d4f7f9e43d328628edc4bc529afa",
+                "reference": "49c52ae197b3d4f7f9e43d328628edc4bc529afa",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0",
+                "php": "^7.2|^8.0"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^4.0|^5.0|^6.0|^7.0|^8.0|^9.0",
+                "phpunit/phpunit": "^7||^8.4|^9.3.3|^10.1"
+            },
+            "type": "laravel-package",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Rap2hpoutre\\LaravelLogViewer\\LaravelLogViewerServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-0": {
+                    "Rap2hpoutre\\LaravelLogViewer\\": "src/"
+                },
+                "classmap": [
+                    "src/controllers"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "rap2hpoutre",
+                    "email": "raphaelht@gmail.com"
+                }
+            ],
+            "description": "A Laravel log reader",
+            "keywords": [
+                "laravel",
+                "log",
+                "log-reader",
+                "log-viewer",
+                "logging",
+                "lumen"
+            ],
+            "support": {
+                "issues": "https://github.com/rap2hpoutre/laravel-log-viewer/issues",
+                "source": "https://github.com/rap2hpoutre/laravel-log-viewer/tree/v2.4.0"
+            },
+            "time": "2024-03-20T08:49:53+00:00"
         },
         {
             "name": "rebing/graphql-laravel",
