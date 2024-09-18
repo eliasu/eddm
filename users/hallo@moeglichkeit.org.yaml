@@ -2,7 +2,7 @@ name: 'Ein Ding Der Möglichkeit'
 roles:
   - editor_role
 id: c5c3cda0-a87c-4527-b49b-ef338041cae9
-password_hash: $2y$10$W1J/wNN.czlK.ZkoXawvDOHC1p3NugcQAAEc7Y58cUbR2VrnCKeBS
+password_hash: $2y$12$G3LNHizKVeNxO8dNGOxR4.BiXIokPvD3IDegEELfatA/tH5nEdKh2
 preferences:
   collections:
     pages:
@@ -39,5 +39,5 @@ preferences:
   assets:
     assets:
       per_page: 500
-  locale: de
+  locale: en
   favorites: {  }

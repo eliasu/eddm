@@ -1,0 +1,12 @@
+form_name: 'Timo Altmann'
+Straße_Nr: 'Stolkgasse 25-45'
+plz_stadt: '50667 Köln'
+form_email: timo.altmann@accenture.com
+telefonnummer: '0153525110203'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: '17.10 bis 18.10'
+personenanzahl: '10'
+deine_nachricht: "Guten Tag,\r\n\r\nbei meiner Suche nach einem geeigneten Tagungsraum bin ich auf Ihre Webseite gestoßen. Für den 17.10. und 18.10.2024 benötige ich einen Tagungsraum für 10 Personen (inkl. Flipcharts, Moderationsmaterialien und weiteren notwendigen Utensilien). Zudem hätten wir Bedarf an einer Unterkunft für 10 Personen in Ihrem Hotel vom 17.10. bis 18.10.2024 (eine Nacht).\r\n\r\nSollte ein Tagungsraum sowie eine Unterkunft für 10 Personen verfügbar sein, können Sie mir gerne ein Angebot zusenden. Vielen Dank!\r\n\r\nIch freue mich auf Ihre Rückmeldung. \r\n \r\n \r\nLiebe Grüße aus Köln\r\nTimo Altmann"
+newsletter_consent: false

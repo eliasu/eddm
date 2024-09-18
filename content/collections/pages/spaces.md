@@ -20,7 +20,7 @@ text_bard:
         link_name_txt: 'Übersicht (pdf)'
         target_blank: true
         link_type: asset
-        asset: pdfs/240421_eddm_spaces_overview.pdf
+        asset: pdfs/240918_eddm_spaces_overview.pdf
   -
     type: paragraph
 components:
@@ -52,12 +52,12 @@ components:
             type: text
             text: '> Eichenparkett mit Fußbodenheizung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> 10 Yogamatten und Decken (auf Anfrage)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> Soundboks (auf Anfrage)'
@@ -66,7 +66,7 @@ components:
         content:
           -
             type: text
-            text: 150€/Tag
+            text: 200€/Tag
       -
         type: paragraph
       -
@@ -80,43 +80,48 @@ components:
         content:
           -
             type: text
-            text: '> Stühle und Tische nach Bedarf'
+            text: 'Auf Anfrage, je nach Bedarf:'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> WLAN'
+            text: '> Stühle und Tische'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> Beamer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> Soundboks (auf Anfrage)'
+            text: '> Soundboks'
           -
-            type: hard_break
-          -
-            type: text
-            text: '> Metawalls (auf Anfrage)'
-          -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> Flipchart (auf Anfrage)'
+            text: '> Metawalls'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> Moderationskoffer (auf Anfrage)'
+            text: '> Flipchart'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Moderationskoffer'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> WLAN'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 250€/Tag
+            text: 300€/Tag
     type: image_text_component
     enabled: true
   -
@@ -138,43 +143,49 @@ components:
         content:
           -
             type: text
-            text: '> Stühle und Tische nach Bedarf'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '> WLAN'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '> Beamer'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '> Soundboks (auf Anfrage)'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '> Metawalls (auf Anfrage)'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '> Flipchart (auf Anfrage)'
-          -
-            type: hard_break
-          -
-            type: text
-            text: '> Moderationskoffer (auf Anfrage)'
+            text: 'Auf Anfrage, je nach Bedarf:'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 150€/Tag
+            text: '> Stühle und Tische'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Beamer'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Soundboks'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Metawalls'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Flipchart'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Moderationskoffer'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> WLAN'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 200€/Tag
     type: image_text_component
     enabled: true
   -
@@ -194,48 +205,48 @@ components:
         content:
           -
             type: text
-            text: '> Stühle und Tische nach Bedarf'
+            text: 'Auf Anfrage, je nach Bedarf:'
           -
-            type: hard_break
-          -
-            type: text
-            text: '> Bis 100 Personen bestuhlbar'
-          -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> WLAN'
+            text: '> Stühle und Tische (Bis 100 Personen bestuhlbar)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> Beamer'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> Soundboks (auf Anfrage)'
+            text: '> Soundboks'
           -
-            type: hard_break
-          -
-            type: text
-            text: '> Metawalls (auf Anfrage)'
-          -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> Flipchart (auf Anfrage)'
+            text: '> Metawalls'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: '> Moderationskoffer (auf Anfrage)'
+            text: '> Flipchart'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Moderationskoffer'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> WLAN'
       -
         type: paragraph
         content:
           -
             type: text
-            text: 300€/Tag
+            text: 350€/Tag
       -
         type: paragraph
       -
@@ -251,12 +262,12 @@ components:
             type: text
             text: '> Eichenparkett mit Fußbodenheizung'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> 10 Yogamatten und Decken (auf Anfrage)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> Soundboks (auf Anfrage)'
@@ -265,7 +276,7 @@ components:
         content:
           -
             type: text
-            text: 200€/Tag
+            text: 300€/Tag
     type: image_text_component
     enabled: true
   -
@@ -297,12 +308,12 @@ components:
             type: text
             text: '> 10x4,5m Bühne'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> 6,5x3,5m Kino Leinwand'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '> Stühle und Tische nach Bedarf'
@@ -340,5 +351,9 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1713693880
+updated_at: 1726676954
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

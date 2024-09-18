@@ -19,7 +19,6 @@ text_bard:
         link_type_url: asd
         target_blank: true
         link_type: asset
-        asset: pdfs/240710_eddm_preise_unterkuenfte.pdf
 components:
   -
     id: M5Djezlm
@@ -107,7 +106,6 @@ components:
             link_name_txt: 'Preisliste zum Download'
             target_blank: true
             link_type: asset
-            asset: pdfs/240710_eddm_preise_unterkuenfte.pdf
     type: image_text_component
     enabled: true
   -

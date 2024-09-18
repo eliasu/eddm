@@ -59,7 +59,7 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Anmeldung unter Sandy Auerbach'
@@ -83,6 +83,9 @@ seotamic_open_graph_title: title
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
-updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1726092272
+updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
+updated_at: 1726678038
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

@@ -12,6 +12,7 @@ preferences:
         - zeitraum
         - form_email
         - personenanzahl
+        - newsletter_consent
     newsletter:
       columns:
         - datestamp
@@ -28,3 +29,4 @@ preferences:
         - text_bard
         - slug
   favorites: {  }
+  locale: en

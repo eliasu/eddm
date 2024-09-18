@@ -1,0 +1,12 @@
+form_name: 'Cathérine Hermes'
+Straße_Nr: 'Reichenbergstraße 13'
+plz_stadt: '38114 Braunschweig'
+form_email: kontakt@cathyhermes.de
+telefonnummer: '01773367455'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 02.10.-05.10.
+personenanzahl: '2'
+deine_nachricht: "Hej zusammen, hättet ihr in dem o.g. Zeitraum noch etwas frei für 2-3 Nächte (2 Personen mit Hund)? \r\nHerzliche Grüße"
+newsletter_consent: false
