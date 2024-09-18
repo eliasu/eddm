@@ -12,6 +12,7 @@
         "php": "^8.2",
         "alt-design/alt-seo": "^1.2",
         "alt-design/alt-sitemap": "^1.2",
+        "aryehraber/statamic-logbook": "^3.3",
         "laravel/framework": "^11",
         "laravel/tinker": "^2.9",
         "spatie/statamic-responsive-images": "^5.0",
