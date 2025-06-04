@@ -1,0 +1,11 @@
+form_name: 'Katharina Schepker'
+Straße_Nr: 'Oeltzenstraße 18'
+plz_stadt: '30169 Hannover'
+form_email: k.schepker@web.de
+telefonnummer: '017670282540'
+angebote:
+  - übernachten
+zeitraum: 29.5-1.6.25
+personenanzahl: '4'
+deine_nachricht: "Hi ihr, \r\nwir würden gerne über das Himmelfahrtswochenende. Wir würden mit einem T4-Bulli und ein Zelt kommen wollen. \r\nHättet ihr noch Platz für uns? \r\nViele Grüße \r\nKatharina"
+newsletter_consent: false

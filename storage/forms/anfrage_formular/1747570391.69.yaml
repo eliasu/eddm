@@ -1,0 +1,11 @@
+form_name: 'Alicia Krause'
+Straße_Nr: 'Waterloostraße 7'
+plz_stadt: '38106'
+form_email: alicia.krause@gmx.de
+telefonnummer: '015788537432'
+angebote:
+  - übernachten
+zeitraum: 29.05-01.06.25
+personenanzahl: '2'
+deine_nachricht: "Guten Tag,\r\nwir sind Alicia und Patricia und würde gerne auf eurem schönen Hof während der KLP in unserem eigenen Zelt auf der Wiese nächtigen. Habt ihr noch einen kleines, feines Zeltplätzchen für uns frei? Wir würden uns sehr freuen! (:\r\nLiebe Grüße\r\nAlicia und Patricia"
+newsletter_consent: false

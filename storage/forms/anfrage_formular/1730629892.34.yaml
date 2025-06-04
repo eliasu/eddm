@@ -1,0 +1,10 @@
+form_name: 'Sabine Alvarez'
+Straße_Nr: 'Im Kolke 20c'
+plz_stadt: '37083 Göttingen'
+form_email: sabine.a@vivaldi.net
+angebote:
+  - übernachten
+zeitraum: '29.11 bis 1.12.'
+personenanzahl: '1'
+deine_nachricht: "Gibt es für diesen Zeitraum noch günstige Zimmer? Also für 50€, oder was würde die Übernachtung kosten?\r\nLiebe Grüße Sabine"
+newsletter_consent: false

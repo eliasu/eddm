@@ -1,0 +1,11 @@
+form_name: 'Lena Fischer'
+Straße_Nr: 'Helsingforser Straße 25'
+plz_stadt: Berlin
+form_email: fischer.lena@yahoo.de
+telefonnummer: '017632485421'
+angebote:
+  - übernachten
+zeitraum: '29.05. bis 01.06.'
+personenanzahl: '4 (2 Erw., 2 Kinder)'
+deine_nachricht: 'Liebes Team, ich, meine Freundin und unsere beiden Kinder (3 und 7) suchen noch nach Schlafplätzen für die KLP. Da das Zeltfeld schon ausgebucht ist, wollte ich fragen, ob ihr noch Zimmer/Appartments für das Himmelfahrtswochenende frei habt? Danke im Voraus für eure Rückmeldung und liebe Grüße, Lena'
+newsletter_consent: false

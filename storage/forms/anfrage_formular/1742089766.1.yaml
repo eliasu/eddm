@@ -1,0 +1,13 @@
+form_name: 'Gesims von Bogen'
+Straße_Nr: 'Lang‘t Dörp'
+plz_stadt: '24247'
+form_email: gesima.v.bogen@web.de
+telefonnummer: '01725139729'
+angebote:
+  - übernachten
+  - essen
+  - 'Workshop buchen'
+zeitraum: '24.04 bis 27.04.'
+personenanzahl: '1'
+deine_nachricht: "Ich möchte an dem Workshop Grenzerfahrung teilnehmen.\r\nDa ich im fortgeschrittenen Stadium an COPD erkrankt bin (38%Lungenvolumen) fällt es mir schwerer als anderen Treppen zu steigen. Auch beim Gehen bin ich sehr langsam und muss oft Pausen machen. Ist der Workshop trotzdem geeignet für mich?"
+newsletter_consent: false

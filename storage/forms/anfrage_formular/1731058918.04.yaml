@@ -1,0 +1,11 @@
+form_name: 'Stefan Waidmann'
+Straße_Nr: 'St.-Leonhards-Garten 4'
+plz_stadt: '38102 Braunschweig'
+form_email: sw@waidmannpost.de
+telefonnummer: '01703212369'
+angebote:
+  - übernachten
+zeitraum: '8. bis 10.11.24'
+personenanzahl: '2'
+deine_nachricht: Danke!
+newsletter_consent: true

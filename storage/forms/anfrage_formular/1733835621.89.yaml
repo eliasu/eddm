@@ -1,0 +1,11 @@
+form_name: 'Reto Gericke'
+Straße_Nr: 'Björnsonweg 70A'
+plz_stadt: Hamburg
+form_email: reto.gericke@gmail.com
+telefonnummer: '015256195619'
+angebote:
+  - übernachten
+zeitraum: '06.06. - 08.06'
+personenanzahl: '4'
+deine_nachricht: "Hallo Kim, hallo Julia,\r\n\r\nwir würden gerne wieder bei euch übernachten, am liebsten in zwei Zimmern :)\r\n\r\nLiebe Grüße\r\nReto"
+newsletter_consent: false

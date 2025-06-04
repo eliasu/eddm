@@ -1,0 +1,11 @@
+form_name: 'Lukas Dally'
+Straße_Nr: 'Olgastraße 6'
+plz_stadt: '34119'
+form_email: lukasdally@gmail.com
+telefonnummer: '01752652678'
+angebote:
+  - übernachten
+zeitraum: 26.09-28.09
+personenanzahl: '2'
+deine_nachricht: "Guten Morgen, \r\n\r\nwir sind auf dem Hof zur Hochzeit von Adriaan van der Werf eingeladen und falls noch ein Doppelzimmer verfügbar ist, würde ich dieses sehr gerne buchen :) \r\n\r\nViele Grüße \r\n\r\nLukas Dally"
+newsletter_consent: false

@@ -1,0 +1,12 @@
+form_name: 'Marvin Knuth'
+Straße_Nr: 'Eschersheimer Landstraße 572c'
+plz_stadt: '60433 Frankfurt'
+form_email: marvin-knuth@web.de
+telefonnummer: '017657760951'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: '13.6.25 - 15.6.25'
+personenanzahl: ~30
+deine_nachricht: "Hallo liebes Team, \r\n\r\nwir feiern am 14.6.25 standesamtliche Hochzeit in Hitzacker und sind auf der Suche nach einer passenden Location für den Nachmittag/Abend bzw. auch für Unterkünfte für unsere Gäste (ca. 20) von Freitag bis Sonntag. Euer traumhafter Hof ist uns dabei direkt aufgefallen und es wäre super, wenn wir unsere Hochzeit bei euch feiern könnten.\r\n\r\nIm Kalender habe ich gesehen, dass der Zeitraum nicht mehr frei ist. Da der Kalender aber wohl nicht mehr aktuell ist (Stand Ende November), wollte ich fragen, ob sich die Belegung geändert hat und wir vielleicht doch noch zusammenkommen können - es würde uns riesig freuen.\r\n\r\nDanke für ein Feedback und liebe Grüße aus Frankfurt\r\nMarvin Knuth"
+newsletter_consent: false

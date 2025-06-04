@@ -1,0 +1,11 @@
+form_name: 'Pamela Langer'
+Straße_Nr: 'Dorfstraße 5a'
+plz_stadt: Laase
+form_email: Pamela.langer8@gmail.com
+telefonnummer: '01702816806'
+angebote:
+  - 'Workshop buchen'
+zeitraum: 30.05.2025
+personenanzahl: '2'
+deine_nachricht: "Hallihallo, \r\n\r\nIch würde gerne mit einer Freundin am Aquarell-Workshop am 30. Mai teilnehmen und wollte fragen, ob noch 2 Plätze frei sind.\r\n\r\nLiebe Grüße, \r\nPäm"
+newsletter_consent: false

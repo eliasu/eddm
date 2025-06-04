@@ -1,0 +1,11 @@
+form_name: 'Volker Pannes'
+Straße_Nr: 'Schönholzer Str. 10'
+plz_stadt: '10115 Berlin'
+form_email: volker@shakeup.de
+telefonnummer: '01795376424'
+angebote:
+  - übernachten
+zeitraum: '27.12.24 - 03.01.25'
+personenanzahl: '2 + Hündin'
+deine_nachricht: "Hallo,\r\nwir haben die Info über euren schönen Space von Markus Ort, und wir sind auf der Suche nach einem ruhigen und entspannten Zufluchtsort über Silvester mit unserer Hündin. Daher wollten wir fragen, ob ihr in diesem Zeitraum vermietet und ein Apartment mit einem Schlafzimmer und Küche zur Verfügung steht?\r\nLiebe Grüße,\r\nVolker + Franziska"
+newsletter_consent: false

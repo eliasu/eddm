@@ -175,5 +175,13 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1707925346
+updated_at: 1736092181
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_meta_title: 'Workshops für Kreativität und Innovation: Nachhaltiges Unternehmertum & Teambuilding'
+alt_seo_meta_description: 'Changemaker und Visionäre gestalten eine bessere Zukunft durch Workshops und Beratung zu nachhaltigem Unternehmertum, co-kreativem Gestalten und Teambuilding.'
+alt_seo_noindex: false
+alt_seo_nofollow: false
+alt_seo_social_title: 'Workshops für Kreativität und Innovation: Nachhaltiges Unternehmertum & Teambuilding'
+alt_seo_social_description: 'Changemaker und Visionäre gestalten eine bessere Zukunft durch Workshops und Beratung zu nachhaltigem Unternehmertum, co-kreativem Gestalten und Teambuilding.'
+exclude_from_sitemap: false
 ---

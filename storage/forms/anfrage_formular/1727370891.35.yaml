@@ -1,0 +1,13 @@
+form_name: 'Frederik Bellermann'
+Straße_Nr: 'Fürstengartenstr. 4'
+plz_stadt: '32756 Detmold'
+form_email: frederik.bellermann@me.com
+telefonnummer: '017661093312'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 13.-15.06.2025
+personenanzahl: 'ca. 100'
+deine_nachricht: "Hallo zusammen,\r\nmeine Frau und ich haben mit unseren Freunden 2015 über ein ganzes Wochenende Geburtstag und Hochzeit gefeiert und möchten das gerne zum 10-jährigen Jubiläum wiederholen. \r\nKönnt ihr uns dafür ein Angebot über das Wochenende inkl. Übernachtung und Verpflegung machen?\r\nDas wäre wunderbar!\r\nMit besten Grüßen\r\nFrederik und Lena Bellermann"
+newsletter_consent: false

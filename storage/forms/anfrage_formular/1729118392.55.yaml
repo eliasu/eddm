@@ -1,0 +1,11 @@
+form_name: 'Ina Kabon'
+Straße_Nr: 'Bahnhofstraße, 31'
+plz_stadt: 'Kochel a. See'
+form_email: info@kabone.de
+telefonnummer: '01716987900'
+angebote:
+  - übernachten
+zeitraum: 28.11.-1.12.2024
+personenanzahl: '1'
+deine_nachricht: "Ich möchte gern am Seminar von Robert Weber teilnehmen. Haben Sie noch Übernachtungsmöglichkeiten frei? Welche Varianten sind evtl. möglich?\r\nViele Grüße\r\nIna Kabon"
+newsletter_consent: false

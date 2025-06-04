@@ -1,0 +1,11 @@
+form_name: 'Annika Puhst'
+Straße_Nr: 'Kestnerstraße 13'
+plz_stadt: '30159 Hannover'
+form_email: annika.puhst@gmx.de
+telefonnummer: '017645734860'
+angebote:
+  - 'Spaces mieten'
+zeitraum: 'Wochenende Spätsommer'
+personenanzahl: '70'
+deine_nachricht: "Hallo liebes Team von Ein Ding der Möglichkeit, \r\nwir suchen aktuell noch nach einer Location für unsere Hochzeitsfeier an einem Wochenende im Spätsommer. Gibt es noch freie Wochenenden in der Kulturscheune? Falls ja, wären wir an weiteren Details / Informationen interessiert. \r\nLiebe Grüße\r\nAnnika"
+newsletter_consent: false

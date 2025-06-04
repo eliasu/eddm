@@ -1,0 +1,13 @@
+form_name: 'Ingmar Stupp'
+Straße_Nr: 'Linienstrasse 222'
+plz_stadt: '10119 Berlin'
+form_email: ingmar@tilta.io
+telefonnummer: ingmar@tilta.io
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 04.11.-6.11.
+personenanzahl: '13'
+deine_nachricht: 'Hi, ich bin Ingmar von Tilta, einem Startup aus Berlin. Wir suchen spontan nach einer Location für ein Team-Offsite vom 4.11.-6.11. Neben einem Raum zum Workshoppen benötigen wir 13 Zimmer in Einzelbelegung. Habt ihr da zufällig noch Verfügbarkeit? Ganz liebe Grüße, Ingmar'
+newsletter_consent: false

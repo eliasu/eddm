@@ -1,0 +1,11 @@
+form_name: 'Willi Weinstock'
+Straße_Nr: 'Zur Stockwiese 27'
+plz_stadt: '51570'
+form_email: skede@web.de
+telefonnummer: '01636385184'
+angebote:
+  - übernachten
+zeitraum: '8 bis 10.1 2025'
+personenanzahl: '2'
+deine_nachricht: 'Habt ihr da was frei.'
+newsletter_consent: false

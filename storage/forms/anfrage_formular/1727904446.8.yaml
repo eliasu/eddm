@@ -1,0 +1,12 @@
+form_name: 'Frances Passfeld'
+Straße_Nr: 'Fischmarkt 2a'
+plz_stadt: '22767 Hamburg'
+form_email: francespassfeld@gmail.com
+telefonnummer: '015730334764'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 3.10.24-5.10.24
+personenanzahl: '2'
+deine_nachricht: "Hey, ich würde gerne spontan 2 Nächte bei Euch unterkommen. Hättet Ihr noch ein Zimmer für 2 Personen zur Verfügung?\r\n\r\nLiebe Grüße, Frances"
+newsletter_consent: false

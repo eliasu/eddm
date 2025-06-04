@@ -1,0 +1,11 @@
+form_name: 'Anna Richter'
+Straße_Nr: 'Buttmannstrasse 5'
+plz_stadt: '13357'
+form_email: anna-richter@outlook.com
+telefonnummer: '01606543077'
+angebote:
+  - übernachten
+zeitraum: 20.-22.06
+personenanzahl: '5'
+deine_nachricht: "Moin, \r\n\r\nWir würden gerne ein Wochenende in jeweils einem Doppelzimmer schlafen. \r\n\r\nIst das zum dem zeitraum möglich?"
+newsletter_consent: true

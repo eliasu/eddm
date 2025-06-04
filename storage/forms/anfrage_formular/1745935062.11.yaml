@@ -1,0 +1,14 @@
+form_name: 'Hanne Thiemann'
+Straße_Nr: 'Ausschläger Elbdeich 127'
+plz_stadt: Hamburg
+form_email: hanne.thiemann@hamburger-energienetze.de
+telefonnummer: '01712139764'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+  - 'Workshop buchen'
+zeitraum: '18. & 19.06.'
+personenanzahl: '7 bis 12'
+deine_nachricht: "Moin, \r\n\r\naufgrund der Zusammenlegung von zwei Teams würden wir gerne einen Team-Tagung bei Ihnen unternehmen. Hierbei wäre uns wichtig, dass wir einen Raum haben, um gemeinsam Themen zu erarbeiten und zu besprechen. \r\n\r\nZudem hätten wir gerne für jeden ein Zimmer mit Bad und würden die Verpflegung mit buchen wollen inklusive Frühstück, Tagungsverpflegung und Abendessen. Zusätzlich wäre für uns der Fermentopia oder Pastakurs als Teamevent interessant. \r\n\r\nIch freue mich auf Ihr Angebot! \r\n\r\nMit freundlichen Grüßen, \r\nHanne Thiemann"
+newsletter_consent: false

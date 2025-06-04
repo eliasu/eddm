@@ -1,0 +1,11 @@
+form_name: 'Denise Klink'
+Straße_Nr: 'Bachstr. 135'
+plz_stadt: Hamburg
+form_email: denise.klink@hotmail.de
+telefonnummer: '01715206365'
+angebote:
+  - übernachten
+zeitraum: 9.-11.Mai
+personenanzahl: '2'
+deine_nachricht: "Hi liebe Crew, ich möchte gern in Ruhe meinen Geburtstag bei Euch feiern.\r\n\r\nLet me know,\r\n\r\nDenise"
+newsletter_consent: true

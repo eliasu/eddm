@@ -11,17 +11,17 @@ preferences:
         - title
         - slug
       after_save: continue_editing
-    events:
-      columns:
-        - title
-        - slug
-        - tags
-        - date_type
-        - dates
-        - date_range
     globals:
       columns:
         - title
+    events:
+      columns:
+        - slug
+        - status
+        - date_type
+        - date_range
+        - title
+        - tags
   forms:
     newsletter:
       columns:

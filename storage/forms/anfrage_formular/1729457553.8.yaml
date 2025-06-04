@@ -1,0 +1,11 @@
+form_name: 'Tom Hick'
+Straße_Nr: 'Deichstrasse 41'
+plz_stadt: '20459 Hamburg'
+form_email: tom.hick@hotmail.com
+telefonnummer: '+32493713324'
+angebote:
+  - übernachten
+zeitraum: 31.10-03.11
+personenanzahl: 1+Hund
+deine_nachricht: "Hey,\r\nich würde mich ganz gerne bei euch einmieten vom 31.10-03.11 und wollte mal nachfragen was da die günstigste Option wäre, wenn ich mit meinem Hund komme. Natürlich insofern überhaupt noch Platz frei ist."
+newsletter_consent: false

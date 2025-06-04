@@ -1,0 +1,11 @@
+form_name: 'Wolfgang Strasdas'
+Straße_Nr: 'Malmöer Str. 13'
+plz_stadt: '10439 Berlin'
+form_email: wolfgang.strasdas@posteo.de
+telefonnummer: '01704792942'
+angebote:
+  - übernachten
+zeitraum: KLP
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nist bei euch während der nächsten KLP noch irgendetwas frei. Bzgl. der Daten sind wir flexibel."
+newsletter_consent: false

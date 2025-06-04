@@ -1,0 +1,11 @@
+form_name: 'Thomas Wendler'
+Straße_Nr: 'Gross Borsteler Strasse 9c'
+plz_stadt: Hamburg
+form_email: thomas.wendler@rocketmail.com
+telefonnummer: '015146723997'
+angebote:
+  - übernachten
+zeitraum: 30.12.24-1.1.25
+personenanzahl: '2'
+deine_nachricht: "Hi,\r\n\r\nich wollte fragen, ob man bei euch über Neujahr übernachten kann (1 DZ).\r\n\r\nDanke & viele Grüße aus Hamburg\r\n\r\nLise & Thomas"
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Jane Spriestersbach'
+Straße_Nr: Moosdorfstrasse
+plz_stadt: '12435'
+form_email: janeknobloch@web.de
+telefonnummer: '1794530940'
+angebote:
+  - übernachten
+zeitraum: 29.5.25-31.5.25
+personenanzahl: '2'
+deine_nachricht: 'Spontan aber mit Hoffnung.'
+newsletter_consent: false

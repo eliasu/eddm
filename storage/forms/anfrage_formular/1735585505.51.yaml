@@ -1,0 +1,11 @@
+form_name: 'Erika Schmedt'
+Straße_Nr: 'Alsterdorfer Str. 529'
+plz_stadt: Hamburg
+form_email: erika.schmedt@web.de
+telefonnummer: '0408514910'
+angebote:
+  - übernachten
+zeitraum: 28.5.-2.6.25
+personenanzahl: '2'
+deine_nachricht: "Sehr geehrte Damen und Herren, \r\nwir sind zu zweit und benötigen 2 Einzelzimmer oder Doppelzimmer zur Einzelnutzung während des o.g. Zeitraums. Ist bei Ihnen noch etwas frei? Und wenn ja, was würde es kosten? Viele Grüße Erika Schmedt"
+newsletter_consent: false

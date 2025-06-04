@@ -1,0 +1,11 @@
+form_name: 'Mona Wilhelm'
+Straße_Nr: 'Abendrothsweg 73'
+plz_stadt: '20251'
+form_email: wilhelmona@gmail.com
+telefonnummer: '017657892191'
+angebote:
+  - übernachten
+zeitraum: 7.-9.6.
+personenanzahl: '3'
+deine_nachricht: "Hallo,\r\n\r\nIch wollte mal fragen ob ihr am Pfingstwochenende noch ein Zimmer o.ä. für drei habt?\r\n\r\nLG\r\nMona"
+newsletter_consent: true

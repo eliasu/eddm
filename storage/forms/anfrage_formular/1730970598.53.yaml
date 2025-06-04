@@ -1,0 +1,13 @@
+form_name: 'Klaas Jeschke'
+Straße_Nr: 'Am Eichberg 11'
+plz_stadt: '21409 Oerzen'
+form_email: kjeschke@superbude.com
+telefonnummer: '015123479516'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 18.-20.11.2024
+personenanzahl: '8'
+deine_nachricht: "Hallo zusammen, \r\nmit meinem Team (Hotels Superbude) würde ich gerne einen kleinen Jahres-Kick-Off vom 18.-20.11. diesen Jahres machen. \r\n\r\nHierzu bräuchten wir:\r\n++ 8 EZ (bestenfalls mit Bad) \r\n++ einen Tagungsraum mit Tagungsgetränken\r\n++ Frühstück \r\n++ ggf Mittagessen\r\n++ einen Abend Abendessen (ggf. in Form Eures Pizza-Events?) \r\n\r\nSofern das bei Euch möglich ist, würde ich mich über ein grobes Angebot freuen.\r\n\r\nDanke & Grüße\r\nKlaas"
+newsletter_consent: false

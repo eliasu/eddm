@@ -1,0 +1,11 @@
+form_name: 'Gerd Boos'
+Straße_Nr: 'Klaus-Groth-Str 24'
+plz_stadt: '23843 Bad Oldesloe'
+form_email: gerdboos@gmail.com
+telefonnummer: '015232708365'
+angebote:
+  - übernachten
+zeitraum: '26.Sept  bis 29.Sept 2025'
+personenanzahl: '13'
+deine_nachricht: "Zu meinem 75. Geburtstag möchte ich im engsten Familienkreis ein kleines Treffen organisieren. \r\n\r\nDa wir eine gewisse Ungestörtheit suchen,  möchten wir diesen Termin exklusiv buchen. Ist das möglich? \r\n\r\nWie hoch wäre der Preis inkl. Bettwäsche? \r\n\r\nDanke für die Auskunft. \r\n\r\nLiebe Grüße, Gerd Boos"
+newsletter_consent: false

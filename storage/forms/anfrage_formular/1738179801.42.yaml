@@ -1,0 +1,11 @@
+form_name: 'Manfred Deutschmann'
+Straße_Nr: 'Carsten-Meyn Weg 22'
+plz_stadt: '22399 Hamburg'
+form_email: deutschmann.pop@gmx.net
+telefonnummer: '0406029027'
+angebote:
+  - übernachten
+zeitraum: '2.6 bis 6.6.Montag bis Freitag'
+personenanzahl: '2'
+deine_nachricht: '1 Einzelzimmer fuer meine Frau und 1 Zeltplatz fuer mich.'
+newsletter_consent: true

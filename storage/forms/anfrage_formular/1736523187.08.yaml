@@ -1,0 +1,11 @@
+form_name: 'Nina Thomsen'
+Straße_Nr: 'Rellinger Str. 74'
+plz_stadt: '20257 Hamburg'
+form_email: frau.thomsen@yahoo.de
+telefonnummer: '01725118428'
+angebote:
+  - übernachten
+zeitraum: 06.06.-09.06.2025
+personenanzahl: '2'
+deine_nachricht: "Hallo!\r\nWäre in dem Zeitraum das Zimmer \"Die Träumerei OG\" noch zu haben?\r\nOder sonst auch einer der beiden Bauwagen?\r\nDanke & herzliche Grüße\r\nNina & Christiane"
+newsletter_consent: false

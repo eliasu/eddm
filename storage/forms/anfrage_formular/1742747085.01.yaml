@@ -1,0 +1,11 @@
+form_name: 'Anna-Sophia Eppstein'
+Straße_Nr: 'Senefelderstrasse 57'
+plz_stadt: '70176 Stuttgart'
+form_email: anna.eppstein@gmx.de
+telefonnummer: '017644453478'
+angebote:
+  - übernachten
+zeitraum: 28.4.-2.5.25
+personenanzahl: '2'
+deine_nachricht: 'Ich würde sehr gerne eine Workation für zwei buchen. Ist das im angegebenen Zeitraum Möglich?'
+newsletter_consent: true

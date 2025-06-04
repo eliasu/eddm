@@ -1,0 +1,11 @@
+form_name: 'Michael Wegstein'
+Straße_Nr: 'Elisabeth Maske str. 2'
+plz_stadt: '21337 Lüneburg'
+form_email: michael.wegstein@gmx.de
+telefonnummer: '015789288185'
+angebote:
+  - übernachten
+zeitraum: '30.5. - 1.6. (Fr - So)'
+personenanzahl: '2'
+deine_nachricht: 'Hi, ich versuche mein Glück und frage mal bei euch spontan für zwei Nächte diese WE an. Euer Kalender sagt mir nur teilweise belegt. Wäre großartig! Viele Grüße, Michael'
+newsletter_consent: false

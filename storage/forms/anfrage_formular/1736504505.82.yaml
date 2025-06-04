@@ -1,0 +1,12 @@
+form_name: 'Anne Burchhardt'
+Straße_Nr: 'Ernst-Mey-Straße 13'
+plz_stadt: Leipzig
+form_email: myletters@t-online.de
+telefonnummer: '015118682628'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 21.06.-22.06.2025
+personenanzahl: 8-9
+deine_nachricht: "Hallo liebes Team,\r\nIch hätte gern gewusst, ob wir am 21.06. Mit 9 Frauen für eine Übernachtung anreisen können. In euren FAQ habe ich gelesen, dass es am Wochenende nicht geht. Laut Kalender wäre an diesem Wochenende eh nur vom 21.06. Auf den 22.06. Frei. Könntet ihr ggf eine Ausnahme machen? \r\n\r\nIch würde mich riesig über eine Rückmeldung von euch freuen.\r\n\r\nLiebe Grüße \r\nAnne"
+newsletter_consent: false

@@ -1,0 +1,14 @@
+form_name: 'Carolin Büchler'
+Straße_Nr: 'Steinhöft 9, Hinterhof'
+plz_stadt: Hamburg
+form_email: carolin@cofenster.com
+telefonnummer: '01606811710'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+  - 'Workshop buchen'
+zeitraum: 15.09-26.09.25
+personenanzahl: '23'
+deine_nachricht: "Hallo liebes Team, \r\nich bin auf der Suche nach einer geeigneten Location für unser geplantes Offsite. Wir sind ein junges Unternehmen, arbeiten voll remote und möchten uns persönlich begegnen und etwas Zeit zusammen verbringen. Workshops & Team Aktivitäten, Co-Working sind/ist geplant. Wir würden 3-4 Nächte bleiben in dem angegeben Zeitraum, kein Wochenende. Wäre euer Hof eine Möglichkeit für uns? Wir bräuchten einige Einzelzimmer, und ca. 4 Doppelzimmer wären möglich. \r\nLieben Gruß\r\nCarolin"
+newsletter_consent: false

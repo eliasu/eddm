@@ -1,0 +1,11 @@
+form_name: 'Theresa Riemenschneider'
+Straße_Nr: Obstbergweg
+plz_stadt: '3006 Bern'
+form_email: theresa.riemenschneider@gmail.com
+telefonnummer: '017651959217'
+angebote:
+  - übernachten
+zeitraum: 30.05-02.06
+personenanzahl: '4'
+deine_nachricht: 'Wir waren schon einmal bei euch und es war sooo schön. Nun würden wir gerne noch einmal zu KLP wiederkommen :)'
+newsletter_consent: false

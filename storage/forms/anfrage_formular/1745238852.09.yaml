@@ -1,0 +1,11 @@
+form_name: 'Frauke Weyhausen'
+Straße_Nr: 'Soltauer Str. 8a'
+plz_stadt: '21335 Lüneburg'
+form_email: frauke1812@yahoo.de
+telefonnummer: '017650955184'
+angebote:
+  - übernachten
+zeitraum: '6.6. bis 8.6., 7.6. bis 8.6.'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwäre für ein Auto mit Schlafmöglichkeit noch ein Platz frei oder nur noch Zeltplatz? \r\nDanke"
+newsletter_consent: true

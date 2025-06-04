@@ -1,0 +1,12 @@
+form_name: 'Niki e.V.'
+Straße_Nr: 'Schulenburger Landstraße 150B'
+plz_stadt: Hannover
+form_email: info@niki-hannover.org
+angebote:
+  - übernachten
+  - essen
+  - 'Workshop buchen'
+zeitraum: 'noch unklar'
+personenanzahl: 'ca. 10'
+deine_nachricht: "Hallo liebes Ding der Möglichkeit - Team!\r\n\r\nWir sind ein kleiner Verein aus Hannover (Niki e.V.), der schon seit ein paar Jahren im Kunst- und Kulturbereich aktiv ist und sich gerade neu sortiert und wächst. Wir würden gerne als Team noch mehr zusammenfinden und interessieren uns für den Clear the Air Workshop. Gerne würden wir das auch mit einem Ausflug zu euch inkls. Übernachtung verbinden. Mit was für Kosten müssten wir dafür rechnen? Und könnte es eine histaminarme Verpflegung geben?\r\nViele Grüße vom Niki e.V. / Kathrin"
+newsletter_consent: false

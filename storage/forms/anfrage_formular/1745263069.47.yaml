@@ -1,0 +1,12 @@
+form_name: 'Jan Stefanski'
+Straße_Nr: 'Goldmariekenweg 12B'
+plz_stadt: '22457 Hamburg'
+form_email: jan.stefanski@gmail.com
+telefonnummer: '01775497596'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 28.-29.06.
+personenanzahl: '3'
+deine_nachricht: "Moin,\r\n\r\nich suche für die Nacht 28. auf den 29.06. ein Zimmer für drei Personen mit Frühstück, da wir zu Dritt eine Radtour durch Wendland und Elbtalaue machen.\r\nHättet für diesen Zeitraum noch ein Zimmer frei?\r\n\r\nVielen Dank und mit besten Grüßen aus Hamburg\r\nJan Stefanski"
+newsletter_consent: false

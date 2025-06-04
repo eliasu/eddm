@@ -1,0 +1,11 @@
+form_name: 'Sina Grote'
+Straße_Nr: 'Lüneburger Str 13 13'
+plz_stadt: Hitzacker
+form_email: sinagrote@web.de
+telefonnummer: '01749527023'
+angebote:
+  - übernachten
+zeitraum: 'Wochenende Himmelfahrt'
+personenanzahl: '2'
+deine_nachricht: 'Hallo, habt Ihr ab Donnerstag, 30.05. noch Platz für 2 Gäste zum Übernachten? Gerne 2 Nächte von Do bis Sa oder von Fr bis So?'
+newsletter_consent: false

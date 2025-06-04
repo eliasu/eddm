@@ -1,0 +1,12 @@
+form_name: 'Timon Böhnke'
+Straße_Nr: 'Valentinskamp 40'
+plz_stadt: Hamburg
+form_email: timon.t.boehnke@gmail.com
+telefonnummer: '0491716306076'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 30.05-01.06.2025
+personenanzahl: 9-10
+deine_nachricht: "Hi ihr Lieben,\r\nwir sind eine Freundesgruppe, die nur schöne Dinge von Eurem Hof gehört hat und wir würden uns super gerne mit Zelt/Camper während der KLP zu Euch auf den Hof stellen. Wäre das möglich?\r\nIch habe auch gehört, dass man generell ein Frühstück bei Euch buchen könnte? \r\nIch freue mich auf Eure Rückmeldung. \r\n\r\nBeste Grüße\r\nTimon"
+newsletter_consent: true

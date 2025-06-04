@@ -1,0 +1,11 @@
+form_name: 'Pia Weber'
+Straße_Nr: 'Mainstraße 32'
+plz_stadt: '28199 Bremen'
+form_email: pia.weber@posteo.de
+telefonnummer: '017628027518'
+angebote:
+  - übernachten
+zeitraum: '29.5. bis 1.6.'
+personenanzahl: '2'
+deine_nachricht: "Liebes Team vom Ding der Möglichkeit, \r\nhabt ihr noch ein Zimmer oder Apartment für zwei Personen frei über das Himmelfahrtswochende von Donnerstag bis Sonntag?\r\nLiebe Grüße \r\nPia"
+newsletter_consent: false

@@ -1,0 +1,12 @@
+form_name: 'Carina Feder'
+Straße_Nr: 'Schweriner Str 3'
+plz_stadt: '23970 Wismar'
+form_email: cf@carinafeder.com
+telefonnummer: '017647765971'
+angebote:
+  - übernachten
+  - essen
+zeitraum: Osterwochenende
+personenanzahl: '2'
+deine_nachricht: "Liebes Ding der Möglichkeit Team, \r\n\r\nich arbeite aktuell an meiner Masterthesis Innenarchitektur und wollte fragen, ob ihr an einem Austausch interessiert seid? \r\n\r\nMeine Thesis beschäftigt sich mit Möglichkeitsorten und ich arbeite aktuell ein Konzept für einen solchen Ort in einer alten Scheune in Norwegen aus. \r\n\r\nGerne würde ich euer Projekt als Beispiel anführen und freue mich sehr, wenn ich mir auch selbst ein Bild vor Ort machen darf?\r\n\r\nZeitlich passend wäre es um die Ostertage herum am besten. \r\nRuft gerne auch kurz an wenn ihr Interesse habt, ich freue mich auf den Kontakt!\r\n\r\nViele liebe Grüße,\r\nCarina Feder"
+newsletter_consent: true

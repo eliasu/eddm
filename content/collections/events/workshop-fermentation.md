@@ -6,7 +6,7 @@ date_type: 'single dates'
 dates:
   -
     id: lslq0urg
-    date_field: '2024-12-31 11:37'
+    date_field: '2025-12-31 11:37'
     type: single_date
     enabled: false
 text_bard:
@@ -17,12 +17,12 @@ text_bard:
         type: text
         text: Teambuilding-Workshop
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Personen: 8-25'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Dauer: 2-3 Stunden'
@@ -59,7 +59,7 @@ components:
             type: text
             text: 'Anschließendes Abendbrot mit fermentiertem Gemüse'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 16€/Person
@@ -67,10 +67,10 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
     type: image_text_component
     enabled: true
-show_in_eventlist: true
+show_in_eventlist: false
 images_img: workshop_gastro_chutney_img_0980.jpg
 seotamic_title: title
 seotamic_title_prepend: true
@@ -81,8 +81,11 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1708504887
+updated_at: 1736089449
 tags:
   - seminar
 duplicated_from: 8f67d0b9-2eca-41aa-9a0c-43f4a597d475
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

@@ -1,0 +1,11 @@
+form_name: 'Dirk Josef Thiesen'
+Straße_Nr: 'Motzstrasse 5'
+plz_stadt: '10777 Berlin'
+form_email: djthiesen@web.de
+telefonnummer: '016094495936'
+angebote:
+  - übernachten
+zeitraum: '8. bis 10. August'
+personenanzahl: 'Bis zu 12 Personen'
+deine_nachricht: 'Hallo Ihr Lieben, ich bin ein Freund von Sigrun Kreuser. Gerne möchte ich bei Euch anfragen, ob und wenn ja wie viele Zimmer Ihr für den angefragten Zeitraum zur Verfügung stellen könntet. Es werden voraussichtlich 6 Zimmer benötigt. Danke für Eure zeitnahe Rückmeldung'
+newsletter_consent: false

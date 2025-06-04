@@ -1,0 +1,11 @@
+form_name: 'Christiane Hornemann'
+Straße_Nr: 'Dresdener Straße 117'
+plz_stadt: '10999'
+form_email: mail@christianehornemann.com
+telefonnummer: '015120067030'
+angebote:
+  - übernachten
+zeitraum: '29.5. - 30.5.'
+personenanzahl: '1'
+deine_nachricht: 'Habt ihr noch ein Zimmer, Wohnwagen oder Appartement frei.'
+newsletter_consent: true

@@ -1,0 +1,11 @@
+form_name: 'Vanessa Müller'
+Straße_Nr: 'Richardstrasse 109'
+plz_stadt: '12043 Berlin'
+form_email: vnmueller8@gmail.con
+telefonnummer: '+4917693138643'
+angebote:
+  - übernachten
+zeitraum: 29.5.-1.06.2025
+personenanzahl: '2'
+deine_nachricht: 'Hallo , wir würden gerne bei euch Zelten. Gibt es noch ein Plätzchen? Ich habe keine direkte buchungsmoeglichkeit gefunden . Herzliche Grüße Vanessa'
+newsletter_consent: true

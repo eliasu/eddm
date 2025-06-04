@@ -17,12 +17,12 @@ text_bard:
         type: text
         text: Teambuilding-Ausflug
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Personen: 8-25'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Dauer: 2-3 Stunden'
@@ -48,7 +48,7 @@ components:
             text: 'Spaziergang, Vortrag, Feldbesuch, Arbeitseinsatz, Kaffee & Kuchen'
     type: image_text_component
     enabled: true
-show_in_eventlist: true
+show_in_eventlist: false
 images_img: solawi_marlin_dsc_9806_s.jpg
 seotamic_title: title
 seotamic_title_prepend: true
@@ -59,8 +59,11 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1707942898
+updated_at: 1734779139
 tags:
   - seminar
 duplicated_from: f2711f4e-aa71-4436-bac4-7a2d016d8504
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

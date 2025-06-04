@@ -13,7 +13,7 @@ text_bard:
         text: 'Hier ein Text'
 template: anfrage
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1702554379
+updated_at: 1729617566
 text_txt: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'
 seotamic_title: title
 seotamic_title_prepend: true
@@ -43,4 +43,12 @@ anfrage_text_bard:
         url: 'https://www.gruppenhaus.de/showplan.php?hs=12197'
         target_blank: true
         link_type: url
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_meta_title: 'Frage zu Unterkunft, Projekten oder gar deine Hochzeit?'
+alt_seo_meta_description: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Du willst vielleicht bei uns heiraten? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'
+alt_seo_noindex: false
+alt_seo_nofollow: false
+alt_seo_social_title: 'Frage zu Unterkunft, Projekten oder gar deine Hochzeit?'
+alt_seo_social_description: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Du willst vielleicht bei uns heiraten? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'
+exclude_from_sitemap: false
 ---

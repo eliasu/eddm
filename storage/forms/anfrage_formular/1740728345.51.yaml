@@ -1,0 +1,11 @@
+form_name: 'Maren Strobel'
+Straße_Nr: 'Weidenallee 54'
+plz_stadt: '20357 Hamburg'
+form_email: marenstrobel@icloud.com
+telefonnummer: '01605922038'
+angebote:
+  - übernachten
+zeitraum: 7./8./9.Juni
+personenanzahl: '2'
+deine_nachricht: 'Hallo, wir würden gerne einen eurer Bullistellplätze mieten über Pfingsten....falls noch einer frei ist :) Gruß Maren'
+newsletter_consent: true

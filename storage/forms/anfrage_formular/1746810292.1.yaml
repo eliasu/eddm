@@ -1,0 +1,11 @@
+form_name: 'Lothar Rumpel'
+Straße_Nr: 'Am Juliusstein'
+plz_stadt: '34130 Kassel'
+form_email: lrumpel@t-online.de
+telefonnummer: '016092614229'
+angebote:
+  - übernachten
+zeitraum: '29.5 -31.5.2025'
+personenanzahl: '1'
+deine_nachricht: Einzelzimmer
+newsletter_consent: false

@@ -1,0 +1,12 @@
+form_name: 'Erik Malke'
+Straße_Nr: 'Frühlingstr. 16'
+plz_stadt: Dresden
+form_email: erikmalke@hotmail.de
+telefonnummer: '015226244802'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '06. - 09.06'
+personenanzahl: '2'
+deine_nachricht: "Liebes Ein-Ding-der-Möglichkeit-Team,\r\nwir - Dinah und Erik, würden uns riesig freuen über die KLP noch ein Zimmer vom 06. bis 09.06 bei euch zu ergattern. Sollte spontan etwas frei geworden sein, erreicht ihr uns auch jederzeit über 015226244802.\r\nDie Daumen sind gedrückt!\r\nViele liebe Grüße aus Dresden\r\nDinah und Erik"
+newsletter_consent: false

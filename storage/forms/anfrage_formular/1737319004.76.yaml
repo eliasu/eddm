@@ -1,0 +1,11 @@
+form_name: 'Ursula Schwenke'
+Straße_Nr: 'Kirchstr. 4'
+plz_stadt: 'Bad Münder'
+form_email: kunst-handwerk-gt@gmx.de
+telefonnummer: '0176 30494145'
+angebote:
+  - übernachten
+zeitraum: 29.05-1.06.25
+personenanzahl: '1'
+deine_nachricht: 'Hallo, ich brauche nur einen Zeltplatz'
+newsletter_consent: true

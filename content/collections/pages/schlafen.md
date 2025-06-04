@@ -18,7 +18,8 @@ text_bard:
         link_name_txt: 'Preisliste (pdf)'
         link_type_url: asd
         target_blank: true
-        link_type: asset
+        link_type: url
+        url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte.pdf'
 components:
   -
     id: M5Djezlm
@@ -61,27 +62,27 @@ components:
             type: text
             text: "8 DZ\_mit Bad"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '1 DZ (teilt sich Bad auf dem Flur mit EZ)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '1 EZ (teilt sich Bad auf dem Flur mit DZ)'
           -
-            type: hard_break
+            type: hardBreak
+          -
+            type: text
+            text: '1 Apartment (3 Doppelbetten, Pantry)'
+          -
+            type: hardBreak
           -
             type: text
             text: '1 Apartment (2 Doppelbetten, Pantry)'
           -
-            type: hard_break
-          -
-            type: text
-            text: '1 Apartment (2 Doppelbetten, Pantry)'
-          -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '1 Apartment (1 Doppelbett, Pantry)'
@@ -105,7 +106,8 @@ components:
             type: link
             link_name_txt: 'Preisliste zum Download'
             target_blank: true
-            link_type: asset
+            link_type: url
+            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte.pdf'
     type: image_text_component
     enabled: true
   -
@@ -133,6 +135,31 @@ components:
     type: image_text_component
     enabled: true
   -
+    id: m8h9j39i
+    headline_txt: 'Zelten während der KLP 25'
+    component_template: no_image
+    background_color: blue
+    text_color: white
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Hier gehts zum Zeltfeld Ticketshop:'
+      -
+        type: set
+        attrs:
+          id: m8h9k287
+          values:
+            type: button
+            link_name_txt: 'Jetzt buchen'
+            url: 'https://ding.ticket.io/'
+            target_blank: true
+            link_type: url
+    type: image_text_component
+    enabled: true
+  -
     id: HNR07piQ
     headline_txt: Zeltfeld
     component_template: slider_left
@@ -151,7 +178,7 @@ components:
             type: text
             text: 'Draußen ist geiler als drinnen. Sollte die Träumerei ausgebucht, oder euch ein Platz im Freien lieber sein, könnt ihr auf unserem Zeltfeld euer Camp aufschlagen.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Ein paar Bulli Stellplätze gibts auch!'
@@ -190,6 +217,12 @@ components:
           -
             type: text
             text: 'Sagt am besten direkt beim Check-In Bescheid, wenn wir für euch einheizen sollen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Ab 3 Personen machen wir sie für euch an, 10€ pP.'
     type: image_text_component
     enabled: true
   -
@@ -221,7 +254,7 @@ components:
             type: text
             text: 7€/Person
           -
-            type: hard_break
+            type: hardBreak
       -
         type: paragraph
       -
@@ -237,7 +270,7 @@ components:
             type: text
             text: 15€/Person
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '7,5€/Kinder (3-12 Jahre)'
@@ -339,7 +372,7 @@ components:
                 type: underline
             text: 'Ab wann ist Check In?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 15h
@@ -353,7 +386,7 @@ components:
                 type: underline
             text: 'Bis wann ist Check Out?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 11h
@@ -367,7 +400,7 @@ components:
                 type: underline
             text: 'Kann ich auch nur für eine Nacht buchen?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'In der Woche ja. Der Mindestaufenthalt am Wochenende sind zwei Übernachtungen.'
@@ -381,7 +414,7 @@ components:
                 type: underline
             text: 'Darf ich meinen Hund mitbringen?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Ja, es gibt ein Zimmer (103) und ein Apartment (102) in denen euch Hunde begleiten dürfen. '
@@ -395,7 +428,7 @@ components:
                 type: underline
             text: 'Muss ich Handtücher und Bettwäsche mitbringen?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Betten sind bezogen und Handtücher gibt es auch. Im Sinne der Nachhaltigkeit ist es natürlich toll, wenn du dein eigenes Handtuch mitbringst und nutzt.'
@@ -409,7 +442,7 @@ components:
                 type: underline
             text: 'Wie verpflege ich mich bei euch selbst?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "Es gibt fußläufig einen kleinen Bioladen.\_"
@@ -437,7 +470,7 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
             marks:
               -
                 type: underline
@@ -448,7 +481,7 @@ components:
                 type: underline
             text: 'Ab wann entstehen Kosten, wenn ich absage?'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Unsere Stornierungsregelungen findet ihr unter Punkt 4 in unseren '
@@ -467,7 +500,7 @@ components:
             type: text
             text: .
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Wenn ihr auf Nummer sicher gehen wollt schliesst ihr eine '
@@ -496,7 +529,7 @@ title: Schlafen
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1720629074
+updated_at: 1745324301
 disable_header: false
 text:
   -
@@ -516,4 +549,12 @@ seotamic_twitter_title: title
 seotamic_twitter_description: meta
 images_img: Traeumerei_MG_6026_01.jpg
 seotamic_custom_meta_description: 'Unser Hof bietet verschiedene Unterkünfte mit gemütlicher Atmosphäre. Wir laden Euch zum zeitlosen Verweilen ein - egal ob ein Wochenende oder gleich einen ganzen Monat.'
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_meta_title: 'Gemütliche Unterkünfte auf unserem Hof: Zeitloses Verweilen für Wochenenden bis hin zu Monaten'
+alt_seo_meta_description: 'Fühl dich bei uns wie zuhause mit gemütlichen Unterkünften. Perfekt für ein Wochenende, einen ganzen Monat oder eine unvergessliche Hochzeit – der ideale Ort zum Entspannen und Verweilen.'
+alt_seo_noindex: false
+alt_seo_nofollow: false
+alt_seo_social_title: 'Gemütliche Unterkünfte auf unserem Hof: Zeitloses Verweilen für Wochenenden bis hin zu Monaten'
+alt_seo_social_description: 'Fühl dich bei uns wie zuhause mit gemütlichen Unterkünften. Perfekt für ein Wochenende, einen ganzen Monat oder eine unvergessliche Hochzeit – der ideale Ort zum Entspannen und Verweilen.'
+exclude_from_sitemap: false
 ---

@@ -1,0 +1,12 @@
+form_name: 'lydia lammers'
+Straße_Nr: 'danneckerstrasse 8'
+plz_stadt: '10245 berlin'
+form_email: phielma_2@yahoo.com
+telefonnummer: '017660006887'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 01.06.-02.06
+personenanzahl: '3'
+deine_nachricht: "hallo, \r\nwir haben 1 bulli und ein Zelt, wäre das heute möglich?"
+newsletter_consent: false

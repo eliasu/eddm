@@ -1,0 +1,11 @@
+form_name: 'Manfred Stengel'
+Straße_Nr: 'Neelandstieg 6'
+plz_stadt: '21147 Hamburg'
+form_email: manfred.stengel@gmx.de
+telefonnummer: '01605337318'
+angebote:
+  - übernachten
+zeitraum: '30.5 - 6.6.'
+personenanzahl: '2'
+deine_nachricht: "Hallo Dingelinner*innen, wir möchten in dem o. a. angegebenen Zeitfenster die KLP für vier Tage besuchen und suchen eine Stellmöglichkeit für unseren T3-Bulli in dem wir übernachten würden.\r\nWenn das bei Ihnen auf der Wiese ein Ding der Möglichkeit werden könnte, würden wir uns freuen.\r\nBeste Grüße\r\nManfred & Silke"
+newsletter_consent: false

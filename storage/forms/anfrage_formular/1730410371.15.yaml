@@ -1,0 +1,11 @@
+form_name: 'Jakob Bohlen'
+Straße_Nr: 'Kleine Brunnenstraße 14'
+plz_stadt: '22765'
+form_email: jakob.bohlen@hotmail.de
+telefonnummer: '01736111369'
+angebote:
+  - übernachten
+zeitraum: 01.11-03.11
+personenanzahl: '3'
+deine_nachricht: "Hi habt ihr morgen noch nen Platz für einen Camper bei euch und Platz auf eurem Mega geilen Konzert ?\r\nGanz liebe grüße"
+newsletter_consent: false

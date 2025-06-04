@@ -1,0 +1,11 @@
+form_name: 'Paul Lardon'
+Straße_Nr: 'Gutsmuthsstr. 13'
+plz_stadt: '12163 Berlin'
+form_email: paul.lardon@googlemail.com
+telefonnummer: '015125303897'
+angebote:
+  - übernachten
+zeitraum: 29.05.-01.06.
+personenanzahl: '2'
+deine_nachricht: "Hallo liebes Team,\r\nwir wollten mal fragen, ob während der KLP und speziell an Himmelfahrt die Möglichkeit besteht, bei euch mit dem Bulli zu übernachten.\r\nLiebe Grüße Mona und Paul"
+newsletter_consent: true

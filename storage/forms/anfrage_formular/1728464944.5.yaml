@@ -1,0 +1,11 @@
+form_name: 'Elke, Mai'
+Straße_Nr: 'Elisenstr. 16'
+plz_stadt: Chemnitz
+form_email: Mai.nelke@web.de
+telefonnummer: '01726676175'
+angebote:
+  - übernachten
+zeitraum: '28.11.24 - 2.12.24'
+personenanzahl: '1'
+deine_nachricht: 'Wie gerade besprochen'
+newsletter_consent: false

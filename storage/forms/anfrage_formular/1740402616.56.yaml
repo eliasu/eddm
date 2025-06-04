@@ -1,0 +1,11 @@
+form_name: 'Julian Bootz'
+Straße_Nr: 'Oranienstraße 169'
+plz_stadt: '10999 Berlin'
+form_email: herrbootz@gmail.com
+telefonnummer: '015757910287'
+angebote:
+  - übernachten
+zeitraum: 30.05-01.06.25
+personenanzahl: '4 Erwachsene und 2 Kinder'
+deine_nachricht: "Hallo, \r\nwir würden gerne wieder zur KLP bei Euch auf der Wiese campen (1 Bus, 1 Zelt), gerne mit Frühstück. Hättet ihr noch Platz für uns? Danke vorab und herzliche Grüße \r\nJulian"
+newsletter_consent: false

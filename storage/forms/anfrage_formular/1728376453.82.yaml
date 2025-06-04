@@ -1,0 +1,10 @@
+form_name: 'Jan Rehwinkel'
+Straße_Nr: 'Rodenbergstraße 4'
+plz_stadt: '10439 Berlin'
+form_email: kontakt@janrehwinkel.de
+angebote:
+  - übernachten
+zeitraum: 11.10.-13.10.
+personenanzahl: '1'
+deine_nachricht: "Hallo, ich bin über die Seite Zukunftsort auf Euch gestoßen und würde gerne am Wochenende auf der Durchreise bei Euch übernachten. Ist einer der Bauwagen oder das Zimmer 104 frei? \r\nSchöne Grüße\r\nJan"
+newsletter_consent: false

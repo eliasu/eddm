@@ -1,0 +1,11 @@
+form_name: 'Merle Stanszus'
+Straße_Nr: 'Emil-Trinkler-Str. 48'
+plz_stadt: '28211 Bremen'
+form_email: merle.stanszus@gmail.com
+telefonnummer: '017672867189'
+angebote:
+  - übernachten
+zeitraum: '07.06 - 09.06.25'
+personenanzahl: '2'
+deine_nachricht: "Hallo zusammen,\r\n\r\nwir sind zwei Personen mit einem Bulli und möchten gern vom 7. bis 9. Juni im Rahmen der Kulturellen Landpartie zu euch kommen.\r\nGibt es die Möglichkeit, mit dem Bulli in eurer Nähe zu stehen? Und falls ja – kann man einen Stellplatz im Voraus reservieren oder buchen?\r\n\r\nWir freuen uns auf eure Rückmeldung!\r\n\r\nHerzliche Grüße\r\nMerle"
+newsletter_consent: true

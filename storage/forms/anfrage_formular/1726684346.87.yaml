@@ -1,0 +1,11 @@
+form_name: 'Krystina Mainz'
+Straße_Nr: 'Frankfurter Allee 61'
+plz_stadt: '10247 Berlin'
+form_email: k.mainz@posteo.de
+telefonnummer: '01779389642'
+angebote:
+  - übernachten
+zeitraum: 29.5-1.6.25
+personenanzahl: '10'
+deine_nachricht: "Hallöchen ihr Lieben, ich hoffe wir sind dieses Mal rechtzeitig dran. Könntet ihr uns ien Angebot machen udn angeben wie ihr das am besten aufteilen könntet? \r\nWir sind: \r\n1. Familie: 2 Erwachsene, 2 Kinder\r\n2. Familie: 2 Erwachsene, 1 Kind\r\nund dann noch 5 Erwachsene \r\n\r\nGanz liebe Grüße\r\nKrystina"
+newsletter_consent: false

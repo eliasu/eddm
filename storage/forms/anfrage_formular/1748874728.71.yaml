@@ -1,0 +1,10 @@
+form_name: 'Nina baun'
+Straße_Nr: 'Schillerpromenade 24'
+plz_stadt: '12049 Berlin'
+form_email: ninabaun@gmail.com
+angebote:
+  - übernachten
+zeitraum: August/September
+personenanzahl: '2'
+deine_nachricht: 'Ich würde mich freuen eine residency bei euch machen zu dürfen bzw erst einmal vorbei zu shaken und uu schauen, wie das passt.'
+newsletter_consent: false

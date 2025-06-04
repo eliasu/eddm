@@ -1,0 +1,11 @@
+form_name: 'Gesine Scheunemann'
+Straße_Nr: 'Leo-Leistikow-Allee, 64'
+plz_stadt: Hamburg
+form_email: gesine.scheunemann@gmx.de
+telefonnummer: '01633793349'
+angebote:
+  - übernachten
+zeitraum: '02.06. bis 06.06.25'
+personenanzahl: '2'
+deine_nachricht: 'Wir sind am Appartement mit zwei Schlafzimmern interessiert. Termin lässt sich ein wenig nach vorne und hinten schieben'
+newsletter_consent: false

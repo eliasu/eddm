@@ -1,0 +1,11 @@
+form_name: 'Lena Buck'
+Straße_Nr: 'Rehweg 5'
+plz_stadt: '21244 Buchholz'
+form_email: lenabuck@outlook.com
+telefonnummer: '017620480168'
+angebote:
+  - übernachten
+zeitraum: 5.10.-8.10.
+personenanzahl: '2'
+deine_nachricht: "Moin! Habt ihr zufällig in einer der Wägen für den Zeitraum noch was frei? \r\nLiebe Grüße\r\nLena"
+newsletter_consent: false

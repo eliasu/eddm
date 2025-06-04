@@ -1,0 +1,12 @@
+form_name: 'Torben Sturhan'
+Straße_Nr: 'Zeißstraße 37b'
+plz_stadt: '22765 Hamburg'
+form_email: torben.sturhan@gmail.com
+telefonnummer: '017663309638'
+angebote:
+  - übernachten
+  - 'Workshop buchen'
+zeitraum: '25. bis 26.04.'
+personenanzahl: '2'
+deine_nachricht: "Hey liebes \"Ein Ding der Möglichkeiten\" Team,\r\nwäre es möglich am kommenden Wochenende auch nur eine Nacht von Freitag auf Samstag mit zwei Personen bei euch unterzukommen?\r\n\r\nLiebe Grüße \r\nTorben"
+newsletter_consent: false

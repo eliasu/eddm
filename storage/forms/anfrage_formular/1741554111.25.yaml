@@ -1,0 +1,12 @@
+form_name: 'Patricia Fischer'
+Straße_Nr: 'Steinmetzstr. 16'
+plz_stadt: Hannover
+form_email: patricia.fischer@posteo.de
+telefonnummer: '01604909283'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 29.05.2025-01.06.2025
+personenanzahl: '4'
+deine_nachricht: 'Wir gehören zu Tanja Mölders Geburtstagsgruppe und würden gerne bei euch auf der Wiese zelten und morgens frühstücken.'
+newsletter_consent: false

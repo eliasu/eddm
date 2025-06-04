@@ -1,0 +1,11 @@
+form_name: 'Tobias Schelb'
+Straße_Nr: 'Hellerkamp 12'
+plz_stadt: '21493'
+form_email: klp@tobiasschelb.de
+telefonnummer: '01791496966'
+angebote:
+  - übernachten
+zeitraum: '29.5. - 1.6.'
+personenanzahl: '2'
+deine_nachricht: "Hallo! Wir würden gerne bei euch übernachten, da wir mit dem Fahrrad die Region erkunden wollen an dem Wochenende, aber auf Dusche / WC angewiesen sind. \r\nWäre toll, wenn das klappt! :)"
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Ilka Sommer'
+Straße_Nr: 'Nöldnerstr. 13'
+plz_stadt: '10317 Berlin'
+form_email: ilka.sommer@gmail.com
+telefonnummer: '01778236609'
+angebote:
+  - übernachten
+zeitraum: 29.-31.05.2025
+personenanzahl: '4'
+deine_nachricht: "Guten Tag, \r\nwir würden gerne vom 29. Mai bis 1. Juni bei Ihnen zelten. (Zwei Zelte, 2 Erw. 2 Ki.) Wir gehören zur Geburtstagsgruppe von Tanja Mölders. Ist das noch möglich? Freundliche Grüße\r\nIlka Sommer"
+newsletter_consent: false

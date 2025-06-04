@@ -1,0 +1,11 @@
+form_name: 'Ida Starke'
+Straße_Nr: 'Im Tiefen Tal 37'
+plz_stadt: '21339 Lüneburg'
+form_email: moin.ida@gmx.de
+telefonnummer: '017647152885'
+angebote:
+  - übernachten
+zeitraum: '26.-27. April'
+personenanzahl: '8'
+deine_nachricht: "gerne sechs Einzelzimmer und ein \r\nDoppelzimmer"
+newsletter_consent: false

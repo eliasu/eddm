@@ -1,0 +1,11 @@
+form_name: 'Dirk Siegmund'
+Straße_Nr: 'Goethestr 3'
+plz_stadt: '63225 Langen'
+form_email: dirk.siegmund@gmx.de
+telefonnummer: '015156311125'
+angebote:
+  - übernachten
+zeitraum: 4-6.7
+personenanzahl: '5'
+deine_nachricht: "Hallo, \r\nWir sind auf der Hochzeit von Vera und Michael eingeladen. Uns wurde das Appartement 101 empfohlenen, weil wir eine Familie mit 3 Kindern sind(11,4 und 0).\r\n\r\nViele Grüße\r\nDirk Siegmund"
+newsletter_consent: false

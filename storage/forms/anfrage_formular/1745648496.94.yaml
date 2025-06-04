@@ -1,0 +1,11 @@
+form_name: 'Sarah Kohlstadt'
+Straße_Nr: 'Grafenberger Allee 245'
+plz_stadt: '40237 Düsseldorf'
+form_email: skohlstadt@web.de
+telefonnummer: '015780333172'
+angebote:
+  - übernachten
+zeitraum: 11.8.2025-12.8.2025
+personenanzahl: '4'
+deine_nachricht: "Hallo zusammen,\r\n\r\nwir würden vom 11.8. auf den 12.8. sehr gerne mit unserem Camper bei euch übernachten. Wir sind zwei Erwachsene, ein Kind 4 Jahre, ein Kind 2 Jahre und ein Hund. Wäre eine Übernachtung an diesem Tag noch möglich? Wir freuen uns auf eine Antwort. Liebe Grüße Sarah"
+newsletter_consent: false

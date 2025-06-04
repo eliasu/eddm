@@ -1,0 +1,11 @@
+form_name: 'Adrian Kohlert'
+Straße_Nr: 'Lüttringhauser Str.'
+plz_stadt: Köln
+form_email: adrian_kohlert@posteo.de
+telefonnummer: '01778613945'
+angebote:
+  - übernachten
+zeitraum: '29.5. - 1.6.'
+personenanzahl: '8'
+deine_nachricht: "Hi ihr Lieben,\r\nhättet ihr an besagtem Wochenende Platz für einen Camper (2 Personen) und drei Zelte mit insgesamt  6 Personen, davon zwei Kleinkinder?\r\nViele Grüße und Dank\r\nAdrian"
+newsletter_consent: false

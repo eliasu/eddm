@@ -1,0 +1,12 @@
+form_name: 'Nina Maurer'
+Straße_Nr: 'Lichtstraße 17'
+plz_stadt: Düsseldorf
+form_email: lehmannnina@gmx.net
+telefonnummer: '01731845363'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 'August für eine Woche'
+personenanzahl: '2 Erwachsene, 1 Kind 3 und 1 Kind 1'
+deine_nachricht: 'Liebe Grüße :))'
+newsletter_consent: false

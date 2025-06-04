@@ -1,0 +1,11 @@
+form_name: 'Angelika Schmidt'
+Straße_Nr: 'Dankwartstraße 51'
+plz_stadt: '23966'
+form_email: schmidt.angelika@ymail.com
+telefonnummer: '015235983782'
+angebote:
+  - übernachten
+zeitraum: '30.5 bis 1.6'
+personenanzahl: '4 bis 5'
+deine_nachricht: "Guten Morgen, ich wollte mich erkundigen, ob sie noch Übernachtungsmöglichkeiten an dem 30.5 bis 1.6 noch für ca.5 Leute anbieten. Sind die Tinylife Wägen vielleicht noch frei? \r\n\r\nLiebe Grüße aus Wismar"
+newsletter_consent: false

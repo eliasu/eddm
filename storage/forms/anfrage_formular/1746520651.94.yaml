@@ -1,0 +1,11 @@
+form_name: 'Vera Schiche'
+Straße_Nr: 'Altenbraker Str. 28'
+plz_stadt: '12051 Berlin'
+form_email: vera.schiche@outlook.com
+telefonnummer: '015152249140'
+angebote:
+  - übernachten
+zeitraum: 06.06-07.06.25
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\nwir (2 Personen) bräuchten einen Zeltplatz für eine Nacht vom Freitag 06.06 auf Samstag 07.06.\r\nVielen Dank."
+newsletter_consent: false

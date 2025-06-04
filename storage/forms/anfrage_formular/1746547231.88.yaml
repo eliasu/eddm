@@ -1,0 +1,11 @@
+form_name: 'David Schroff'
+Straße_Nr: 'Schubertrstraße 14'
+plz_stadt: '78464 Konstanz'
+form_email: da.schroff@icloud.com
+telefonnummer: '016095564917'
+angebote:
+  - übernachten
+zeitraum: '1 Übernachtung vom 29.05.25 auf den 30.05.25'
+personenanzahl: '2 Erwachsene'
+deine_nachricht: 'Gerne per Mail oder telefonisch (ab 15.45h) melden. Danke!'
+newsletter_consent: false

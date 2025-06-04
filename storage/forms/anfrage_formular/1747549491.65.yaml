@@ -1,0 +1,11 @@
+form_name: 'Claudia Westhaus'
+Straße_Nr: 'Germanenweg 2'
+plz_stadt: '22455'
+form_email: claudiawesthaus@gmail.com
+telefonnummer: '017672124653'
+angebote:
+  - übernachten
+zeitraum: 30.5-1.6
+personenanzahl: '1'
+deine_nachricht: "Hallo liebes Team,\r\n\r\ngibt es noch ein freies Bett an dem o.g. Wochenende?\r\n\r\nViele Grüße \r\nClaudia"
+newsletter_consent: false

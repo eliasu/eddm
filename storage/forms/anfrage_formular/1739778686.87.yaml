@@ -1,0 +1,11 @@
+form_name: 'Thomas Melchers'
+Straße_Nr: 'Achtert Wallen 15'
+plz_stadt: '26607 Aurich'
+form_email: thomas.melchers@arcor.de
+telefonnummer: '+49 157 80425080'
+angebote:
+  - übernachten
+zeitraum: 07.03.-11.03.2025
+personenanzahl: '1'
+deine_nachricht: "Hallo,\r\nich nehme an dem Seminar des PFAD am 08.03. teil. Ich würde gerne am Tag vorher anreisen und würde entweder am Sonntag (09.03.) oder am Dienstag (11.03.) wieder abreisen. Das genaue Datum würde ich kurzfristig abstimmen. Wollte fragen, ob es eine Übernachtungsmöglichkeit bei euch gibt.\r\nSchöne Grüße\r\nThomas Melchers"
+newsletter_consent: true

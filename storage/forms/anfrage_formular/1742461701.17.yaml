@@ -1,0 +1,11 @@
+form_name: 'Anne Meysing'
+Straße_Nr: 'Sentastraße 43'
+plz_stadt: '22083 Hamburg'
+form_email: anne.meysing@gmx.de
+telefonnummer: '015752040440'
+angebote:
+  - übernachten
+zeitraum: 'Kulturelle Landpartie'
+personenanzahl: '6'
+deine_nachricht: "Hallo,\r\nWir würden gerne zur kulturellen Landpartie bei euch übernachten. Letztes Jahr hatten wir euren Hof besucht und er ist uns in bleibender Erinnerung geblieben. Wir wollten daher mal anfragen ob es noch freie Zeltplätze gäbe oder ihr auch andere Übernachtungsmöglichkeiten anbietet (wenn ja zu welchen Preisen)? Wir sind an einer Übernachtung interessiert im Zeitraum zwischen dem 29.5 und 1.6 und ca 6-7 Personen. Vielen Dank vorab,\r\nLieber Gruß \r\nAnne"
+newsletter_consent: false

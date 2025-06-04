@@ -1,0 +1,11 @@
+form_name: 'Nicole Schaper'
+Straße_Nr: 'Vogt-Groth-Weg 22a'
+plz_stadt: '22609 Hamburg'
+form_email: npschaper@yahoo.de
+telefonnummer: '01724450008'
+angebote:
+  - übernachten
+zeitraum: 'Erbitte Angebote über freie Zeiten Freitag bis Sonntag'
+personenanzahl: '2'
+deine_nachricht: 'Wir möchten gern ein Appartement freitags bis sonntags mit 2 Schlafzimmern buchen, wann wäre denn noch was frei?'
+newsletter_consent: false

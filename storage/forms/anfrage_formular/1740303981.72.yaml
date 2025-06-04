@@ -1,0 +1,11 @@
+form_name: 'Jana Hoffmann'
+Straße_Nr: 'Lutterothstraße 88'
+plz_stadt: '20255 Hamburg'
+form_email: jana.hoffma@gmail.com
+telefonnummer: '017670978710'
+angebote:
+  - übernachten
+zeitraum: '6.6. - 9.6.'
+personenanzahl: '2-3 im Bulli'
+deine_nachricht: "Hallo,\r\n\r\nist noch ein Bullistellplatz bei euch frei in diesem Zeitraum?"
+newsletter_consent: false

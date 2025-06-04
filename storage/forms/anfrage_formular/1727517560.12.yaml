@@ -1,0 +1,11 @@
+form_name: 'Irma, Hinnenkamp'
+Straße_Nr: 'Hegerhoffstraße 14'
+plz_stadt: '49179 Ostercappeln'
+form_email: inga.hinnenkamp@gmx.de
+telefonnummer: '+4915234264036'
+angebote:
+  - übernachten
+zeitraum: 05.06.2025-08.06.2025
+personenanzahl: '2'
+deine_nachricht: "Hallo, habt ihr währen der KLP für den o.g. Zeitraum noch ein Doppelzimmer frei?\r\nLiebe Grüße, Irma Hinnenkamp"
+newsletter_consent: false

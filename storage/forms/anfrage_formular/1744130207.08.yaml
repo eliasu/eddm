@@ -1,0 +1,11 @@
+form_name: 'Ina Hofmann'
+Straße_Nr: 'Harburger Schloßstraße 45'
+plz_stadt: Hamburg
+form_email: hofmann.ina@gmx.net
+telefonnummer: '015906336057'
+angebote:
+  - übernachten
+zeitraum: 07.06.-09.06.2025
+personenanzahl: '2'
+deine_nachricht: "Hi Ihr, habt Ihr am Pfingstwochenende noch ein Plätzchen auf der Zeltwiese für uns frei? Wir sind zu zweit plus Räder und unser Zelt ist klein. \r\nWir freuen uns über Nachricht von Euch. Liebe Grüße \r\nIna und Flo"
+newsletter_consent: false

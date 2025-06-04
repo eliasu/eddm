@@ -1,0 +1,11 @@
+form_name: 'Katrin Dimmler'
+Straße_Nr: 'Talstraße 10'
+plz_stadt: '01099'
+form_email: katrindimmler@gmx.com
+telefonnummer: '015254576525'
+angebote:
+  - übernachten
+zeitraum: 29.-31.6.
+personenanzahl: '1'
+deine_nachricht: "Hallo liebes Team,\r\nich würde gerne bei euch im Haus übernachten. Von mir aus kann ich auch im Zimmer mit anderen schlafen.\r\nIch freue mich über Rückmeldung.\r\nViele Grüße, Katrin"
+newsletter_consent: false

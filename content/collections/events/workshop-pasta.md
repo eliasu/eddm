@@ -5,8 +5,8 @@ title: 'Pasta Palooza'
 date_type: 'single dates'
 dates:
   -
-    id: lslq0urg
-    date_field: '2024-12-31 11:37'
+    id: m4y2mk79
+    date_field: '2025-06-30 12:03'
     type: single_date
     enabled: false
 text_bard:
@@ -17,12 +17,12 @@ text_bard:
         type: text
         text: Teambuilding-Workshop
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
-        text: 'Personen: 8-25'
+        text: 'Personen: 8-20'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Dauer: 4 Stunden'
@@ -45,7 +45,7 @@ components:
         content:
           -
             type: text
-            text: 'Unter Anleitung unseres Kochs stellt ihr in zusammenarbeit zwei verschiedene Pasta Sorten her und genießt diese anschließend gemeinsam in unserem Gastraum am Holzofen. Die Rezepte nehmt ihr natürlich am Ende der Veranstaltung mit nach Hause.'
+            text: 'Unter Anleitung stellt ihr in Zusammenarbeit zwei verschiedene Pasta Sorten her und genießt diese anschließend gemeinsam in unserem Gastraum am Holzofen. Die Rezepte nehmt ihr natürlich am Ende der Veranstaltung mit nach Hause.'
       -
         type: paragraph
       -
@@ -61,7 +61,7 @@ components:
             type: text
             text: '1. Gang Passatelli in brodo'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Italienische Spätzle in Pilz Consommé'
@@ -72,12 +72,12 @@ components:
             type: text
             text: "2. Gang Ravioli al Limone\_"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Gefüllte Pasta mit Ricotta und Salzzitronen mit Schwarzkohl und Haselnüssen.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Dazu Hausgebackenes Focaccia und eingelegtes Gemüse'
@@ -90,10 +90,10 @@ components:
             type: text
             text: 48€/Person
           -
-            type: hard_break
+            type: hardBreak
     type: image_text_component
     enabled: true
-show_in_eventlist: true
+show_in_eventlist: false
 images_img: workshop_gastro_img_1004_a.jpg
 seotamic_title: title
 seotamic_title_prepend: true
@@ -104,8 +104,12 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1707924528
+updated_at: 1747988957
 tags:
   - seminar
+  - workshop
 duplicated_from: 7fbaa610-525f-4f56-9b79-6fd52309274d
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

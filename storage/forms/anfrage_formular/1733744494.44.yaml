@@ -1,0 +1,11 @@
+form_name: 'Mieke Feldmann'
+Straße_Nr: 'Hochstr. 31'
+plz_stadt: Düsseldorf
+form_email: mieke.feldmann@gmx.net
+telefonnummer: '015787031296'
+angebote:
+  - übernachten
+zeitraum: 30.05.-01.06.25
+personenanzahl: '5'
+deine_nachricht: 'Hallo! Wir suchen eine Unterkunft zur KLP, gerne falls möglich in Appartments. Ganz liebe Grüße!'
+newsletter_consent: false

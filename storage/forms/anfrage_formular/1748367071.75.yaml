@@ -1,0 +1,11 @@
+form_name: 'Verena Ribnitzky'
+Straße_Nr: 'Eisenbahnstr 25'
+plz_stadt: '04315 Leipzig'
+form_email: verena_ribnitzky@yahoo.de
+telefonnummer: '015901635440'
+angebote:
+  - übernachten
+zeitraum: 30.-1.6.
+personenanzahl: '2'
+deine_nachricht: "Hallo zusammen :)\r\nWir suchen noch eine Übernachtungsmöglichkeit für die KLP, ist ja bei euch noch was frei. \r\n\r\nLiebe Grüße \r\nVerena & Konrad"
+newsletter_consent: false

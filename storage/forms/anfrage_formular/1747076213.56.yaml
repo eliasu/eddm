@@ -1,0 +1,12 @@
+form_name: 'Anna Deeva'
+Straße_Nr: 'Jahnstrasse 34'
+plz_stadt: '37154'
+form_email: anna.dejewa@gmail.com
+telefonnummer: '01733583254'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 29.05.2025-31.05.2025
+personenanzahl: '3'
+deine_nachricht: 'Hallöchen, ich möchte gern ein Paar Tage bei euch mit meinen zwei Söhnen (8 und 14 Jahre alt) Ende Mai verbringen. Gäbe es noch ein freies Zimmer ? Vielen lieben Dank im Voraus. Anna'
+newsletter_consent: true

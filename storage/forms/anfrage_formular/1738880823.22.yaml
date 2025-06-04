@@ -1,0 +1,11 @@
+form_name: 'Ley Hartmann'
+Straße_Nr: 'Pascalstraße 7'
+plz_stadt: '10587'
+form_email: spacious@posteo.de
+telefonnummer: '017657695278'
+angebote:
+  - übernachten
+zeitraum: 28.03-30.03
+personenanzahl: '2'
+deine_nachricht: "Hey,\r\nIch wollte Mal fragen ob ihr noch einen Tiny Waggon in dieser Zeit für 2 Personen hättet? Und verstehe ich das richtig, dass Mensch bei euch Frühstücken kann? Und gibt es eine Küche die zu den anderen Mahlzeiten genutzt werden kann? \r\nLiebe Grüße"
+newsletter_consent: true

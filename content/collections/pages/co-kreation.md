@@ -4,6 +4,7 @@ published: false
 blueprint: component_page
 components:
   -
+    id: TFSZTgfD
     text_color: black
     background_color: none
     text_bard:
@@ -16,6 +17,7 @@ components:
     type: big_text_component
     enabled: true
   -
+    id: WueDC8o3
     headline_txt: 'Nachhaltigkeit im Kultursektor. >Standarts< findet raus wie das geht.'
     component_template: slider_left
     images_img:
@@ -37,10 +39,11 @@ components:
             type: text
             text: 'Bei der Neugestaltung der Zimmer haben wir auf einen nachhaltigen Mix aus stilvoll aufgearbeiteten Einzelstücken, eigenen Produktdesigns und Kollaboration mit Designern geachtet. Jedes Quartier wird mit viel Liebe zu einem individuellen Rückzugsort.'
           -
-            type: hard_break
+            type: hardBreak
       -
         type: set
         attrs:
+          id: AXZB5Buk
           values:
             type: button
             link_name_txt: standarts.org
@@ -51,6 +54,7 @@ components:
     type: image_text_component
     enabled: true
   -
+    id: AHPeZwY0
     headline_txt: Bademäntel
     component_template: slider_right
     images_img:
@@ -72,6 +76,7 @@ components:
     type: image_text_component
     enabled: true
   -
+    id: 8HPWgnC4
     headline_txt: moebil
     component_template: slider_left
     images_img:
@@ -91,7 +96,7 @@ title: Co-Kreation
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1669141013
+updated_at: 1736262311
 disable_header: true
 disable_eye-catcher: false
 seotamic_title: title
@@ -103,4 +108,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 select_type: global
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

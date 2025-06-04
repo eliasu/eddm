@@ -1,0 +1,14 @@
+form_name: 'Katja Mau'
+Straße_Nr: 'Ausschläger Elbdeich 127'
+plz_stadt: '20539 Hamburg'
+form_email: Katja.mau@hamburger-energienetze.de
+telefonnummer: '01607116026'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+  - 'Workshop buchen'
+zeitraum: 21.-22-05.2025
+personenanzahl: '15'
+deine_nachricht: "Hallo, ich bin auf der Suche nach einer Seminarmöglichkeit inkl. Verpflegung in kurzfristigen zwei Wochen. Euer Kalender ist voll, aber vielleicht habe ich ja doch Glück...?!\r\nFreue mich auf eine Rückmeldung.\r\nLiebe Grüße,\r\nKatja"
+newsletter_consent: false

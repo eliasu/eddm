@@ -1,0 +1,12 @@
+form_name: 'Friederike Bode'
+Straße_Nr: 'Böcklinstraße 6'
+plz_stadt: '38106 Braunschweig'
+form_email: friederike.bode@gmx.net
+telefonnummer: '01704903190'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 8.-10.11.24
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nhättet ihr an diesem Wochenende ein DZ für uns frei? Wir würden auch gerne bei euch frühstücken. Wir könnten morgen Abend gegen 20h anreisen. Eine kurze Info wäre prima! \r\nViele Grüße, Friederike"
+newsletter_consent: false

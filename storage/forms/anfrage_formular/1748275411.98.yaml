@@ -1,0 +1,11 @@
+form_name: 'Marie Hassel'
+Straße_Nr: 'Stresemannstr 313'
+plz_stadt: '22761 Hamburg'
+form_email: mariehassel@gmx.de
+telefonnummer: '+4915788205797'
+angebote:
+  - übernachten
+zeitraum: 30.5.-01.06.
+personenanzahl: '3'
+deine_nachricht: "Hallo,\r\nWir würden super gern übers Wochenende von der KLP bei euch Campen mit 2 kleinen Zelten. Auf der Website seid ihr ausgebucht, aber wir wollten fragen, ob vielleicht Personen abgesagt haben oder ihr doch noch ein Plätzchen für uns habt :)\r\nLiebe Grüße\r\nMarie und co"
+newsletter_consent: false

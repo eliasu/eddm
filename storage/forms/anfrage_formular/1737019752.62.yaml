@@ -1,0 +1,12 @@
+form_name: 'Lisa Brusius'
+Straße_Nr: 'Richardstr. 108'
+plz_stadt: '12043 Berlin'
+form_email: lisabrusius@gmail.com
+telefonnummer: '0176 99830184'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '29. Mai - 1. Juni'
+personenanzahl: '2 Erwachsene, 1 Kind (3 Jahre)'
+deine_nachricht: "Hallo, \r\nwir wollten fragen, ob es zufällig noch Platz für ein Zelt auf dem Zeltplatz gibt über Himmelfahrt. Gerne würden wir auch Frühstück buchen, wobei wir das dann evtl. als Teil einer größeren Gruppe tun würden.\r\nSchöne Grüße\r\nLisa"
+newsletter_consent: false

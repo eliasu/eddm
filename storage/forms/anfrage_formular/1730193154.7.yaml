@@ -1,0 +1,11 @@
+form_name: 'Heinrich Schneider'
+Straße_Nr: 'Limesstr. 15 15'
+plz_stadt: Eschborn
+form_email: heiner.schneider@web.de
+telefonnummer: '01704771961'
+angebote:
+  - übernachten
+zeitraum: 2.11.-3.11.24
+personenanzahl: '2'
+deine_nachricht: "Moin, wir würden gern eine Nacht bei euch in einem DZ mit Bad übernachten. Ist das möglich?\r\n\r\nVielen Dank für eine Antwort und svhöne Grüße,\r\nHeiner"
+newsletter_consent: false

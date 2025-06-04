@@ -1,0 +1,11 @@
+form_name: 'Benjamin Ikes'
+Straße_Nr: 'Paul-Robeson-Str. 9'
+plz_stadt: '10439'
+form_email: mail@benjaminikes.de
+telefonnummer: '01633308065'
+angebote:
+  - übernachten
+zeitraum: 06.-09.06
+personenanzahl: '4'
+deine_nachricht: "Liebes Team,\r\nWir würden über Pfingsten gerne bei euch übernachten (2 Erwachsene, 2 Kinder, 10 und 8). Miri und Arne haben uns gesagt, wir sollen anfragen, ob noch ein Zimmer frei ist, weil ab und zu jemand absagt.\r\nLieben Gruß aus Berlin\r\nBenjamin"
+newsletter_consent: false

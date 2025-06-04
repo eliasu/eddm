@@ -1,0 +1,12 @@
+form_name: 'Max Hädrich'
+Straße_Nr: 'Vor dem Steintor, 156'
+plz_stadt: Bremen
+form_email: max.haedrich@hotmail.de
+telefonnummer: '017684109107'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 28.5.-29.5.2025
+personenanzahl: '2'
+deine_nachricht: "Hey,\r\nWir (Lena und Max) wollten fragen, ob wir heute eine Nacht mit unserem BuLi auf eurer Campingwiese stehen können."
+newsletter_consent: false

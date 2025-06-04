@@ -1,0 +1,11 @@
+form_name: 'Julia Leibold'
+Straße_Nr: 'Colmarer Str.25'
+plz_stadt: '28211 Bremen'
+form_email: leibold.julia@gmx.de
+telefonnummer: 0151-73034750
+angebote:
+  - übernachten
+zeitraum: 6.6.-9.6.25
+personenanzahl: '12'
+deine_nachricht: '6 Erwachsene, 6 Kinder'
+newsletter_consent: false

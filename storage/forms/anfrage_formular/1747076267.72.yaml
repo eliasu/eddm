@@ -1,0 +1,11 @@
+form_name: 'Jule Terkatz'
+Straße_Nr: 'Grindelallee 166'
+plz_stadt: '20144 Hamburg'
+form_email: jule@terkatz.de
+telefonnummer: '01637307591'
+angebote:
+  - übernachten
+zeitraum: 11.07.-13-07.2025
+personenanzahl: '3'
+deine_nachricht: "Hallo,\r\nwie heute Nachmittag telefonisch besprochen möchte ich anfragen, ob es am Wochenende vom 11.07.-13.07.25 noch eine Übernachtungsmöglichkeit für drei Personen gibt. Wir teilen uns auch gern ein Zimmer mit Beistellbett (oder ein Tinyhaus, falls das zu dritt möglich ist). Wir würden uns sehr freuen.\r\nFreundliche Grüße\r\nJule Terkatz"
+newsletter_consent: false

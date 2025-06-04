@@ -1,0 +1,13 @@
+form_name: 'Sabine Madani'
+Straße_Nr: 'Leverkusenstieg 13,'
+plz_stadt: '22761 Hamburg'
+form_email: info@yogaundachtsamkeit.de
+telefonnummer: '015157973373'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: Oktober
+personenanzahl: '15'
+deine_nachricht: "Liebes Team,\r\nich suche etwas für ein (verlängertes) Yoga- Wochenende.\r\nIch kenne euren Hof von der KLP und mag es sehr bei Euch. Gibt es in diesem Jahr noch eine Möglichkeit??\r\nHerzliche Grüße aus Hamburg\r\nSabine"
+newsletter_consent: false

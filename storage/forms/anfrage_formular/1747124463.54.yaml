@@ -1,0 +1,11 @@
+form_name: 'Johanna Stracke'
+Straße_Nr: 'De Beern 1a'
+plz_stadt: '22159 Hamburg'
+form_email: johannastracke@web.de
+telefonnummer: '017620662008'
+angebote:
+  - übernachten
+zeitraum: Sommer
+personenanzahl: 3-4
+deine_nachricht: "Moin aus Hamburg,\r\n\r\nich möchte diesen Sommer gerne mit meinen beiden Kindern bei euch in einem der Wagen übernachten. Habt ihr da noch freie Zeiten Ende Juli (frühestens ab 25.7.)?\r\n\r\nLiebe Grüße,\r\n\r\nJohanna"
+newsletter_consent: true

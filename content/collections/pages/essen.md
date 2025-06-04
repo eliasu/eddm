@@ -3,6 +3,52 @@ id: bb1aa023-7670-4354-98a2-6c3c41b07bf1
 blueprint: component_page
 components:
   -
+    id: m8fp9qho
+    headline_txt: 'Die Essenz auf unseren Tellern'
+    component_template: pano_slider
+    images_img:
+      - 25_gastro_buffet_arne-5.jpg
+      - 25_gastro_dsc_9551_melbolag.jpg
+      - 25_gastro_dsc00803.jpeg
+      - 25_gastro_img_3570.jpg
+      - 25_gastro_-gastro_005.jpg
+    background_color: none
+    text_color: black
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Du bist, was du isst!'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "Qualitative Ressourcen aus guten Böden zu verwenden ist uns eine Herzensangelegenheit.\_"
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Daher verarbeiten wir regionale Produkte, biologisch angebaut, frisch geerntet aus der Solidarischen Landwirtschaft, nur zwei Dörfer weiter.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Nachhaltigkeit bedeutet für uns mehr als nur gute Produkte.'
+      -
+        type: set
+        attrs:
+          id: m8lxam07
+          values:
+            type: link
+            link_name_txt: 'Mehr zu unserem Gastrokonzept'
+            url: 'https://www.eindingdermoeglichkeit.com/gastrokonzept'
+            target_blank: false
+            link_type: url
+    type: image_text_component
+    enabled: true
+  -
     id: lmjhgk4y
     text_color: black
     background_color: none
@@ -14,7 +60,7 @@ components:
             type: text
             text: 'Wir legen Wert auf regionale Erzeugnisse: biologisch angebaut und saisonal gekocht. Ohne viel Chichi ist unsere Küche überwiegend vegetarisch.'
     type: big_text_component
-    enabled: true
+    enabled: false
   -
     id: EzezSQkH
     headline_txt: 'Du möchtest bei uns frühstücken?'
@@ -42,9 +88,9 @@ components:
         content:
           -
             type: text
-            text: 7€/Person
+            text: '7,50€/Person'
           -
-            type: hard_break
+            type: hardBreak
       -
         type: paragraph
       -
@@ -60,7 +106,7 @@ components:
             type: text
             text: 15€/Person
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '7,5€/Kinder (3-12 Jahre)'
@@ -74,7 +120,7 @@ components:
     enabled: true
   -
     id: cF8uw5A0
-    headline_txt: 'Seminar Verpflegung'
+    headline_txt: 'Gruppen Verpflegung'
     component_template: slider_right
     images_img:
       - gastro_005.jpg
@@ -92,7 +138,7 @@ components:
         content:
           -
             type: text
-            text: 'Seminare und Workshops erfordern viel Konzentration. Wir bieten euch ein Rundum-sorglos-Paket. Wie das aussehen soll, können wir gemeinsam entscheiden.'
+            text: 'Seminare, Workshops und Retreats erfordern viel Konzentration. Wir bieten euch ein Rundum-sorglos-Paket. Wie das aussehen soll, können wir gemeinsam entscheiden.'
       -
         type: paragraph
       -
@@ -101,10 +147,20 @@ components:
           id: ExNRvc9Z
           values:
             type: link
-            link_name_txt: 'Angebot herunterladen (pdf)'
+            link_name_txt: 'Angebot Seminare (pdf)'
             target_blank: true
-            link_type: asset
-            asset: pdfs/240117_eddm_gastro_angebot_gruppe.pdf
+            link_type: url
+            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250109_eddm_seminar_verpflegung.pdf'
+      -
+        type: set
+        attrs:
+          id: m5p8ko8o
+          values:
+            type: link
+            link_name_txt: 'Angebot Retreats (pdf)'
+            target_blank: true
+            link_type: url
+            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250109_eddm_retreat_verpflegung.pdf'
     type: image_text_component
     enabled: true
   -
@@ -183,9 +239,9 @@ components:
           values:
             type: link
             link_name_txt: 'Menü Beispiel herunterladen (pdf)'
-            asset: pdfs/230129_EDdM_Gastro_Event_BeispielMenue.pdf
             target_blank: true
-            link_type: asset
+            link_type: url
+            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/230129_EDdM_Gastro_Event_BeispielMenue.pdf'
     type: image_text_component
     enabled: true
   -
@@ -260,10 +316,10 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
-            text: 'Gemüse aus der Gärtnerei Marlin'
+            text: 'Gemüse aus der demeter Gärtnerei Marlin'
       -
         type: set
         attrs:
@@ -352,7 +408,7 @@ title: Essen
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1720629543
+updated_at: 1744280770
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title
@@ -364,4 +420,12 @@ seotamic_open_graph_description: meta
 seotamic_twitter_title: title
 seotamic_twitter_description: meta
 seotamic_custom_meta_description: 'Wir legen Wert auf regionale Erzeugnisse: biologisch angebaut und saisonal gekocht. Ohne viel Chichi ist unsere Küche überwiegend vegetarisch und vegan.'
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_meta_title: 'Regionale, Vegetarische Küche: Biologisch & Saisonal für Retreats und Veranstaltungen'
+alt_seo_meta_description: 'Genieße regionale, biologisch angebaute Köstlichkeiten aus unserer saisonalen, überwiegend vegetarischen Küche. Ideal für Yoga-Retreats, Hochzeiten oder individuell gestaltete Menüs ohne viel Chichi.'
+alt_seo_noindex: false
+alt_seo_nofollow: false
+alt_seo_social_title: 'Regionale, Vegetarische Küche: Biologisch & Saisonal für Retreats und Veranstaltungen'
+alt_seo_social_description: 'Genieße regionale, biologisch angebaute Köstlichkeiten aus unserer saisonalen, überwiegend vegetarischen Küche. Ideal für Yoga-Retreats, Hochzeiten oder individuell gestaltete Menüs ohne viel Chichi.'
+exclude_from_sitemap: false
 ---

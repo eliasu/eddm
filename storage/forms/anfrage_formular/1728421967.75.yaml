@@ -1,0 +1,11 @@
+form_name: 'Simon Becker'
+Straße_Nr: 'Kniebisstraße 25'
+plz_stadt: '76199 Karlsruhe'
+form_email: simon@b2302.de
+telefonnummer: '017620115869'
+angebote:
+  - übernachten
+zeitraum: 29.05–01.06.25
+personenanzahl: 18-20
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\n\r\nwir - eine Gruppe von Freunden aus der Schulzeit aus Aachen - versuchen uns jedes Jahr einmal über das Christi Himmelfahrt-Wochenende alle wiederzusehen, um zusammen zu wandern, zu paddeln oder ähnliche Freizeitaktivitäten wahrzunehmen.\r\nNachdem sonst immer viel in Süddeutschland stattfand, suchen wir nun nach Orten in Norddeutschland, um denen die es nach Hamburg, Lübeck oder Berlin verschlagen hat, die Anfahrt zu verkürzen.\r\n\r\nWir würden uns sehr über ein Angebot bezüglich ihres Hauses, bis zu 20 Betten, freuen.\r\nEine Verpflegung würden wir weitesgehend selbst organisieren.\r\n\r\nMit den besten Grüßen aus Karlsruhe\r\nSimon Becker"
+newsletter_consent: false

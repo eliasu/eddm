@@ -1,0 +1,12 @@
+form_name: 'Nina Wienkoop'
+Straße_Nr: 'Kanalstraße 10c'
+plz_stadt: '22085 Hamburg'
+form_email: nina.wienkoop@posteo.de
+telefonnummer: '017683267111'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '25.-28. April 2025'
+personenanzahl: '2'
+deine_nachricht: "Liebes Team vom Ding-der-Möglichkeiten, gerne würden wir zu zweit für ein Wochenende zu euch kommen. Welche Übernachtungsoptionen wären noch frei in dem Zeitraum?\r\nHerzlich, Nina"
+newsletter_consent: true

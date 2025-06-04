@@ -1,0 +1,11 @@
+form_name: 'Simon Becker'
+Straße_Nr: 'Kniebisstraße 25'
+plz_stadt: '76199 Karlsruhe'
+form_email: simon@b2302.de
+telefonnummer: '017620115869'
+angebote:
+  - essen
+zeitraum: 29.05–01.06.25
+personenanzahl: 18-20
+deine_nachricht: "... als Nachtrag, eben noch La Dolce Vita und die Snackeria entdeckt, das wäre evtl auch für uns an einem Abend bzw Nachmittag, oder das Frühstück am Morgen interessant.\r\nKommt natürlich ganz auf das Angebot und unser Budget an.\r\n\r\nFür unsere Unterbringung haben wir bis zu 3.000,-€ zur Verfügung.\r\n\r\nBeste Grüße \r\nSimon Becker"
+newsletter_consent: false

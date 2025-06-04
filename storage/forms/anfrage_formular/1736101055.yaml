@@ -1,0 +1,11 @@
+form_name: 'Lena Schläfer'
+Straße_Nr: 'Agilolfstraße 2'
+plz_stadt: '50678 Köln'
+form_email: lena-schlaefer@t-online.de
+telefonnummer: '015167603818'
+angebote:
+  - übernachten
+zeitraum: 22.-23.2.25
+personenanzahl: '2'
+deine_nachricht: "Hallo liebes Team, \r\nWir sind Lena und Rouven und würden sehr gerne vom 22. auf den 23.2. bei euch im Bauwagen unterkommen. Ist das möglich? \r\nWir freuen uns auf eure Rückmeldung. \r\nHerzliche Grüße \r\nLena Schläfer"
+newsletter_consent: true

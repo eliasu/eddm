@@ -81,7 +81,7 @@ grid_field:
     underline_txt: 'Offsites & Seminare'
     images_img: teamoffsite_img_2418.jpg
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1726038811
+updated_at: 1741082243
 big_text_txt:
   -
     type: paragraph
@@ -261,4 +261,11 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 images_img: 231016_eddm_hero_rundling.jpg
+alt_seo_meta_title: 'Erholung & Kreativität im Wendland: Seminare, Workshops, Kunst & Übernachtungen'
+alt_seo_meta_description: 'Inspirierende Seminare, kreative Workshops, entspannende Retreats und genieße vielfältige Kunst- und Kulturangebote. Arbeite und gestalte im modernen Kreativ- und InnovationsLab.'
+alt_seo_noindex: false
+alt_seo_nofollow: false
+alt_seo_social_title: 'Erholung & Kreativität im Wendland: Seminare, Workshops, Kunst & Übernachtungen'
+alt_seo_social_description: 'Inspirierende Seminare, kreative Workshops, entspannende Retreats und genieße vielfältige Kunst- und Kulturangebote. Arbeite und gestalte im modernen Kreativ- und InnovationsLab.'
+exclude_from_sitemap: false
 ---

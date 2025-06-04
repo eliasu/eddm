@@ -1,0 +1,10 @@
+form_name: 'Sina Bein'
+Straße_Nr: 'Imkerstieg 14'
+plz_stadt: Lüneburg
+form_email: sinabein@gmail.com
+angebote:
+  - übernachten
+zeitraum: Pfingsten
+personenanzahl: '2 Erw 3 Kleinkinder'
+deine_nachricht: "Hallo, \r\n\r\nkönnen wir bei euch Pfingsten mit einem Auto und einem Zelt 2 Nächte schlafen und frühstücken? \r\n\r\nGruß Sina"
+newsletter_consent: false

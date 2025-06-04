@@ -1,0 +1,11 @@
+form_name: 'Conny Krause'
+Straße_Nr: 'Lange Str 24'
+plz_stadt: '29465 Schnega'
+form_email: krause-conny@t-online.de
+telefonnummer: 05849-675
+angebote:
+  - essen
+zeitraum: 16.10.24
+personenanzahl: 'Ca 30'
+deine_nachricht: "Es geht um ein Beerdigungskaffee mit ca 30 Personen. Würde dies gerne auch mit der Küche kommunizieren.\r\nLiebe Grüße Conny"
+newsletter_consent: true

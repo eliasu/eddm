@@ -1,0 +1,11 @@
+form_name: 'Kristin Appelt'
+Straße_Nr: 'Vorstadt 2'
+plz_stadt: '78234 Engen'
+form_email: kristin.appelt@posteo.de
+telefonnummer: '017643833502'
+angebote:
+  - übernachten
+zeitraum: '29.05. - 01.06.25'
+personenanzahl: '6'
+deine_nachricht: 'Wir würden gerne mit 3 Zelten auf das Zeltfeld.'
+newsletter_consent: false

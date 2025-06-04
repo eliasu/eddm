@@ -1,0 +1,11 @@
+form_name: 'Alice Beigang'
+Straße_Nr: 'Gäblerstr 19'
+plz_stadt: '13086 Berlin'
+form_email: a.beigang@gmx.net
+telefonnummer: '01776001567'
+angebote:
+  - übernachten
+zeitraum: '15. - 19. Juni'
+personenanzahl: '2 (+7 Monate altes Baby)'
+deine_nachricht: "Liebes Team, Wir würden gerne für 3-4 Nächte das Appartement mit einem Schlafzimmer mieten. Wir sind 2 Erwachsene und ein Baby. Jonas Weydemann ist ein Freund von uns und hat uns den Tipp mit eurem Hof gegeben:)\r\nLiebe Grüße Alice"
+newsletter_consent: false

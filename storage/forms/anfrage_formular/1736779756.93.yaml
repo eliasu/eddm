@@ -1,0 +1,11 @@
+form_name: 'Margarete Groß'
+Straße_Nr: 'Benrother Str. 50'
+plz_stadt: '51588 Nümbrecht'
+form_email: margaretegross@web.de
+telefonnummer: '01773290643'
+angebote:
+  - übernachten
+zeitraum: '26./ 27.01. 2025'
+personenanzahl: '2'
+deine_nachricht: "Hallo und guten Tag\r\n\r\nWir kennen uns. Ich bin die Mutter von Jonas, eurem lieben Nachbarn.\r\nWir sind auf der Durchreise und machen einen Besuch bei meinem Sohn.\r\nWir hätten gerne ein einfaches Doppelzimmer, gerne auch Bad auf dem Flur.\r\nLiebe Grüße aus dem Oberbergischen\r\nMargarete Groß"
+newsletter_consent: false

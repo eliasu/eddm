@@ -1,0 +1,11 @@
+form_name: 'Birke Behr'
+Straße_Nr: 'Große Freiheit 82'
+plz_stadt: '22767 Hamburg'
+form_email: bb@birkebehr.de
+telefonnummer: '15124141197'
+angebote:
+  - übernachten
+zeitraum: 31.5./1.6./2.6.
+personenanzahl: '2'
+deine_nachricht: "Heija ihr Tollen!\r\n..falls kurzfristig etwas frei wird, würde ich mich seeeehrsehr über eiben Schlafplatz freuen..\r\n\r\nLiebegrüße aus Hamburg,\r\nBirke"
+newsletter_consent: true

@@ -5,38 +5,8 @@ title: 'Kundalini Yoga mit Anne'
 date_type: 'single dates'
 dates:
   -
-    id: lv3gx9t4
-    date_field: '2024-08-08 16:30'
-    type: single_date
-    enabled: true
-  -
-    id: lzgyfvt7
-    date_field: '2024-08-29 18:00'
-    type: single_date
-    enabled: true
-  -
-    id: lzl9ewd3
-    date_field: '2024-09-26 18:00'
-    type: single_date
-    enabled: false
-  -
-    id: m0wf79xf
-    date_field: '2024-09-29 18:00'
-    type: single_date
-    enabled: true
-  -
-    id: m0wf7u33
-    date_field: '2024-10-10 18:00'
-    type: single_date
-    enabled: true
-  -
-    id: m0wf8dft
-    date_field: '2024-10-24 18:00'
-    type: single_date
-    enabled: true
-  -
-    id: m0wf8wgi
-    date_field: '2024-11-21 18:00'
+    id: m9a0woy2
+    date_field: '2025-05-08 18:00'
     type: single_date
     enabled: true
 text_bard:
@@ -93,7 +63,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: klp24_annemeyer_kundaliniyoga.jpg
+images_img: eddm_spaces_seminarraum_100_23_yoga_1.jpg
 tags:
   - workshop
   - kultur
@@ -105,8 +75,8 @@ seotamic_open_graph_title: title
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
-updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726681457
+updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
+updated_at: 1746106371
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false

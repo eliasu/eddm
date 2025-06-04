@@ -1,0 +1,11 @@
+form_name: 'Kristina Klessmann'
+Straße_Nr: 'Im Dorf 8'
+plz_stadt: '27336 Rethem'
+form_email: hallo@betahof.de
+telefonnummer: '015168843353'
+angebote:
+  - übernachten
+zeitraum: 08.03-09.03.25
+personenanzahl: '2'
+deine_nachricht: "Huhu ihr Lieben, \r\nWir fragen uns, ob ihr spontan noch ein Doppelzimmer (oder was anderes für 2) von samstag auf Sonntag frei habt?!\r\nLiebe Grüße vom Beta Hof \r\nStefan und kristina  \r\nWürde uns freuen"
+newsletter_consent: false

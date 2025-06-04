@@ -1,0 +1,11 @@
+form_name: 'Bettina Frank'
+Straße_Nr: Paulinenallee
+plz_stadt: Hamburg
+form_email: frankbettinaa@gmail.com
+telefonnummer: '01632602396'
+angebote:
+  - übernachten
+zeitraum: 30.05-01.06.25
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nmein Freund und ich würden gerne mit unserem Camper (Kastenwagen) bei euch während der KLP übernachten.\r\nFreunde von uns zelten bei euch und haben uns so sehr von den letzen Jahren vorgeschwärmt, dass wir auch gerne dabei wären. \r\nIhr schreibt, dass nur zwei Nächte möglich sind, für uns wären 1-2 Nächte ideal.\r\nGanz liebe Grüße \r\nBettina"
+newsletter_consent: false

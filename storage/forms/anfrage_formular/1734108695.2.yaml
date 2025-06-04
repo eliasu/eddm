@@ -1,0 +1,13 @@
+form_name: 'Bastian Weidemann'
+Straße_Nr: 'Prinzenstr. 85'
+plz_stadt: Berlin
+form_email: bastian.weidemann@modulor.de
+telefonnummer: '01732494259'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '10. bis 13.04.2025'
+personenanzahl: '40 bis 50'
+deine_nachricht: 'liebe leute, sagt mal, meint ihr es wäre möglich, vom 10. bis 13. april euren wunderbaren, gesamten hof zu mieten, um dort möglichst viele freunde und familie zu meinem 40. geburtstag zusammenzubringen? laut plan sieht das noch möglich aus. ich bin basti und meine kolleg*innen bei modulor haben schon viel von euch erzählt! das wäre so toll, wenn das klappt! bestes aus berlin!'
+newsletter_consent: true

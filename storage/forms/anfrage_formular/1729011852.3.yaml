@@ -1,0 +1,11 @@
+form_name: 'Petra Levermann'
+Straße_Nr: 'Am Kreuzberg 4'
+plz_stadt: Düsseldorf
+form_email: p.levermann@t-online.de
+telefonnummer: '01638844872'
+angebote:
+  - übernachten
+zeitraum: 28.11.2024-02.12.2024
+personenanzahl: '1 Einzelzimmer mit Frühstück'
+deine_nachricht: "Guten Abend!\r\nIch möchte für den oben genannten Zeitraum die Kosten für ein Einzelzimmer mit gluten- und laktosefreiem Frühstück anfragen. Vielen Dank schon jetzt für eine Rückmeldung!\r\nFreundliche Grüße aus Düsseldorf\r\nPetra Levermann"
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Claudia Krohn'
+Straße_Nr: 'Wulfsdorfer Weg 3'
+plz_stadt: '22359'
+form_email: krohncl@web.de
+telefonnummer: '017621255936'
+angebote:
+  - übernachten
+zeitraum: 'So, 8.6.2025-Mo, 9.6.2025'
+personenanzahl: '2'
+deine_nachricht: 'Freunde von uns sind ab Fr/Sa bei euch auf der Wiese und wir können aber leider nur für eine Nacht dazukommen und hoffen auf ein Zimmer bei euch.'
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Eva, Krämer'
+Straße_Nr: 'Billeweg 40'
+plz_stadt: '21465 Wentorf'
+form_email: cordalisev@gmail.com
+telefonnummer: '00491723131002'
+angebote:
+  - übernachten
+zeitraum: 31.05.-01.06.
+personenanzahl: '2'
+deine_nachricht: 'Hallo Zusammen, ich wollte fragen ob eine Übernachtung für eine Nacht möglich ist. Wäre wundervoll. Herzliche Grüße, Eva'
+newsletter_consent: false

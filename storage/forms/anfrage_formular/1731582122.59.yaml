@@ -1,0 +1,11 @@
+form_name: 'Sarah Leinkauf'
+Straße_Nr: Barnerstr.2
+plz_stadt: '22765 Hamburg'
+form_email: s.leinkauf@gmx.de
+telefonnummer: '17627227975'
+angebote:
+  - übernachten
+zeitraum: 6.6.-9.6.
+personenanzahl: '10'
+deine_nachricht: "Wir würden gerne im Rahmen der kulturellen Landpartie mit 3-4 Bullys und Familie und Freund*innen auf eurem Hof stehen. Ist das möglich? \r\n\r\nViele Grüße\r\nSarah"
+newsletter_consent: false

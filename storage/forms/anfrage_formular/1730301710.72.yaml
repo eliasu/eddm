@@ -1,0 +1,13 @@
+form_name: 'Lasse Reusch'
+Straße_Nr: 'Neuer Pferdemarkt 21'
+plz_stadt: Hamburg
+form_email: lassereusch@gmail.com
+telefonnummer: '015141351421'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 21.02.25-23.02.25
+personenanzahl: '10'
+deine_nachricht: "Hallo Liebes Ding der Möglichkeiten Team. \r\n\r\nWir würden gerne für ein Workshop Wochenende bei euch einziehen. Wir bräuchten, Seminar räume inkl. Ausstattung. Aber auch Möglichkeiten wie eure Sauna um eine gute Zeit zu haben. \r\n\r\nDie Personen am besten in Einzel oder Doppelzimmer untergebracht. \r\n\r\nLiebe Grüße aus Hamburg. \r\n\r\nLasse"
+newsletter_consent: false

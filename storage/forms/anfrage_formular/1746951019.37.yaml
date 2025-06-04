@@ -1,0 +1,11 @@
+form_name: 'Stefan Heinrich'
+Straße_Nr: 'Holbeinstraße 13'
+plz_stadt: Schwabach
+form_email: st.einrich@t-online.de
+telefonnummer: '017681248479'
+angebote:
+  - übernachten
+zeitraum: 29.05-31.05
+personenanzahl: '1'
+deine_nachricht: "Hallo, ich möchte für eine Übernachtung für eine Person anfragen. In einem EZ oder einem Wagen.\r\nIm o.g. Zeitraum oder während der KLP.\r\nDanke viele Grüße \r\nStefan Heinrich."
+newsletter_consent: false

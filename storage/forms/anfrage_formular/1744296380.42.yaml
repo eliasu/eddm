@@ -1,0 +1,12 @@
+form_name: 'Doina Mizil'
+Straße_Nr: 'Neue Promenade 6, 4. Stock'
+plz_stadt: Berlin
+form_email: doina.mizil@europeanclimate.org
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 21.05-23.05
+personenanzahl: '15'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\n \r\nich würde gerne wissen, ob Sie für eine Team-Klausur vom 21. bis 23. Mai Zeit haben. Wir sind ein Team von 15 Personen. Wir würden Mittwoch vor dem Mittagessen ankommen und Freitag nach dem Mittagessen abreisen. Haben Sie noch Plätze frei?\r\nIch danke Ihnen!"
+newsletter_consent: false

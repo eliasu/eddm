@@ -1,0 +1,11 @@
+form_name: 'Anton Edler'
+Straße_Nr: 'Letteallee 90'
+plz_stadt: '13409 Berlin'
+form_email: info@edlersound.com
+telefonnummer: '015123323594'
+angebote:
+  - 'Spaces mieten'
+zeitraum: '31.12.2024 - 01.01.2025'
+personenanzahl: '200'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\n\r\nhiermit möchte ich Ihnen eine Anfrage zu einem folgender Räume stellen: Kulturscheune oder Freiraum.\r\nIch komme ursprünglich aus dem Wendland und würde gerne in einem dieser Räume eine Veranstaltung an Silvester planen.\r\n\r\nMit freundlichen Grüßen \r\nAnton Edler"
+newsletter_consent: false

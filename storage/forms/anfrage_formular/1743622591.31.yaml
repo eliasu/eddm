@@ -1,0 +1,11 @@
+form_name: 'Anna Lerch'
+Straße_Nr: 'Pfalzburger Str. 82'
+plz_stadt: '10719 Berlin'
+form_email: annalerch@posteo.de
+telefonnummer: '01627672912'
+angebote:
+  - übernachten
+zeitraum: 6.-8.6.25
+personenanzahl: '2'
+deine_nachricht: "Guten Abend,\r\nwahrscheinlich habt ihr während der KLP nichts mehr frei, aber ich versuch‘s trotzdem mal …\r\nViele Grüße,\r\nAnna"
+newsletter_consent: false

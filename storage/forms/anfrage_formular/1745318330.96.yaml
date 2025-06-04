@@ -1,0 +1,13 @@
+form_name: 'Susanne Hylla'
+Straße_Nr: 'Bahnhofsplatz 22-28'
+plz_stadt: Bremen
+form_email: Susanne.hylla@verdi.de
+telefonnummer: '015141855387'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '24/25.Juni 2025'
+personenanzahl: '8'
+deine_nachricht: "Hallo,\r\n\r\nwir suchen für unseren Teamausflug eine Übernachtungsmöglichkeit inkl. Seminarraum.\r\nWir sind 8 Menschen und benötigen Einzelzimmer.\r\n\r\nLiebe Grüße Susanne"
+newsletter_consent: false

@@ -6,7 +6,7 @@ date_type: 'single dates'
 dates:
   -
     id: pVnBLPYE
-    date_field: '2024-09-15 09:00'
+    date_field: '2025-02-15 09:00'
     type: single_date
     enabled: true
 text_bard:
@@ -21,7 +21,7 @@ text_bard:
     content:
       -
         type: text
-        text: 'Am Sonntag, 15.09.2024 von 9:00 –  18:30 Uhr'
+        text: 'Am Samstag, 15.02.2025 von 9:00 –  18:30 Uhr'
   -
     type: paragraph
     content:
@@ -84,7 +84,7 @@ components:
             type: text
             text: 'Weitere Informationen und Anmeldung unter:'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -103,7 +103,7 @@ components:
             type: text
             text: 'Bei Fragen melde Dich gerne unter:'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -116,7 +116,7 @@ components:
                   title: null
             text: kontakt@mora-institut.de
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 05841-1309528
@@ -136,5 +136,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1719404454
+updated_at: 1729511668
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

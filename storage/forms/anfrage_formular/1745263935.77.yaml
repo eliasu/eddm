@@ -1,0 +1,11 @@
+form_name: 'Jens Kujat'
+Straße_Nr: 'Fischkaten 42 b'
+plz_stadt: '23970 Wismar'
+form_email: jkujat@web.de
+telefonnummer: '03841228788'
+angebote:
+  - übernachten
+zeitraum: '09.05. bis 11.05.25'
+personenanzahl: '2'
+deine_nachricht: 'Guten Abend, wir werden im o.g. Zeitraum bei Hendrik Hinrichs einen Drechselkurs machen. Könnten wir bei Ihnen übernachten und den Clownswagen mieten? Mit freundlichen Grüßen Jens Kujat'
+newsletter_consent: false

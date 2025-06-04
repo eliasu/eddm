@@ -1,0 +1,11 @@
+form_name: 'Monika Schankin'
+Straße_Nr: Leverkusenstr.18
+plz_stadt: Hamburg
+form_email: M.Schankin@hamburg.de
+telefonnummer: '0402708138'
+angebote:
+  - übernachten
+zeitraum: '06.06.25 - 09.06.25'
+personenanzahl: '1'
+deine_nachricht: "Seid ihr in der Nähe (Fahrrad!) der Aktivitäten der Kulturellen Landpartie angesiedelt?\r\nVG\r\nMonika"
+newsletter_consent: false

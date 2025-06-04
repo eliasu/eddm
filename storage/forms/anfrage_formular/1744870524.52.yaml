@@ -1,0 +1,11 @@
+form_name: 'Oli Schmidt'
+Straße_Nr: 'Sprengelstraße 42'
+plz_stadt: Berlin
+form_email: schmidt.jan.oliver@gmail.com
+telefonnummer: '015755827437'
+angebote:
+  - übernachten
+zeitraum: 7.6-9.6.25
+personenanzahl: '2'
+deine_nachricht: "Hi,\r\n\r\nich wollte mich erkundigen, ob Ihr für den angegebenen Zeitraum noch Schlafplätze zur Verfügung habt. Cool fände ich einen der Wagen, oder sonst auch ein normales Doppelzimmer. Ich freu mich auf eure Rückmeldung!\r\nLG und frohe Ostern\r\n\r\nOli"
+newsletter_consent: false

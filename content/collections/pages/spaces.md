@@ -14,15 +14,13 @@ text_bard:
   -
     type: set
     attrs:
-      id: lfxscyh0
+      id: m92r1ro9
       values:
         type: link
         link_name_txt: 'Übersicht (pdf)'
+        url: 'https://eindingdermoeglichkeit.com/assets/pdfs/240918_eddm_spaces_overview.pdf'
         target_blank: true
-        link_type: asset
-        asset: pdfs/240918_eddm_spaces_overview.pdf
-  -
-    type: paragraph
+        link_type: url
 components:
   -
     id: NJ28fHI8
@@ -284,14 +282,14 @@ components:
     headline_txt: 'Kulturscheune (320m²)'
     component_template: slider_left
     images_img:
-      - eddm_spaces_kulturscheune_sophiahegewald-5915.jpg
       - EDdM_Spaces_Kulturscheune_01.jpg
       - EDdM_Spaces_Kulturscheune_03.jpg
       - eddm_spaces_kulturscheune_3254-124.jpg
       - eddm_spaces_kulturscheune_20220528-dsc06846.jpg
-      - EDdM_Spaces_Kulturscheune_02.jpg
+      - eddm_spaces_kulturscheune_sophiahegewald-5915.jpg
       - eddm_spaces_kulturscheune_sophiahegewald-5927.jpg
       - eddm_spaces_kulturscheune_3254-145.jpg
+      - spaces_kulturscheune_img_7875_ninaborrusch.jpg
     background_color: none
     text_color: black
     text_bard:
@@ -300,7 +298,7 @@ components:
         content:
           -
             type: text
-            text: "Unser Saal\_bietet bestuhlt Platz für bis zu 300 Personen und die Möglichkeit für größere Veranstaltungen, Panels oder Summer Schools. Hier kann von Mai bis Oktober diskutiert, gefeiert und getanzt werden. Ausgestattet mit einer Bühne hat der Saal zahlreiche kulturelle und private Veranstaltungen gehostet."
+            text: "Unser Saal\_bietet bestuhlt Platz für bis zu 300 Personen und die Möglichkeit für größere Veranstaltungen, Panels oder Summer Schools. Hier kann von Mai bis Oktober diskutiert, gegessen, gefeiert und getanzt werden. Ausgestattet mit einer Bühne hat der Saal zahlreiche kulturelle und private Veranstaltungen gehostet."
       -
         type: paragraph
         content:
@@ -350,10 +348,14 @@ seotamic_open_graph_title: title
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
-updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726681841
+updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
+updated_at: 1743769048
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_meta_title: 'Vielseitige Räume: Coworking, Seminare, Yoga & Sauna für Arbeit und Entspannung'
+alt_seo_meta_description: 'Entdecke unsere vielseitigen Räume: Ob Coworking Arbeitsplatz, Seminarraum, Atelier, Yoga oder Sauna – unsere Spaces bieten die perfekte Balance zwischen Arbeiten und entspanntem Abschalten.'
 alt_seo_noindex: false
 alt_seo_nofollow: false
+alt_seo_social_title: 'Vielseitige Räume: Coworking, Seminare, Yoga & Sauna für Arbeit und Entspannung'
+alt_seo_social_description: 'Entdecke unsere vielseitigen Räume: Ob Coworking Arbeitsplatz, Seminarraum, Atelier, Yoga oder Sauna – unsere Spaces bieten die perfekte Balance zwischen Arbeiten und entspanntem Abschalten.'
 exclude_from_sitemap: false
 ---

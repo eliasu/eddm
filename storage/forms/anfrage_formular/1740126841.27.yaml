@@ -1,0 +1,11 @@
+form_name: 'Peter Müller'
+Straße_Nr: 'Löwenstr. 61'
+plz_stadt: Hamburg
+form_email: peterhmb@t-online.de
+telefonnummer: '01755254426'
+angebote:
+  - übernachten
+zeitraum: '4.6.-5.6.25 ( flexibel)'
+personenanzahl: '2'
+deine_nachricht: "Guten Morgen,\r\nIn dem Zeitraum 3.-6.6. würde ich gerne für eine Nacht für 2 Personen buchen."
+newsletter_consent: false

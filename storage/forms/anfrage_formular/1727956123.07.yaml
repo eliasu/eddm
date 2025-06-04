@@ -1,0 +1,11 @@
+form_name: 'Lina Rahlf'
+Straße_Nr: 'Kleine Brunnenstraße 14'
+plz_stadt: '22765'
+form_email: linarahlf@gmx.de
+telefonnummer: '01736211055'
+angebote:
+  - übernachten
+zeitraum: 12.10.-14.10.24
+personenanzahl: '2'
+deine_nachricht: "Hallo Ihr Lieben, wir würden gerne 1-2 Nächte im wilden oder Clownswagen verbringen. Sind die Daten noch frei? \r\n\r\nAlles Liebe, Lina"
+newsletter_consent: false

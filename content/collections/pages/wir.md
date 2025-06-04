@@ -22,7 +22,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir sind derzeit 9 Erwachsene und 3 Kinder, die aus Berlin und Hamburg hier ins Wendland gezogen sind. Unser Gründungsteam verbindet langjährige Freundschaften und besteht aus Menschen mit sehr unterschiedlichen Skillsets. Beruflich waren wir in der Kreativbranche, im Kultursektor, in der Transformationsberatung und im Möbelbau zu Hause. Und so verstehen wir uns selbst als cross-funktionales Team.'
+            text: 'Wir sind derzeit 11 Erwachsene und 3 Kinder, die aus Berlin und Hamburg hier ins Wendland gezogen sind. Unser Gründungsteam verbindet langjährige Freundschaften und besteht aus Menschen mit sehr unterschiedlichen Skillsets. Beruflich waren wir in der Kreativbranche, im Kultursektor, in der Transformationsberatung und im Möbelbau zu Hause. Und so verstehen wir uns selbst als cross-funktionales Team.'
     type: image_text_component
     enabled: true
   -
@@ -328,8 +328,8 @@ components:
 title: Wir
 hide_specials_modal: false
 template: component_page
-updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
-updated_at: 1726514530
+updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
+updated_at: 1740645593
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title
@@ -342,7 +342,11 @@ seotamic_twitter_title: title
 seotamic_twitter_description: meta
 seotamic_custom_meta_description: 'Wir sind derzeit 8 Erwachsene und 5 Kinder, die im Januar 2021 aus Berlin und Hamburg hier ins Wendland gezogen sind.'
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_meta_title: 'Cross-funktionales Team im Wendland: Kreativbranche, Kultur & Möbelbau'
+alt_seo_meta_description: 'Wir sind 11 Erwachsene + 3 Kinder, vereint durch langjährige Freundschaften und vielfältige Fähigkeiten. Von der Kreativbranche über Kultur und Transformationsberatung bis hin zum Möbelbau.'
 alt_seo_noindex: false
 alt_seo_nofollow: false
+alt_seo_social_title: 'Cross-funktionales Team im Wendland: Kreativbranche, Kultur & Möbelbau'
+alt_seo_social_description: 'Wir sind 11 Erwachsene + 3 Kinder, vereint durch langjährige Freundschaften und vielfältige Fähigkeiten. Von der Kreativbranche über Kultur und Transformationsberatung bis hin zum Möbelbau.'
 exclude_from_sitemap: false
 ---

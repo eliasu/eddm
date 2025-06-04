@@ -1,0 +1,11 @@
+form_name: 'Peter Beekmann'
+Straße_Nr: 'Borselstraße 36'
+plz_stadt: '22765 Hamburg'
+form_email: peter.beekmann@gmx.net
+telefonnummer: '01727514735'
+angebote:
+  - übernachten
+zeitraum: 06.06.2025-08.09.2025
+personenanzahl: '2'
+deine_nachricht: 'Moin aus Hamburg! Ich probiere mal mein Glück und frage euch, ob es zufällig und ausgerechnet am nächsten Wochenende noch ein freies Doppelzimmer bei euch gibt. Falls nicht, haltet mich gerne auf dem Laufenden, was sonst noch so los ist bei euch. LG Peter'
+newsletter_consent: true

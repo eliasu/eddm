@@ -1,0 +1,12 @@
+form_name: 'Bert Tinnermann'
+Straße_Nr: 'Eichenweg 5'
+plz_stadt: '21337 Lüneburg'
+form_email: bert.tinnermann@gmx.de
+telefonnummer: '0413182522'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 04.06.-06.06.2025
+personenanzahl: '10'
+deine_nachricht: "Liebe Julia,\r\nich nehme Bezug auf das soeben geführte nette Telefongespräch. Wie schon gesagt, sind wir 10 Personen (5 Paare), die sich seit der Referendarzeit von vor vielen Jahren kennen und gern zusammen aktiv sind. In diesem Jahr wollen wir die Kulturelle Landpartie besuchen und zwar vom 04.-06.Juni und suchen dafür eine gemeinsame Unterkunft.\r\nIch würde mich freuen, wenn Du ein interessantes Angebot für mich hättest.\r\nHerzliche Grüße\r\nBert Tinnermann"
+newsletter_consent: true
