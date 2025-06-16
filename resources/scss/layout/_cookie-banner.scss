@@ -34,6 +34,7 @@
 		justify-content: center;
 		align-items: center;
 		overflow: scroll;
+		display: none;
 
 		@include respond(small) { 
 			align-items: flex-end;
