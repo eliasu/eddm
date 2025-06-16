@@ -1,0 +1,12 @@
+form_name: 'Axel Liebich'
+Straße_Nr: 'Rütgerweg 3'
+plz_stadt: Hamburg
+form_email: axel.liebich@ifeu.de
+telefonnummer: '016099108585'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: 12.01.2026-16.01.2026
+personenanzahl: '7'
+deine_nachricht: "Wir sind ein Team des Heidelberger ifeu (gemeinnütziges Institut für Energie- und Umweltforschung) und suchen aktuell nach einer Location für unser Team-Retreat für nächstes Jahr. Da ich das Herrenhaus aus anderen Zusammenhänge kenne, könnte ich mir gut vorstellen, dieses in euren Räumlichkeiten durchzuführen. Hättet ihr in dem genannten Zeitraum Platz für uns? Wir bräuchten 7 Zimmer, ein Raum für die Arbeit (z.B. Wiesenwinkel) und die Möglichkeit zu kochen, da wir das Kochen auch als wichtigen Bestandteil der Teamentwicklung sehen. Wäre das möglich und wie teuer käme das?\r\nLiebe Grüße, Axel"
+newsletter_consent: true

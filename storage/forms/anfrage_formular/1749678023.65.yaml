@@ -1,0 +1,11 @@
+form_name: 'Kirsten Mense'
+Straße_Nr: 'Ziegelhofstrasse 37'
+plz_stadt: '26121 Oldenburg'
+form_email: kirstenmense@gmx.de
+telefonnummer: '017698830558'
+angebote:
+  - übernachten
+zeitraum: '13.6 bis 16.6.25'
+personenanzahl: '1'
+deine_nachricht: 'Hallo liebes Team, habt ihr nächstes Wochenende noch Übernachtungsoptionen? Am liebsten in einem der ausgebauten Zirkuswagen? Viele liebe Grüße Kirsten'
+newsletter_consent: false

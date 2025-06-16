@@ -1,0 +1,11 @@
+form_name: 'Anne Kollien'
+Straße_Nr: 'Jägerallee 16'
+plz_stadt: Potsdam
+form_email: infofuerak@web.de
+telefonnummer: '017656906208'
+angebote:
+  - übernachten
+zeitraum: 9.-10.6.2025
+personenanzahl: '1'
+deine_nachricht: 'Ich habe gesehen, dass ihr ausgebucht seid. Falls spontan jemand absagt, gebt mir gern Bescheid..Ich bin eh auf dem Hof..'
+newsletter_consent: false

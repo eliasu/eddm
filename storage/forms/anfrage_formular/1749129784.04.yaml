@@ -1,0 +1,11 @@
+form_name: 'Greta Menke'
+Straße_Nr: 'Stockholmer Straße 30'
+plz_stadt: Berlin
+form_email: Greta.Menke@hotmail.com
+telefonnummer: '017632990522'
+angebote:
+  - übernachten
+zeitraum: '06.06 - 08.06'
+personenanzahl: '2'
+deine_nachricht: 'Hey, gibt es spontan noch Platz für zwei Zelte bei euch ab morgen? 🙂'
+newsletter_consent: false

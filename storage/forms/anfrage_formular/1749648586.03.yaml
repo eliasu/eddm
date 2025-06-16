@@ -1,0 +1,11 @@
+form_name: 'Kirsten Hebel'
+Straße_Nr: 'Wiesenstraße 46'
+plz_stadt: '20255 Hamburg'
+form_email: k_hebel@web.de
+telefonnummer: '0151 17531456'
+angebote:
+  - übernachten
+zeitraum: '12.6. bis 15.6.25'
+personenanzahl: '2'
+deine_nachricht: "Mein Mann und ich hätten gern ein möglichst günstiges Zimmer, also einfach ein DZ mit Bad.\r\nBenachrichtigt uns bald, dann können wir planen in welche Richtung wir unsere Urlaubsfahrt fortsetzen..."
+newsletter_consent: false

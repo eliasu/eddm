@@ -109,7 +109,7 @@ components:
             type: hardBreak
           -
             type: text
-            text: '11.30 Uhr :Filmrätsel'
+            text: '11.30 Uhr: Filmrätsel'
           -
             type: hardBreak
           -
@@ -163,5 +163,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1746622646
+updated_at: 1749638980
 ---

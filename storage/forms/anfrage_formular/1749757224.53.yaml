@@ -1,0 +1,12 @@
+form_name: 'Anja Bolte'
+Straße_Nr: 'Charlottenstraße 77'
+plz_stadt: '30449 Hannover'
+form_email: bolte.anja@web.de
+telefonnummer: 0511/70819069
+angebote:
+  - übernachten
+  - essen
+zeitraum: '23.6. bis 26.6. 25'
+personenanzahl: '1'
+deine_nachricht: 'Oder 3 andere Nächte zwischen dem 23.6. und dem 2.7.25'
+newsletter_consent: false

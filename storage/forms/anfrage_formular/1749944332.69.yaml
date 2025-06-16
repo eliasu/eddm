@@ -1,0 +1,11 @@
+form_name: 'Ole Reissmann'
+Straße_Nr: 'Hellkamp 60'
+plz_stadt: '20255 Hamburg'
+form_email: ole.reissmann@gmail.com
+telefonnummer: '01703209340'
+angebote:
+  - 'Spaces mieten'
+zeitraum: 23.-26.10.2025
+personenanzahl: 10-13
+deine_nachricht: 'Moin! Wir sind eine nette Gruppe Journalist:innen aus Deutschland, Österreich, Schweiz & USA, die sich seit vielen Jahren einmal im Jahr treffen. Wir würden gerne einen gemütlichen Raum zum Abhängen haben, und Unterkünfte, gerne die Zimmer und die Wohnwagen. Falls das zufällig noch passt?'
+newsletter_consent: false
