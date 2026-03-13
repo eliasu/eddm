@@ -1,0 +1,12 @@
+form_name: 'Timo Leder'
+Straße_Nr: 'Langenstr. 16'
+plz_stadt: '21339 Lüneburg'
+form_email: mail@tiled.de
+telefonnummer: '01714167188'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '29.7. bis 31.7.,'
+personenanzahl: '2'
+deine_nachricht: "Hallo! \r\nWir würden gerne im Doppelzimmer unterkommen. \r\nHerzliche Grüße,\r\nTimo"
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Christof Dobrowolski'
+Straße_Nr: 'Bannweg 9'
+plz_stadt: '44309 Dortmund'
+form_email: dobrowolski82@mail.de
+telefonnummer: '015229258985'
+angebote:
+  - essen
+zeitraum: '19 Uhr'
+personenanzahl: '3'
+deine_nachricht: "Hey,\r\nwie soeben Telefonisch besprochen möchte ich 3 Personen zum Essen in den Sternstunden reservieren.\r\n\r\nBitte noch um kurze Bestätigung der Reservierung.\r\n\r\nBesten Dank für diese Option.\r\n\r\nBis später :-)"
+newsletter_consent: false

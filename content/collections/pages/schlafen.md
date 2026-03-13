@@ -15,11 +15,22 @@ text_bard:
       id: XhAYuMHf
       values:
         type: link
-        link_name_txt: 'Preisliste (pdf)'
+        link_name_txt: 'Preisliste 2026 (pdf)'
         link_type_url: asd
         target_blank: true
         link_type: url
-        url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte.pdf'
+        url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte_26.pdf'
+  -
+    type: set
+    attrs:
+      id: misw8o2x
+      values:
+        type: link
+        link_name_txt: 'Preisliste 2027 (pdf)'
+        link_type_url: asd
+        target_blank: true
+        link_type: url
+        url: 'https://eindingdermoeglichkeit.com/assets/pdfs/251205_eddm_preise_unterkuenfte_27.pdf'
 components:
   -
     id: M5Djezlm
@@ -91,7 +102,7 @@ components:
         content:
           -
             type: text
-            text: 'Insgesamt 29 Gästebetten plus Aufbettungsmöglichkeit.'
+            text: 'Insgesamt 31 Gästebetten plus Aufbettungsmöglichkeit.'
       -
         type: paragraph
         content:
@@ -104,10 +115,20 @@ components:
           id: AjEJN8Va
           values:
             type: link
-            link_name_txt: 'Preisliste zum Download'
+            link_name_txt: 'Preisliste 2026 zum Download'
             target_blank: true
             link_type: url
-            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte.pdf'
+            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte_26.pdf'
+      -
+        type: set
+        attrs:
+          id: misw7v5l
+          values:
+            type: link
+            link_name_txt: 'Preisliste 2027 zum Download'
+            target_blank: true
+            link_type: url
+            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/251205_eddm_preise_unterkuenfte_27.pdf'
     type: image_text_component
     enabled: true
   -
@@ -136,7 +157,7 @@ components:
     enabled: true
   -
     id: m8h9j39i
-    headline_txt: 'Zelten während der KLP 25'
+    headline_txt: 'Zelten während der KLP 26'
     component_template: no_image
     background_color: blue
     text_color: white
@@ -146,7 +167,17 @@ components:
         content:
           -
             type: text
-            text: 'Hier gehts zum Zeltfeld Ticketshop:'
+            text: 'KLP-Programm ab Anfang Mai online. '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '16.05. Day-Rave / 23.05. Party unter den Apfelbäumen.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "Hier geht's zum Zeltfeld-Ticketshop:"
       -
         type: set
         attrs:
@@ -154,7 +185,7 @@ components:
           values:
             type: button
             link_name_txt: 'Jetzt buchen'
-            url: 'https://ding.ticket.io/'
+            url: 'https://ding.ticket.io'
             target_blank: true
             link_type: url
     type: image_text_component
@@ -164,9 +195,10 @@ components:
     headline_txt: Zeltfeld
     component_template: slider_left
     images_img:
-      - Unterkunft_Zeltfeld.jpeg
+      - unterkunft_zeltfeld_img_8983.jpeg
       - Bildschirmfoto-2022-04-01-um-11.19.08.png
       - unterkunft_zeltfeld_img_2465.jpeg
+      - Unterkunft_Zeltfeld.jpeg
       - unterkunft_zeltfeld_img_1470.jpeg
     background_color: none
     text_color: black
@@ -252,7 +284,7 @@ components:
         content:
           -
             type: text
-            text: 7€/Person
+            text: '7,50€/Person'
           -
             type: hardBreak
       -
@@ -273,7 +305,7 @@ components:
             type: hardBreak
           -
             type: text
-            text: '7,5€/Kinder (3-12 Jahre)'
+            text: '7,50€/Kinder (3-12 Jahre)'
       -
         type: paragraph
         content:
@@ -298,7 +330,7 @@ components:
       -
         id: FXP9kTDE
         headline: 'Offsites & Seminare'
-        images_img: teamoffsite_img_2418-1694717620.jpg
+        images_img: producer-lab-2023_-ein-ding-der-moglichkeit__2023-09-12_line-tsoj_00047.jpeg
         textarea_txt: 'Raus aus dem Arbeitsalltag - Rein in die konzentrierte Teamarbeit'
         link_name_txt: 'Mehr Infos'
         link_type_url: 'entry::a777de19-6a91-47cd-8764-70c2c7360bbe'
@@ -529,7 +561,7 @@ title: Schlafen
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1745324301
+updated_at: 1767780673
 disable_header: false
 text:
   -

@@ -1,0 +1,11 @@
+form_name: 'Astrid Müller'
+Straße_Nr: 'Martha-Vogeler-Str. 16'
+plz_stadt: '27726 Worpswede'
+form_email: astridmueller@posteo.de
+telefonnummer: 04792-9897769
+angebote:
+  - übernachten
+zeitraum: '27.08.25 - 29.08.25'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\ngerne möchten wir für zwei Nächte in der Träumerei bei euch ein Doppelzimmer buchen. Laut Belegungsplan sollte das klappen.Können wir auch Frühstück haben?\r\nHerzliche Grüße,\r\nAstrid Müller"
+newsletter_consent: false

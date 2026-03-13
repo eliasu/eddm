@@ -1,0 +1,13 @@
+form_name: 'Louis Zoller'
+Straße_Nr: 'Sallahn 3'
+plz_stadt: Küsten
+form_email: zoller@snafu.de
+telefonnummer: '017695417528'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 'September 2026'
+personenanzahl: 15-1
+deine_nachricht: 'Liebe Alle, ich möchte ein Iyengar-Yogaretreat anbieten im September 2026. Einige Teilnehmer sind aus dem Landkreis, einige von weiter weg, deshalb gemischtes Angebot - einige brauchen Unterkünfte, andere nicht. gemeinsames Essen am Mittag iszt sinnvoll; die die übernachten brauchen mehr. 100qm reichen uns locker.'
+newsletter_consent: false

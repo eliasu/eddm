@@ -1,0 +1,11 @@
+form_name: 'Lisa Bauermeister'
+Straße_Nr: 'Hallandstraße 42'
+plz_stadt: '13189 Berlin'
+form_email: lbauermeister@hotmail.de
+telefonnummer: '01724472642'
+angebote:
+  - übernachten
+zeitraum: 16.-18.9.25
+personenanzahl: '1'
+deine_nachricht: "Hallo liebe Menschen :)\r\nIch würde gerne bei euch übernachten. Ich hab euren Ort schon länger auf meiner Liste und jetzt würde es demnächst super passen. \r\nLiebe Grüße!\r\nLisa"
+newsletter_consent: true

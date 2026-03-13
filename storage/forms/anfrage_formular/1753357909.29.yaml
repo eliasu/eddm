@@ -1,0 +1,11 @@
+form_name: 'Antje Stemmermann'
+Straße_Nr: 'Königsberger Str. 2'
+plz_stadt: '30974 Wennigsen'
+form_email: antjestemmermann@gmx.de
+telefonnummer: 05109/564749
+angebote:
+  - übernachten
+zeitraum: 16.-17.8.2025
+personenanzahl: '2'
+deine_nachricht: "Guten Tag,\r\nmeine Freundin und ich haben uns für den Workshop 3 Dirigentinnen Sommerprojekt 2025 angemeldet, von denen haben wir auch ihre Kontaktdaten erhalten.\r\nWir würedem gerne im Clownswagen übernachten, alternativ auch im Zelt. Wäre das für eine Nacht möglich?\r\nMit freundlichen Grüßen\r\nAntje Stemmermann"
+newsletter_consent: false

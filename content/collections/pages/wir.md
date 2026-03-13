@@ -22,7 +22,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir sind derzeit 11 Erwachsene und 3 Kinder, die aus Berlin und Hamburg hier ins Wendland gezogen sind. Unser Gründungsteam verbindet langjährige Freundschaften und besteht aus Menschen mit sehr unterschiedlichen Skillsets. Beruflich waren wir in der Kreativbranche, im Kultursektor, in der Transformationsberatung und im Möbelbau zu Hause. Und so verstehen wir uns selbst als cross-funktionales Team.'
+            text: 'Wir sind derzeit 9 Erwachsene und 3 Kinder, die aus Berlin und Hamburg hier ins Wendland gezogen sind. Unser Gründungsteam verbindet langjährige Freundschaften und besteht aus Menschen mit sehr unterschiedlichen Skillsets. Beruflich waren wir in der Kreativbranche, im Kultursektor, in der Transformationsberatung und im Möbelbau zu Hause. Und so verstehen wir uns selbst als cross-funktionales Team.'
     type: image_text_component
     enabled: true
   -
@@ -57,6 +57,18 @@ components:
           -
             type: text
             text: 'Im Februar 2020 haben wir unsere Genossenschaft mit dem Ziel gegründet, einen Ort zu gestalten an dem innovative Wohn- und Arbeitsformen entstehen und getestet werden. Dabei wollen wir richtungsweisend in umwelt-positiven Projektumsetzungen und nachhaltigen Lebenskonzepten sein und Impulse für eine zukunftsweisende Regionalentwicklung und einen möglichen gesellschaftlichen Wandel geben. Co-Kreation spielt dabei für uns eine zentrale Rolle. Wir möchten anderen Menschen hier eine Plattform geben um Ein Ding der Möglichkeit gemeinsam mit uns zu gestalten - ob mit einem Workshop oder Event, mit einer Künstler*innenresidenz oder im Garten.'
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          id: mkwiu0f3
+          values:
+            type: link
+            link_name_txt: 'Erfahre mehr über unsere Angebote'
+            url: 'https://www.eindingdermoeglichkeit.com/arbeiten'
+            target_blank: false
+            link_type: url
       -
         type: paragraph
         content:
@@ -206,6 +218,7 @@ components:
       - Partner_gww.png
       - partner_zdin_logo_01.png
       - flausenplus_logo.png
+      - detectlab_graph_blue.png
     background_color: none
     text_color: black
     text_bard:
@@ -315,6 +328,20 @@ components:
                   target: _blank
                   title: null
             text: 'Elbe Valley'
+          -
+            type: text
+            text: ', '
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://detectclassic.com/'
+                  rel: null
+                  target: null
+                  title: null
+            text: 'detect festival'
       -
         type: paragraph
         content:
@@ -329,7 +356,7 @@ title: Wir
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1740645593
+updated_at: 1769601552
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title

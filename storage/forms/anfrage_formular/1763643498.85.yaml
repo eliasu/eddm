@@ -1,0 +1,11 @@
+form_name: 'Anna Richter'
+Straße_Nr: 'Buttmannstrasse 5'
+plz_stadt: Berlin
+form_email: anna-richter@outlook.com
+telefonnummer: '01606543077'
+angebote:
+  - übernachten
+zeitraum: 22.-23.11
+personenanzahl: '2'
+deine_nachricht: "Moin, \r\n\r\nKönnten wir, ganz spontan, eine Nacht bei euch schlafen? \r\n\r\nVielen Dank für die Rückmeldung!"
+newsletter_consent: true

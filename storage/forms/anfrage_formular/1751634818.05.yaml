@@ -1,0 +1,11 @@
+form_name: 'Carla Hinz'
+Straße_Nr: 'Am Weißdorn 12'
+plz_stadt: '30459 Hannover'
+form_email: carla.m.hinz@gmx.de
+telefonnummer: '0 1511 2985525'
+angebote:
+  - übernachten
+zeitraum: '05. -07. Juli 2025'
+personenanzahl: '2'
+deine_nachricht: "Hallo. Ich habe im Buchungskalender gesehen, dass ihr in dem Zeitraum schon ausgebucht seid. Wir würden uns allerdings gern mit einem Van für die Tage bei euch hinstellen, sind die Stellplätze noch frei? \r\nLiebe Grüße Carla"
+newsletter_consent: false

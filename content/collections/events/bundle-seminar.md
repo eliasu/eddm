@@ -4,8 +4,8 @@ blueprint: events
 title: 'Offsites & Seminare'
 date_type: 'date range'
 date_range:
-  start: '2023-01-01'
-  end: '2023-12-31'
+  start: '2025-06-08'
+  end: '2027-08-31'
 text_bard:
   -
     type: paragraph
@@ -28,22 +28,22 @@ components:
             type: text
             text: "–\_Highspeed-Internet auf dem gesamten Hof"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '– Drei Workshopräume, 50 m², 100 m² und 200 m²'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "– Flipcharts, Pinnwände und Beamer\_"
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '– Post-Its und Flipchart Marker'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '– Kulinarisches Rundum Sorglospaket'
@@ -64,5 +64,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1698664730
+updated_at: 1756756184
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

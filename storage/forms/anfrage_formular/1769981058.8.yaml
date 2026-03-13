@@ -1,0 +1,11 @@
+form_name: 'Timo Möller'
+Straße_Nr: 'Liebigstraße 35'
+plz_stadt: '10247'
+form_email: moeller.timo@gmail.com
+telefonnummer: '017641026522'
+angebote:
+  - übernachten
+zeitraum: 14-17.05
+personenanzahl: 2+2
+deine_nachricht: "Hallo ihr lieben. Wir würden gerne mit unseren Kindern (2 und 3 Jahre) bei euch im Haus während der klp wohnen. Gibt es dafür noch Plätze?\r\nLiebe Grüße, Timo"
+newsletter_consent: false

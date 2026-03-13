@@ -1,28 +1,30 @@
 ---
 id: 1c8e7410-a5dd-4631-80a2-296477e19a70
 blueprint: events
-title: 'MUT - Retreat Brave Space'
+title: 'MUT - Workshop Retreat'
 date_type: 'date range'
 date_range:
-  start: '2025-11-27'
-  end: '2025-11-30'
+  start: '2026-11-05'
+  end: '2026-11-08'
 text_bard:
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Dieses Workshop-Retreat ist eine Einladung, deine Komfortzone zu verlassen und rauszufinden, was für dich  persönlich Mut wirklich bedeutet.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'In einer Welt, die von Multikrisen geprägt ist und in der Leistung und Kontrolle oft zu viel Raum einnehmen, ist Mut unsere Schlüsselkompetenz.'
+        text: 'Wir glauben fest daran, dass in einer Welt, die von täglichen Herausforderungen geprägt ist, Mut unser Kompass durch den Nebel ist.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Dieses Retreat ist eine Einladung, deine Komfortzone zu verlassen.'
-  -
-    type: paragraph
+        text: 'Für wen ist dieses Format?'
   -
     type: paragraph
     content:
@@ -48,7 +50,7 @@ text_bard:
 components:
   -
     id: mb3ki5ex
-    headline_txt: 'In unserem Brave Space erforschen wir gemeinsam:'
+    headline_txt: 'An unserem Wochenende erforschen wir gemeinsam:'
     component_template: slider_left
     images_img:
       - dsc05366-(1).jpg
@@ -60,7 +62,7 @@ components:
         content:
           -
             type: text
-            text: 'Welchen Facettenreichtum hat Mut? '
+            text: 'Welche Qualitäten hat Mut? '
       -
         type: paragraph
         content:
@@ -80,7 +82,13 @@ components:
         content:
           -
             type: text
-            text: 'Das Mut Retreat bietet 14 Plätze. All genders welcome. First come, first feel.'
+            text: 'Das Mut Retreat bietet begrenzte Plätze. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'All genders welcome. First come, first feel.'
       -
         type: paragraph
       -
@@ -169,8 +177,83 @@ components:
             text: 'Mit der Geburt meiner Tochter hat sich mein Blick auf die Welt verändert. Der tägliche Perspektivwechsel hat mir gezeigt: Ich möchte nicht nur Projekte, sondern Menschen auf ihrem Weg begleiten. So begann ich meine Ausbildung zur systemischen Coachin. Wie im Design Thinking steht auch hier das Entwickeln im Mittelpunkt – nur mit noch mehr Tiefe und Raum für das, was Menschen wirklich bewegt.'
     type: image_text_component
     enabled: true
+  -
+    id: mf2nvlae
+    headline_txt: 'Solidarische Preisgestaltung'
+    component_template: no_image
+    background_color: none
+    text_color: black
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir möchten das Retreat so gestalten, dass möglichst viele teilnehmen können. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Damit das möglich ist, braucht es die Bereitschaft, eigene Privilegien anzuerkennen und finanzielle Ressourcen solidarisch zu teilen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir verstehen diesen Prozess als Einladung zur Selbstreflexion – über finanzielle Mittel, unbezahlte'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Care-Arbeit und soziale Situation. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Deine Selbsteinschätzung bleibt ganz bei dir: Du teilst uns bei der Anmeldung einfach deinen Beitrag mit.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: Beiträge
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "695 € exkl. MwSt.\_Solidaritäts-Beitrag"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "795 € exkl. MwSt.\_Basis-Beitrag"
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "895 € exkl. MwSt. Privilegienbewusster Beitrag\_"
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Early Bird 10% Preisnachlass bis 28.02.2026 '
+    type: image_text_component
+    enabled: true
 show_in_eventlist: true
-images_img: mut.png
+images_img: dsc05245-kopie.jpg
+tags:
+  - seminar
 seotamic_title: title
 seotamic_title_prepend: true
 seotamic_title_append: true
@@ -183,5 +266,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1748173944
+updated_at: 1769512812
 ---

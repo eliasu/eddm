@@ -26,10 +26,10 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1747928478
+updated_at: 1751900768
 duplicated_from: a25cce28-9a79-4f70-9e2a-0173326ca30f
 date_range:
-  start: '2025-06-12'
+  start: '2025-08-21'
   end: '2025-12-31'
 components:
   -

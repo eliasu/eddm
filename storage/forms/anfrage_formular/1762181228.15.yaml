@@ -1,0 +1,13 @@
+form_name: 'Johannes Reichmann'
+Straße_Nr: 'Zur Hart 25'
+plz_stadt: 'Homberg Ohm'
+form_email: jreichmann@kessels-smit.com
+telefonnummer: '017656994698'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '25. Vormittags -26.11.25 nacjmittag'
+personenanzahl: '4'
+deine_nachricht: "Hallo, \r\n\r\nIch möchte gern vier kolleg*innen bei ihnen buchen:\r\n\r\n* einzelbetten, also jeweils ein Zimmer pro Person. \r\n* gerne mit Verpflegung - wenn nicht möglich, gerne mit kochmöglichleit \r\n* gerne mit Sauna \r\n* bitte einen Raum / Tisch / Möglickeit, mit Strom und wlan arbeiten zu können \r\n\r\nIch freue mich auf ein Angebot. Bei Rückfragen gern einfach anrufen :) \r\n\r\nLiebe Grüße, \r\nJohannes"
+newsletter_consent: false

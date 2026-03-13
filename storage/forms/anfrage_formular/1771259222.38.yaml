@@ -1,0 +1,14 @@
+form_name: 'Branka Blechschmidt'
+Straße_Nr: 'Wildgrund 8A'
+plz_stadt: '22459 Hamburg'
+form_email: branka.blechschmidt@outlook.de
+telefonnummer: '01743920103'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+  - 'Workshop buchen'
+zeitraum: 19.03.-21.03.2027
+personenanzahl: '40'
+deine_nachricht: "Liebes Team, wir sind ein Chor und haben jedes Jahr bis 2019 ein Wochenende bei Euch auf dem Hof verbracht mit Vollverpflegung und Probenraum. Hättet ihr Kapazitäten für so viel Leute? Freue mich über eine Rückmeldung.\r\nLiebe Grüße Branka (Blechschmidt)"
+newsletter_consent: true

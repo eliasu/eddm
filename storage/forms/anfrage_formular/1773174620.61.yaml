@@ -1,0 +1,11 @@
+form_name: 'Madlen Freudenberg'
+Straße_Nr: 'Ellerhofstr. 32'
+plz_stadt: '34121 Kassel'
+form_email: madlenf@gmx.de
+telefonnummer: '017630740748'
+angebote:
+  - übernachten
+zeitraum: 14.-17.5.
+personenanzahl: '2'
+deine_nachricht: "Hallo, wir würden gern zum o.g. Zeitraum in unserem Bulli bei euch übernachten. Wäre das möglich?\r\n\r\nViele Grüße\r\nMadlen"
+newsletter_consent: false

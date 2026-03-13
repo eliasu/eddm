@@ -1,0 +1,11 @@
+form_name: 'Britta Petersen'
+Straße_Nr: 'Sandstedter Str. 35'
+plz_stadt: '28219'
+form_email: britta.petersen.hb@web.de
+telefonnummer: '042122198778'
+angebote:
+  - 'Workshop buchen'
+zeitraum: 27-29.03.2026
+personenanzahl: '1'
+deine_nachricht: "... es würde mich freuen, wenn im Hello Spring Retreat noch ein Platz frei wäre. Schlafen möchte ich im Einzelzimmer mit geteiltem oder eigenem Bad.\r\n\r\nHerzlich\r\nBritta"
+newsletter_consent: true

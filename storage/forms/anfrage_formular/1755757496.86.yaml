@@ -1,0 +1,11 @@
+form_name: 'Felix Gorissen'
+Straße_Nr: 'Christburger Straße 20'
+plz_stadt: Berlin
+form_email: f.gori@web.de
+telefonnummer: '01629420703'
+angebote:
+  - übernachten
+zeitraum: 12.-14.09.
+personenanzahl: '3'
+deine_nachricht: 'Hi, ich würde gerne mit meinen 2 besten Freunden meinen Geburtstag feiern und mich dort inspirieren lassen. Eueren Ort hat mir eine Freundin empfohlen'
+newsletter_consent: false

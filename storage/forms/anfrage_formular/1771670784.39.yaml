@@ -1,0 +1,11 @@
+form_name: 'Nina Hildebrandt'
+Straße_Nr: 'Comeniusstr 14'
+plz_stadt: '30451 Hannover'
+form_email: nina.hildebrandt1@web.de
+telefonnummer: '01637968274'
+angebote:
+  - übernachten
+zeitraum: 21.-24.5.
+personenanzahl: '12'
+deine_nachricht: "Hallo, \r\n\r\ngern würden wir über Pfingsten bei euch campen. Allerdings wollten wir anfragen ob es für einen anderen Zeitraum geht. \r\n10 Personen 21.-24.5. und wenn möglich 2 Personen 22.-24.5. \r\nIch freue mich über eine kurze Rückmeldung.\r\n\r\nViele Grüße \r\nNina"
+newsletter_consent: false

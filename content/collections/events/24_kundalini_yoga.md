@@ -5,33 +5,28 @@ title: 'Kundalini Yoga mit Anne'
 date_type: 'single dates'
 dates:
   -
-    id: mbumv3lm
-    date_field: '2025-06-19 18:00'
-    type: single_date
-    enabled: true
-  -
     id: mbumv6t5
-    date_field: '2025-07-03 18:00'
+    date_field: '2026-03-20 18:00'
     type: single_date
     enabled: true
   -
-    id: mbumw330
-    date_field: '2025-07-17 18:00'
+    id: mlz29uwn
+    date_field: '2026-04-02 18:00'
     type: single_date
     enabled: true
   -
-    id: mbyxl0p4
-    date_field: '2025-07-31 18:00'
+    id: mlz2a55s
+    date_field: '2026-04-16 18:00'
     type: single_date
     enabled: true
   -
-    id: mbumwblp
-    date_field: '2025-08-07 18:00'
+    id: mlz2afw3
+    date_field: '2026-04-30 18:00'
     type: single_date
     enabled: true
   -
-    id: mbumwljv
-    date_field: '2025-08-21 18:00'
+    id: mlz2aq8y
+    date_field: '2026-05-28 18:00'
     type: single_date
     enabled: true
 text_bard:
@@ -40,7 +35,7 @@ text_bard:
     content:
       -
         type: text
-        text: Workshop
+        text: Bodywork
       -
         type: hardBreak
       -
@@ -61,7 +56,7 @@ components:
         content:
           -
             type: text
-            text: 'Kundalini Yoga – eine Praxis, um Wohlbefinden für Körper, Geist & Seele in unserer schnelllebigen Zeit zu erreichen. In den Übungen werden fließende Bewegungen mit Atmung, Klängen & Meditation vereint. Stärke deine Mitte und öffne dein Herz.'
+            text: "Kundalini Yoga – eine Praxis, um Wohlbefinden für Körper, Geist & Seele in unserer schnelllebigen Zeit zu erreichen. In den Übungen werden fließende Bewegungen mit Atmung, Klängen & Meditation vereint. Stärke deine Mitte und öffne dein Herz. „Bei dir bleiben, auch wenn’s tobt.“\_"
       -
         type: paragraph
         content:
@@ -101,7 +96,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1750068493
+updated_at: 1771844261
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false

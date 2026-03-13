@@ -1,0 +1,11 @@
+form_name: Antonia
+Straße_Nr: Fendel
+plz_stadt: '10119'
+form_email: antonia.fendel@edu.escp.eu
+telefonnummer: '01623350500'
+angebote:
+  - übernachten
+zeitraum: 01.05.2026-03.04.2026
+personenanzahl: '11'
+deine_nachricht: "Hi Zusammen, \r\nwir suchen noch nach einer tollen Unterkunft für 11 Freundinnen und würden uns super freuen, wenn wir bei Euch einkehren dürften. Wäre noch etwas frei?\r\nVielen Dank und liebe Grüße\r\nAntonia"
+newsletter_consent: false

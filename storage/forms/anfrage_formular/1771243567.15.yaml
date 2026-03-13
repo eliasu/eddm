@@ -1,0 +1,11 @@
+form_name: 'Antje Stemmermann'
+Straße_Nr: 'Königsberger Str. 2'
+plz_stadt: '30974 Wennigsen'
+form_email: antjestemmermann@gmx.de
+telefonnummer: '05109 564749'
+angebote:
+  - übernachten
+zeitraum: '1.-3. Mai'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\ngerne würden wir wieder den Zirkuswagen für das Wochenende mit den 3 Dirigentinnen mieten. Ist der noch frei?\r\nViele Grüße\r\nAntje Stemmermann"
+newsletter_consent: false

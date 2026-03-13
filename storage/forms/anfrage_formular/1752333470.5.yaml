@@ -1,0 +1,11 @@
+form_name: 'Georgina Heijmen'
+Straße_Nr: 'Bahrenfelder Steindamm 100'
+plz_stadt: '22761 Hamburg'
+form_email: georgina.heijmen@gmx.de
+telefonnummer: '01578533355'
+angebote:
+  - übernachten
+zeitraum: 'Vom 26.7 auf den 27.7.'
+personenanzahl: '1'
+deine_nachricht: "Hallo,\r\nIch suche eine Übernachtung für eine Nacht vom 26.7 auf den 27.7 für eine Person. Ich weiß, dass es ein Wochenende ist und eigentlich 2 Nächte erforderlich sind, aber vielleicht passt es ja.\r\nViele Grüße\r\nGeorgina"
+newsletter_consent: false

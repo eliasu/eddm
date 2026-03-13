@@ -1,0 +1,11 @@
+form_name: 'Johann Klemeyer'
+Straße_Nr: 'Gerichtstraße 14'
+plz_stadt: '22765 Hamburg'
+form_email: jklemeyer@hotmail.com
+telefonnummer: '017630147761'
+angebote:
+  - übernachten
+zeitraum: Himmelfahrt
+personenanzahl: '2 Erwachsene 1 Kind'
+deine_nachricht: "Moin, wir würden gern mit einem Wohnwagen bei euch stehen. Gibt es noch einen Platz? Ein Freund hätte auch Interesse. \r\nLieben Gruß\r\nJohann"
+newsletter_consent: false

@@ -1,0 +1,12 @@
+form_name: 'Christoph Schultheis'
+Straße_Nr: 'Rüstjer Weg 9a'
+plz_stadt: '21739 Dollern'
+form_email: christophSchultheis@erb.de
+telefonnummer: '01721062263'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '31.07. - 08.08 2026'
+personenanzahl: '15'
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\nFür den Sommer 2026 suchen wir eine Unterkunft für acht Erwachsene, sieben Kinder, 1 Baby und 1 Hund (evtl. im Zimmer mit 2Erwachsenen + 1 Kind).\r\nHaben Sie freien Platz im Zeitraum 31. Juli bis 9. August? Interessant wären 5-7 Tage. \r\nWie hoch sind die Kosten und wie ist die Regelung bezüglich Verpflegung? Ist auch eine Verpflegung für einzelne Tage möglich?\r\n\r\nFreundliche Grüße\r\nChristoph Schultheis"
+newsletter_consent: false

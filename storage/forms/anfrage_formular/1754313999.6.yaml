@@ -1,0 +1,13 @@
+form_name: 'Beate Halatscheff'
+Straße_Nr: 'Nymphenweg 22'
+plz_stadt: '21077 Hamburg'
+form_email: beate.halatscheff@elbe-werkstaetten.de
+telefonnummer: '428681640'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 26.-27.03.2026
+personenanzahl: '13'
+deine_nachricht: "Hey, wir suchen einen Tagungsort mit 13 Einzelzimmern und einem Arbeitsraum, gerne mit Tischen und Stühlen und Platz für Metaplanwände und etwas Bewegung. \r\nIst das Ende März bei Euch möglich?\r\nAnreise zum Mittagessen und Abreise vor dem Mittag."
+newsletter_consent: false

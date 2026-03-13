@@ -62,7 +62,7 @@ components:
             type: hardBreak
           -
             type: text
-            text: 16€/Person
+            text: 18€/Person
       -
         type: paragraph
         content:
@@ -81,7 +81,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1736089449
+updated_at: 1755529682
 tags:
   - seminar
 duplicated_from: 8f67d0b9-2eca-41aa-9a0c-43f4a597d475

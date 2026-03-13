@@ -20,7 +20,7 @@ text_bard:
         text: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
 template: events/index
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1749629933
+updated_at: 1773395482
 event: 2e69fad1-2fe4-4fc7-91f3-d37849709d71
 text_field: 'Hier kommen noch die Settings.'
 big_text_bard:
@@ -56,8 +56,8 @@ big_text_top_bard:
 disable_eye-catcher: true
 components:
   -
-    id: nRxcc3aA
-    text_color: blue
+    id: mkvdxmln
+    text_color: black
     background_color: white
     text_bard:
       -
@@ -65,7 +65,83 @@ components:
         content:
           -
             type: text
-            text: 'Du willst mit oder bei uns ein Event hosten? Supercool dann schreib uns ne'
+            text: 'Veranstaltungs-Highlights der Vergangenheit.'
+    type: big_text_component
+    enabled: true
+  -
+    id: mkvdlovd
+    columns:
+      -
+        id: 5v8DuwG5
+        headline: 'Martin Kohlstedt'
+        images_img: martinkohlstedt_bykarinebravo_03.jpg
+        textarea_txt: 'Konzert (KLP 2022 / 2025)'
+        link_name_txt: 'Zur Veranstaltung'
+        url: 'https://www.eindingdermoeglichkeit.com/programm/klp25_martinkohlstedt'
+        target_blank: true
+        link_type: url
+      -
+        id: pVmQ93ys
+        headline: 'Ask Me Anything'
+        images_img: klp24_correctiv_jonathan-1.jpg
+        textarea_txt: |-
+          Jonathan Sachse über Journalismus und die Arbeit von CORRECTIV
+          (KLP 2024 / 2025)
+        link_name_txt: 'Zur Veranstaltung'
+        url: 'https://www.eindingdermoeglichkeit.com/programm/klp25_correctiv'
+        target_blank: true
+        link_type: url
+      -
+        id: aBwZmjPT
+        headline: 'Arne Semsrott'
+        images_img: klp25_230113_arne-semsrott_low_14-1744731402.jpg
+        textarea_txt: |-
+          Machtübernahme / Lesung
+          (KLP 2025)
+        link_name_txt: 'Zur Veranstaltung'
+        url: 'https://www.eindingdermoeglichkeit.com/programm/klp25-arne_semsrott'
+        target_blank: true
+        link_type: url
+    type: 3_columns_component
+    enabled: true
+  -
+    id: mkvdu7xf
+    text_color: black
+    background_color: white
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Hier geht's zum "
+          -
+            type: text
+            marks:
+              -
+                type: link
+                attrs:
+                  href: 'https://www.eindingdermoeglichkeit.com/programm/eventarchiv'
+                  rel: null
+                  target: null
+                  title: null
+            text: Event-Archiv
+          -
+            type: text
+            text: .
+    type: big_text_component
+    enabled: true
+  -
+    id: nRxcc3aA
+    text_color: blue
+    background_color: none
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Du willst mit oder bei uns ein Event hosten? Supercool, dann schreib uns ne'
       -
         type: set
         attrs:
@@ -120,14 +196,11 @@ seotamic_open_graph_description: meta
 seotamic_twitter_title: title
 seotamic_twitter_description: meta
 filter_tags:
-  - klp
-  - konzert
-  - theater
-  - kunst
-  - vortrag
   - workshop
   - seminar
+  - vergangenes
 seotamic_custom_meta_description: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
+featured_event: 1c8e7410-a5dd-4631-80a2-296477e19a70
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
 alt_seo_meta_title: 'Veranstaltungen im Ding der Möglichkeit'
 alt_seo_meta_description: 'Unser Programm ist sorgfältig kuratiert, um Euch eine spannende Mischung aus Kunst, Kultur und Bildung zu bieten. Vorträge, (interaktive) Workshops , Konzerte, Yoga oder Parties.'

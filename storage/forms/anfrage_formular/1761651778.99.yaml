@@ -1,0 +1,12 @@
+form_name: 'Katharina Zimmermann'
+Straße_Nr: 'Welckerstr. 8'
+plz_stadt: '20354 Hamburg'
+form_email: katharina.zimmermann@uni-hamburg.de
+telefonnummer: 0177-6522354
+angebote:
+  - übernachten
+  - essen
+zeitraum: '11. - 12.12.2025'
+personenanzahl: '6'
+deine_nachricht: 'Hallo! Wir wären interessiert an Übernachtungen im Einzelzimmer, essen und einem Meetingraum am 11.12. nachmittags und 12.12. vormittags - wir benötigen keine Moderation oder Workshop.'
+newsletter_consent: false

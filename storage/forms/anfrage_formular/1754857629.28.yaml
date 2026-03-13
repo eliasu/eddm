@@ -1,0 +1,13 @@
+form_name: 'Lars Kihm'
+Straße_Nr: 'Handschuhsheimer Landstraße 25'
+plz_stadt: '69120 Heidelberg'
+form_email: lars.kihm@yahoo.de
+telefonnummer: '01774304252'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 15.6.2028-18.06.2028
+personenanzahl: 100-150
+deine_nachricht: "Sehr geehrte Damen und Herren,\r\ngerne würde ich bei Ihnen den 50. Geburtstag von mir und meiner Cousine feiern. Unsere Familie ist über ganz Europa verstreut. Daher bietet sich ihre Location an. Wieviele es mit Kindern werden ist unklar aber maximal 150. Haben Sie da eine Idee?\r\n\r\nDanke und Grüße,\r\n\r\nLars Kihm"
+newsletter_consent: true

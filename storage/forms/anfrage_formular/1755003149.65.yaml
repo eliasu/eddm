@@ -1,0 +1,11 @@
+form_name: 'Charlotte Wernicke'
+Straße_Nr: 'Wilschenbrucher Weg 27/29'
+plz_stadt: '21335 Lüneburg'
+form_email: charlottewernicke@web.de
+telefonnummer: '01632858881'
+angebote:
+  - übernachten
+zeitraum: 18.08.-20.08.
+personenanzahl: '1'
+deine_nachricht: 'Hallo! Habt ihr im oben angegebenen Zeitraum noch ein kleines Zimmer/Schlafplatz frei? Ich freue mich über eine Rückmeldung, viele Grüße, Charlotte'
+newsletter_consent: false

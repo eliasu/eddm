@@ -1,0 +1,11 @@
+form_name: 'Christiane Kühn'
+Straße_Nr: 'Sievekingdamm 74'
+plz_stadt: '20535 Hamburg'
+form_email: Christiane.kuehn@tuta.io
+telefonnummer: '0172 2950042'
+angebote:
+  - übernachten
+zeitraum: 09.09.-12.09.2025
+personenanzahl: '1'
+deine_nachricht: 'Hi, ich würde gerne in der Woche ein paar Tage Urlaub bei euch machen. Habt ihr noch ein DZ mit eigenem Bad frei?'
+newsletter_consent: false

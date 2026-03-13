@@ -1,0 +1,13 @@
+form_name: 'Michael E. Schupp'
+Straße_Nr: 'Breese in der Marsch 9'
+plz_stadt: '29451 Dannenberg'
+form_email: schuppme@icloud.com
+telefonnummer: '0177 743 7418'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 7.-10.12.25
+personenanzahl: '2'
+deine_nachricht: "Moin, \r\n\r\nEinen feinen Raum zum Coaching zu 2 Personen bitte. \r\n\r\n2 Zimmer für Beate Seewald und für mich selbst. \r\n\r\nAnreise am Sonntag Nachmittag  7.12. 25\r\nAbreise am Mittwoch Vormittag, \r\n10.12.25\r\n\r\nBitte mit Voll-Verpflegung, wir lieben eure Küche, eure Leute und das Ambiente."
+newsletter_consent: false

@@ -1,0 +1,12 @@
+form_name: 'Anna Danisch'
+Straße_Nr: 'Bernstorffstraße 99'
+plz_stadt: '22767 Hamburg'
+form_email: anna.danisch@gmail.com
+telefonnummer: '015222654182'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 13.9.-14.9.
+personenanzahl: '2'
+deine_nachricht: "Hallo Ding der Möglichkeit-Team,\r\n\r\nich würde gerne ein Zimmer für zwei Personen mit Frühstück reservieren vom 13.9.-14.9. Welche Zimmer sind denn noch frei?\r\n\r\nIch freue mich über eine kurze Nachricht.\r\n\r\nVielen Dank im Voraus und schöne Grüße \r\n\r\nAnna"
+newsletter_consent: false

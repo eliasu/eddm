@@ -11,12 +11,12 @@ text_bard:
         type: text
         text: Vortrag
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '2 Stunden'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Im LAB, EG, Wiesenwinkel'
@@ -72,7 +72,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1715175107
+updated_at: 1769447686
 duplicated_from: 286a7605-ccd9-45ea-994f-b84bee32591b
 dates:
   -
@@ -80,4 +80,7 @@ dates:
     date_field: '2024-05-13 17:00'
     type: single_date
     enabled: true
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

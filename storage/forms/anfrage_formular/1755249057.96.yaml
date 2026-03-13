@@ -1,0 +1,13 @@
+form_name: 'Elisa Wege'
+Straße_Nr: 'Neuer Kamp 30'
+plz_stadt: '20357'
+form_email: elisa@farbenmeer.de
+telefonnummer: '015201717295'
+angebote:
+  - übernachten
+  - essen
+  - 'Workshop buchen'
+zeitraum: Juli/August
+personenanzahl: '16'
+deine_nachricht: "Moin liebes Team, wir haben über Bekannte von eurem wunderschönen Ort erfahren. Wir sind ein Team aus Hamburg und möchten gerne unsere nächsten Intuitionstage bei euch verbringen. Gerne möchten wir den ganzen Hof mieten und auch Frühstück und Pizza bei euch essen. Der Fermentationsworkshop klingt auch super spannend. Gerne möchten wir für 3 Tage/2 Nächte am liebsten von Dienstag bis Donnerstag kommen. Könnt ihr uns dazu ein Angebot erstellen?\r\nHerzliche Grüße\r\nElisa"
+newsletter_consent: false

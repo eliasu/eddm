@@ -1,0 +1,12 @@
+form_name: 'Kerstin Krüger'
+Straße_Nr: 'Am Lehmkuhlsgehege 14'
+plz_stadt: '21397 Barendorf'
+form_email: kruegi767@t-online.de
+telefonnummer: '04137813448'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '14.05.2026 bis 17.05.2026'
+personenanzahl: '2'
+deine_nachricht: 'Wir hätten gern ein Doppelzimmer mit eigenem Bad und Frühstück.'
+newsletter_consent: false

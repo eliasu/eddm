@@ -13,7 +13,7 @@ text_bard:
         text: 'Hier ein Text'
 template: anfrage
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1729617566
+updated_at: 1750361446
 text_txt: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'
 seotamic_title: title
 seotamic_title_prepend: true
@@ -30,19 +30,29 @@ anfrage_text_bard:
     content:
       -
         type: text
-        text: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'
+        text: 'In unserem Kalender kannst du vorab unsere Verfügbarkeiten einsehen:'
   -
     type: paragraph
   -
     type: set
     attrs:
-      id: lpvdb67w
+      id: mc0xvvz7
       values:
-        type: link
-        link_name_txt: 'Verfügbarkeit (Kalender)'
+        type: button
+        link_name_txt: Buchungskalender
         url: 'https://www.gruppenhaus.de/showplan.php?hs=12197'
         target_blank: true
         link_type: url
+  -
+    type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
 alt_seo_meta_title: 'Frage zu Unterkunft, Projekten oder gar deine Hochzeit?'
 alt_seo_meta_description: 'Du möchtest zu uns kommen oder bist an unseren Projekten interessiert? Du willst vielleicht bei uns heiraten? Gib uns bitte ein paar Infos, damit wir Deine Anfrage gut bearbeiten können.'

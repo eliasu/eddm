@@ -21,7 +21,7 @@ components:
       - producer-lab-2023_-ein-ding-der-moglichkeit__2023-09-12_line-tsoj_00266_s.jpg
       - workshop_vision_dsc05345.jpg
       - workshop_postit_dsc05268.jpg
-    background_color: none
+    background_color: white
     text_color: black
     text_bard:
       -
@@ -74,7 +74,7 @@ components:
       - worpkshop_cleartheair_dsc04962.jpg
       - worpkshop_cleartheair_dsc05067_s.jpg
       - worpkshop_cleartheair_dsc04956_s.jpg
-    background_color: none
+    background_color: white
     text_color: black
     text_bard:
       -
@@ -126,7 +126,7 @@ components:
     images_img:
       - workshop_zukunftsorte_dsc04911.jpg
       - zukunftsorte_canvas_img_2735.jpg
-    background_color: none
+    background_color: white
     text_color: black
     text_bard:
       -
@@ -171,7 +171,7 @@ components:
       - workshop_gastro_pasta_img_4110.jpeg
       - workshop_gastro_pasta_img_4124.jpeg
       - workshop_gastro_pasta_img_4145.jpeg
-    background_color: none
+    background_color: white
     text_color: black
     text_bard:
       -
@@ -197,7 +197,7 @@ components:
         content:
           -
             type: text
-            text: 'Unter professioneller Anleitung stellt ihr in zusammenarbeit zwei verschiedene Pasta Sorten her und genießt diese anschließend gemeinsam in unserem Gastraum am Holzofen. Die Rezepte nehmt ihr natürlich am Ende der Veranstaltung mit nach Hause.'
+            text: 'Unter professioneller Anleitung stellt ihr in Zusammenarbeit zwei verschiedene Pasta-Sorten her und genießt diese anschließend gemeinsam in unserem Gastraum. Die Rezepte nehmt ihr natürlich am Ende der Veranstaltung mit nach Hause.'
       -
         type: paragraph
       -
@@ -261,7 +261,7 @@ components:
       - workshop_gastro_chutney_img_0980.jpg
       - workshop_gastro_chutney_img_0983.jpg
       - workshop_gastro_chutney_img_1008.jpg
-    background_color: none
+    background_color: white
     text_color: black
     text_bard:
       -
@@ -331,7 +331,7 @@ components:
       - workshop_gastro_solawi_marlin_dsc_9802.jpg
       - workshop_gastro_solawi_marlin_dsc_9821.jpg
       - workshop_gastro_solawi_marlin_dsc_9843.jpg
-    background_color: none
+    background_color: white
     text_color: black
     text_bard:
       -
@@ -402,5 +402,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1736262228
+updated_at: 1757678969
 ---

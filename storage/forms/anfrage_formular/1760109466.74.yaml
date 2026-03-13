@@ -1,0 +1,11 @@
+form_name: 'Lars Nickelsen'
+Straße_Nr: 'Schützenstr. 50'
+plz_stadt: '24568 Kaltenkirchen'
+form_email: Lars.Nickelsen@t-online.de
+telefonnummer: '+491791444824'
+angebote:
+  - übernachten
+zeitraum: '19.-21.12. (2 Nächte)'
+personenanzahl: '2'
+deine_nachricht: s.o.
+newsletter_consent: false

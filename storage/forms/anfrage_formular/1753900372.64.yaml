@@ -1,0 +1,12 @@
+form_name: 'Ruth Andemeskel'
+Straße_Nr: 'Ottenser Hauptstraße 61b'
+plz_stadt: '22765 Hamburg'
+form_email: ruthandemeskel@yahoo.de
+telefonnummer: '01634583094'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '21.8. bis 24.8.'
+personenanzahl: '2'
+deine_nachricht: "Hey, ich würd euern Space gern mal besuchen und etwas entspannen. \r\nLG, Ruth"
+newsletter_consent: false

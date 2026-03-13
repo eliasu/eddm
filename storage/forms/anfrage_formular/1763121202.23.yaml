@@ -1,0 +1,11 @@
+form_name: 'Reinhard Bertele'
+Straße_Nr: 'Am Swatten Diek 2'
+plz_stadt: '27476 Cuxhaven'
+form_email: reinhard.bertele@web.de
+telefonnummer: '015255911068'
+angebote:
+  - übernachten
+zeitraum: 14.-22.5.26
+personenanzahl: '2'
+deine_nachricht: "Moin, wir würden gerne bei euch im oben genannten Zeitraum bei euch ein Zimmer mit Bad oder ein kleines Appartement buchen.\r\nIch freue mich auf euer Angebot.\r\nHerzliche Grüße\r\nReinhard"
+newsletter_consent: false

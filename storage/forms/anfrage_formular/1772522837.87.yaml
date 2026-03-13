@@ -1,0 +1,11 @@
+form_name: 'Stephan Gnittka'
+Straße_Nr: 'Schröderstiftweg 20'
+plz_stadt: '20146 Hamburg'
+form_email: gnittka@web.de
+angebote:
+  - übernachten
+  - essen
+zeitraum: '10. bis 12.04.2026'
+personenanzahl: '4'
+deine_nachricht: "Moin,\r\n\r\nwir sind 2 befreundete Ehepaare aus Hamburg und Wuppertal. Wir sind neugierig und kochen und saunieren gerne.\r\nEventuell finden wir an dem WE 10. bis 12.04.2026 einen gemeinsamen Termin. Ist dann vielleicht Euer Apartment 101 frei?\r\n\r\nLiebe Grüße\r\nStephan"
+newsletter_consent: false

@@ -1,10 +1,12 @@
 ---
 id: 94b3a7a9-73aa-4e8b-b39b-1eb5a656ce93
+published: false
 blueprint: events
 title: 'Barbecue & Beats "Veggie Wums"'
 date_type: 'single dates'
 dates:
   -
+    id: z9FjSY67
     date_field: '2022-07-28 18:00'
     type: single_date
     enabled: true
@@ -29,7 +31,8 @@ text_bard:
         text: "> ab 18 Uhr\_"
 components:
   -
-    headline_txt: "\_Veggie Wums"
+    id: AZhHkaDR
+    headline_txt: 'Veggie Wums'
     component_template: slider_left
     images_img:
       - 22_EDdM_BarbecueBeats_2.jpg
@@ -68,6 +71,7 @@ components:
       -
         type: set
         attrs:
+          id: j4tKPfDr
           values:
             type: link
             link_name_txt: hallo@moeglichkeit.org
@@ -89,5 +93,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1658767140
+updated_at: 1755089730
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

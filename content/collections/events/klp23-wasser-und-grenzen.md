@@ -17,7 +17,7 @@ text_bard:
         type: text
         text: 'Vortrag von Mattea Weihe'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Im neuen LAB, 1.OG Freiraum'
@@ -42,7 +42,6 @@ components:
 show_in_eventlist: true
 images_img: klp23_matteaweihe.jpg
 tags:
-  - wissen
   - vortrag
   - klp
 seotamic_title: title
@@ -54,5 +53,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1682459226
+updated_at: 1769447029
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

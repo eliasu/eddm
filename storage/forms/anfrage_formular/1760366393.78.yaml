@@ -1,0 +1,11 @@
+form_name: 'Kirsten Feller'
+Straße_Nr: 'An der Trift 19'
+plz_stadt: '38678 Clausthal-Zellerfeld'
+form_email: k.feller@posteo.de
+telefonnummer: '0173 6456391'
+angebote:
+  - übernachten
+zeitraum: 27.-30.10.25
+personenanzahl: '2'
+deine_nachricht: "Liebes Team der Möglichkeit,\r\nschon sehr lange möchten wir euren schönen und spannenden Ort kennen lernen. Darum fragen wir jetzt endlich mal an für den oben genannten Zeitraum.\r\n\r\nAußerdem überlegen wir, ob wir unser kleines Hotel im Harz, was wir bisher zu zweit geführt haben, zu einer Genossenschaft umwandeln. Ihr seid da Fachleute. Ist es möglich, während unseres Aufenthaltes eine kurze Beratung dazu zu buchen? Es würde uns schon eine Stunde Gespräch/Austausch für den Start reichen, wir sind noch ganz am Anfang. Sollte das nicht passen, kommen wir gerne einfach so :)\r\nHerzliche Grüße, Kirsten"
+newsletter_consent: false

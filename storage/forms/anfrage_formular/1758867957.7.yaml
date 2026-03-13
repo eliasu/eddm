@@ -1,0 +1,13 @@
+form_name: 'Irina Shiyanov'
+Straße_Nr: 'Leisewitzstr. 11'
+plz_stadt: Braunschweig
+form_email: irina@vralive.de
+telefonnummer: '017670382945'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '19.10. - 24.10.25'
+personenanzahl: '5'
+deine_nachricht: "Hallo zusammen,\r\n\r\nWir sind ein Startup aus Braunschweig und suchen nach einer schönen Möglichkeit für eine Workation. Wir müssen viel schaffen, deshalb sind Arbeitsplätze wichtig, wo wir auch gut zusammen sitzen können. Wenn es die Möglichkeit gäbe, auch zusammen zu wohnen/ ein gemeinsames Wohnzimmer zu haben, wäre das super! Wir bräuchten 4 Schlafzimmer.\r\n\r\nBei euch sieht es mega gemütlich aus <3 Könntet ihr uns ein Angebot machen für den Zeitraum inkl. Essen? \r\n\r\nVielen lieben Dank und liebe Grüße :)\r\nIrina"
+newsletter_consent: false

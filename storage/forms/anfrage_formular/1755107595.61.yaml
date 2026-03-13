@@ -1,0 +1,11 @@
+form_name: 'Heide Peuckert'
+Straße_Nr: 'Postweg, 6'
+plz_stadt: Lüneburg
+form_email: heidepeuckert@web.de
+telefonnummer: '015254145929'
+angebote:
+  - übernachten
+zeitraum: 16.8.-17.8.
+personenanzahl: '1'
+deine_nachricht: 'Hallo, ich nehme beim Chorprojekt teil und würde gerne von Samstag auf Sonntag bei euch zelten.'
+newsletter_consent: false

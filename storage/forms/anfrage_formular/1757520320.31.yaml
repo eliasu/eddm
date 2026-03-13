@@ -1,0 +1,11 @@
+form_name: 'Moritz Stetter'
+Straße_Nr: 'Helmholtzstr. 13'
+plz_stadt: '22765 Hamburg'
+form_email: Info@moritz-stetter.de
+telefonnummer: '017696989007'
+angebote:
+  - übernachten
+zeitraum: '18. - 25.09.'
+personenanzahl: '2'
+deine_nachricht: "Moin, \r\nwir möchten gerne für ein paar Tage im genannten Zeitraum aufs Land und euer Hof wurde uns wärmstens empfohlen.\r\nWir sind vor allem an DZ mit eigenem Bad oder alternativ Bauwagen interessiert.\r\nSagt uns gerne zeitnah Bescheid was noch geht!\r\nHerzliche Grüße,\r\nMoritz & Bilge"
+newsletter_consent: false

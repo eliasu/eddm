@@ -1,0 +1,11 @@
+form_name: 'Theresa Lang'
+Straße_Nr: 'Am Brunnenhof 25a'
+plz_stadt: '22767 Hamburg'
+form_email: theresa.barkow@gmail.com
+telefonnummer: '017661566580'
+angebote:
+  - übernachten
+zeitraum: 13/14.09
+personenanzahl: '2'
+deine_nachricht: "Liebe Alle,\r\n\r\nAnna Danisch und ich würde sehr gern von Samstag auf Sonntag bei euch übernachten und auch gerne frühstücken bei euch. \r\n\r\nLiebe Grüße \r\nTheresa"
+newsletter_consent: false

@@ -1,10 +1,12 @@
 ---
 id: 57f72df2-a0a2-457a-b586-2bf97febba40
+published: false
 blueprint: events
 title: 'Alte Höfe - Neues Leben: das Comeback des Dorfes.'
 date_type: 'single dates'
 dates:
   -
+    id: vG0zUZu8
     date_field: '2022-05-27 14:00'
     type: single_date
     enabled: true
@@ -27,7 +29,7 @@ text_bard:
       -
         type: text
         text: 'Annika & Julia vom Ding der Möglichkeit'
-show_in_eventlist: true
+show_in_eventlist: false
 images_img: KLP_22_Annika_Julia-1652212527.jpg
 tags:
   - klp
@@ -41,5 +43,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1652212549
+updated_at: 1755089795
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

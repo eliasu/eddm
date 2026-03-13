@@ -1,0 +1,11 @@
+form_name: 'Kristina Sassenscheidt'
+Straße_Nr: 'Eggerstedtstrasse 28'
+plz_stadt: '22765'
+form_email: sassenscheidt@icloud.com
+telefonnummer: '01791189999'
+angebote:
+  - übernachten
+zeitraum: '3.-6. März'
+personenanzahl: '2'
+deine_nachricht: 'Moin, laut Buchungs-Kalender scheint alles ausgebucht zu sein, aber vielleicht habt ihr ja doch ein Doppelzimmer mit Bad für uns frei? Das würde uns riesig freuen! Schöne Grüße aus Hamburg, Kristina'
+newsletter_consent: true

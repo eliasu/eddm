@@ -1,0 +1,12 @@
+form_name: 'Ina Preussler'
+Straße_Nr: 'Eppendorfer Stieg 6'
+plz_stadt: '22299'
+form_email: inapreussler@gmail.com
+telefonnummer: '016096318149'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '27.-28. September'
+personenanzahl: '3'
+deine_nachricht: 'Wir machen Ende September eine Radtour und würden gern eine Nacht bei Euch übernachten. Habt Ihr evtl. noch ein Zimmer für uns für eine Nacht frei?'
+newsletter_consent: false

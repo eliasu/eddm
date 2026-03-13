@@ -1,0 +1,13 @@
+form_name: 'Thomas Beckermann'
+Straße_Nr: 'Godehardstraße 11'
+plz_stadt: '37081 Göttingen'
+form_email: beckermann@nibis.de
+telefonnummer: '0176 244 808 93'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '6.-7. Mai 2026'
+personenanzahl: '7'
+deine_nachricht: "Liebes Möglichkeit-Team,\r\n\r\nwir sind die \"AG Digitale Medien im inklusiven Unterricht\" des Niedersächsischen Landesinstituts für schulisch Qualitätsentwicklung. Bisher haben wir unsere Klausurtagungen bei Tobias und Kirsten Feller in der Fellerei/Buntenbock verbringen dürfen. Da Tobias und Kirsten sich zurückziehen und die Fellerei für uns nicht mehr zur Verfügung steht, haben wir die beiden nach einer Empfehlung gefragt. Sie waren sich sicher, dass das \"Ding der Möglichkeit\" zu uns passen würde.\r\n \r\nIst am 6./7. Mai noch etwas frei? Wir würden uns sehr über ein Angebot freuen.\r\n\r\nBeste Grüße \r\nThomas Beckermann"
+newsletter_consent: false

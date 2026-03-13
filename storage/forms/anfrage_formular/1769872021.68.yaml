@@ -1,0 +1,12 @@
+form_name: 'Birgit Schommer'
+Straße_Nr: 'Große Rittergasse 7'
+plz_stadt: '60594 Frankfurt'
+form_email: birgitschommer@yahoo.de
+telefonnummer: '01635676447'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '18. -21. Mai 2026, wenn möglich auch länger'
+personenanzahl: '2'
+deine_nachricht: 'Wir sind zwei Theater begeisterte Menschen, denen die KLP und Ein Ding der Möglichkeit von einem anderen Theaterbegeisterten dringend empfohlen wurde.'
+newsletter_consent: false

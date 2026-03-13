@@ -1,0 +1,11 @@
+form_name: 'Dr.Siegrid Seißler'
+Straße_Nr: 'Am Damm 6a'
+plz_stadt: '85051'
+form_email: siegrid@famseissler.de
+telefonnummer: '017699116632'
+angebote:
+  - übernachten
+zeitraum: 15.-20-05.2026
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir würden gerne ein Doppelzimmer mit Bad im o.g. Zeitraum buchen.\r\nFreundliche Grüße\r\nDr. Siegrid Seißler"
+newsletter_consent: false

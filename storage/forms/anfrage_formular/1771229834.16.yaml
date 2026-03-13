@@ -1,0 +1,11 @@
+form_name: 'Franzi Schardt'
+Straße_Nr: 'Severinusstrasse 21'
+plz_stadt: '50354 Hürth'
+form_email: franzischardt@gmx.de
+telefonnummer: '004915737884676'
+angebote:
+  - übernachten
+zeitraum: 14.-17.05.
+personenanzahl: '2'
+deine_nachricht: 'Gibt es noch ein TinyHome, das in der Zeit frei ist? :)'
+newsletter_consent: false

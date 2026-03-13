@@ -1,0 +1,10 @@
+form_name: 'Tobias Regesch'
+Straße_Nr: 'Landgrafenstr. 4'
+plz_stadt: '50931 Köln'
+form_email: tobreg@gmx.de
+angebote:
+  - übernachten
+zeitraum: '14.-17. Mai (KLP/Himmelfahrt)'
+personenanzahl: '4'
+deine_nachricht: "Hallo, habt ihr noch eine Unterkunft für uns?\r\nAußer im Zelt, da habe ich gesehen, dass das noch geht. \r\nLiebe Grüße\r\nTobias"
+newsletter_consent: false

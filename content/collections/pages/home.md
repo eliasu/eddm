@@ -57,9 +57,9 @@ text_bard:
 grid_field:
   -
     id: l5fu0z8W
-    link_link: 'entry::85656048-9eb4-4a84-8b63-4f792696998f'
-    images_img: Unterkunft_Intro_IMG_6172.jpg
-    underline_txt: 'Gemeinschaftlich zuhause fühlen ab 75€/Nacht'
+    link_link: 'entry::2b05b058-fd30-4ef4-81ea-38f9ffc7255a'
+    images_img: bundlesteaserbild.jpg
+    underline_txt: 'Ihr wollt als Gruppe bei uns arbeiten und / oder eine Auszeit nehmen?  Wir haben Pakete geschnürt!'
   -
     id: Mz1jAEpY
     link_link: 'entry::e8deda61-a12f-426e-afa5-431092b51832'
@@ -81,7 +81,7 @@ grid_field:
     underline_txt: 'Offsites & Seminare'
     images_img: teamoffsite_img_2418.jpg
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1741082243
+updated_at: 1770386092
 big_text_txt:
   -
     type: paragraph
@@ -218,7 +218,7 @@ components:
         content:
           -
             type: text
-            text: "Auf unserem Speiseplan stehen unsere Lieblingsgerichte aus aller Welt. Nach dem Motto “du bist was du isst” kommen bei uns überwiegend biologische, regionale und saisonale Produkte auf den Tisch.\_"
+            text: "Auf unserem Speiseplan stehen unsere Lieblingsgerichte aus aller Welt. Nach dem Motto “du bist, was du isst” kommen bei uns überwiegend biologische, regionale und saisonale Produkte auf den Tisch.\_"
       -
         type: set
         attrs:
@@ -232,10 +232,124 @@ components:
             link_type: entry
     type: image_text_component
     enabled: true
+  -
+    id: mhyov5l5
+    headline_txt: 'Erweiterung Küchenteam > Wir suchen!'
+    component_template: pano_slider
+    images_img:
+      - img_8471.jpeg
+      - dsc_9536.jpg
+      - 73412099-8121-49d4-8010-3c52b6f396dc_1_102_a.jpeg
+    background_color: none
+    text_color: black
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Du hast Lust in unserem Küchenteam mit zu wirken? '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'In unserer großzügigen, offenen Küche werden für unsere Gäste regionale und biologische Produkte verarbeitet. Wir bieten eine vegetarisch / vegan Voll-Verpflegung an und ein unkomplizierter, herzlicher Austausch mit unseren Gäste ist uns besonders wichtig.'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Was Du mitbringst:'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Erfahrung in der Verarbeitung von regionalen Erzeugnissen'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Zutrauen für ca. 40 Personen zu kochen'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Lust darauf Gastgeber*in zu sein und einem Raum zu schaffen indem sich Menschen wohlfühlen'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Interesse Küchen-Workshops für unsere Gäste zu geben '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> die Bereitschaft jedes zweite Wochenende (Freitag / Samstag) und ab und zu abends zu arbeiten'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Interesse an Wareneinsätzen, Effizienz und Bestellungen'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> 25 – 30 Wochenstunden'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Was wir bieten:'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> kleines, feines Küchenteam ohne hierarchische Strukturen'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> professionell ausgestattete Gastroküche'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> liebenswerte und achtsame Gäste'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> nachhaltiges Gesamtkonzept im Umgang mit Lebensmitteln'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> Ausprobier-Freude und Ideenreichtum '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> eigenständiges und eigenverantwortliches Arbeiten '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> sehr guten Kaffee und 2x in der Woche Yoga 😂'
+          -
+            type: hardBreak
+      -
+        type: paragraph
+      -
+        type: paragraph
+    type: image_text_component
+    enabled: false
 template: home
 template_field: layout
 full_width: false
-disable_eye-catcher: true
+disable_eye-catcher: false
 headline_eye-catcher: HEadline
 text_eye-catcher:
   -
@@ -261,6 +375,26 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 images_img: 231016_eddm_hero_rundling.jpg
+select_type: new
+headline_eye: '> Wir suchen!'
+text_eye:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Du hast Lust in unserem Küchenteam mit zu wirken? '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.eindingdermoeglichkeit.com/wir_suchen'
+              rel: null
+              target: null
+              title: null
+        text: 'Wir freuen uns auf Deine Bewerbung!'
 alt_seo_meta_title: 'Erholung & Kreativität im Wendland: Seminare, Workshops, Kunst & Übernachtungen'
 alt_seo_meta_description: 'Inspirierende Seminare, kreative Workshops, entspannende Retreats und genieße vielfältige Kunst- und Kulturangebote. Arbeite und gestalte im modernen Kreativ- und InnovationsLab.'
 alt_seo_noindex: false

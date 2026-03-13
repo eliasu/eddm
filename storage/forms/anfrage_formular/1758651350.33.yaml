@@ -1,0 +1,11 @@
+form_name: 'Jan Dollansky'
+Straße_Nr: 'Rellinger Straße 58'
+plz_stadt: Hamburg
+form_email: JanDollansky10@gmail.com
+telefonnummer: '015731638843'
+angebote:
+  - übernachten
+zeitraum: 31.10-02.11.25
+personenanzahl: '2'
+deine_nachricht: "Hallo, \r\nwir haben einen Drechselkurs bei Hendrik Hinrichs gebucht und über seine Website euer Haus als Übernachtungsmöglichkeit gefunden. \r\nHättet ihr für den genannten Zeitraum Betten frei? \r\nViele Grüße \r\nJan Dollansky"
+newsletter_consent: false

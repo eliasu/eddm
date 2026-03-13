@@ -1,0 +1,11 @@
+form_name: 'Jens Krug'
+Straße_Nr: 'Kalkmühler Weg 1'
+plz_stadt: '40699 Erkrath'
+form_email: krgjens@t-online.de
+telefonnummer: '01511513148'
+angebote:
+  - übernachten
+zeitraum: 14.-18.05.
+personenanzahl: '2'
+deine_nachricht: "Gerne im Bauwagen, wenn nicht frei, DZ mit Bad und Balkon. \r\nGruß Jens"
+newsletter_consent: true

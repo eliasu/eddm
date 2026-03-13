@@ -11,12 +11,12 @@ text_bard:
         type: text
         text: Vortrag
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '2 Stunden'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Im LAB, EG, Wiesenwinkel'
@@ -58,7 +58,7 @@ components:
             type: text
             text: "Ursprünglich in Australien entwickelt, sind Caring\_Communities vor allem eine Gegenbewegung zu\_Entsolidarisierung und Vereinzelung: sie versuchen, zum Wohle aller Beteiligten die Sorge um das Gegenüber sichtbar\_zu\_machen."
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "(vgl. www.caring\_"
@@ -104,7 +104,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1712332758
+updated_at: 1769447602
 duplicated_from: 74540142-d87d-49f0-b51e-de788320ef83
 dates:
   -
@@ -112,4 +112,7 @@ dates:
     date_field: '2024-05-10 17:00'
     type: single_date
     enabled: true
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

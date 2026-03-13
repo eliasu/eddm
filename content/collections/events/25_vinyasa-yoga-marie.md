@@ -1,8 +1,35 @@
 ---
 id: 0c7c3573-9acc-4de2-8035-91a35389f1b9
+published: false
 blueprint: events
 title: 'Vinyasa Flow Yoga, Jeden Dienstag 18.15 Uhr'
-date_type: 'date range'
+date_type: 'single dates'
+dates:
+  -
+    id: md4pqvph
+    date_field: '2025-07-22 18:15'
+    type: single_date
+    enabled: true
+  -
+    id: md4pr5mn
+    date_field: '2025-08-05 18:15'
+    type: single_date
+    enabled: true
+  -
+    id: md4prikm
+    date_field: '2025-08-12 18:15'
+    type: single_date
+    enabled: true
+  -
+    id: md4pruns
+    date_field: '2025-09-09 18:15'
+    type: single_date
+    enabled: true
+  -
+    id: md4pse92
+    date_field: '2025-09-16 18:15'
+    type: single_date
+    enabled: true
 text_bard:
   -
     type: paragraph
@@ -93,10 +120,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1747932412
-date_range:
-  start: '2025-06-10'
-  end: '2025-12-31'
+updated_at: 1754211052
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false

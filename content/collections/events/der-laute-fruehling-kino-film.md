@@ -1,10 +1,12 @@
 ---
 id: c615a5ef-339b-45cb-888b-5033a67e244a
+published: false
 blueprint: events
 title: 'Der laute Frühling - Kino Film'
 date_type: 'single dates'
 dates:
   -
+    id: 7436oxzy
     date_field: '2022-10-01 20:00'
     type: single_date
     enabled: true
@@ -30,9 +32,10 @@ text_bard:
   -
     type: set
     attrs:
+      id: 0Z2ODkvx
       values:
         type: link
-        link_name_txt: 'zum Trailer '
+        link_name_txt: 'zum Trailer'
         url: 'https://www.youtube.com/watch?v=I82kOiFYTZs'
         target_blank: true
         link_type: url
@@ -40,8 +43,8 @@ text_bard:
     type: paragraph
     content:
       -
-        type: hard_break
-show_in_eventlist: true
+        type: hardBreak
+show_in_eventlist: false
 images_img: dlf_pressefoto_11-1663935445.jpg
 seotamic_title: title
 seotamic_title_prepend: true
@@ -52,5 +55,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1663936030
+updated_at: 1755089767
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

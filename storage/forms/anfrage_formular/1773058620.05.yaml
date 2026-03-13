@@ -1,0 +1,11 @@
+form_name: 'Christoph Carstensen'
+Straße_Nr: 'Kleistau 3'
+plz_stadt: '29413'
+form_email: christoph-carstensen@outlook.de
+telefonnummer: '01704479255'
+angebote:
+  - übernachten
+zeitraum: 23.5.-24.5.
+personenanzahl: '3'
+deine_nachricht: "Hi,\r\nwir haben nur drei kleine Zelte. Findet ihr noch Platz für uns?"
+newsletter_consent: false

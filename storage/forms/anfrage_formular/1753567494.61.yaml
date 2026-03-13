@@ -1,0 +1,12 @@
+form_name: 'Christoph Spahn'
+Straße_Nr: 'Bahnwärterweg 98'
+plz_stadt: '50733 Köln'
+form_email: christoph@iniciato.de
+telefonnummer: '0171.7778469'
+angebote:
+  - übernachten
+  - essen
+zeitraum: '12. - 13.08.2025'
+personenanzahl: '1'
+deine_nachricht: 'Hallo, ich würde auf meinem Rad-Weg gerne bei Euch unterkommen.'
+newsletter_consent: false

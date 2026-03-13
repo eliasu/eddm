@@ -1,0 +1,11 @@
+form_name: 'Sonja Mewes'
+Straße_Nr: 'Im Röthel 50'
+plz_stadt: '29225 Celle'
+form_email: mewes.luechow@freenet.de
+telefonnummer: '017645821031'
+angebote:
+  - essen
+zeitraum: 12.09.2026
+personenanzahl: '12'
+deine_nachricht: "Guten Tag, wir wollten mal fragen, ob Sie noch was frei hätten, am 12.9. 2026?\r\nWir möchten im kleinen Kreise unseren 10. HOCHZEITSTAG nachfeiern."
+newsletter_consent: false

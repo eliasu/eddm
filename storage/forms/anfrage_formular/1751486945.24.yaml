@@ -1,0 +1,12 @@
+form_name: 'Martha Stiehler'
+Straße_Nr: 'Keplerstr. 7'
+plz_stadt: '22765 Hamburg'
+form_email: mkstiehler@gmail.com
+telefonnummer: '016770465471'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 09.07-11.07
+personenanzahl: '2 plus baby'
+deine_nachricht: "Hallo ihr Lieben, \r\nWir überlegen gerade spontan für zwei Nächte wegzufahren. Hättet ihr ab dem 09.07 noch etwas frei? Wir sind zwei Erwachsene mit einem 4 Monate alten Baby:) \r\nDanke und ganz liebe Grüße"
+newsletter_consent: false

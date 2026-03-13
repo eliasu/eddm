@@ -1,0 +1,11 @@
+form_name: 'Michael Pleitgen'
+Straße_Nr: 'Buriger Weg 10'
+plz_stadt: '12589 Berlin'
+form_email: mpleitgen@web.de
+telefonnummer: '017643029391'
+angebote:
+  - übernachten
+zeitraum: '10. - 12. August (2 Nächte)'
+personenanzahl: '2 Michael + Anja'
+deine_nachricht: 'Ich war schon einmal bei euch - hat mir sehr gut gefallen. Ich habe meine Schwester in Stütensen - von daher paßt das sehr gut...'
+newsletter_consent: false

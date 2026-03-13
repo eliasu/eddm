@@ -1,0 +1,11 @@
+form_name: 'Benjamin Ikes'
+Straße_Nr: 'Paul-Robeson-Str. 9'
+plz_stadt: '10439 Berlin'
+form_email: mail@benjaminikes.de
+telefonnummer: '+491633308065'
+angebote:
+  - übernachten
+zeitraum: 22.-25.05.2026
+personenanzahl: '4'
+deine_nachricht: "Ihr Lieben,\r\nBenjamin hier, der Bruder von Miriam Ikes. Wir würden gerne über Pfingsten wieder zu euch kommen und ein Zimmer buchen. Wäre für 2 Erwachsene und 2 Kinder (12,10) noch was frei?\r\nLieben Gruß aus Berlin"
+newsletter_consent: false

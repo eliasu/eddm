@@ -1,10 +1,12 @@
 ---
 id: 2f0b3d59-2d6a-4b86-b2c0-61b0155f0dc0
+published: false
 blueprint: events
 title: 'Barbecue & Beats „BerryWild“'
 date_type: 'single dates'
 dates:
   -
+    id: gAlk5fnp
     date_field: '2022-08-04 18:00'
     type: single_date
     enabled: true
@@ -29,6 +31,7 @@ text_bard:
         text: "> ab 18 Uhr\_"
 components:
   -
+    id: 5itXuIrt
     headline_txt: „BerryWild“
     component_template: slider_left
     images_img:
@@ -58,9 +61,9 @@ components:
             type: text
             text: 'Kooperation: Michael der Jäger'
           -
-            type: hard_break
+            type: hardBreak
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Preis: 19 / 22 Euro (Soli)'
@@ -73,6 +76,7 @@ components:
       -
         type: set
         attrs:
+          id: Vlnpf3dX
           values:
             type: link
             link_name_txt: hallo@moeglichkeit.org
@@ -81,7 +85,7 @@ components:
             link_type: email
     type: image_text_component
     enabled: true
-show_in_eventlist: true
+show_in_eventlist: false
 images_img: 22_EDdM_BarbecueBeats_3_Cheese_Header.png
 tags:
   - kultur
@@ -94,5 +98,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1658248210
+updated_at: 1755089757
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

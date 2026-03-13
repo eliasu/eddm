@@ -1,10 +1,12 @@
 ---
 id: d5f878c0-2e9f-48e9-9f85-f021cfa88942
+published: false
 blueprint: events
 title: 'Barbecue & Beats „Das BurgerDing“ (Ausgebucht)'
 date_type: 'single dates'
 dates:
   -
+    id: ab4T2SW8
     date_field: '2022-08-11 18:00'
     type: single_date
     enabled: true
@@ -29,6 +31,7 @@ text_bard:
         text: "> ab 18 Uhr\_"
 components:
   -
+    id: k9rGoqIr
     headline_txt: '"Das BurgerDing"'
     component_template: slider_left
     images_img:
@@ -52,7 +55,7 @@ components:
             type: text
             text: 'Wir machen die Wildfleisch und vegan Variante mit unterschiedlichen Leckereien on top und freuen uns auf volle Münder und Barbecue-Soßen im Gesicht.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Kooperation: suurlove (Gute Kulturen GmbH)'
@@ -83,5 +86,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1660061273
+updated_at: 1755089738
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

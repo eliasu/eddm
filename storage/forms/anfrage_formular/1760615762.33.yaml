@@ -1,0 +1,11 @@
+form_name: 'Linda Ahrens'
+Straße_Nr: 'Gaußstraße 32'
+plz_stadt: '22765 Hamburg'
+form_email: leahrens@gmail.com
+telefonnummer: '015146117194'
+angebote:
+  - übernachten
+zeitraum: 29.10.-02.11.
+personenanzahl: '1'
+deine_nachricht: "Hallo liebes Team,\r\n\r\nHättet ihr da noch Platz für mich und meine Hündin? Wir waren schon zwei Mal bei euch, kennen also die Gegebenheiten.\r\n\r\nViele Grüße,\r\nLinda"
+newsletter_consent: false

@@ -17,7 +17,7 @@ text_bard:
         type: text
         text: Konzert
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: Kulturscheune
@@ -36,12 +36,12 @@ components:
             type: text
             text: 'Zwischen Kinderzimmer und Schulhof gegründet, feiert Tonbandgerät – bestehend aus Ole, Sophia und Jakob – 2022 fünfzehnjähriges Bandjubiläum! '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Nie hätten sie sich erträumt, dass ein paar Jahre später so viele Menschen ihre Lieder mitsingen.'
           -
-            type: hard_break
+            type: hardBreak
       -
         type: paragraph
       -
@@ -79,5 +79,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1710842648
+updated_at: 1769448263
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

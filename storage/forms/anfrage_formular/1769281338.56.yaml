@@ -1,0 +1,12 @@
+form_name: 'Oswald Rabas'
+Straße_Nr: 'Rigaer Straße 56'
+plz_stadt: '10247 berlin'
+form_email: oswaldrabas@hotmail.de
+telefonnummer: '015738409023'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 19.-22.2.26
+personenanzahl: '2'
+deine_nachricht: "Liebe Menschen. \r\nWir suchen für diese Tage eine feine Unterkunft. Gerne mit Frühstück und eventuell abends auch. \r\nGerne auch im Bauwagen. \r\nLiebe Grüße \r\nJen&Oswald"
+newsletter_consent: false

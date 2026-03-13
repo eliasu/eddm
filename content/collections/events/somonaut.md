@@ -1,7 +1,7 @@
 ---
 id: 72ee8f8f-7b74-4f5e-81d0-37fb11fb61ec
 blueprint: events
-title: 'SOMANAUT - Verkörpertes Yoga & Somatik Retreat'
+title: 'SOMANAUT - Embodied Yoga & Somatics New Year Retreat'
 date_type: 'date range'
 text_bard:
   -
@@ -36,11 +36,11 @@ text_bard:
           -
             type: link
             attrs:
-              href: 'https://www.beingspace.de/somanaut-retreat-maerz-2025'
+              href: 'https://www.beingspace.de/somanaut-winter-retreat'
               rel: null
               target: null
-              title: null
-        text: 'Somanaut Retreat'
+              title: 'Somanaut Winter Retreat'
+        text: 'Somanaut Winter Retreat'
 show_in_eventlist: true
 images_img: somanaut_agnes_8119.jpg
 seotamic_title: title
@@ -52,11 +52,11 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1738760406
+updated_at: 1756888801
 duplicated_from: 9f068a94-e180-44b8-9def-0c3e169fc6e0
 date_range:
-  start: '2025-03-28'
-  end: '2025-03-30'
+  start: '2026-01-22'
+  end: '2026-01-25'
 tags:
   - seminar
   - workshop

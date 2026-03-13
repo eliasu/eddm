@@ -1,0 +1,11 @@
+form_name: 'Paula Gerhardstein'
+Straße_Nr: 'Bernstorffstraße 153'
+plz_stadt: '22767 Hamburg'
+form_email: pau.ger@gmx.de
+telefonnummer: '015734926535'
+angebote:
+  - übernachten
+zeitraum: 13.-15.03.2026
+personenanzahl: '4'
+deine_nachricht: "Hallo! :)\r\nWir würden gern zu viert ein Wochenende bei euch verbringen - gerne in einem Apartment mit Kochmöglichkeit. Falls dies nicht verfügbar ist, freuen wir uns aber auch über alternative Vorschläge. Wir würden in zwei Doppelzimmern übernachten. \r\n\r\nVielen Danke im Voraus und \r\nLiebe Grüße aus Hamburg\r\nPaula"
+newsletter_consent: false

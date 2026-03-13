@@ -1,0 +1,13 @@
+form_name: 'Lea Buchholz'
+Straße_Nr: 'Brigittenstraße 4'
+plz_stadt: '20359'
+form_email: buchholzlea@outlook.de
+telefonnummer: '017657789699'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 'September 2026'
+personenanzahl: 70-80
+deine_nachricht: 'Guten Abend, wir sind auf der Suche nach einer Location in der wir unsere Hochzeit an einem Wochenende mit unseren Gästen feiern könnten. Einen etwas detaillierten Plan bzw. Vorstellung könnte ich schicken, falls dies generell möglich wäre. Danke und LG, Lea'
+newsletter_consent: false

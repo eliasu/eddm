@@ -1,0 +1,11 @@
+form_name: 'Hanna Jacobi'
+Straße_Nr: 'Limburgerstr. 51'
+plz_stadt: '04229 Leipzig'
+form_email: hanna.jacobi@posteo.de
+telefonnummer: '017693169720'
+angebote:
+  - übernachten
+zeitraum: 22.-25.05.26
+personenanzahl: '4'
+deine_nachricht: "Hallo ihr Lieben, wir möchten gern zur KLP 22.-25.05. zu euch kommen und dies gern mit Bus und Dachzelt. Wir sind zwei Erwachsene und zwei Kids. Sollen wir uns trotzdem einfach Zeltplätze buchen oder individuell buchen? Ich danke euch für eine kurze Info dazu.\r\n\r\nLiebe Grüße aus Leipzig,\r\nHanna"
+newsletter_consent: true

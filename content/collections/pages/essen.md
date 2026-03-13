@@ -62,66 +62,9 @@ components:
     type: big_text_component
     enabled: false
   -
-    id: EzezSQkH
-    headline_txt: 'Du möchtest bei uns frühstücken?'
-    component_template: slider_left
-    images_img:
-      - kueche_fruehstueck_dsc05124.jpg
-      - kueche_muesli_station_dsc05187.jpg
-    background_color: none
-    text_color: black
-    text_bard:
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wir bieten euch täglich unser Müsli Frühstück mit einer Auswahl aus Früchte Müsli, Schoko Müsli oder hausgemachtem Granola. Dazu gibt es 150g Bio-Soja-Joghurt oder Hafermilch mit Früchten von unserem Hof.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Filterkaffee und Tee mit Kuh- oder Hafermilch findet ihr an unser Kaffee-Station zur Selbstbedienung.'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: '7,50€/Person'
-          -
-            type: hardBreak
-      -
-        type: paragraph
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Für Gruppen ab 5 Personen bieten wir auch unser saisonales Frühstücksbuffet. '
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 15€/Person
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '7,5€/Kinder (3-12 Jahre)'
-      -
-        type: paragraph
-        content:
-          -
-            type: text
-            text: 'Wenn Ihr Interesse habt, vermerkt es gerne direkt in eurer Anfrage.'
-    type: image_text_component
-    enabled: true
-  -
     id: cF8uw5A0
     headline_txt: 'Gruppen Verpflegung'
-    component_template: slider_right
+    component_template: slider_left
     images_img:
       - gastro_005.jpg
       - kueche_seminarverpflegung_02.jpg
@@ -147,20 +90,67 @@ components:
           id: ExNRvc9Z
           values:
             type: link
-            link_name_txt: 'Angebot Seminare (pdf)'
-            target_blank: true
-            link_type: url
-            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250109_eddm_seminar_verpflegung.pdf'
+            link_name_txt: 'Angebot Seminare'
+            target_blank: false
+            link_type: entry
+            entry: 168a6e2d-e004-42fb-ae14-439a94cd38dd
       -
         type: set
         attrs:
           id: m5p8ko8o
           values:
             type: link
-            link_name_txt: 'Angebot Retreats (pdf)'
-            target_blank: true
-            link_type: url
-            url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250109_eddm_retreat_verpflegung.pdf'
+            link_name_txt: 'Angebot Retreats'
+            target_blank: false
+            link_type: entry
+            entry: 42833923-e423-49a2-8c6d-7c37f9040ebe
+    type: image_text_component
+    enabled: true
+  -
+    id: EzezSQkH
+    headline_txt: 'Du möchtest bei uns frühstücken?'
+    component_template: slider_right
+    images_img:
+      - kueche_fruehstueck_dsc05124.jpg
+      - kueche_muesli_station_dsc05187.jpg
+    background_color: none
+    text_color: black
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wir bieten euch täglich unser Müsli Frühstück mit einer Auswahl aus Früchte Müsli, Schoko Müsli oder hausgemachtem Granola. Dazu gibt es 150g Bio-Joghurt oder Hafermilch mit Früchten von unserem Hof.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'Filterkaffee und Tee mit Kuh- oder Hafermilch findet ihr an unser Kaffee-Station zur Selbstbedienung.'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '8,50€ / Person'
+          -
+            type: hardBreak
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Für Gruppen ab 5 Personen bieten wir auch unser saisonales Frühstücksbuffet. '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '17€ / Person und 8,50€ / Kinder (3-12 Jahre)'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Wenn Ihr Interesse habt, vermerkt es gerne direkt in eurer Anfrage.'
     type: image_text_component
     enabled: true
   -
@@ -408,7 +398,7 @@ title: Essen
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1744280770
+updated_at: 1757710967
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title

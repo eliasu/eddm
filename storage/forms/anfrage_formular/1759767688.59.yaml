@@ -1,0 +1,12 @@
+form_name: 'Maite Sellnow'
+Straße_Nr: 'Mosethalstr. 8'
+plz_stadt: '34117 Kassel'
+form_email: maite.sellnow@uni-kassel.de
+telefonnummer: '015754890079'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+zeitraum: '03.12.25 - 05.12.25'
+personenanzahl: '7'
+deine_nachricht: "Hallo liebes Team von Ein Ding der Möglichkeit,\r\n\r\nwir planen ein Team-Retreat unseres Forschungsteams am Kassel Institute for Sustainability und sind auf euer Angebot für Offsites/Seminare gestoßen.\r\n\r\nWir würden gerne wissen:\r\n\r\nWas kostet es, euren Space für drei Tage / zwei Nächte (3.–5. Dezember 2025) zu buchen?\r\n\r\nBietet ihr Vollverpflegung an oder welche anderen Verpflegungsmöglichkeiten gibt es und was sind die Kosten?\r\n\r\nWelche Zimmeraufteilungen sind möglich? Wäre es machbar, dass jede der sieben Personen ein eigenes Zimmer bekommt?\r\n\r\nVielen Dank für eure Rückmeldung!\r\n\r\nBeste Grüße\r\nMaite"
+newsletter_consent: false

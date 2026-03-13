@@ -4,8 +4,8 @@ blueprint: events
 title: 'Entdecke Deine Stimme(n) und gewinne Klarheit – im Innen und Aussen.'
 date_type: 'date range'
 date_range:
-  start: '2025-07-31'
-  end: '2025-08-03'
+  start: '2025-11-06'
+  end: '2025-11-09'
 text_bard:
   -
     type: paragraph
@@ -30,7 +30,6 @@ components:
     headline_txt: 'Systemisches Coaching trifft Stimmentwicklung trifft Sehnsuchtsort'
     component_template: slider_left
     images_img:
-      - retreatstimme_bild1.png
       - retreatstimme_bild2.png
       - retreatstimme_bild3.png
     background_color: none
@@ -61,7 +60,9 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: retreatstimme_bild1.png
+images_img: retreat_stimme_angelika_bild.png
+tags:
+  - workshop
 seotamic_title: title
 seotamic_title_prepend: true
 seotamic_title_append: true
@@ -74,5 +75,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1745408660
+updated_at: 1754210856
 ---

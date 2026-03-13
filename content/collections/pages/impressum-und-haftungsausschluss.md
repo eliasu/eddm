@@ -10,7 +10,7 @@ text_bard:
     content:
       -
         type: text
-        text: 'Angaben gemäß § 5 TMG:'
+        text: 'Angaben gemäß § 5 DDG:'
   -
     type: paragraph
     content:
@@ -18,22 +18,22 @@ text_bard:
         type: text
         text: 'Ein Ding der Möglichkeit eG'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Salderatzen 3'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: '29496 Waddeweitz'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: "Telefon:\_+49 (0)5849 971018"
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: "E-Mail:\_"
@@ -49,19 +49,19 @@ text_bard:
               title: null
         text: hallo@moeglichkeit.org
       -
-        type: hard_break
+        type: hardBreak
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Sitz Waddeweitz'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Gen. Register Lüneburg 200034'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'USt-IdNr.: DE330791259'
@@ -80,12 +80,12 @@ text_bard:
         type: text
         text: 'Peter Neuberger'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Julia Nagel'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Annika Heinrichs'
@@ -107,45 +107,31 @@ text_bard:
     type: paragraph
     content:
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Verantwortlich gemäß § 55 Abs. 2 RStV'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Annika Heinrichs'
       -
-        type: hard_break
+        type: hardBreak
       -
-        type: hard_break
-      -
-        type: text
-        text: "Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:\_http://ec.europa.eu/consumers/odr"
-      -
-        type: hard_break
-      -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Unsere E-Mail-Adresse finden Sie oben im Impressum.'
       -
-        type: hard_break
+        type: hardBreak
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.'
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: "Quelle:\_e-recht24.de"
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1721054225
+updated_at: 1755102653
 template: utility_page
 seotamic_title: title
 seotamic_title_prepend: true
@@ -155,4 +141,8 @@ seotamic_open_graph_title: title
 seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

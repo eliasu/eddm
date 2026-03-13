@@ -1,0 +1,12 @@
+form_name: 'Maximilian Menke'
+Straße_Nr: 'Ripdorfer Str. 11-13'
+plz_stadt: '29525 Uelzen'
+form_email: maximilian.menke@drk-uelzen.de
+telefonnummer: '01712031645'
+angebote:
+  - 'Spaces mieten'
+  - essen
+zeitraum: 07.11.2025
+personenanzahl: 'Bis zu 15'
+deine_nachricht: 'Hallo! Wie eben telefonisch besprochen, einmal unsere Anfrage bezüglich einer Räumlichkeit + Mittagessen!'
+newsletter_consent: false

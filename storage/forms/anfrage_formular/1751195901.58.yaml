@@ -1,0 +1,11 @@
+form_name: 'Moritz Stefaner'
+Straße_Nr: 'Eickedorfer Damm 35'
+plz_stadt: '28865 Lilienthal'
+form_email: moritz@stefaner.eu
+telefonnummer: '+49 179 525 21 26'
+angebote:
+  - übernachten
+zeitraum: '08. bis 10. August'
+personenanzahl: '2'
+deine_nachricht: 'Ein Doppelzimmer wäre fein — danke!'
+newsletter_consent: false

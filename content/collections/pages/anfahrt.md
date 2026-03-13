@@ -16,12 +16,12 @@ components:
         content:
           -
             type: text
-            text: "Die Buslinie 7000 hält direkt vor der Haustür und\_fährt alle 2 Stunden zwischen 6—22h von Uelzen nach Lüchow und zurück."
+            text: 'Die Buslinie 7000 hält direkt vor der Haustür und fährt werktags stündlich zwischen 5—23h von Uelzen nach Lüchow und zurück.'
       -
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Die nächsten Bahnhöfe sind:'
@@ -32,17 +32,33 @@ components:
             type: text
             text: '‡ Schnega (15 km)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '‡ Salzwedel (25 km)'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: '‡ Uelzen (30 km)'
+      -
+        type: paragraph
+      -
+        type: paragraph
+        content:
           -
-            type: hard_break
+            type: text
+            text: 'Von Salzwedel und Schnega empfehlen wir das On Demand Shuttle, welches ihr über folgende App planen könnt:'
+      -
+        type: set
+        attrs:
+          id: mefovpl4
+          values:
+            type: link
+            link_name_txt: 'Wendland OnDemand'
+            url: 'https://apps.apple.com/de/app/wendland-ondemand/id6471832244'
+            target_blank: true
+            link_type: url
       -
         type: paragraph
       -
@@ -52,7 +68,7 @@ components:
             type: text
             text: 'Für Bahnhofshuttles wendet euch gerne an '
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             marks:
@@ -82,7 +98,7 @@ components:
         type: paragraph
         content:
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: "Mit dem Rad kannst Du die schöne Natur und das\_Wendland bewundern, schon bevor Du bei uns angekommst. Die Fahrradmitnahme\_ist in allen Buslinien der LSE möglich. Fahrradständer sind vorhanden."
@@ -103,7 +119,7 @@ components:
   -
     id: lkdw3l94
     headline_txt: 'Auto muss leider sein?'
-    component_template: no_image
+    component_template: slider_left
     background_color: white
     text_color: black
     text_bard:
@@ -112,9 +128,11 @@ components:
         content:
           -
             type: text
-            text: 'Für eure Autos haben wir 100m weiter schräg gegenüber der Landstraße eine große Parkwiese.'
+            text: 'Für eure Autos haben wir 100m weiter an der Landstraße, in Richtung Lüchow, eine große Parkwiese.'
     type: image_text_component
     enabled: true
+    images_img:
+      - eddm_parkplatz.jpeg
   -
     id: lsucjft5
     headline_txt: Barrierefreiheit
@@ -141,5 +159,9 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1708432466
+updated_at: 1755625346
+parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

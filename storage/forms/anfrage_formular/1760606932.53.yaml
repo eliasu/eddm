@@ -1,0 +1,11 @@
+form_name: 'Hans Jakob Schüler'
+Straße_Nr: 'Schrammsweg 33 b'
+plz_stadt: '20249 Hamburg'
+form_email: hajoschueler@gmail.com
+telefonnummer: '015785616882'
+angebote:
+  - übernachten
+zeitraum: 18.10.25-19.10.25
+personenanzahl: '2'
+deine_nachricht: "Hallo\r\n\r\nWir (Fenja und Hanser) möchten bei euch von Samstag auf Sonntag (18.-19.10.) übernachten. Am Liebsten würden wir ein Doppelzimmer buchen, inklusive. Frühstück und auch gerne Sauna am Sonntag. \r\nFalls die Zimmer schon ausgebucht sind, könnten wir auch in unsrem Van auf der Wiese übernachten. \r\nWir würden am Samstag Nachmittag anreisen und würden uns sehr freuen, zum ersten Mal bei euch zu sein.\r\n\r\nLiebe Grüße\r\nHanser"
+newsletter_consent: true

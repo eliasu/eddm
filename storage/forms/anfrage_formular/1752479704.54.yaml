@@ -1,0 +1,11 @@
+form_name: 'Heide Buchwald'
+Straße_Nr: 'Mözener Weg 23'
+plz_stadt: '22417 Hamburg'
+form_email: hhbuchwald@web.de
+telefonnummer: '0049 157 8808 4353'
+angebote:
+  - übernachten
+zeitraum: '15. - 17.08.2025'
+personenanzahl: '2'
+deine_nachricht: 'Wir nehmen am Chorprojekt teil und hätten gern ein DZ mit Bad'
+newsletter_consent: false

@@ -5,14 +5,17 @@ title: 'The requiem of Sophie Withman'
 date_type: 'single dates'
 dates:
   -
+    id: Wmjpjfvi
     date_field: '2022-06-01 16:00'
     type: single_date
     enabled: true
   -
+    id: We1VOkph
     date_field: '2022-06-04 14:00'
     type: single_date
     enabled: true
   -
+    id: LeOdU0YZ
     date_field: '2022-06-05 17:00'
     type: single_date
     enabled: true
@@ -38,6 +41,7 @@ text_bard:
   -
     type: set
     attrs:
+      id: 7KJnzsCq
       values:
         type: link
         link_name_txt: 'Mehr Infos'
@@ -55,8 +59,11 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1653373638
+updated_at: 1770046613
 tags:
   - klp
   - theater
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

@@ -1,0 +1,13 @@
+form_name: 'Lisa Zillessen'
+Straße_Nr: 'Geierstraße 15'
+plz_stadt: '22305 Hamburg'
+form_email: lisa@zillessen.info
+telefonnummer: '017631723084'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 'August 2026'
+personenanzahl: 'ca. 150'
+deine_nachricht: 'Hallo Ihr Lieben, wir sind auf der Suche nach einer geeigneten Location für eine private, festival-ähnliche Feier anlässlich unserer Hochzeit. Gerne wollen wir mit Freunden und Familie ein paar schöne, entspannte Tage verbringen (zB Mi/Do bis So/Mo), darunter eine etwas geplantere Feier zB am Samstag. Wir wollen gerne tanzen, spielen, Sport machen, Freude haben. Euer Hof präsentiert sich im ersten Moment sehr passend dafür und wir würden uns über eine Kontaktaufnahme freuen. Danke und liebe Grüße, Lisa und Felix'
+newsletter_consent: false

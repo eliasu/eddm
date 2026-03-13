@@ -208,7 +208,7 @@ components:
             type: hardBreak
           -
             type: text
-            text: '> Stühle und Tische (Bis 100 Personen bestuhlbar)'
+            text: '> Stühle und Tische'
           -
             type: hardBreak
           -
@@ -244,7 +244,7 @@ components:
         content:
           -
             type: text
-            text: 350€/Tag
+            text: 350-500€/Tag
       -
         type: paragraph
       -
@@ -349,7 +349,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1743769048
+updated_at: 1771843003
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
 alt_seo_meta_title: 'Vielseitige Räume: Coworking, Seminare, Yoga & Sauna für Arbeit und Entspannung'
 alt_seo_meta_description: 'Entdecke unsere vielseitigen Räume: Ob Coworking Arbeitsplatz, Seminarraum, Atelier, Yoga oder Sauna – unsere Spaces bieten die perfekte Balance zwischen Arbeiten und entspanntem Abschalten.'

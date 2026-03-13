@@ -1,0 +1,11 @@
+form_name: 'Astrid Warnecke'
+Straße_Nr: 'Koppelweg 20'
+plz_stadt: Northeim
+form_email: astrid.warnecke@gmx.de
+telefonnummer: '0160 9273209'
+angebote:
+  - übernachten
+zeitraum: 22.-24.5.2026
+personenanzahl: '1'
+deine_nachricht: "Ist vielleicht noch ein Zimmer für mich frei?\r\nLG Astrid"
+newsletter_consent: false

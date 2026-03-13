@@ -1,0 +1,11 @@
+form_name: 'Regine Moschner'
+Straße_Nr: 'Richard-Strauß-Straße 29'
+plz_stadt: '34128 Kassel'
+form_email: regine.moschner@t-online.de
+telefonnummer: '015122236571'
+angebote:
+  - übernachten
+zeitraum: 14.-24.5.26
+personenanzahl: '1'
+deine_nachricht: "Hallo, gerne möchte ich eine Woche bei euch verbringen.\r\nBesteht die Möglichkeit, irgendwo etwas zu kochen, wenn ich ein Einzelzimmer buche?\r\nHerzliche Grüße \r\nRegine"
+newsletter_consent: true

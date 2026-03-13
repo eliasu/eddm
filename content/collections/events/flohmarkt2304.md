@@ -1,5 +1,6 @@
 ---
 id: 34f6010f-2222-477e-b460-922e410bc555
+published: false
 blueprint: events
 title: Flohmarkt
 date_type: 'single dates'
@@ -17,7 +18,7 @@ text_bard:
         type: text
         text: 'Wann: 11.00 – 16.00 Uhr'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Wo: Salderatzen 3'
@@ -41,7 +42,7 @@ components:
             type: text
             text: 'Es gibt viele interessante Dinge, wie Möbel, Lampen & Diverses.'
           -
-            type: hard_break
+            type: hardBreak
           -
             type: text
             text: 'Außerdem Damen, Herren und Kinder Klamotten.'
@@ -75,7 +76,7 @@ components:
             text: ' '
     type: image_text_component
     enabled: true
-show_in_eventlist: true
+show_in_eventlist: false
 images_img: 23_flohmarkt_00.jpg
 seotamic_title: title
 seotamic_title_prepend: true
@@ -86,7 +87,10 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1679607249
+updated_at: 1751276514
 tags:
   - kultur
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

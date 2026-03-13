@@ -5,10 +5,12 @@ title: Nomad
 date_type: 'single dates'
 dates:
   -
+    id: UchVXfH0
     date_field: '2022-06-04 15:00'
     type: single_date
     enabled: true
   -
+    id: uQp4nhXC
     date_field: '2022-06-05 15:00'
     type: single_date
     enabled: true
@@ -26,12 +28,12 @@ text_bard:
         type: text
         text: 'Nomad ist eine Theateraufführung, in deren Mittelpunkt die Erfahrungen von Ayşe stehen, einer türkischen Einwanderin, die voller Aufregung und Hoffnung nach Europa gezogen ist. '
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
-        text: 'Inszeniert und aufgeführt von Gozde Atalay'
+        text: 'Inszeniert und aufgeführt von Gözde Atalay'
       -
-        type: hard_break
+        type: hardBreak
       -
         type: text
         text: 'Regie: Carolina Ortega'
@@ -49,5 +51,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1652979049
+updated_at: 1770046775
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

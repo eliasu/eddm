@@ -1,0 +1,11 @@
+form_name: 'ebi Naumann'
+Straße_Nr: 'Bismarckstraße 90'
+plz_stadt: '20253 Hamburg'
+form_email: ebinaumann@gmx.de
+telefonnummer: '040 4223186'
+angebote:
+  - übernachten
+zeitraum: '25.7. - 27.7.'
+personenanzahl: '2'
+deine_nachricht: "Ist das Zimmer für € 100,00 für diese beiden Nächte noch zu haben?\r\n\r\nfragen & grüßen herzlich\r\n\r\nElisabeth & Ebi"
+newsletter_consent: false

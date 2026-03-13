@@ -1,0 +1,11 @@
+form_name: 'Dennis Nguyen'
+Straße_Nr: 'Exerzierstraße 12'
+plz_stadt: Berlin
+form_email: nguyen.dennis@outlook.de
+telefonnummer: '017637810062'
+angebote:
+  - übernachten
+zeitraum: 26.08-27.07.2025
+personenanzahl: '4'
+deine_nachricht: "Hallo Ihr Lieben,\r\nHier noch die Buchung (2 Erwachsene + 2 Kids) für einen Camperbus"
+newsletter_consent: true

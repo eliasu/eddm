@@ -1,0 +1,11 @@
+form_name: 'Burkhard Mentz'
+Straße_Nr: 'Zum Pastorat 2'
+plz_stadt: '24897 Ulsnis'
+form_email: b.mentz@icloud.com
+telefonnummer: 0151-70016809
+angebote:
+  - übernachten
+zeitraum: 31.8.-1.9.
+personenanzahl: '3'
+deine_nachricht: "Wir bräuchten zwei Zimmer. Ein Zimmer gerne im Erdgeschoss.\r\nVielen Dank!"
+newsletter_consent: false

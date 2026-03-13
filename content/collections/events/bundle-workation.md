@@ -4,8 +4,8 @@ blueprint: events
 title: 'Workation Special'
 date_type: 'date range'
 date_range:
-  start: '2024-06-01'
-  end: '2025-01-01'
+  start: '2025-11-01'
+  end: '2027-04-30'
 text_bard:
   -
     type: paragraph
@@ -45,5 +45,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1719662172
+updated_at: 1770116129
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

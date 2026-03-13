@@ -1,0 +1,11 @@
+form_name: 'Romy Blümel'
+Straße_Nr: 'Dieffenbachstraße 14'
+plz_stadt: Berlin
+form_email: romybluemel@gmail.com
+telefonnummer: '017621922954'
+angebote:
+  - übernachten
+zeitraum: '3.10. bis 5.10.'
+personenanzahl: '3'
+deine_nachricht: "Hallo,\r\nWir wollen wandern und würden gerne zwei Nächte bei euch übernachten. Habt ihr noch Platz für drei Frauen? Wir sind nicht anspruchsvoll und kommen mit dem Zug und kleinem Gepäck.\r\nDanke und liebe Grüße,\r\nRomy"
+newsletter_consent: false

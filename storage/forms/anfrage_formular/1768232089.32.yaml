@@ -1,0 +1,13 @@
+form_name: 'Michelle Bake'
+Straße_Nr: 'Lilienstr. 36'
+plz_stadt: '20095 Hamburg'
+form_email: michelle@procuros.io
+telefonnummer: '01724342081'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 13.04-17.04
+personenanzahl: '40'
+deine_nachricht: "Sehr geehrtes Team,\r\n\r\nwir planen derzeit ein Firmen-Offsite und möchten gerne anfragen, ob in Ihrem Haus im Zeitraum vom 13. April bis einschließlich 17. April noch Verfügbarkeit besteht.\r\n\r\nGeplant ist, dass wir alle Zimmer Ihres Hotels für diesen Zeitraum buchen würden. In diesem Zusammenhang bitten wir Sie um ein Angebot (Angebot/Offerte) inklusive Frühstück, Mittagessen und Abendessen für alle Teilnehmenden.\r\n\r\nZusätzlich möchten wir gerne wissen, ob Sie über einen Tagungs- bzw. Workshopraum verfügen, den wir während unseres Aufenthalts nutzen könnten. Falls ja, wären wir Ihnen dankbar für weitere Informationen zur Ausstattung (z. B. Beamer, Flipcharts, Bestuhlung) sowie zu eventuellen zusätzlichen Kosten.\r\n\r\nVielen Dank im Voraus für Ihre Rückmeldung.\r\nWir freuen uns auf Ihre Antwort.\r\n\r\nMit freundlichen Grüßen"
+newsletter_consent: false

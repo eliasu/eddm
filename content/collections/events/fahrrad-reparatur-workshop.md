@@ -1,10 +1,12 @@
 ---
 id: 4c2fa645-2c3b-4e31-b845-a798777cf4be
+published: false
 blueprint: events
 title: 'Fahrrad Reparatur Café'
 date_type: 'single dates'
 dates:
   -
+    id: WlxSL8h1
     date_field: '2022-07-29 15:00'
     type: single_date
     enabled: true
@@ -33,8 +35,8 @@ text_bard:
     type: paragraph
     content:
       -
-        type: hard_break
-show_in_eventlist: true
+        type: hardBreak
+show_in_eventlist: false
 images_img: 22_fahrrad_cafe.jpg
 seotamic_title: title
 seotamic_title_prepend: true
@@ -45,5 +47,8 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1657736789
+updated_at: 1755089785
+alt_seo_noindex: false
+alt_seo_nofollow: false
+exclude_from_sitemap: false
 ---

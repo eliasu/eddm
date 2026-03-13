@@ -1,0 +1,11 @@
+form_name: 'Johanna Schütze'
+Straße_Nr: 'Simon-von-Utrecht-Str. 85'
+plz_stadt: '20359 Hamburg'
+form_email: johanna_schuetze@yahoo.de
+telefonnummer: '01721780967'
+angebote:
+  - 'Spaces mieten'
+zeitraum: 'August 2027'
+personenanzahl: 'Ca. 70'
+deine_nachricht: "Hi ihr Lieben,\r\nIch suche eine Location für unsere Hochzeit. Wir würden gerne nächstes Jahr im August ein Wochenende von Freitag - Sonntag feiern.\r\nKönnt ihr uns hierzu einmal ein paar mehr Infos zukommen lassen wie Feiern bei euch gestaltet werden können?\r\nVielen Dank & viele Grüße \r\nJohanna"
+newsletter_consent: false

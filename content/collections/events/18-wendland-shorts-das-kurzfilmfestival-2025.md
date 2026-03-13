@@ -93,7 +93,7 @@ components:
             type: hardBreak
           -
             type: text
-            text: '19 Uhr: Shorts VI'
+            text: '19 Uhr: Shorts IV'
           -
             type: hardBreak
           -
@@ -131,7 +131,7 @@ components:
             type: hardBreak
           -
             type: text
-            text: 'Für leckeres Essen und Getränke ist gesorgt! Falls ihr bei Ein Ding der Möglichkeit übernachten wollt, Bus- und Zeltplätze sind vorhanden, meldet Euch unter '
+            text: 'Für leckeres Essen und Getränke ist gesorgt! Falls ihr bei Ein Ding der Möglichkeit übernachten wollt, Bus- und Zeltplätze sind vorhanden, meldet Euch '
           -
             type: text
             marks:
@@ -163,5 +163,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1749638980
+updated_at: 1750433192
 ---

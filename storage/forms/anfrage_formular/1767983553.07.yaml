@@ -1,0 +1,11 @@
+form_name: 'Benjamin Brettschneider'
+Straße_Nr: 'Strausberger Straße 26'
+plz_stadt: Berlin
+form_email: b.brettschneider@gmx.de
+telefonnummer: '01799697829'
+angebote:
+  - übernachten
+zeitraum: 14.05.-17.05.
+personenanzahl: '3'
+deine_nachricht: "Ihr Lieben,\r\nich würde gerne zusammen mit meiner kleinen Familie, sprich meiner Frau und meinem 10-jährigen Sohn, im Rahmen der KLP bei euch übernachten. Freunde von uns haben bereits bei euch gebucht und ich wollte anfragen, ob ihr noch ein Plätzchen für uns frei habt.\r\nViele Grüße \r\nBenjamin"
+newsletter_consent: false

@@ -1,5 +1,6 @@
 ---
 id: ede1e26b-9d02-463b-bcb5-346080287732
+published: false
 blueprint: events
 title: 'Art & Focusing / Workshop'
 date_type: 'date range'
@@ -83,5 +84,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1748286399
+updated_at: 1753789354
 ---

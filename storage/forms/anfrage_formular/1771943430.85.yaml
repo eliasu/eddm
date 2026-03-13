@@ -1,0 +1,13 @@
+form_name: 'Uta Leconte, TU Braunschweig'
+Straße_Nr: 'Universitätsplatz 2'
+plz_stadt: '38106 Braunschweig'
+form_email: uta.leconte@tu-braunschweig.de
+telefonnummer: '0174 305 9275'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '7.-11. September 2026'
+personenanzahl: 14-18
+deine_nachricht: "Hallo,\r\nwir sind das Forschungsteam OpenCultures der TU Braunschweig, Uni Oldenburg und des Julius Kühn-Instituts. Für unser Team-Retreat interessieren wir uns für euren Ort! Ich freue mich auf Rückmeldung, viele Grüße Uta (0174 305 9275)"
+newsletter_consent: false
