@@ -41,6 +41,26 @@ components:
             type: text
             text: 'Die Musik des Detect Ensembles reicht von Noise über Fusion bis zu Minimal Music und verbindet sich durch Improvisation zu farbenreichen, überraschend witzigen und zugleich tiefsinnigen Klangreisen. Zwischen Klassik, Neuer Musik und Jazz entstehen keine bloßen Kombinationen von Elektronik und Ensembleklang, sondern experimentelle und tiefgründige Klangwelten. Dabei wird eine gemeinsame Sprache jenseits von Noten und Genregrenzen entwickelt, mal solo, mal in Kooperation mit u.A. Acid Pauli, Jakojako, Robot Koch und Roman Flügel.'
       -
+        type: set
+        attrs:
+          id: mor83ft2
+          values:
+            type: link
+            link_name_txt: Website
+            url: 'https://detectclassic.com'
+            target_blank: true
+            link_type: url
+      -
+        type: set
+        attrs:
+          id: mor83tzi
+          values:
+            type: link
+            link_name_txt: Instagram
+            url: 'https://www.instagram.com/detect_ensemble/'
+            target_blank: true
+            link_type: url
+      -
         type: paragraph
         content:
           -
@@ -62,7 +82,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777542824
+updated_at: 1777900615
 duplicated_from: 3fb486b5-4797-4ce0-bdaa-bd386a1b73e9
 dates:
   -
