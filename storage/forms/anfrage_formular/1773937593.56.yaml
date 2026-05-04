@@ -1,0 +1,11 @@
+form_name: 'Eva Fischer'
+Straße_Nr: 'Brückenstraße, 27'
+plz_stadt: Berlin
+form_email: evafabienne.fischer@gmail.com
+telefonnummer: '015165147869'
+angebote:
+  - übernachten
+zeitraum: 14.05-16.05
+personenanzahl: 2-4
+deine_nachricht: "Hello liebes Ding der Möglichkeit, \r\n\r\nich war vor zwei Jahren bei der KLP bei euch und hab mit Sarah einen Workshop gegeben. Ich fands so schön, dass ich dieses Jahr gerne einfach als Teilnehmerin bei der KLP dabei wäre und wollte mal fragen, ob ihr noch Zeltplätze frei habt für den Zeitraum?\r\n\r\nGanz liebe Grüße\r\nEva"
+newsletter_consent: false

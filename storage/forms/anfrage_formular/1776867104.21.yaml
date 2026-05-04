@@ -1,0 +1,11 @@
+form_name: 'Jasper Wasmuth'
+Straße_Nr: 'Zwiestädter Straße 5'
+plz_stadt: '12055'
+form_email: jasper.wasmuth@posteo.de
+telefonnummer: '01735138260'
+angebote:
+  - übernachten
+zeitraum: 14.-18.5.
+personenanzahl: '4 Erwachsene, 3 Kleinkinder'
+deine_nachricht: 'Freu mich, von euch zu hören! Liebe Grüße, Jasper'
+newsletter_consent: false

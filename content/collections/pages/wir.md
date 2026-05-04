@@ -39,7 +39,7 @@ components:
         content:
           -
             type: text
-            text: 'Wir sind derzeit 9 Erwachsene und 3 Kinder, die aus Berlin und Hamburg hier ins Wendland gezogen sind. Unser Gründungsteam verbindet langjährige Freundschaften und besteht aus Menschen mit einem sehr unterschiedlichen Skillset. Beruflich haben wir jahrelange Erfahrungen in der Kreativbranche, im Kultursektor, in der digitalen Transformationsberatung und im Möbelbau gesammelt und verstehen uns selbst als cross-funktionales Team. Im Februar 2020 haben wir die Genossenschaft Ein Ding der Möglichkeit mit dem Ziel gegründet, einen Ort zu erschaffen an dem innovative Wohn- und Arbeitsformen entstehen und getestet werden. Dabei wollen wir richtungsweisend in umwelt-positiven Projektumsetzungen und nachhaltigen Lebenskonzepten sein und Impulse für eine zukunftsweisende Regionalentwicklung und einen möglichen gesellschaftlichen Wandel geben.'
+            text: 'Wir sind derzeit 9 Erwachsene und 3 Kinder, die aus Berlin und Hamburg hier ins Wendland gezogen sind. Und ein Hund! Unser Gründungsteam verbindet langjährige Freundschaften und besteht aus Menschen mit einem sehr unterschiedlichen Skillset. Beruflich haben wir jahrelange Erfahrungen in der Kreativbranche, im Kultursektor, in der digitalen Transformationsberatung und im Möbelbau gesammelt und verstehen uns selbst als cross-funktionales Team. Im Februar 2020 haben wir die Genossenschaft Ein Ding der Möglichkeit mit dem Ziel gegründet, einen Ort zu erschaffen an dem innovative Wohn- und Arbeitsformen entstehen und getestet werden. Dabei wollen wir richtungsweisend in umwelt-positiven Projektumsetzungen und nachhaltigen Lebenskonzepten sein und Impulse für eine zukunftsweisende Regionalentwicklung und einen möglichen gesellschaftlichen Wandel geben.'
     type: image_text_component
     enabled: false
   -
@@ -349,14 +349,14 @@ components:
             type: hardBreak
           -
             type: text
-            text: 'In Zusammenarbeit mit unseren Partner*innen entstehen Kooperationen für kreative und nachhaltige Projekte, Workshops, Veranstaltungen sowie Produktinnovationen. Derzeit suchen wir weitere Kooperationspartner*innen und Supporter für die inhaltliche Ausrichtung, sowie den Ausbau und die Einrichtung unseres Labs (Seminarraum, Coworking Area, Yoga Raum).'
+            text: 'In Zusammenarbeit mit unseren Partner*innen entstehen Kooperationen für kreative und nachhaltige Projekte, Workshops, Veranstaltungen sowie Produktinnovationen. Derzeit suchen wir weitere Kooperationspartner*innen und Supporter*innen für die inhaltliche Ausrichtung, sowie den Ausbau und die Einrichtung unseres Labs (Seminarraum, Coworking Area, Yoga Raum).'
     type: image_text_component
     enabled: true
 title: Wir
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1769601552
+updated_at: 1776097036
 disable_header: true
 disable_eye-catcher: true
 seotamic_title: title

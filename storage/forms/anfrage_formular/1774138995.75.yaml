@@ -1,0 +1,11 @@
+form_name: 'Adriana Sancho'
+Straße_Nr: 'Hermannstraße 137'
+plz_stadt: 'Berlin 12051'
+form_email: adrianasancho.trs@gmail.com
+telefonnummer: '015737647764'
+angebote:
+  - übernachten
+zeitraum: 14.05-17.05.
+personenanzahl: '3'
+deine_nachricht: "Guten Tag, \r\nGibt es die Möglichkeit, einen Bulliplatz für Himmelfahrt zu buchen? Auf der Wiese oder ein Parkingplatz \r\n2 Erwachsene+ Kind\r\nDanke :)"
+newsletter_consent: false

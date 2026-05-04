@@ -1,4 +1,6 @@
-data: {  }
+data:
+  alt: 'Pepschi und Johnny haben Spaß bei der Karaoke Moderation.'
+  focus: 48-40-1
 size: 1347026
 last_modified: 1746653109
 width: 1314

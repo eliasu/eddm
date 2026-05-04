@@ -70,15 +70,14 @@ components:
     type: image_text_component
     enabled: true
     images_img:
-      - 'klp25_wetter&wald_01.jpg'
-      - 'klp25_wetter&wald_02.jpg'
-      - 'klp25_wetter&wald_03.jpg'
+      - klp26_mut_zu_sprechen_c_stefan_schwabe-_1.jpg
+      - klp26_mut_zu_sprechen_c_stefan_schwabe-_2.jpg
+      - klp26_mut_zu_sprechen_c_stefan_schwabe-_3.jpg
 show_in_eventlist: true
 images_img: 'klp25_w&w_querformat.jpg'
 tags:
   - klp
   - workshop
-  - wissen
 seotamic_title: title
 seotamic_title_prepend: true
 seotamic_title_append: true
@@ -88,7 +87,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1746691155
+updated_at: 1776187838
 duplicated_from: 2c7329ef-85b7-40ff-ad88-a311d8a98179
 alt_seo_noindex: false
 alt_seo_nofollow: false

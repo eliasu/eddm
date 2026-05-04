@@ -1,0 +1,11 @@
+form_name: 'Tom Thal'
+Straße_Nr: 'Dorfstr. 14'
+plz_stadt: '15566 Schöneiche'
+form_email: tom.thal@posteo.de
+telefonnummer: '01773408685'
+angebote:
+  - übernachten
+zeitraum: 13.5.-17.5.
+personenanzahl: '2 Erwachsene, 2 Kinder'
+deine_nachricht: "Hallo ihr Unmöglichen,\r\n\r\nvon einem Freund habe ich eure Unterkunft für die KLP wärmsten ans Herz gelegt bekommen. Wenn \"keine Onlinebuchung möglich\" ist, dann seid ihr für Himmelfahrt wahrscheinlich schon für alle Optionen (Haus, Wagen, Zelt) schon voll oder?\r\n\r\nLiebe Grüße\r\nTom"
+newsletter_consent: false

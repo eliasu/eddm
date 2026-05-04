@@ -1,0 +1,11 @@
+form_name: 'Simone Kleinert'
+Straße_Nr: 'Fuchsversteck 7'
+plz_stadt: '22457 Hamburg'
+form_email: skl-wf@gmx.de
+telefonnummer: '0160 90612196'
+angebote:
+  - übernachten
+zeitraum: '04.05. - 08.05.2026'
+personenanzahl: '2'
+deine_nachricht: "Moin aus Hamburg,\r\nhabt ihr für die 4 Nächte eine schöne Unterkunft für uns frei?\r\nGerne mit eigenem Bad.\r\nOptional würden wir auch mit Frühstück buchen.\r\nHerzliche Grüße\r\nSimone Kleinert und Werner Först"
+newsletter_consent: true

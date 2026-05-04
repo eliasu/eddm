@@ -1,0 +1,11 @@
+form_name: 'Merle Bolte'
+Straße_Nr: 'Kettelerstr. 77'
+plz_stadt: Münster
+form_email: merle.bolte@gmx.de
+telefonnummer: '01637503497'
+angebote:
+  - übernachten
+zeitraum: 14.5.-17.5
+personenanzahl: '1'
+deine_nachricht: 'Hallo ihr Lieben, habt ihr im oben genannten Zeit noch ein Plätzchen für mich. Ich schlafe in meinem Bulli :-).'
+newsletter_consent: false

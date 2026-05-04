@@ -1,0 +1,11 @@
+form_name: 'Sarah Kolbeck'
+Straße_Nr: 'Dreikronenstraße 9'
+plz_stadt: Burgwedel
+form_email: sarahkolbeck@gmx.de
+telefonnummer: '01773403633'
+angebote:
+  - übernachten
+zeitraum: '23.05. bis 25.05'
+personenanzahl: '5'
+deine_nachricht: "Guten Morgen!\r\nIch sehe, ihr sein ausgebucht, aber gibt es noch ein Plätzchen auf der Zeltwiese?\r\nDas wäre toll! Lieben Gruß, Sarah"
+newsletter_consent: false

@@ -5,11 +5,6 @@ title: 'Kundalini Yoga mit Anne'
 date_type: 'single dates'
 dates:
   -
-    id: mbumv6t5
-    date_field: '2026-03-20 18:00'
-    type: single_date
-    enabled: true
-  -
     id: mlz29uwn
     date_field: '2026-04-02 18:00'
     type: single_date
@@ -96,7 +91,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1771844261
+updated_at: 1774443960
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false

@@ -1,0 +1,11 @@
+form_name: 'Anna Fuchs'
+Straße_Nr: 'Jochbergstraße 8'
+plz_stadt: '82431 Kochel'
+form_email: annac.fuchs@gmail.com
+telefonnummer: '015732506576'
+angebote:
+  - übernachten
+zeitraum: 05.04.2026-09.04.2026
+personenanzahl: '1'
+deine_nachricht: 'Liebes Team, würde mich sehr freuen, bei euch unterzukommen für ein paar Nächte. Gern in dem Einzelzimmer oder einer der Wägen. Herzliche Grüße, Anna'
+newsletter_consent: false

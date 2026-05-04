@@ -1,4 +1,6 @@
-data: {  }
+data:
+  alt: 'Zeltwiese mit Zelten und Fahrrädern'
+  focus: 49-54-1
 size: 3046885
 last_modified: 1725977966
 width: 4032

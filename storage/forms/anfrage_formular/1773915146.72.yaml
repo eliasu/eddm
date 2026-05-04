@@ -1,0 +1,11 @@
+form_name: 'Philipp Lojewsky'
+Straße_Nr: 'Zülpicher Str. 232'
+plz_stadt: Köln
+form_email: p.lojewsky@gmx.de
+telefonnummer: '01772689443'
+angebote:
+  - übernachten
+zeitraum: 14.-17.5.2026
+personenanzahl: '3'
+deine_nachricht: "Jo Moin, \r\n\r\nwie telefonisch besprochen würde ich gerne 2 Stellplätze \"buchen\".\r\n\r\nLiebe Grüße\r\nPhilipp"
+newsletter_consent: false

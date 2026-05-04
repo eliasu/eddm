@@ -1,0 +1,13 @@
+form_name: 'Markus Heckhausen'
+Straße_Nr: 'Monbijouplatz 9'
+plz_stadt: '10178 Berlin'
+form_email: heckhausen@ampelmann.de
+telefonnummer: '01723022333'
+angebote:
+  - übernachten
+  - essen
+  - 'Workshop buchen'
+zeitraum: '8.Mai -11.Mai, evtl.bis 13. Mai'
+personenanzahl: '2'
+deine_nachricht: "Hallo, wir könnten noch beim Yoga-Kurs von Kirsten mitmachen und wollen fragen, ob von euren schönen Zimmern noch was frei wäre, oder auch eine Cabin oder so.\r\nVielen Dank\r\nMarkus"
+newsletter_consent: false

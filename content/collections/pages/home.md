@@ -81,7 +81,7 @@ grid_field:
     underline_txt: 'Offsites & Seminare'
     images_img: teamoffsite_img_2418.jpg
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1770386092
+updated_at: 1775642416
 big_text_txt:
   -
     type: paragraph
@@ -349,7 +349,7 @@ components:
 template: home
 template_field: layout
 full_width: false
-disable_eye-catcher: false
+disable_eye-catcher: true
 headline_eye-catcher: HEadline
 text_eye-catcher:
   -
@@ -375,26 +375,6 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 images_img: 231016_eddm_hero_rundling.jpg
-select_type: new
-headline_eye: '> Wir suchen!'
-text_eye:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Du hast Lust in unserem Küchenteam mit zu wirken? '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.eindingdermoeglichkeit.com/wir_suchen'
-              rel: null
-              target: null
-              title: null
-        text: 'Wir freuen uns auf Deine Bewerbung!'
 alt_seo_meta_title: 'Erholung & Kreativität im Wendland: Seminare, Workshops, Kunst & Übernachtungen'
 alt_seo_meta_description: 'Inspirierende Seminare, kreative Workshops, entspannende Retreats und genieße vielfältige Kunst- und Kulturangebote. Arbeite und gestalte im modernen Kreativ- und InnovationsLab.'
 alt_seo_noindex: false

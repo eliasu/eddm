@@ -1,0 +1,11 @@
+form_name: 'Hanna Knirsch'
+Straße_Nr: 'Övelgönne 85'
+plz_stadt: '22605 Hamburg'
+form_email: hannaknirsch@web.de
+telefonnummer: '01791894159'
+angebote:
+  - übernachten
+zeitraum: '14.05.26- 17.05.26'
+personenanzahl: '2'
+deine_nachricht: "Mit zwei VW-Bussen  ohne Stromanschluss möchten wir bei euch übernachten.\r\nNa, ist das wohl möglich?"
+newsletter_consent: true

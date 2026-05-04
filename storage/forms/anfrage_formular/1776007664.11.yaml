@@ -1,0 +1,11 @@
+form_name: 'Simon Frübis'
+Straße_Nr: 'Osloerstr 116'
+plz_stadt: '13359 Berlin'
+form_email: simon.fruebis@me.com
+telefonnummer: '015754308934'
+angebote:
+  - übernachten
+zeitraum: 22.-25.5.26
+personenanzahl: '10'
+deine_nachricht: "Hey habt ihr noch Platz für zwei Autos drei Zelte und circa 6-8 Personen zur KLP?\r\n\r\nDanke euch!"
+newsletter_consent: false

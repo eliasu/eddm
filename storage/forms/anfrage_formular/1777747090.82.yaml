@@ -1,0 +1,11 @@
+form_name: 'Katha Funck'
+Straße_Nr: 'Fasia-Jansen-Straße 4'
+plz_stadt: '28217 Bremen'
+form_email: k.funck@posteo.de
+telefonnummer: '0421 3781077'
+angebote:
+  - übernachten
+zeitraum: '23.05. bis 26.05.26'
+personenanzahl: '2'
+deine_nachricht: "Moin,\r\nHabt ihr über Pfingsten noch Platz für ein kleines Zelt mit 2 Personen?\r\nLieben Gruß\r\nKatha"
+newsletter_consent: false

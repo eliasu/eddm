@@ -246,7 +246,7 @@ components:
     columns:
       -
         id: SHtFd5mI
-        headline: 'Benet Lehman'
+        headline: 'Benet Lehmann'
         images_img: klp25_lesungbenet_abb.7_esther-tanzt.jpg
         textarea_txt: |-
           Esthers Spuren / Lesung
@@ -400,5 +400,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1770047158
+updated_at: 1775647788
 ---

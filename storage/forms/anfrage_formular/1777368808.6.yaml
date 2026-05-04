@@ -1,0 +1,11 @@
+form_name: 'Axel Brenzinger'
+Straße_Nr: 'Schimmelmannallee 14'
+plz_stadt: '22043'
+form_email: axelbrenzinger@web.de
+telefonnummer: '01777388198'
+angebote:
+  - übernachten
+zeitraum: 22.05.-24.05
+personenanzahl: '2'
+deine_nachricht: "Moin, habt ihr noch eine ÜN-Möglichkeit? Wenn ja, welche? Herzlichen Dank, \r\nAxel Brenzinger"
+newsletter_consent: true

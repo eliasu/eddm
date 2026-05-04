@@ -1,0 +1,11 @@
+form_name: 'Francois Perron'
+Straße_Nr: 'Im Krummen Ort 10'
+plz_stadt: Ottersberg
+form_email: francois@francoisperron.com
+telefonnummer: '015165720933'
+angebote:
+  - übernachten
+zeitraum: 'from 16 to 18 may'
+personenanzahl: '2'
+deine_nachricht: "We would like to stay at your place with our tent from the saturday 16 to Tuesday 18 may.\r\n\r\nCan you please let us know if this is possible?\r\n\r\nIs there access to the shower? Electricity and brakfast?\r\n\r\nmany thanks\r\n\r\nKind regards\r\n\r\nFrançois & Katharina"
+newsletter_consent: false

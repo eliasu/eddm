@@ -1,0 +1,13 @@
+form_name: 'Uta Leconte'
+Straße_Nr: 'Universitätsplatz 2'
+plz_stadt: '38106 Braunschweig'
+form_email: uta.leconte@tu-braunschweig.de
+telefonnummer: '0174 305 9275'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: '7.-11. September 2026'
+personenanzahl: '10 - 14'
+deine_nachricht: "Hallo, \r\nich hatte mich vor einiger Zeit schon einmal gemeldet, konnte aber eure Antwort in meinen Unterlagen nciht finden. Daher nochmal meine Anfrage:\r\nfür unsere Forschungsgruppe suchen wir einen Ort für ein Lese- und Schreib-Retreat. Wäre euer Haus dafür im Zeitraum vom 7.-11. September 2026 noch frei? Wir sind ca. 10-14 Personen, eine genaue Anzahl könnte ich bald nennen.\r\nIch freue mich auf eure Rückmeldung.\r\nMit freundlichen Grüßen\r\nUta Leconte"
+newsletter_consent: false

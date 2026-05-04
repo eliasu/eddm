@@ -1,0 +1,11 @@
+form_name: 'Freya Fleckeisen'
+Straße_Nr: 'Karolinenstraße 10'
+plz_stadt: '202357 Hamburg'
+form_email: fleckeisen@gmail.com
+telefonnummer: '01772378036'
+angebote:
+  - übernachten
+zeitraum: 08.-10.05.26
+personenanzahl: '2'
+deine_nachricht: "Hallo, wir wollen Freunde in Tolstefanz an dem Wochenende besuchen und hoffen, dass wir uns bei euch einbuchen können. Habt ihr noch einen der beiden Wohnwagen für die Zeit frei?\r\nFreue mich auf eine Rückmeldung.\r\nLiebe Grüße\r\nFreya"
+newsletter_consent: false

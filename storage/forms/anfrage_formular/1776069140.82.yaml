@@ -1,0 +1,11 @@
+form_name: 'Stella Gröning'
+Straße_Nr: 'Peiffersweg 1'
+plz_stadt: '22307'
+form_email: mostellapost@web.de
+telefonnummer: '01636155814'
+angebote:
+  - übernachten
+zeitraum: 14.05-15.05
+personenanzahl: '3'
+deine_nachricht: "Guten Tag, wir würden gerne anfragen, ob wir für eine Nacht bei euch noch mit etwas Glück eine Übernachtungs-Möglichkeit bekommen? Wir sind 3 Personen und würden gerne Zelten oder ein Zimmer buchen, wo eine Person mit Isomatte auf dem Boden schlafen könnte. Sollte schon alles voll sein, hättet ihr für uns eine Alternative als Empfehlung in der Gegend? \r\n\r\nVielen Dank für eure Mühe! \r\nViele Grüße \r\nStella"
+newsletter_consent: false

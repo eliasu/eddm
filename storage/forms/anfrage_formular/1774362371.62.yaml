@@ -1,0 +1,11 @@
+form_name: 'Sabine Neumann'
+Straße_Nr: 'Joachim-Ringelnatz-Str. 17'
+plz_stadt: '12683 Berlin'
+form_email: jonasneumann@gmail.com
+telefonnummer: '016097699779'
+angebote:
+  - übernachten
+zeitraum: '23.05.26 - 25.05.26'
+personenanzahl: '1'
+deine_nachricht: 'Gibt es noch ein kleines Zimmer für die erwähnten Tage? Ich würde gerne an der Kulturellen Landpartie teilnehmen.'
+newsletter_consent: false

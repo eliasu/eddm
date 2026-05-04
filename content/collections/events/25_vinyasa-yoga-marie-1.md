@@ -110,10 +110,10 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1767876240
+updated_at: 1774517456
 date_range:
-  start: '2026-01-01'
-  end: '2026-08-31'
+  start: '2026-03-31'
+  end: '2026-04-28'
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false

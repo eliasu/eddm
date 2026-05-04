@@ -1,0 +1,12 @@
+form_name: 'Elsbeth Brandes'
+Straße_Nr: 'Teichstr 6a'
+plz_stadt: '21641 Apensen'
+form_email: elsbeth.brandes@gmx.de
+telefonnummer: 0171-2647243
+angebote:
+  - übernachten
+  - essen
+zeitraum: '18.07.26 auf 19.07.26'
+personenanzahl: '1'
+deine_nachricht: "Mein Mann wird am Drechselkurs bei Herrn Hinrichs teilnehmen und bräuchte eine Unterkunft für eine Nacht.\r\nViele Grüße \r\nElsbeth. Brandes"
+newsletter_consent: false

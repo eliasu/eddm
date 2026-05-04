@@ -1,0 +1,11 @@
+form_name: 'Clara Lipski'
+Straße_Nr: 'Harburger Chaussee 33'
+plz_stadt: '20539 Hamburg'
+form_email: clara.lipski@outloo.de
+telefonnummer: '01775102152'
+angebote:
+  - übernachten
+zeitraum: '11.08.2026 - 14.08.2026'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\n\r\nmeine Freundin und ich würden gerne an den Sternschnuppennächten auf dem Zeltfeld teilnehmen.\r\nGibt es noch Plätze? Bringen wir unser eigenes Zelt mit? Ist der Preis für alle Übernachtungen? Gibt es jeden Tag Verpflegung?\r\nFragen über Fragen. :)\r\nIch freu mich über Rückmeldung.\r\n\r\nLiebste Grüße,\r\nClara"
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Simone Bungarten'
+Straße_Nr: 'Erdmannstraße 1c'
+plz_stadt: Hamburg
+form_email: Si.bungarten@web.de
+telefonnummer: '017623109265'
+angebote:
+  - übernachten
+zeitraum: 1.5.-3.5.
+personenanzahl: '1'
+deine_nachricht: "Hallo, wir haben gerade telefoniert und ich würde gerne das Einzelzimmer reservieren für das Chorwochenende! \r\nHerzliche Grüße Simone"
+newsletter_consent: false

@@ -1,0 +1,11 @@
+form_name: 'Sebastian Blachy'
+Straße_Nr: 'SLEBUSCHSTIEG 8'
+plz_stadt: '20537 Hamburg'
+form_email: sebastian-markus@gmx.de
+telefonnummer: '01732001634'
+angebote:
+  - übernachten
+zeitraum: 21.5-25.5.26
+personenanzahl: '2'
+deine_nachricht: "Hi, habt ihr eine Übernachtungsmöglichkeit, gerne Zimmer oder z.B. Bauwagen, in dem genannten Zeitraum für uns. Wir würden uns sehr freuen.\r\nLiebe Grüße aus Hamburg,\r\nMeike und Sebastian"
+newsletter_consent: false

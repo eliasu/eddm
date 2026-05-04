@@ -1,0 +1,11 @@
+form_name: 'Stefanie Logemann'
+Straße_Nr: 'Tweehörnweg 54'
+plz_stadt: '26316 Varel'
+form_email: stefanie.logemann@gmx.de
+telefonnummer: '01525 5290099'
+angebote:
+  - übernachten
+zeitraum: '17.05 - 19.05.26'
+personenanzahl: '2'
+deine_nachricht: "MOIN \r\nFreuen uns über ein freies Bett! \r\nJa wir sind kurzentschlossen und daher nicht wählerisch\r\nHerzliche Grüße \r\nStefanie"
+newsletter_consent: true

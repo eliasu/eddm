@@ -1,0 +1,11 @@
+form_name: 'Lutz Kirsten'
+Straße_Nr: 'Achtern Hollerbusch 37'
+plz_stadt: '22393 Hamburg'
+form_email: lutzkirsten@gmx.net
+telefonnummer: 0178-2787020
+angebote:
+  - übernachten
+zeitraum: 14.-16.5.
+personenanzahl: '2'
+deine_nachricht: "Hallo ins Wendland!\r\nWir würden gerne mit einem VW-Bus und einem kleinen Zelt bei euch übernachten.\r\n\r\nFreuen uns sehr, wenn das ginge, und auf eure Rückmeldung.\r\n\r\nHerzliche Grüße, Lutz"
+newsletter_consent: true

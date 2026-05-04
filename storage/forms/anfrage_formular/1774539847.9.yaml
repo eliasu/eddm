@@ -1,0 +1,12 @@
+form_name: 'Kristina Wilms'
+Straße_Nr: 'Burgvogteistraße 1'
+plz_stadt: Celle
+form_email: kristina.wilms86@gmail.com
+telefonnummer: '0491637930523'
+angebote:
+  - übernachten
+  - 'Workshop buchen'
+zeitraum: 27.03.-29.03.
+personenanzahl: '1'
+deine_nachricht: "Hallo zusammen,\r\nIst bei dem Retreat am Wochenende (\"Hello Spring) noch ein Platz (und ein Bett) frei?"
+newsletter_consent: false

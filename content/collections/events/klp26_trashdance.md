@@ -6,12 +6,12 @@ date_type: 'single dates'
 dates:
   -
     id: ltopnmc1
-    date_field: '2026-05-18 14:00'
+    date_field: '2026-05-18 17:00'
     type: single_date
     enabled: true
   -
     id: m93z63wr
-    date_field: '2025-06-08 15:00'
+    date_field: '2025-06-08 19:00'
     type: single_date
     enabled: false
 text_bard:
@@ -84,7 +84,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1773392621
+updated_at: 1774545247
 duplicated_from: e4fc0fd9-4f19-47ee-a5a7-d0edcff4c041
 alt_seo_noindex: false
 alt_seo_nofollow: false

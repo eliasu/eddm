@@ -20,7 +20,7 @@ text_bard:
         text: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
 template: events/index
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1773395482
+updated_at: 1775052753
 event: 2e69fad1-2fe4-4fc7-91f3-d37849709d71
 text_field: 'Hier kommen noch die Settings.'
 big_text_bard:
@@ -162,7 +162,7 @@ components:
         id: P0x96mC4
         headline: 'Vinyasa Flow Yoga'
         images_img: eddm_spaces_seminarraum_100_23_yoga_7.jpg
-        textarea_txt: 'Immer Dienstags 18.15 – 19.30 Uhr mit Marie'
+        textarea_txt: 'Immer dienstags 18.15 – 19.30 Uhr mit Marie - Bis zum 26.4.'
         link_name_txt: 'Evening Yoga'
         target_blank: false
         link_type: entry
@@ -171,7 +171,7 @@ components:
         id: cxFSH2LM
         headline: 'Morning Flow Yoga'
         images_img: eddm_weitblick_01.jpg
-        textarea_txt: 'Immer Donnerstag 8.15 – 9.15 Uhr mit Lilly'
+        textarea_txt: 'Immer donnerstags 8.15 – 9.15 Uhr mit Lilly'
         link_name_txt: 'Morning Yoga'
         target_blank: false
         link_type: entry
@@ -196,11 +196,16 @@ seotamic_open_graph_description: meta
 seotamic_twitter_title: title
 seotamic_twitter_description: meta
 filter_tags:
+  - klp
+  - konzert
   - workshop
+  - vortrag
+  - lesung
   - seminar
+  - bodywork
   - vergangenes
 seotamic_custom_meta_description: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
-featured_event: 1c8e7410-a5dd-4631-80a2-296477e19a70
+featured_event: b4b58427-2272-4dd0-affa-17c69f115488
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
 alt_seo_meta_title: 'Veranstaltungen im Ding der Möglichkeit'
 alt_seo_meta_description: 'Unser Programm ist sorgfältig kuratiert, um Euch eine spannende Mischung aus Kunst, Kultur und Bildung zu bieten. Vorträge, (interaktive) Workshops , Konzerte, Yoga oder Parties.'

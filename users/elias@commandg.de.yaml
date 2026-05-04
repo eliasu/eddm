@@ -28,5 +28,12 @@ preferences:
         - show_in_eventlist
         - text_bard
         - slug
+    globals:
+      columns:
+        - status
+        - headline_txt
+        - text_bard
+        - title
+        - seotamic_title
   favorites: {  }
   locale: en

@@ -1,0 +1,11 @@
+form_name: 'Ley Hartmann'
+Straße_Nr: 'Amsterdamer Straße 6'
+plz_stadt: '13347 berlin'
+form_email: spacious@posteo.de
+telefonnummer: '017657695278'
+angebote:
+  - übernachten
+zeitraum: 08.05-10.05/11.05
+personenanzahl: '2'
+deine_nachricht: "HeyHey,\r\nIch wollte Mal Frage ob einer eurer Bauwägen noch frei ist in dem Zeitraum 08.05-10/11.05. \r\n\r\nWir waren letztes Jahr schon Mal da und es war so schön, dass wir gerne nochmal kommen würden.\r\n\r\nLiebe Grüße"
+newsletter_consent: false

@@ -1,0 +1,14 @@
+form_name: 'Niklas Colling'
+Straße_Nr: 'Margaretenplatz 10'
+plz_stadt: '81373 München'
+form_email: nik.colling@gmail.com
+telefonnummer: '01702714960'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+  - 'Workshop buchen'
+zeitraum: Oktober
+personenanzahl: 10-15
+deine_nachricht: "Hello :)\r\nIch wollte mal bei euch anfragen und schauen, ob ich evtl mit meiner Firma für eine Workation zu euch kommen kann. \r\nMit dem Termin sind wir flexibel. \r\nzwischen 3-5 Nächte. Brauchen einen Raum indem wir arbeiten können. Starkes Internet :)\r\nGute Laune und Sauna. \r\nWorkshopangebote könntet ihr mir auch gerne mal rüberwerfen. \r\n\r\nWas ich brauche, wäre mal ein grobes Angebot, damit ich klären kann ob wir das realisieren können. \r\n\r\nAllerliebste Grüße\r\n\r\nNIK"
+newsletter_consent: false

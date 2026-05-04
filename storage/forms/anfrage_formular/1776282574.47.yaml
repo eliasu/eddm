@@ -1,0 +1,11 @@
+form_name: 'Susanne Osterwald'
+Straße_Nr: 'Weststraße 64'
+plz_stadt: '33615'
+form_email: susanne.osterwald@gmail.com
+telefonnummer: '017662592801'
+angebote:
+  - übernachten
+zeitraum: 15.05.-19.05.
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nmein Freund und ich möchten die Kulturelle Landpartie besuchen und suchen noch einen Stellplatz für unseren Caddy in dem wir übernachten. Hättet Ihr noch einen freien Platz vom 15.05.-19.05. auf Eurer Wiese?\r\nHerzliche Grüße,\r\nSuse & Sven"
+newsletter_consent: false

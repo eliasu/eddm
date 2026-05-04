@@ -1,0 +1,11 @@
+form_name: 'Jasmin Göttling'
+Straße_Nr: 'Vereinsstrasse 89'
+plz_stadt: '20357 Hamburg'
+form_email: jasmin.goettling@gmx.de
+telefonnummer: '015253490492'
+angebote:
+  - übernachten
+zeitraum: 12.5.-14.5.
+personenanzahl: '4'
+deine_nachricht: "Hallo, wäre noch etwas frei?\r\nKomme mit meinen drei Kids. \r\nBin in der Woche ab Dienstag flexibel."
+newsletter_consent: false

@@ -44,6 +44,9 @@ text_bard:
         text: '> Mail'
 show_in_eventlist: true
 images_img: 26_yogaretreat_margaeva.jpg
+tags:
+  - bodywork
+  - workshop
 seotamic_title: title
 seotamic_title_prepend: true
 seotamic_title_append: true
@@ -56,5 +59,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1765272954
+updated_at: 1774610248
 ---

@@ -1,0 +1,11 @@
+form_name: 'Susanne Bartholomae'
+Straße_Nr: 'Eigenheimweg 17a'
+plz_stadt: Hamburg
+form_email: susanne@bartholomae-hh.de
+telefonnummer: '017655535214'
+angebote:
+  - übernachten
+zeitraum: 15.05.-17.05.
+personenanzahl: '2'
+deine_nachricht: 'Hallo liebes Team, habt Ihr da noch ein DZ mit eigenem Bad frei?'
+newsletter_consent: false

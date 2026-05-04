@@ -40,7 +40,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: klp25_ann-esswein_autorinnenbild.jpg
+images_img: klp26_ann_esswein_c_matteo_ciprandi.jpg
 tags:
   - klp
   - vortrag

@@ -18,7 +18,7 @@ text_bard:
     content:
       -
         type: text
-        text: "Die sogenannten Perseiden erreichen um dem 12. August ihren Höhepunkt. Der Neumond wird es in diesem Jahr zu einem Zeitraum für fantastische Beobachtungen machen.\_"
+        text: "Die sogenannten Perseiden erreichen um den 12. August ihren Höhepunkt. Der Neumond wird es in diesem Jahr zu einem Zeitraum für fantastische Beobachtungen machen.\_"
 components:
   -
     id: mlw7teeu
@@ -47,6 +47,54 @@ components:
             text: 'Wir freuen uns darauf, dieses geschenkte Naturschauspiel gemeinsam mit euch zu erleben und zu teilen. Für Anmeldung und Programmdetails schickt uns gerne eine Anfrage.'
       -
         type: paragraph
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            marks:
+              -
+                type: underline
+            text: Preise
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: '1 Person: Übernachtung EZ'
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> 328 Euro inkl. Übernachtung in der Träumerei, vegan / vegetarisches Frühstück und Abendessen und Sternenführung'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '2 Personen: Übernachtung DZ '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> 491 Euro inkl. Übernachtung in der Träumerei, vegan / vegetarisches Frühstück und Abendessen und Sternenführung'
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '1 Person: Übernachtung Zeltfeld '
+          -
+            type: hardBreak
+          -
+            type: text
+            text: '> 133 Euro inkl. Zeltfeld, vegan / vegetarisches Frühstück und Abendessen und Sternenführung'
+      -
+        type: paragraph
+      -
+        type: paragraph
         content:
           -
             type: hardBreak
@@ -69,5 +117,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1772010326
+updated_at: 1774446806
 ---

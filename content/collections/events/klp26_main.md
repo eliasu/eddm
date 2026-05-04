@@ -59,7 +59,7 @@ components:
         content:
           -
             type: text
-            text: 'Unser komplettes Programm findest Du bald '
+            text: 'Informationen zu unseren Veranstaltungen findest Du bald in unserem  '
           -
             type: text
             marks:
@@ -70,7 +70,7 @@ components:
                   rel: null
                   target: null
                   title: null
-            text: hier!
+            text: Programm!
     type: image_text_component
     enabled: true
     images_img:
@@ -84,7 +84,7 @@ components:
       - klp24_img_1482_s.jpeg
       - klp24_unterkunft_zeltfeld_s.jpg
 show_in_eventlist: true
-images_img: klp26_keyvisual_wide_01.jpg
+images_img: klp26_keyvisual_wide_03.jpg
 tags:
   - klp
   - kultur
@@ -103,7 +103,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1773396241
+updated_at: 1773656771
 duplicated_from: 8e0cdb91-19c2-4939-bb0c-2b59b4dd90b9
 alt_seo_noindex: false
 alt_seo_nofollow: false

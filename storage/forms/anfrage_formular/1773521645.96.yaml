@@ -1,0 +1,12 @@
+form_name: 'Muriel Liebmann'
+Straße_Nr: 'Grindelweg 2,'
+plz_stadt: '20146 Hamburg'
+form_email: murielliebmannphotography@gmail.com
+telefonnummer: '017622098380'
+angebote:
+  - übernachten
+  - essen
+zeitraum: 11.-13.09.2026
+personenanzahl: '20'
+deine_nachricht: "Hi,\r\n\r\nWir sind eine Gruppe von Freunden (10 Erwachsene, 10 Kinder) und würden gerne wissen ob ihr noch freie Betten habt!\r\n\r\nViele Grüße aus Hamburg\r\nMuriel"
+newsletter_consent: false

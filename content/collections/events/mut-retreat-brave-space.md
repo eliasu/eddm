@@ -53,7 +53,10 @@ components:
     headline_txt: 'An unserem Wochenende erforschen wir gemeinsam:'
     component_template: slider_left
     images_img:
-      - dsc05366-(1).jpg
+      - mut_7-(1).png
+      - mut_4.png
+      - mut_5.png
+      - mut_6.png
     background_color: none
     text_color: black
     text_bard:
@@ -251,7 +254,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: dsc05245-kopie.jpg
+images_img: 04.png
 tags:
   - seminar
 seotamic_title: title
@@ -266,5 +269,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1769512812
+updated_at: 1774707330
 ---
