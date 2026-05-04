@@ -1,6 +1,5 @@
 ---
 id: 15c1c0c9-ef9b-4cb6-84a8-f379cdf4ed30
-published: false
 blueprint: events
 title: 'Thai-Massage / Workshop'
 date_type: 'single dates'
@@ -99,6 +98,7 @@ show_in_eventlist: true
 tags:
   - klp
   - workshop
+  - bodywork
 seotamic_title: title
 seotamic_title_prepend: true
 seotamic_title_append: true
@@ -108,7 +108,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777882854
+updated_at: 1777896400
 duplicated_from: d568e619-32bc-4e92-965e-8e8c80416ec4
 images_img: klp24_thaimassage_slider01.jpeg
 alt_seo_noindex: false

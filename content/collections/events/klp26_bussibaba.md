@@ -58,7 +58,7 @@ components:
     type: image_text_component
     enabled: true
 show_in_eventlist: true
-images_img: klp25_bussi-baba-artwork.jpg
+images_img: bussi_baba_foto_2.jpg
 tags:
   - konzert
   - klp
@@ -74,7 +74,7 @@ seotamic_twitter_description: general
 alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
-updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777299587
+updated_by: 72efacfa-26c2-4f49-a82a-57f634f64ecb
+updated_at: 1777896378
 duplicated_from: bcb915cc-118d-470c-a61a-eac0eebf17f5
 ---

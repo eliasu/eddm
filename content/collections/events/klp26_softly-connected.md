@@ -56,7 +56,13 @@ components:
         content:
           -
             type: text
-            text: 'In diesem zweistündigen Workshop wollen wir gemeinsam weich sein, verbunden sein und präsent. Mit sanften kleinen Übungen aus dem Pantare bewegen wir uns in unseren Körper und unser Herz und gehen in Verbindung mit uns und den Menschen um uns herum. Es sind keine Vorkenntnisse notwendig. Sitzung buchen unter: 0178 5646613'
+            text: 'Als Pantarei Praktikerin öffne ich in meinen Sitzungen einen Raum, der deine Individualität und Einzigartigkeit auf allen eben einlädt und dir vertraut. Über Berührung und ein gemeinsames In-Worte-Fassen darf sich zeigen, was im Körper lebt und  beginnen darf sich zu bewegen.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Mich berührt immer wieder, wie viel Klarheit, Lebendigkeit und innere Ausrichtung entstehen können, wenn wir uns spüren und uns mit Vertrauen und Liebe begegnen. Meine Sitzungen sind eine Einladung, genau das zu erfahren. Ich freue mich auf euch! Termin: 0178 56 46 613'
       -
         type: paragraph
         content:
@@ -85,7 +91,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777292177
+updated_at: 1777893296
 duplicated_from: 40a5e365-35eb-4744-af57-6c6ea6a1d78c
 alt_seo_noindex: false
 alt_seo_nofollow: false
