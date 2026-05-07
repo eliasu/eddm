@@ -1,4 +1,4 @@
-<div fs-cc="banner" class="cookies--banner flex-left">
+<div fs-cc="banner" class="cookies--banner flex-left" style="display:none;">
 	{{cookies:cookie_message}}
 		{{partial src="bardsets/{type}"}}
 	{{/cookies:cookie_message}} 
@@ -9,7 +9,7 @@
 	</div>
 </div>
 
- <div fs-cc="preferences" fs-cc-scroll="disable" fs-cc-display="grid" class="cookies--prefs">
+ <div fs-cc="preferences" fs-cc-scroll="disable" fs-cc-display="grid" class="cookies--prefs" style="display:none;">
 	<form name="Cookie-Preferences" data-name="Cookie Preferences" method="get" class="flex-stretch cookies--prefs__form">
 		
 		<div fs-cc="close" class="cookies--prefs__close">
