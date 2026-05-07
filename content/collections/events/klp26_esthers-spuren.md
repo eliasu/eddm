@@ -1,7 +1,7 @@
 ---
 id: 1928369c-1b65-4e74-8c2f-f5729a9a39f1
 blueprint: events
-title: 'Benet Lehmann: Esthers Spuren / Lesung'
+title: 'Benet Lehmann – Esthers Spuren / Lesung'
 date_type: 'single dates'
 dates:
   -
@@ -102,6 +102,6 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1776187062
+updated_at: 1777969186
 images_img: klp25_lesungbenet_abb.7_esther-tanzt.jpg
 ---

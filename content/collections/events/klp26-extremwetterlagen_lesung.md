@@ -1,7 +1,7 @@
 ---
 id: 9619fb48-53de-414f-aaf4-4d26e48cb64b
 blueprint: events
-title: 'Manja Präckels & Tina Pruschmann: Extremwetterlagen / Lesung'
+title: 'Manja Präkels & Tina Pruschmann: Extremwetterlagen / Lesung'
 date_type: 'single dates'
 text_bard:
   -
@@ -37,7 +37,7 @@ components:
         content:
           -
             type: text
-            text: 'Mit literarischen Reportagen fangen die Autor*innen Manja Präckels und Tina Pruschmann die Stimmung vor den Landtagswahlen in den ostdeutschen Bundesländern 2024 ein. Sie erzählen von gesellschaftlichen Brüchen und Kipppunkte, der Normalisierung rechtsextremer Strukturen, von Menschen, die wegsehen und schweigen, und solchen, die tagtäglich ihr Bestes geben, um im tobenden Sturm der Umwertung aller Werte weiter gegen den Wind zu atmen.'
+            text: 'Mit literarischen Reportagen fangen die Autor*innen Manja Präkels und Tina Pruschmann die Stimmung vor den Landtagswahlen in den ostdeutschen Bundesländern 2024 ein. Sie erzählen von gesellschaftlichen Brüchen und Kipppunkte, der Normalisierung rechtsextremer Strukturen, von Menschen, die wegsehen und schweigen, und solchen, die tagtäglich ihr Bestes geben, um im tobenden Sturm der Umwertung aller Werte weiter gegen den Wind zu atmen.'
       -
         type: paragraph
         content:
@@ -80,7 +80,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1775657458
+updated_at: 1777917326
 duplicated_from: f7b80a0a-970a-43cb-9ae3-e08c6ea02bea
 dates:
   -

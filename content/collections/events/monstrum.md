@@ -61,25 +61,17 @@ text_bard:
     content:
       -
         type: text
-        text: 'Kuration / Künstlerische Leitung / Performerinnen: Senait Sebhatleab und Asmaa SbouFilmdirector / '
-  -
-    type: paragraph
-    content:
+        text: "Kuration und Künstlerische Leitung:\_Asmaa Sbou, Senait Sebhatleab"
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Director of Photography: Esther Njoku '
-  -
-    type: paragraph
-    content:
+        text: "Filmdirector / Director of Photography:\_Esther Njoku"
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Musikdirektor / Creative Director: Lukas Schroth'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "VA-Bild-CreditsEsther NjokuFreitag\_"
+        text: "Performerinnen:\_Muna Hassaballah, Esther Njoku, Asmaa Sbou, Senait Sebhatleab"
   -
     type: paragraph
   -
@@ -113,5 +105,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1756372521
+updated_at: 1778134367
 ---

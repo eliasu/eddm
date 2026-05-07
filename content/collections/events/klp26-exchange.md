@@ -1,7 +1,7 @@
 ---
 id: fd6462c6-65cb-4e99-b84d-6c6ea1488b4e
 blueprint: events
-title: 'Geschichten solidarischer Orte in Ostdeutschland / Praxisbericht und Gespräch'
+title: 'Exchange e.V. – Geschichten solidarischer Orte in Ostdeutschland / Praxisbericht und Gespräch'
 date_type: 'single dates'
 text_bard:
   -
@@ -55,7 +55,6 @@ show_in_eventlist: true
 images_img: klp26_exchange_vortrag_demobild.jpg
 tags:
   - klp
-  - lesung
   - vortrag
 seotamic_title: title
 seotamic_title_prepend: true
@@ -66,7 +65,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777899693
+updated_at: 1777902869
 duplicated_from: f7b80a0a-970a-43cb-9ae3-e08c6ea02bea
 dates:
   -

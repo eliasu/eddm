@@ -1,0 +1,10 @@
+form_name: 'Nadine Isaak'
+Straße_Nr: 'Bleichenweg 21'
+plz_stadt: '23564 Lübeck'
+form_email: nisaak2022@duck.com
+angebote:
+  - übernachten
+zeitraum: '15/16, 16/17'
+personenanzahl: '2'
+deine_nachricht: "Hallo,\r\nwir suchen noch ein schönes Plätzchen, wo wir für zwei Nächte unseren Bus abstellen und darin übernachten können.\r\nMeine Freundin aus Kremlin hat dazu euren Punkt empfohlen. Ist das noch möglich oder seid ihr bereits ausgebucht?\r\nSchöne Grüße \r\nNadine"
+newsletter_consent: true

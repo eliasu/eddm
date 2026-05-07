@@ -41,15 +41,21 @@ components:
             type: text
             text: 'MONSTRUM nimmt das Monster ernst – als Spiegel unserer Zeit. Eine performative Untersuchung darüber, wie Schweigen Gewalt nährt, wie Körper Erinnerung tragen – und wie Transformation im Dazwischen beginnt.'
       -
-        type: set
-        attrs:
-          id: mnis247k
-          values:
-            type: link
-            link_name_txt: Website
-            url: 'http://asmaasbou.com'
-            target_blank: true
-            link_type: url
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Kuration und Künstlerische Leitung:\_Asmaa Sbou, Senait Sebhatleab"
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "Filmdirector / Director of Photography:\_Esther Njoku"
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "Performerinnen:\_Muna Hassaballah, Esther Njoku, Asmaa Sbou, Senait Sebhatleab"
       -
         type: paragraph
         content:
@@ -81,7 +87,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777292046
+updated_at: 1778134651
 duplicated_from: 22e64f36-d60d-4e23-b08c-595205587590
 dates:
   -

@@ -1,0 +1,11 @@
+form_name: 'Arno Weber'
+Straße_Nr: 'Präsident -Krahn-Str 22'
+plz_stadt: '22765 Hamburg'
+form_email: dampfarno@aol.com
+telefonnummer: '01784918204'
+angebote:
+  - übernachten
+zeitraum: 22.-25.05.26
+personenanzahl: '2'
+deine_nachricht: 'Ist ein Zeltplatz frei?'
+newsletter_consent: false

@@ -6,7 +6,7 @@ date_type: 'single dates'
 dates:
   -
     id: lgwkl4bf
-    date_field: '2026-05-16 16:00'
+    date_field: '2026-05-15 16:00'
     type: single_date
     enabled: true
   -
@@ -98,7 +98,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777292007
+updated_at: 1778077790
 duplicated_from: aacbe6f6-cd82-4bf1-83c5-dc4f4197af70
 alt_seo_noindex: false
 alt_seo_nofollow: false

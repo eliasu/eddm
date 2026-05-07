@@ -20,23 +20,45 @@ text_bard:
         target_blank: true
         link_type: url
         url: 'https://eindingdermoeglichkeit.com/assets/pdfs/250422_eddm_preise_unterkuenfte_26.pdf'
-  -
-    type: set
-    attrs:
-      id: misw8o2x
-      values:
-        type: link
-        link_name_txt: 'Preisliste 2027 (pdf)'
-        link_type_url: asd
-        target_blank: true
-        link_type: url
-        url: 'https://eindingdermoeglichkeit.com/assets/pdfs/251205_eddm_preise_unterkuenfte_27.pdf'
 components:
   -
     id: M5Djezlm
     featured_event: 2e69fad1-2fe4-4fc7-91f3-d37849709d71
     type: big_event_component
     enabled: false
+  -
+    id: mosrfw07
+    headline_txt: 'Letzte Unterkünfte für die KLP 26'
+    component_template: no_image
+    background_color: blue
+    text_color: white
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: "Nur noch im Zeitraum 17.– 22.5.2026.\_"
+          -
+            type: hardBreak
+          -
+            type: hardBreak
+          -
+            type: text
+            text: "Apartment (3 Doppelbetten)\_ 270€/Nacht"
+          -
+            type: hardBreak
+          -
+            type: text
+            text: 'EZ mit geteiltem Bad 95€/Nacht'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'oder Zelten auf dem Zeltfeld.'
+    type: image_text_component
+    enabled: true
   -
     id: HZSDUWkr
     headline_txt: 'Die Träumerei'
@@ -167,12 +189,7 @@ components:
         content:
           -
             type: text
-            text: 'KLP-Programm ab Anfang Mai online. '
-          -
-            type: hardBreak
-          -
-            type: text
-            text: '16.05. Day-Rave / 23.05. Party unter den Apfelbäumen.'
+            text: 'Freie Plätze nur noch in der Woche: So. 17.05. – Fr. 22.05.2026'
           -
             type: hardBreak
           -
@@ -561,7 +578,7 @@ title: Schlafen
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1767780673
+updated_at: 1777993986
 disable_header: false
 text:
   -

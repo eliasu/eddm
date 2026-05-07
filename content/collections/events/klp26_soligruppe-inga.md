@@ -1,7 +1,7 @@
 ---
 id: d6eb170d-73d7-45fb-9edf-983928e6268e
 blueprint: events
-title: 'Soligruppe INGA – Anschiebungshaft abschaffen? / Vortrag'
+title: 'Soligruppe INGA – Abschiebungshaft abschaffen? / Vortrag'
 date_type: 'single dates'
 dates:
   -
@@ -99,5 +99,5 @@ alt_seo_noindex: false
 alt_seo_nofollow: false
 exclude_from_sitemap: false
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1776161056
+updated_at: 1778001670
 ---
