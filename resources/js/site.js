@@ -1,4 +1,5 @@
 import 'lazysizes';
+import './components/audioplayer.js';
 import '@finsweet/cookie-consent';
 import './nav.js';
 import './newsletter-footer.js';

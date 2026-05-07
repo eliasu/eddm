@@ -36,6 +36,11 @@ fields:
           fields:
             -
               import: fs_link
+        audio:
+          display: Audio
+          fields:
+            -
+              import: fs_audio
       link_collections:
         - pages
         - events

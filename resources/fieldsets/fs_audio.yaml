@@ -1,0 +1,24 @@
+title: fs_audio
+fields:
+  -
+    handle: audio_file
+    field:
+      type: assets
+      display: Audio File
+      container: assets
+      max_files: 1
+      restrict: false
+      allow_uploads: true
+      validate:
+        - required
+      instructions: 'Upload an audio file (MP3, WAV, OGG, etc.)'
+      instructions_position: above
+      listable: hidden
+  -
+    handle: audio_title
+    field:
+      type: text
+      display: Title
+      instructions: 'Optional title displayed below the player'
+      instructions_position: above
+      listable: hidden

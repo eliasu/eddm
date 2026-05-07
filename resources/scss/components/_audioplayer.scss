@@ -1,0 +1,50 @@
+.audioplayer {
+    width: 100%;
+    margin: $s5 0;
+
+    &__title {
+        margin-top: 0;
+        margin-bottom: $s2;
+        color: $blue;
+        text-align: left;
+    }
+
+    .plyr--audio {
+        --plyr-color-main: #{$white};
+        --plyr-audio-controls-background: #{$blue};
+        --plyr-audio-control-color: #{$white};
+        --plyr-audio-control-color-hover: #{$white};
+        --plyr-audio-control-background-hover: rgba(255, 255, 255, 0.15);
+        --plyr-range-fill-background: #{$white};
+        --plyr-range-thumb-background: #{$white};
+        --plyr-range-track-height: 3px;
+        --plyr-control-radius: 0;
+        --plyr-font-size-base: #{$fs-3};
+        --plyr-font-size-small: #{$fs-3};
+        --plyr-font-size-time: #{$fs-3};
+        --plyr-control-icon-size: #{$fs-3};
+        --plyr-control-spacing: #{$s3};
+        box-shadow: none;
+        border-radius: 0;
+
+        .plyr__controls {
+            padding: $s3 $s4;
+            gap: $s2;
+            align-items: center;
+        }
+
+        .plyr__time {
+            font-size: $fs-3;
+            color: $white;
+        }
+
+        .plyr__progress__container {
+            flex: 1;
+        }
+
+        input[type='range'] {
+            height: 3px;
+            color: $white;
+        }
+    }
+}

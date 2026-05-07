@@ -1,0 +1,10 @@
+{{ if audio_file }}
+<div class="audioplayer">
+    {{ if audio_title }}
+    <p class="audioplayer__title">{{ audio_title }}</p>
+    {{ /if }}
+    <audio controls preload="metadata">
+        <source src="{{ audio_file }}" type="{{ audio_file:mime_type }}">
+    </audio>
+</div>
+{{ /if }}
