@@ -272,6 +272,57 @@ components:
     type: image_text_component
     enabled: true
   -
+    id: movk8arp
+    headline_txt: 'Lara Keuthen'
+    component_template: slider_left
+    images_img:
+      - lara-keuthen.jpg
+    background_color: none
+    text_color: black
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Lara Keuthen hat ihr erstes Kinderbuch mit fünf Jahren geschrieben. Wobei, geschrieben ist relativ – sie malte damals kunterbunte Bilder und ihre Kindergärtnerinnen brachten Wort für Wort zu Papier. '
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Neben Kindergeschichten schreibt Lara regelmäßig Schalfgeschichten für Erwachsene und ist zudem als zertifizierte Waldtherapeutin und Kursleiterin für Waldbaden im Wald unterwegs, wenn sie nicht somatisches Yoga oder Tanz unterrichtet.'
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Lara war im Sommer 2025 bei uns und hat für unsere Träumerei eine eigene Schlafgeschichte geschrieben.'
+      -
+        type: set
+        attrs:
+          id: movl2cwq
+          values:
+            type: button
+            link_name_txt: 'Zur Schlafgeschichte'
+            entry: a2f1747a-8868-416b-8be5-486eeb7e500c
+            target_blank: false
+            link_type: entry
+      -
+        type: paragraph
+      -
+        type: set
+        attrs:
+          id: movkz728
+          values:
+            type: link
+            link_name_txt: 'Laras Website'
+            url: 'https://larakeuthen.com'
+            target_blank: true
+            link_type: url
+    type: image_text_component
+    enabled: true
+  -
     id: misvd5wz
     headline_txt: 'Flausen+ > Residenz MONSTRUM'
     component_template: slider_right
@@ -497,7 +548,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1776151923
+updated_at: 1778164248
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
 alt_seo_meta_title: 'Residenzprogramme für Künstler*innen: Kreative Projekte aller Disziplinen willkommen'
 alt_seo_meta_description: 'Residenzprogramme für Künstler*innen aller Disziplinen. Ideal für Theaterprojekte, Maler*innen, Designerinnen, Schriftstellerinnen und Musiker*innen.'

@@ -1,0 +1,13 @@
+form_name: 'Landesverband Soziokultur'
+Straße_Nr: 'Lister Meile 27'
+plz_stadt: '30161 Hannover'
+form_email: chaouali@soziokultur-niedersachsen.de
+telefonnummer: '051159090460'
+angebote:
+  - übernachten
+  - 'Spaces mieten'
+  - essen
+zeitraum: 21.-22.07.2026
+personenanzahl: 12-14
+deine_nachricht: 'Hallo aus Hannover, wir suchen nach einem Ort für unsere Vorstands-Mitarbeiter*innen-Klausur. Hättet ihr Zeit und Platz für uns? 12-14 Menschen mit Einzelzimmern und Essen? Viele liebe Grüße, Annika Chaouali'
+newsletter_consent: false

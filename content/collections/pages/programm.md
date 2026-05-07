@@ -20,7 +20,7 @@ text_bard:
         text: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
 template: events/index
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1775052753
+updated_at: 1778162280
 event: 2e69fad1-2fe4-4fc7-91f3-d37849709d71
 text_field: 'Hier kommen noch die Settings.'
 big_text_bard:
@@ -205,7 +205,7 @@ filter_tags:
   - bodywork
   - vergangenes
 seotamic_custom_meta_description: 'Mit unserer Community entwickeln und organisieren wir kleine und große Veranstaltungen. Entdecke die kommenden Events und sei dabei. Wir freuen uns auf dich!'
-featured_event: b4b58427-2272-4dd0-affa-17c69f115488
+featured_event: f188757b-3766-4697-aba0-b097d3e63b2d
 parent: 3d3bc1f1-69cc-405a-bd68-eec19d6bb6b5
 alt_seo_meta_title: 'Veranstaltungen im Ding der Möglichkeit'
 alt_seo_meta_description: 'Unser Programm ist sorgfältig kuratiert, um Euch eine spannende Mischung aus Kunst, Kultur und Bildung zu bieten. Vorträge, (interaktive) Workshops , Konzerte, Yoga oder Parties.'

@@ -242,6 +242,31 @@ components:
     type: image_text_component
     enabled: true
   -
+    id: movl6gn7
+    headline_txt: 'Tuuli und das Reich der Ideen'
+    component_template: no_image
+    background_color: white
+    text_color: blue
+    text_bard:
+      -
+        type: paragraph
+        content:
+          -
+            type: text
+            text: 'Unsere Geschichte zum Einschlafen und Träumen.'
+      -
+        type: set
+        attrs:
+          id: movlc99o
+          values:
+            type: button
+            link_name_txt: 'Zur Audiodatei'
+            entry: a2f1747a-8868-416b-8be5-486eeb7e500c
+            target_blank: false
+            link_type: entry
+    type: image_text_component
+    enabled: true
+  -
     id: CIKIlolC
     headline_txt: 'Nudi Budi'
     component_template: slider_right
@@ -578,7 +603,7 @@ title: Schlafen
 hide_specials_modal: false
 template: component_page
 updated_by: c5c3cda0-a87c-4527-b49b-ef338041cae9
-updated_at: 1777993986
+updated_at: 1778164987
 disable_header: false
 text:
   -

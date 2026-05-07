@@ -1,0 +1,11 @@
+form_name: 'Alice Schmidt'
+Straße_Nr: 'Ludwigstr 135'
+plz_stadt: '04315 Leipzig'
+form_email: alicesdt@gmx.de
+telefonnummer: '017657907846'
+angebote:
+  - übernachten
+zeitraum: 23.05-25.05
+personenanzahl: '2'
+deine_nachricht: 'Hii, ich und meine Partnerperson und ich würden liebend gerne über die KLP zwei Nächte im Zelt bei euch campen :).'
+newsletter_consent: false
